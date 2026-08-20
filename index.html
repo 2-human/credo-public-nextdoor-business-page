@@ -55,6 +55,7 @@
  .post .pb .disc{display:block;margin-top:7px;font-size:11px;color:#8a918d}
  .post .pf{display:flex;gap:16px;padding:9px 14px;border-top:1px solid #eef0ef;color:var(--sec);font-size:12.5px}
  .post .cluster{font:600 10px var(--body);letter-spacing:.03em;text-transform:uppercase;background:var(--soft);color:var(--green2);border:1px solid #c7e2cd;border-radius:5px;padding:2px 7px;margin-left:auto}
+ .post .pimg{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-top:1px solid #eef0ef;background:#eef0ef}
  /* template block */
  .tmpl{white-space:pre-wrap;background:#f7faf8;border:1px solid #e2ebe6;border-radius:8px;padding:12px 13px;font:13.5px/1.55 var(--body);color:#25302b;margin-top:4px}
  .tmpl .fill{color:var(--green2);font-weight:600}
@@ -79,7 +80,7 @@
 </header>
 
 <div class="flag" data-comment-target data-comment-id="bp-compliance-gate">
-  <b>Compliance gate — do first.</b> Everything here is attorney advertising in NY and NJ. Before publishing recommendations, testimonials, posts, or replies, confirm attorney-advertising eligibility, the "Prior results do not guarantee a similar outcome" disclaimer, and each state bar's rules on client testimonials/endorsements. No guarantees, no misleading claims. <b>[Verify with counsel.]</b>
+  <b>Compliance gate — do first.</b> Everything here is attorney advertising in NY and NJ, so it follows the same state rules as the paid ads. <b>Scope:</b> debt <b>validation / invalidation and settlement only</b> — no litigation, lawsuit, garnishment or judgment content. <b>New York:</b> each post carries the <b>“Attorney Advertising”</b> label and an <b>AI-generated-content</b> disclosure, and <b>every post must be pre-approved by the attorney (Jack) before it goes live</b>. <b>New Jersey:</b> the responsible attorney's name + firm contact appear. All copy is <b>AI-drafted (pending humanizing) and not published until Jack's review</b>. <b>[CONFIRM with counsel + the state compliance sheet:</b> Jack's full name, firm mailing address &amp; email, exact NY AI-disclosure wording, and testimonial/recommendation rules.]
 </div>
 
 <h2 class="sec">1 · The page as it will appear <span>Nextdoor business-page mockup</span></h2>
@@ -121,53 +122,47 @@
 </div>
 
 <h2 class="sec">3 · Business posts <span>education-first · ~2/month · rotate the clusters</span></h2>
-<p class="note">Free business posts reach neighbors within ~2 miles, up to twice a month. Keep them <b>education-first</b> (Nextdoor favors "speak about your offering, not your brand"), each linking to the matching cluster landing page. The <b>{{city}}</b> tag is documented for ads; <span style="color:var(--amber)">for organic posts it is [verify in-tool]</span>.</p>
+<p class="note">Free business posts reach neighbors within ~2 miles, up to twice a month. Keep them <b>education-first</b> and on <b>debt validation / settlement only</b> — no litigation, lawsuit or garnishment content. Every post carries the attorney-advertising disclosure (NY = "Attorney Advertising" label + AI-generated disclosure; NJ = attorney name + contact) and needs <b>Jack's pre-approval before it goes live</b>. The <b>{{city}}</b> tag is documented for ads; <span style="color:var(--amber)">for organic posts it is [verify in-tool]</span>.</p>
 
-<div class="post" data-comment-target data-comment-id="bp-post-lawsuit">
-  <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Lawsuit</span></div>
-  <div class="pb">Served with debt-collection court papers? In most cases you have only <b>20–28 days</b> to respond, and missing that window can hand the collector a default judgment. You can answer the suit and make them prove the debt. If this is happening to you in <span class="fill">{{city}}</span>, our attorneys can help. Free case review: <a href="https://start.credolegal.com/debt-lawsuit-summons-respond">start.credolegal.com/debt-lawsuit-summons-respond</a><span class="disc">Attorney advertising. Prior results do not guarantee a similar outcome.</span></div>
+<div class="post" data-comment-target data-comment-id="bp-post-scam">
+  <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Scam alert</span></div>
+  <div class="pb">Getting calls about a debt, and something feels off? A few signs it may be a scam rather than a real collector: they push you to pay right now with gift cards, crypto, or a wire; they will not give you a company name and mailing address; or they threaten arrest. A legitimate collector has to send written notice, and if you ask, prove the debt is actually yours. When something feels wrong, do not pay on the spot. Ask for it in writing, then check it. Neighbors, what is the strangest collection call you have gotten?<span class="disc">Attorney Advertising. Credo Legal Services, P.C. — responsible attorney Jack [CONFIRM], admitted in New York &amp; New Jersey. Contact: [mailing address · phone · email — CONFIRM] · start.credolegal.com. Includes AI-generated content. Not legal advice.</span></div>
+  <img class="pimg" src="assets/post-scam.jpg" alt="A neighbor at a kitchen table looking cautiously at a phone call" loading="lazy">
   <div class="pf"><span>🏠 Thank</span><span>💬 Reply</span><span>↗ Share</span></div>
 </div>
 
-<div class="post" data-comment-target data-comment-id="bp-post-harassment">
-  <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Harassment · FDCPA</span></div>
-  <div class="pb">Getting collector calls before 8am, after 9pm, or at your job — even after you told them to stop? Under the FDCPA, a lot of that is illegal, and each violation can be worth <b>up to $1,000</b>. Many neighbors never learn they have this protection. Know your rights: <a href="https://start.credolegal.com/debt-harassment-stop-calls">start.credolegal.com/debt-harassment-stop-calls</a><span class="disc">Attorney advertising. Prior results do not guarantee a similar outcome.</span></div>
+<div class="post" data-comment-target data-comment-id="bp-post-validation">
+  <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Debt validation</span></div>
+  <div class="pb">Not sure a debt a collector is chasing is even yours? You have the right to make them <b>validate</b> it in writing before you pay a cent, and many collectors, especially debt buyers, cannot produce the paperwork to back it up. Here is how debt validation works: <a href="https://start.credolegal.com/debt-harassment-stop-calls">start.credolegal.com/debt-harassment-stop-calls</a><span class="disc">Attorney Advertising. Credo Legal Services, P.C. — responsible attorney Jack [CONFIRM], admitted in New York &amp; New Jersey. Contact: [mailing address · phone · email — CONFIRM] · start.credolegal.com. Includes AI-generated content. Prior results do not guarantee a similar outcome. Not legal advice.</span></div>
+  <img class="pimg" src="assets/post-validation.jpg" alt="A person reading a mailed letter at home" loading="lazy">
   <div class="pf"><span>🏠 Thank</span><span>💬 Reply</span><span>↗ Share</span></div>
 </div>
 
 <div class="post" data-comment-target data-comment-id="bp-post-medical">
   <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Medical</span></div>
-  <div class="pb">That surprise medical bill may be wrong. Medical billing is full of coding errors and duplicate charges, and collectors often can't validate the amount. You can demand they prove it before you pay. Free review: <a href="https://start.credolegal.com/medical-debt-bills-errors">start.credolegal.com/medical-debt-bills-errors</a><span class="disc">Attorney advertising. Prior results do not guarantee a similar outcome.</span></div>
-  <div class="pf"><span>🏠 Thank</span><span>💬 Reply</span><span>↗ Share</span></div>
-</div>
-
-<div class="post" data-comment-target data-comment-id="bp-post-garnishment">
-  <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Garnishment</span></div>
-  <div class="pb">If your wages are being garnished, part of your paycheck may be <b>legally exempt</b> — and the judgment behind it may be challengeable. You don't have to just accept a smaller check. Our attorneys can file the exemption motion: <a href="https://start.credolegal.com/wage-garnishment-exemptions">start.credolegal.com/wage-garnishment-exemptions</a><span class="disc">Attorney advertising. Prior results do not guarantee a similar outcome.</span></div>
+  <div class="pb">A surprise medical bill is worth a second look before you pay it. Medical billing is full of coding errors, duplicate charges, and amounts a collector cannot always validate. You can ask them to prove the amount first. Free review: <a href="https://start.credolegal.com/medical-debt-bills-errors">start.credolegal.com/medical-debt-bills-errors</a><span class="disc">Attorney Advertising. Credo Legal Services, P.C. — responsible attorney Jack [CONFIRM], admitted in New York &amp; New Jersey. Contact: [mailing address · phone · email — CONFIRM] · start.credolegal.com. Includes AI-generated content. Prior results do not guarantee a similar outcome. Not legal advice.</span></div>
+  <img class="pimg" src="assets/post-medical.jpg" alt="A person reviewing medical paperwork at a kitchen table" loading="lazy">
   <div class="pf"><span>🏠 Thank</span><span>💬 Reply</span><span>↗ Share</span></div>
 </div>
 
 <div class="post" data-comment-target data-comment-id="bp-post-creditcard">
   <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Credit Card</span></div>
-  <div class="pb">Sued by a credit card company or a debt buyer? They often can't produce the contract and full account history a court requires. Make them prove they own the debt before you pay a dime. Free case review: <a href="https://start.credolegal.com/credit-card-debt-negotiation">start.credolegal.com/credit-card-debt-negotiation</a><span class="disc">Attorney advertising. Prior results do not guarantee a similar outcome.</span></div>
+  <div class="pb">Being pressured over an old credit card balance? Debt buyers often cannot produce the original contract or full account history to prove they even own the account, and balances get inflated with added interest and fees. You can make them validate it, and in many cases settle for less. Free review: <a href="https://start.credolegal.com/credit-card-debt-negotiation">start.credolegal.com/credit-card-debt-negotiation</a><span class="disc">Attorney Advertising. Credo Legal Services, P.C. — responsible attorney Jack [CONFIRM], admitted in New York &amp; New Jersey. Contact: [mailing address · phone · email — CONFIRM] · start.credolegal.com. Includes AI-generated content. Prior results do not guarantee a similar outcome. Not legal advice.</span></div>
+  <img class="pimg" src="assets/post-credit.jpg" alt="A person reviewing account documents beside a laptop at home" loading="lazy">
   <div class="pf"><span>🏠 Thank</span><span>💬 Reply</span><span>↗ Share</span></div>
 </div>
 
-<div class="post" data-comment-target data-comment-id="bp-post-intro">
-  <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Community intro</span></div>
-  <div class="pb">Hi <span class="fill">{{city}}</span> neighbors — we're Credo Legal, a consumer debt-defense firm serving New York and New Jersey. If a debt lawsuit, a garnishment, or nonstop collector calls have you stressed, there are real options, and we're glad to point you to free resources. Ask us anything in the comments.<span class="disc">Attorney advertising.</span></div>
+<div class="post" data-comment-target data-comment-id="bp-post-money">
+  <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Community</span></div>
+  <div class="pb">Money has been on a lot of neighbors' minds lately, between rising costs and bills that never seem to slow down. If you are feeling the squeeze, you are far from alone, and there is no shame in it. Talking about it openly is how we all figure out what actually helps. What has made the biggest difference for your household this year?<span class="disc">Attorney Advertising. Credo Legal Services, P.C. — responsible attorney Jack [CONFIRM], admitted in New York &amp; New Jersey. Contact: [mailing address · phone · email — CONFIRM] · start.credolegal.com. Includes AI-generated content. Not legal advice.</span></div>
+  <img class="pimg" src="assets/post-money.jpg" alt="Two neighbors talking warmly on a front porch at golden hour" loading="lazy">
   <div class="pf"><span>🏠 Thank</span><span>💬 Reply</span><span>↗ Share</span></div>
 </div>
 
 <div class="post" data-comment-target data-comment-id="bp-post-rights">
   <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Rights education</span></div>
-  <div class="pb">Three things debt collectors hope you don't know: (1) you can make them <b>validate</b> the debt; (2) once you're sued you usually have only <b>weeks</b> to answer; (3) harassment can be worth up to <b>$1,000 per violation</b>. Knowing your rights changes how you respond.<span class="disc">Attorney advertising. Not legal advice.</span></div>
-  <div class="pf"><span>🏠 Thank</span><span>💬 Reply</span><span>↗ Share</span></div>
-</div>
-
-<div class="post" data-comment-target data-comment-id="bp-post-reassurance">
-  <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Reassurance</span></div>
-  <div class="pb">Debt problems have a way of following you home. You don't have to face them alone or pay a big upfront retainer — our defense is a flat monthly fee. If you're unsure where you stand, a free case review costs nothing: <a href="https://start.credolegal.com">start.credolegal.com</a><span class="disc">Attorney advertising. Prior results do not guarantee a similar outcome.</span></div>
+  <div class="pb">Three things debt collectors hope you do not know: (1) you can make them <b>validate</b> the debt in writing before you pay; (2) debt buyers often cannot prove they even <b>own</b> it; (3) balances are frequently inflated, so you may owe <b>far less</b> than they claim. Knowing this changes how you respond. A free review can show you where you really stand: <a href="https://start.credolegal.com">start.credolegal.com</a><span class="disc">Attorney Advertising. Credo Legal Services, P.C. — responsible attorney Jack [CONFIRM], admitted in New York &amp; New Jersey. Contact: [mailing address · phone · email — CONFIRM] · start.credolegal.com. Includes AI-generated content. Prior results do not guarantee a similar outcome. Not legal advice.</span></div>
+  <img class="pimg" src="assets/post-rights.jpg" alt="A person reading a printed document by a bright window" loading="lazy">
   <div class="pf"><span>🏠 Thank</span><span>💬 Reply</span><span>↗ Share</span></div>
 </div>
 
