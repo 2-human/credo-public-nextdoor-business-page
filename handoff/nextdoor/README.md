@@ -15,6 +15,13 @@ topics.** Every ad reads as **legal representation** (attorneys who make a colle
 debt), never as debt settlement/relief or a "reduce what you owe by X%" product — that framing trips
 Nextdoor's restricted-financial material-terms rule and manual review.
 
+## Download
+
+**`credo-nextdoor-ads-v1.zip`** (~34 MB) — the whole package in one file: this README, the manifest,
+`copy/`, `asset-manifest.csv`, `lead-gen-form-spec.md`, **and all 42 creative files bundled locally**
+under `creatives/<cluster>/<ad>/<ad>_<direction>_<ratio>.<ext>` (filename `<ad>_<direction>` maps 1:1
+to `utm_content=<ad>-<direction>`). Same files the CSVs reference; Bold + 9:16 excluded.
+
 ## Structure
 
 One campaign per objective → **3 ad groups (clusters)** → **7 ads**, each with 3 creative directions
