@@ -1,0 +1,216 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Crēdo Legal — Nextdoor Engagement Calendar</title>
+<style>
+ :root{--green:#0a7d3a;--green2:#0a5d2b;--ink:#12141d;--sec:#5b6360;--line:#dfe3e3;--bg:#f4f6f5;--card:#fff;--soft:#eef6ef;--amber:#c9862b;--red:#8e1b22;
+   --body:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;--disp:Georgia,"Times New Roman",serif;}
+ *{box-sizing:border-box}
+ body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 var(--body)}
+ .page{max-width:1240px;margin:0 auto;padding:26px 18px 70px}
+ header.hd{display:flex;gap:18px;align-items:flex-end;flex-wrap:wrap;margin-bottom:18px}
+ header.hd h1{font:700 24px/1.2 var(--disp);margin:0}
+ header.hd p{color:var(--sec);font-size:13.5px;margin:7px 0 0;line-height:1.55;max-width:780px}
+ header.hd .tag{display:inline-block;font:600 11px var(--body);background:var(--soft);color:var(--green2);border:1px solid #c7e2cd;border-radius:20px;padding:3px 11px;margin-top:10px}
+ header.hd .nav{margin-left:auto;display:flex;gap:8px}
+ header.hd .nav a{font-size:13px;color:var(--green2);text-decoration:none;border:1px solid #c7e2cd;background:#fff;border-radius:8px;padding:7px 12px;white-space:nowrap}
+ header.hd .nav a:hover{background:var(--soft)}
+ /* queue summary */
+ .qbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;background:#fff;border:1px solid var(--line);border-radius:12px;padding:10px 14px;margin-bottom:22px;font-size:13px}
+ .qbar b{font-size:16px}
+ .qbar .pill{display:inline-flex;gap:6px;align-items:center;border-radius:20px;padding:4px 10px;border:1px solid var(--line);background:#fafbfa}
+ .qbar .pill.p{border-color:#f0e2c9;background:#fff7ea;color:#8a6316}
+ .qbar .pill.a{border-color:#c7e2cd;background:var(--soft);color:var(--green2)}
+ .qbar .pill.f{border-color:#f0c9cc;background:#fbeaea;color:var(--red)}
+ .qbar .who{margin-left:auto;display:flex;gap:6px;align-items:center;color:var(--sec)}
+ .qbar .who input{font:inherit;border:1px solid var(--line);border-radius:7px;padding:5px 8px;width:150px}
+ .qbar .hint{color:var(--sec);font-size:12px;width:100%}
+ /* days */
+ .day{margin-bottom:28px}
+ .day h2{font:700 12px var(--body);text-transform:uppercase;letter-spacing:.09em;color:var(--green2);margin:0 2px 10px;padding-bottom:7px;border-bottom:2px solid #e6e9e8;display:flex;gap:10px;align-items:baseline}
+ .day h2 span{color:var(--sec);font-weight:400;text-transform:none;letter-spacing:0;font-size:11.5px}
+ .grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}
+ @media(max-width:1100px){.grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+ @media(max-width:700px){.grid{grid-template-columns:1fr}}
+ .cand{background:var(--card);border:1px solid var(--line);border-radius:12px;display:flex;flex-direction:column;min-width:0;overflow:hidden}
+ .cand .thumb{aspect-ratio:16/9;background:#eef0ef;display:grid;place-items:center;color:#8a918d;font-size:11px;overflow:hidden}
+ .cand .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+ .cand .in{padding:10px 11px 11px;display:flex;flex-direction:column;gap:7px;flex:1}
+ .cand .who{font:700 12.5px/1.25 var(--body)}
+ .cand .meta{font-size:11px;color:var(--sec);line-height:1.4}
+ .cand .txt{font-size:12px;line-height:1.45;color:#2b322f;white-space:pre-wrap;display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden;cursor:pointer}
+ .cand .txt.open{display:block;-webkit-line-clamp:unset}
+ .cand .stats{font-size:11px;color:var(--sec);display:flex;gap:10px;align-items:center}
+ .cand .stats a{margin-left:auto;font-size:10.5px;font-weight:600;color:var(--green2);text-decoration:none;border:1px solid #c7e2cd;border-radius:5px;padding:2px 7px;background:#fff}
+ .cand .why{font-size:11px;color:#6b5426;background:#fdf9f1;border:1px solid #f0e2c9;border-left:3px solid var(--amber);border-radius:6px;padding:6px 8px;line-height:1.45}
+ .cand .lbl{font:700 10px var(--body);text-transform:uppercase;letter-spacing:.06em;color:var(--sec);margin-top:2px}
+ .rx{display:flex;flex-wrap:wrap;gap:4px}
+ .rx button{font:600 11px var(--body);border:1px solid var(--line);background:#fff;border-radius:16px;padding:4px 8px;cursor:pointer;color:var(--ink);display:inline-flex;gap:4px;align-items:center}
+ .rx button:hover{background:var(--soft);border-color:#c7e2cd}
+ .rx button.on{background:var(--green);color:#fff;border-color:var(--green)}
+ .cand textarea{font:12.5px/1.45 var(--body);border:1px solid var(--line);border-radius:8px;padding:7px 8px;min-height:74px;resize:vertical;width:100%;color:var(--ink)}
+ .cand textarea:focus{outline:2px solid #c7e2cd}
+ .cand .acts{display:flex;gap:6px;margin-top:auto;padding-top:4px}
+ .btn{font:600 12px var(--body);cursor:pointer;border:1px solid var(--line);background:#fff;border-radius:8px;padding:7px 11px;color:var(--ink)}
+ .btn:hover{background:var(--soft)}
+ .btn.primary{background:var(--green);color:#fff;border-color:var(--green)}
+ .btn.primary:hover{background:var(--green2)}
+ .btn.primary:disabled{opacity:.5;cursor:default}
+ .btn.ghost{color:var(--sec)}
+ /* status */
+ .st{border-radius:8px;padding:8px 10px;font-size:12px;line-height:1.45;border:1px solid var(--line);background:#fafbfa}
+ .st.pending{background:#fff7ea;border-color:#f0e2c9;color:#8a6316}
+ .st.applied,.st.engaged{background:var(--soft);border-color:#c7e2cd;color:var(--green2)}
+ .st .links{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+ .st .links a{font-size:10.5px;font-weight:600;color:var(--green2);text-decoration:none;border:1px solid #c7e2cd;border-radius:5px;padding:2px 7px;background:#fff}
+ .st.failed{background:#fbeaea;border-color:#f0c9cc;color:var(--red)}
+ .st.skipped{color:var(--sec)}
+ .st b{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;margin-bottom:2px}
+ .st .q{font-style:italic;color:#2b322f;margin-top:3px;white-space:pre-wrap}
+ .st .acts{margin-top:6px}
+ .empty{color:var(--sec);font-size:13px;padding:14px;border:1px dashed var(--line);border-radius:10px;text-align:center}
+ footer{margin-top:34px;padding-top:14px;border-top:1px solid var(--line);font-size:11.5px;color:#8a918d;line-height:1.6}
+ html[data-review-mode="on"] body{padding-right:340px}
+</style></head><body>
+<div class="page">
+
+<header class="hd">
+  <div>
+    <h1 data-comment-target data-comment-id="nd-eng-title">Crēdo Legal — Nextdoor engagement calendar</h1>
+    <p data-comment-target data-comment-id="nd-eng-intro">Every day a scan of the Nextdoor feed picks <b>five neighbors' posts</b> Credo's page could react to, each with a suggested reaction and comment. Pick a reaction, edit or clear the comment, and <b>Submit</b> — it goes into a queue that is applied on Nextdoor by the next run; the card then shows <b>Engaged</b> with permalinks to the post and to Credo's comment. <b>Skip</b> drops a candidate. Nothing is posted until you submit.</p>
+    <span class="tag" id="summary">…</span>
+  </div>
+  <nav class="nav"><a href="calendar.html">Content calendar</a><a href="index.html">← Business Page review</a></nav>
+</header>
+
+<div class="qbar" data-comment-target data-comment-id="nd-eng-queue">
+  <span>Queue</span>
+  <span class="pill p"><b id="q-pending">0</b> pending</span>
+  <span class="pill a"><b id="q-applied">0</b> engaged</span>
+  <span class="pill f"><b id="q-failed">0</b> failed</span>
+  <span class="who"><label for="me">Your name</label><input id="me" placeholder="e.g. Milos"></span>
+  <span class="hint" id="q-hint">Connecting to the queue…</span>
+</div>
+
+<div id="days"></div>
+
+<footer data-comment-target data-comment-id="nd-eng-footer">
+  Crēdo Legal · Nextdoor engagement calendar. Candidates are chosen from the page-admin feed among posts made that day (Eastern Time) by neighbors — not sponsored, business or political posts — favoring safety warnings, money and scam topics, neighborly requests and light local posts where a comment from a downtown law firm reads as a neighbor, never a pitch. Comments are conversational, contain no legal advice and no link, so they are not attorney advertising. Reactions available on Nextdoor: Like, Insightful, Agree, Haha, Wow, Sad, Helpful.
+</footer>
+</div>
+
+<script>document.write('<script src="engagement-data.js?v='+Date.now()+'"><\/script>');</script>
+<script src="review.config.js"></script>
+<script type="module">
+import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js';
+import { getDatabase, ref, push, set, remove, onValue } from 'https://www.gstatic.com/firebasejs/10.12.0/firebase-database.js';
+
+const REACTIONS = [['Like','❤️'],['Insightful','💡'],['Agree','👍'],['Haha','😄'],['Wow','😮'],['Sad','😢'],['Helpful','⭐']];
+const QUEUE_PAGE = 'nd-engagement-queue';
+const DATA = window.CREDO_ND_ENGAGE || {days:{}};
+const MON = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'], DOW=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+const esc = s => String(s==null?'':s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fmtDay = s => { const d=new Date(s+'T12:00:00Z'); return DOW[d.getUTCDay()]+' '+d.getUTCDate()+' '+MON[d.getUTCMonth()]+' '+d.getUTCFullYear(); };
+const fmtET = ms => new Date(ms).toLocaleTimeString('en-US',{timeZone:'America/New_York',hour:'numeric',minute:'2-digit'})+' ET';
+const fmtWhen = ms => new Date(ms).toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET';
+
+/* reviewer name — shared with the review widget */
+const me = document.getElementById('me');
+try { me.value = localStorage.getItem('credo_reviewer') || ''; } catch(e){}
+me.addEventListener('change', () => { try { localStorage.setItem('credo_reviewer', me.value.trim()); } catch(e){} });
+
+/* ---- queue (Firebase) ---- */
+let QUEUE = {};           // key -> item
+const byPost = () => { const m={}; Object.entries(QUEUE).sort((a,b)=>(a[1].timestamp||0)-(b[1].timestamp||0)).forEach(([k,v])=>{ m[v.postId]=Object.assign({key:k},v); }); return m; };
+let db = null;
+try {
+  const app = initializeApp(window.CREDO_REVIEW_CONFIG.FIREBASE_CONFIG);
+  db = getDatabase(app);
+  onValue(ref(db,'comments'), snap => { const all = snap.val()||{}; QUEUE = {}; Object.keys(all).forEach(k => { if (all[k] && all[k].page===QUEUE_PAGE) QUEUE[k]=all[k]; }); render(); document.getElementById('q-hint').textContent='Live · submissions are applied by the next scheduled run.'; },
+    err => { document.getElementById('q-hint').textContent='Queue unavailable: '+err.message; });
+} catch(e) { document.getElementById('q-hint').textContent = 'Queue unavailable: '+e.message; }
+
+async function submit(c, date, reaction, comment) {
+  const name = me.value.trim(); if (!name) { me.focus(); me.style.outline='2px solid var(--red)'; return; }
+  const item = { anchor:'nd-engage-'+c.id, page:QUEUE_PAGE, timestamp:Date.now(), kind:'nd-engagement', date,
+    postId:c.id, short:c.short, url:c.url, who:c.who, subject:(c.subject||c.body).slice(0,120),
+    reaction: reaction||null, comment: comment||null, author:name, status:'pending' };
+  const r = push(ref(db,'comments')); await set(r, item);
+}
+async function skip(c, date) {
+  const name = me.value.trim() || 'Anonymous';
+  const item = { anchor:'nd-engage-'+c.id, page:QUEUE_PAGE, timestamp:Date.now(), kind:'nd-engagement', date, postId:c.id, short:c.short, url:c.url, who:c.who, subject:(c.subject||c.body).slice(0,120), reaction:null, comment:null, author:name, status:'skipped' };
+  const r = push(ref(db,'comments')); await set(r, item);
+}
+const withdraw = key => remove(ref(db,'comments/'+key));
+
+/* ---- render ---- */
+const daysEl = document.getElementById('days');
+function render() {
+  const q = byPost();
+  const counts = {pending:0, applied:0, failed:0};
+  Object.values(QUEUE).forEach(v => { const st = v.status==='engaged' ? 'applied' : v.status; if (counts[st]!=null) counts[st]++; });
+  document.getElementById('q-pending').textContent=counts.pending; document.getElementById('q-applied').textContent=counts.applied; document.getElementById('q-failed').textContent=counts.failed;
+  const dates = Object.keys(DATA.days).sort().reverse();
+  const nCand = dates.reduce((n,d)=>n+DATA.days[d].candidates.length,0);
+  document.getElementById('summary').textContent = dates.length+' day'+(dates.length===1?'':'s')+' scanned · '+nCand+' candidates · '+Object.values(QUEUE).filter(v=>v.status!=='skipped').length+' submitted';
+  // keep any comment the operator is typing
+  const drafts = {}; daysEl.querySelectorAll('textarea[data-post]').forEach(t => drafts[t.dataset.post] = t.value);
+  const sel = {}; daysEl.querySelectorAll('.rx').forEach(r => { const on=r.querySelector('.on'); sel[r.dataset.post] = on ? on.dataset.r : ''; });
+  daysEl.innerHTML = dates.length ? '' : '<div class="empty">No scans yet. The daily scan writes today\'s five candidates here.</div>';
+  dates.forEach(date => {
+    const day = DATA.days[date];
+    const wrap = document.createElement('section'); wrap.className='day';
+    wrap.innerHTML = '<h2 data-comment-target data-comment-id="nd-eng-day-'+date+'">'+fmtDay(date)+'<span>scanned '+fmtWhen(new Date(day.scannedAt).getTime())+' · '+day.todayPosts+' posts that day, '+day.feedPosts+' in feed · '+day.candidates.length+' picked'+(day.excluded&&day.excluded.length?' · '+day.excluded.length+' excluded':'')+'</span></h2><div class="grid"></div>';
+    const grid = wrap.querySelector('.grid');
+    day.candidates.forEach(c => {
+      const item = q[c.id];
+      const el = document.createElement('article'); el.className='cand'; el.setAttribute('data-comment-target',''); el.setAttribute('data-comment-id','nd-eng-'+date+'-'+c.id);
+      const curR = sel[c.id]!=null ? sel[c.id] : (c.suggestReaction||'');
+      const curC = drafts[c.id]!=null ? drafts[c.id] : (c.suggestComment||'');
+      el.innerHTML =
+        '<div class="thumb">'+(c.photo?'<img src="'+esc(c.photo)+'" alt="" loading="lazy" referrerpolicy="no-referrer">':'no image')+'</div>'+
+        '<div class="in">'+
+          '<div class="who">'+esc(c.who)+'</div>'+
+          '<div class="meta">'+esc(c.hood)+' · '+fmtET(c.t)+(c.topics&&c.topics.length?' · '+esc(c.topics.join(', ')):'')+'</div>'+
+          '<div class="txt" title="Click to expand">'+esc(c.body)+'</div>'+
+          '<div class="stats"><span>❤️ '+c.reactions+'</span><span>💬 '+c.comments+'</span><a href="'+esc(c.url)+'" target="_blank" rel="noopener">Open post ↗</a></div>'+
+          '<div class="why">'+esc(c.why)+'</div>'+
+          (item ? statusHtml(item) :
+            '<div class="lbl">Reaction</div><div class="rx" data-post="'+c.id+'">'+REACTIONS.map(([n,e])=>'<button type="button" data-r="'+n+'" class="'+(curR===n?'on':'')+'">'+e+' '+n+'</button>').join('')+'</div>'+
+            '<div class="lbl">Comment <span style="font-weight:400;text-transform:none;letter-spacing:0">(clear it to react only)</span></div>'+
+            '<textarea data-post="'+c.id+'" placeholder="Write as a neighbor — no advice, no link.">'+esc(curC)+'</textarea>'+
+            '<div class="acts"><button class="btn primary submit">Submit</button><button class="btn ghost skip">Skip</button></div>')+
+        '</div>';
+      el.querySelector('.txt').addEventListener('click', e => e.currentTarget.classList.toggle('open'));
+      if (!item) {
+        el.querySelectorAll('.rx button').forEach(b => b.addEventListener('click', () => { const on=b.classList.contains('on'); el.querySelectorAll('.rx button').forEach(x=>x.classList.remove('on')); if(!on) b.classList.add('on'); }));
+        el.querySelector('.submit').addEventListener('click', async ev => {
+          const on = el.querySelector('.rx .on'); const reaction = on ? on.dataset.r : ''; const comment = el.querySelector('textarea').value.trim();
+          if (!reaction && !comment) { alert('Pick a reaction or write a comment (or Skip).'); return; }
+          ev.target.disabled = true; ev.target.textContent = 'Submitting…';
+          try { await submit(c, date, reaction, comment); } catch(e) { alert('Could not submit: '+e.message); ev.target.disabled=false; ev.target.textContent='Submit'; }
+        });
+        el.querySelector('.skip').addEventListener('click', () => skip(c, date).catch(e=>alert(e.message)));
+      } else {
+        const w = el.querySelector('.withdraw'); if (w) w.addEventListener('click', () => withdraw(item.key).catch(e=>alert(e.message)));
+      }
+      grid.appendChild(el);
+    });
+    daysEl.appendChild(wrap);
+  });
+  if (window.__rwRefresh) window.__rwRefresh();
+}
+function statusHtml(it) {
+  const rx = it.reaction ? (REACTIONS.find(r=>r[0]===it.reaction)||['',''])[1]+' '+it.reaction : 'no reaction';
+  const what = '<div>'+esc(rx)+(it.comment?' · comment':'')+'</div>'+(it.comment?'<div class="q">“'+esc(it.comment)+'”</div>':'');
+  if (it.status==='pending') return '<div class="st pending"><b>Pending · queued by '+esc(it.author)+' '+fmtWhen(it.timestamp)+'</b>'+what+'<div class="acts"><button class="btn withdraw">Withdraw</button></div></div>';
+  if (it.status==='applied' || it.status==='engaged') return '<div class="st engaged"><b>Engaged · '+(it.appliedAt?fmtWhen(new Date(it.appliedAt).getTime()):'')+'</b>'+what+(it.result?'<div>'+esc(it.result)+'</div>':'')+
+    '<div class="links"><a href="'+esc(it.url)+'" target="_blank" rel="noopener">Post ↗</a>'+(it.commentUrl?'<a href="'+esc(it.commentUrl)+'" target="_blank" rel="noopener">Credo\'s comment ↗</a>':'')+'</div></div>';
+  if (it.status==='failed') return '<div class="st failed"><b>Failed</b>'+what+'<div>'+esc(it.result||'')+'</div><div class="acts"><button class="btn withdraw">Remove &amp; retry</button></div></div>';
+  return '<div class="st skipped"><b>Skipped by '+esc(it.author)+'</b><div class="acts"><button class="btn withdraw">Undo</button></div></div>';
+}
+render();
+</script>
+<script src="review-bootstrap.js"></script>
+</body></html>
