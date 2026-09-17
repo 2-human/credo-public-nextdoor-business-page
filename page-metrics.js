@@ -16,8 +16,8 @@ window.CREDO_ND_PAGE = {
    "messages": 0,
    "postsPublished": 4,
    "postViews": 475,
-   "engagements": 4,
-   "note": "First snapshot, taken by hand at setup. Post views: Scam alert 373 · Clara reply 91 · Medical 8 · Rights education 3 (posted today). Engagements = reactions + comments Credo left on neighbors' posts via the Engagement Calendar."
+   "engagements": 5,
+   "note": "First snapshot, taken by hand at setup. Post views: Scam alert 373 · Clara reply 91 · Medical 8 · Rights education 3 (posted today). Engagements = reactions + comments Credo left on neighbors posts via the Engagement Calendar (all 5 of the days candidates)."
   }
  ]
 };
