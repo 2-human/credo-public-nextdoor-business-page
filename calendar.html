@@ -1,0 +1,308 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Crēdo Legal — Nextdoor Content Calendar</title>
+<style>
+ :root{--green:#0a7d3a;--green2:#0a5d2b;--ink:#12141d;--sec:#5b6360;--line:#dfe3e3;--bg:#f4f6f5;--card:#fff;--soft:#eef6ef;--amber:#c9862b;--red:#8e1b22;
+   --body:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;--disp:Georgia,"Times New Roman",serif;}
+ *{box-sizing:border-box}
+ body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 var(--body)}
+ .page{max-width:1240px;margin:0 auto;padding:26px 18px 70px}
+ header.hd{display:flex;gap:18px;align-items:flex-end;flex-wrap:wrap;margin-bottom:18px}
+ header.hd h1{font:700 24px/1.2 var(--disp);margin:0}
+ header.hd p{color:var(--sec);font-size:13.5px;margin:7px 0 0;line-height:1.55;max-width:760px}
+ header.hd .tag{display:inline-block;font:600 11px var(--body);background:var(--soft);color:var(--green2);border:1px solid #c7e2cd;border-radius:20px;padding:3px 11px;margin-top:10px}
+ header.hd .back{margin-left:auto;font-size:13px;color:var(--green2);text-decoration:none;border:1px solid #c7e2cd;background:#fff;border-radius:8px;padding:7px 12px;white-space:nowrap}
+ header.hd .back:hover{background:var(--soft)}
+ .legend{display:flex;gap:14px;flex-wrap:wrap;align-items:center;font-size:12px;color:var(--sec);margin:0 0 18px}
+ .legend .grp{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+ .b{display:inline-block;font:600 10px/1 var(--body);letter-spacing:.04em;text-transform:uppercase;border-radius:5px;padding:4px 7px;border:1px solid transparent;white-space:nowrap}
+ .b.src-hub{background:var(--soft);color:var(--green2);border-color:#c7e2cd}
+ .b.src-bold{background:#fbeaea;color:var(--red);border-color:#f0c9cc}
+ .b.src-new{background:#f1f2f6;color:#3b4256;border-color:#d9dce6}
+ .b.src-live{background:#f1f2f6;color:#3b4256;border-color:#d9dce6}
+ .b.t-ad{background:#fff7ea;color:#8a6316;border-color:#f0e2c9}
+ .b.t-edu{background:#eaf3fb;color:#1d5a8c;border-color:#c9dff0}
+ .b.st-published{background:var(--green);color:#fff;border-color:var(--green)}
+ .b.st-scheduled{background:#fff;color:var(--sec);border-color:#c9cfcc}
+ .week{margin-bottom:26px}
+ .week h2{font:700 12px var(--body);text-transform:uppercase;letter-spacing:.09em;color:var(--green2);margin:0 2px 10px;padding-bottom:7px;border-bottom:2px solid #e6e9e8}
+ .week h2 span{color:var(--sec);font-weight:400;text-transform:none;letter-spacing:0;font-size:11.5px;margin-left:8px}
+ .gap{font-size:11.5px;color:var(--sec);text-align:center;padding:6px 0 18px;border-top:1px dashed var(--line);margin:0 0 20px}
+ .grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:9px}
+ .cell{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;min-width:0}
+ .cell .day{display:flex;align-items:baseline;gap:6px;padding:8px 10px 6px;font-size:11px;color:var(--sec)}
+ .cell .day b{font-size:14px;color:var(--ink);font-variant-numeric:tabular-nums}
+ .cell .day .dow{text-transform:uppercase;letter-spacing:.05em;font-weight:700;font-size:10px}
+ .cell.empty{background:transparent;border:1px dashed var(--line)}
+ .cell.today{border:2px solid var(--green);box-shadow:0 0 0 3px rgba(10,125,58,.12)}
+ .cell.today .day .tdy{margin-left:auto;font:700 9px/1 var(--body);letter-spacing:.06em;text-transform:uppercase;color:#fff;background:var(--green);border-radius:4px;padding:3px 5px}
+ .cell.today .day .cnt{margin-left:6px!important}
+ .cell.empty .day{opacity:.5}
+ .item{display:flex;flex-direction:column;cursor:pointer;transition:background .15s;flex:1}
+ /* carousel: several posts on one day share a cell, one visible at a time */
+ .car{display:flex;flex-direction:column;flex:1;min-width:0}
+ .car .item[hidden]{display:none}
+ .car-nav{display:flex;align-items:center;justify-content:space-between;gap:6px;padding:0 8px 6px}
+ .car-nav button{width:24px;height:24px;border-radius:50%;border:1px solid var(--line);background:#fff;color:var(--ink);font:600 13px/1 var(--body);cursor:pointer;display:grid;place-items:center;padding:0}
+ .car-nav button:hover{background:var(--soft);border-color:#c7e2cd}
+ .car-nav .dots{display:flex;gap:4px;align-items:center}
+ .car-nav .dots i{width:6px;height:6px;border-radius:50%;background:#cfd5d2;display:block;cursor:pointer}
+ .car-nav .dots i.on{background:var(--green)}
+ .car-nav .cnt{font-size:10px;color:var(--sec);font-variant-numeric:tabular-nums}
+ .item:hover{background:#fafcfa}
+ .item .thumb{aspect-ratio:1/1;background:#eef0ef;overflow:hidden;display:grid;place-items:center;color:#8a918d;font-size:11px}
+ .item .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+ .item .body{padding:8px 10px 10px;display:flex;flex-direction:column;gap:6px;flex:1}
+ .item .cluster{font:700 12px/1.25 var(--body);color:var(--ink)}
+ .item .when{font:600 11px/1.2 var(--body);color:var(--green2);display:flex;align-items:center;gap:4px}
+ .item .when.pub{color:var(--sec)}
+ .item .pv{font-size:11.5px;line-height:1.4;color:#4a524e;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+ .item .badges{display:flex;gap:4px;flex-wrap:wrap;padding-top:2px}
+ .item .badges .b{padding:3px 6px;font-size:9px;max-width:100%;overflow:hidden;text-overflow:ellipsis}
+ .item .stats{margin-top:auto;border-top:1px solid #eef0ef;padding:7px 10px 9px;font-size:11px;line-height:1.5;color:var(--sec);background:#fafbfa}
+ .item .stats b{color:var(--ink);font-size:13px}
+ .item .stats .asof{font-size:10px;color:#8a918d}
+ .item .links{display:flex;gap:8px;margin-top:4px}
+ .item .links a{font-size:10.5px;font-weight:600;color:var(--green2);text-decoration:none;border:1px solid #c7e2cd;border-radius:5px;padding:2px 7px;background:#fff}
+ .item .links a:hover{background:var(--soft)}
+ @media(max-width:980px){.grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+ @media(max-width:640px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+ /* ---- modal ---- */
+ .overlay{position:fixed;inset:0;background:rgba(18,20,26,.55);display:none;align-items:flex-start;justify-content:center;z-index:9000;padding:28px 16px;overflow:auto}
+ .overlay.on{display:flex}
+ .modal{background:#fff;border-radius:14px;max-width:920px;width:100%;box-shadow:0 20px 60px rgba(0,0,0,.3);display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);overflow:hidden}
+ @media(max-width:760px){.modal{grid-template-columns:1fr}}
+ .modal .mh{grid-column:1/-1;display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:12px 16px;border-bottom:1px solid var(--line);font-size:13px;color:var(--sec)}
+ .modal .mh b{color:var(--ink);font-size:14px}
+ .modal .mh .close{margin-left:auto;cursor:pointer;border:none;background:none;font-size:22px;color:var(--sec);line-height:1}
+ .post{border-right:1px solid var(--line)}
+ @media(max-width:760px){.post{border-right:0;border-bottom:1px solid var(--line)}}
+ .post .ph{display:flex;align-items:center;gap:10px;padding:13px 16px 6px}
+ .post .pav{width:38px;height:38px;border-radius:10px;background:#fff;border:1px solid #eef0ef;display:grid;place-items:center;overflow:hidden}
+ .post .pav img{width:80%}
+ .post .pw{line-height:1.25}.post .pw strong{font-size:13.5px}.post .pw small{color:var(--sec);font-size:11.5px;display:block}
+ .post .pb{padding:4px 16px 12px;font-size:14px;line-height:1.55;white-space:pre-wrap}
+ .post .pb a{color:var(--green2);font-weight:600;word-break:break-all}
+ .post .pb .disc{display:block;margin-top:10px;font-size:11px;color:#8a918d}
+ .post .pimg{display:block;width:100%;background:#eef0ef}
+ .post .pf{display:flex;gap:16px;padding:9px 16px;border-top:1px solid #eef0ef;color:var(--sec);font-size:12.5px}
+ .meta{padding:14px 16px 18px;font-size:12.5px;display:flex;flex-direction:column;gap:12px;background:#fafbfa}
+ .meta .row{display:grid;grid-template-columns:86px 1fr;gap:8px;align-items:start}
+ .meta .l{font:700 10px var(--body);text-transform:uppercase;letter-spacing:.06em;color:var(--sec);padding-top:3px}
+ .meta .v{color:var(--ink);line-height:1.5;min-width:0;word-break:break-word}
+ .meta .v a{color:var(--green2)}
+ .meta .why{font-size:12px;color:var(--sec);line-height:1.5}
+ .meta .note{background:#fdf9f1;border:1px solid #f0e2c9;border-left:3px solid var(--amber);border-radius:8px;padding:9px 11px;font-size:12px;color:#6b5426;line-height:1.5}
+ .meta .kpi{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+ .meta .kpi div{background:#fff;border:1px solid var(--line);border-radius:8px;padding:8px 10px;text-align:center}
+ .meta .kpi b{display:block;font-size:20px;line-height:1.1;color:var(--ink)}
+ .meta .kpi span{font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--sec)}
+ .meta .acts{display:flex;gap:8px;margin-top:auto;padding-top:6px;flex-wrap:wrap}
+ .btn{font:600 12.5px var(--body);cursor:pointer;border:1px solid var(--line);background:#fff;border-radius:8px;padding:7px 12px;color:var(--ink);text-decoration:none}
+ .btn:hover{background:var(--soft)}
+ .btn.primary{background:var(--green);color:#fff;border-color:var(--green)}
+ .btn.primary:hover{background:var(--green2)}
+ footer{margin-top:34px;padding-top:14px;border-top:1px solid var(--line);font-size:11.5px;color:#8a918d;line-height:1.6}
+ html[data-review-mode="on"] body{padding-right:340px}
+ html[data-review-mode="on"] .overlay{top:46px;right:330px}
+ html[data-review-mode="on"] .cell{overflow:visible}
+</style></head><body>
+<div class="page">
+
+<header class="hd">
+  <div>
+    <h1 data-comment-target data-comment-id="nd-cal-title">Crēdo Legal — Nextdoor content calendar</h1>
+    <p data-comment-target data-comment-id="nd-cal-intro">Everything published on the Business Page so far, plus the scheduled feed at <b>one post per day</b>, posted automatically at a rotating <b>9 AM / 5 PM / 9 PM ET</b> slot. Published posts show their Nextdoor metrics with links to the post and its insights page. Click any post to see it in full as it appears on Nextdoor.</p>
+    <span class="tag" id="summary">…</span>
+  </div>
+  <a class="back" href="index.html">← Business Page review</a>
+</header>
+
+<div class="legend" data-comment-target data-comment-id="nd-cal-legend">
+  <span class="grp"><span>Status:</span><span class="b st-published">Published</span><span class="b st-scheduled">Scheduled</span></span>
+  <span class="grp"><span>Source:</span><span class="b src-hub">Hub draft</span><span class="b src-bold">Bold campaign</span><span class="b src-new">New</span><span class="b src-live">Posted live</span></span>
+  <span class="grp"><span>Type:</span><span class="b t-ad">Advertising · NY disclaimer</span><span class="b t-edu">Educational · no disclaimer</span></span>
+</div>
+
+<div id="cal"></div>
+
+<footer data-comment-target data-comment-id="nd-cal-footer">
+  Crēdo Legal · Nextdoor content calendar · draft for review. Metrics are read from each post's Nextdoor insights page (views) and post page (reactions, comments) and refreshed for every published post whenever a new one goes live; the "as of" date shows the last refresh. Disclaimers follow the New York attorney-advertising rule (22 NYCRR 1200.7.1): the "Attorney Advertising" snippet with the Nextdoor phone number is added only to posts whose primary purpose is retention; educational and community posts carry none. Every advertising post needs attorney pre-approval before it goes live. Open Comments, then hover anything on the grid or inside an opened post (text, disclaimer, image, metrics, links, notes) and click + Comment.
+</footer>
+
+</div>
+
+<div class="overlay" id="ov" role="dialog" aria-modal="true">
+  <div class="modal" id="modal"></div>
+</div>
+
+<!-- Load the data uncached: the browser otherwise keeps serving an old calendar-posts.js after dates or metrics change. -->
+<script>document.write('<script src="calendar-posts.js?v='+Date.now()+'"><\/script>');</script>
+<script>
+(function(){ /* scoped: review-mode.js declares globals (modal, esc, render, …) that would clobber these */
+/* Standing disclaimer pieces (brand/ny-attorney-advertising-disclaimer.md; Nextdoor phone) */
+var BASE = 'Attorney Advertising. Credo Legal Services, P.C., 1 Liberty Plaza, Suite 401, New York, NY 10006. (646) 350-2650.';
+var DRAM = 'Image is a dramatization.';
+var PRIOR = 'Prior results do not guarantee a similar outcome.';
+
+var POSTS = window.CREDO_ND_POSTS;
+var SRC = {hub:'Hub draft', bold:'Bold campaign', 'new':'New', live:'Posted live'};
+var DOW = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
+var MON = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+function d(s){var p=s.split('-');return new Date(Date.UTC(+p[0],+p[1]-1,+p[2]));}
+function iso(dt){return dt.toISOString().slice(0,10);}
+function fmt(dt){return DOW[(dt.getUTCDay()+6)%7]+' '+dt.getUTCDate()+' '+MON[dt.getUTCMonth()];}
+function fmtShort(s){var dt=d(s);return dt.getUTCDate()+' '+MON[dt.getUTCMonth()];}
+function disclaimer(p){ if(p.type!=='ad') return ''; var s=BASE; if(p.disc.indexOf('dram')>-1) s+=' '+DRAM; if(p.disc.indexOf('prior')>-1) s+=' '+PRIOR; return s; }
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+function linkify(s){return esc(s).replace(/(start\.credolegal\.com[\w\/-]*)/g,'<a href="https://$1" target="_blank" rel="noopener">$1</a>');}
+/* 'HH:MM' (24h, ET) → '5:00 PM ET' */
+function fmtTime(t){ if(!t) return ''; var h=+t.slice(0,2), m=t.slice(3,5); return ((h%12)||12)+':'+m+' '+(h<12?'AM':'PM')+' ET'; }
+function whenLabel(p){
+  if (p.status==='scheduled') return p.time ? fmtTime(p.time) : 'Time TBD';
+  if (p.postedAt) { var et = new Date(p.postedAt).toLocaleTimeString('en-US',{timeZone:'America/New_York',hour:'numeric',minute:'2-digit'}); return 'Posted · '+et+' ET'; }
+  return 'Posted';
+}
+function slug(s){return s.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');}
+
+var byDate = {}; POSTS.forEach(function(p){(byDate[p.date]=byDate[p.date]||[]).push(p);});
+var dates = Object.keys(byDate).sort();
+var first = d(dates[0]), last = d(dates[dates.length-1]);
+var start = new Date(first); start.setUTCDate(start.getUTCDate()-((start.getUTCDay()+6)%7));
+
+var n = new Date(), TODAY = n.getFullYear()+'-'+String(n.getMonth()+1).padStart(2,'0')+'-'+String(n.getDate()).padStart(2,'0');
+var nPub = POSTS.filter(function(p){return p.status==='published';}).length;
+document.getElementById('summary').textContent = nPub+' published · '+(POSTS.length-nPub)+' scheduled · '+fmtShort(dates[0])+' – '+fmtShort(dates[dates.length-1])+' 2026';
+
+/* ---- Review-widget anchors ----
+ * Every element carries a stable data-comment-id built from the post key (date + topic
+ * slug), so comments survive reordering and re-renders:
+ *   grid item      nd-cal-<key>            + -image | -topic | -text | -badges | -metrics | -links
+ *   post modal     nd-post-<key>-<part>    header | author | text | disclaimer | image | metrics |
+ *                                          asof | url | insights | topic | source | imgnote | lp |
+ *                                          length | why | note | actions
+ * The modal is rendered on demand, so after opening it we call window.__rwRefresh (widget
+ * re-applies outlines/dots) and window.__rwReveal opens the right post or carousel slide
+ * when a comment is clicked in the sidebar. */
+function keyOf(p){ return p.date+'-'+slug(p.cluster); }
+function A(id){ return ' data-comment-target data-comment-id="'+id+'"'; }
+var BY_KEY = {}; POSTS.forEach(function(p){ BY_KEY[keyOf(p)] = p; });
+
+function itemHtml(p){
+  var m = p.metrics, k = 'nd-cal-'+keyOf(p);
+  return '<div class="item"'+A(k)+' data-key="'+keyOf(p)+'">'+
+    '<div class="thumb"'+A(k+'-image')+'>'+(p.img?'<img src="'+p.img+'" alt="" loading="lazy">':'no image')+'</div>'+
+    '<div class="body"><div class="when'+(p.status==='published'?' pub':'')+'"'+A(k+'-time')+'>🕘 '+esc(whenLabel(p))+'</div><div class="cluster"'+A(k+'-topic')+'>'+esc(p.cluster)+'</div><div class="pv"'+A(k+'-text')+'>'+esc(p.text)+'</div>'+
+    '<div class="badges"'+A(k+'-badges')+'><span class="b st-'+p.status+'">'+p.status+'</span><span class="b src-'+p.src+'">'+SRC[p.src]+'</span><span class="b t-'+p.type+'">'+(p.type==='ad'?'Advertising':'Educational')+'</span></div></div>'+
+    (m ? '<div class="stats"><div'+A(k+'-metrics')+'><b>'+m.views+'</b> views · '+m.reactions+' reactions · '+m.comments+' comments<div class="asof">as of '+fmtShort(m.asOf)+'</div></div>'+
+         '<div class="links"'+A(k+'-links')+'><a href="'+p.url+'" target="_blank" rel="noopener" onclick="event.stopPropagation()">Post ↗</a><a href="'+p.insights+'" target="_blank" rel="noopener" onclick="event.stopPropagation()">Insights ↗</a></div></div>' : '')+
+  '</div>';
+}
+
+function setupCarousel(cell, items){
+  var idx = 0, dots = cell.querySelectorAll('.car-nav .dots i'), cnt = cell.querySelector('.day .cnt');
+  function show(n){
+    idx = (n + items.length) % items.length;
+    for (var k=0;k<items.length;k++){ items[k].hidden = k!==idx; dots[k].classList.toggle('on', k===idx); }
+    cnt.textContent = (idx+1)+'/'+items.length;
+  }
+  cell.querySelector('.prev').addEventListener('click', function(e){ e.stopPropagation(); show(idx-1); });
+  cell.querySelector('.next').addEventListener('click', function(e){ e.stopPropagation(); show(idx+1); });
+  for (var k=0;k<dots.length;k++) dots[k].addEventListener('click', (function(n){return function(e){ e.stopPropagation(); show(n); };})(k));
+  cell.__show = function(key){ for (var k=0;k<items.length;k++) if (items[k].getAttribute('data-key')===key) show(k); };
+  show(0);
+}
+
+/* Build chronologically (so gaps are detected), then render latest week first. */
+var blocks = [], cur = new Date(start), gapFrom = null;
+while (cur <= last) {
+  var wkEnd = new Date(cur); wkEnd.setUTCDate(wkEnd.getUTCDate()+6);
+  var cnt = 0; for (var i=0;i<7;i++){var t=new Date(cur); t.setUTCDate(t.getUTCDate()+i); cnt += (byDate[iso(t)]||[]).length;}
+  if (!cnt) { if (gapFrom===null) gapFrom = new Date(cur); cur.setUTCDate(cur.getUTCDate()+7); continue; }
+  if (gapFrom) { var gEnd=new Date(cur); gEnd.setUTCDate(gEnd.getUTCDate()-1); var g=document.createElement('div'); g.className='gap'; g.textContent='No posts '+fmt(gapFrom)+' – '+fmt(gEnd); blocks.push(g); gapFrom=null; }
+  var week = document.createElement('div'); week.className='week';
+  week.innerHTML = '<h2'+A('nd-cal-week-'+iso(cur))+'>Week of '+fmt(cur)+'<span>'+fmt(cur)+' – '+fmt(wkEnd)+' · '+cnt+' post'+(cnt===1?'':'s')+'</span></h2>';
+  var grid = document.createElement('div'); grid.className='grid';
+  for (var i=0;i<7;i++){
+    var day = new Date(cur); day.setUTCDate(day.getUTCDate()+i);
+    var key = iso(day), list = byDate[key]||[];
+    var cell = document.createElement('div');
+    var isToday = key === TODAY;
+    cell.className = 'cell'+(list.length?'':' empty')+(isToday?' today':'');
+    var multi = list.length > 1;
+    cell.innerHTML = '<div class="day"><span class="dow">'+DOW[i]+'</span><b>'+day.getUTCDate()+'</b><span>'+MON[day.getUTCMonth()]+'</span>'+(isToday?'<span class="tdy">Today</span>':'')+
+      (multi?'<span class="cnt" style="margin-left:auto;font-variant-numeric:tabular-nums"></span>':'')+'</div>'+
+      (multi ? '<div class="car-nav" data-review-skip><button type="button" class="prev" aria-label="Previous post">‹</button>'+
+               '<span class="dots">'+list.map(function(_,k){return '<i data-k="'+k+'"></i>';}).join('')+'</span>'+
+               '<button type="button" class="next" aria-label="Next post">›</button></div>' : '')+
+      '<div class="car">'+list.map(itemHtml).join('')+'</div>';
+    var items = cell.querySelectorAll('.item');
+    list.forEach(function(p,ix){ items[ix].addEventListener('click', function(){ open(p); }); });
+    if (multi) setupCarousel(cell, items);
+    grid.appendChild(cell);
+  }
+  week.appendChild(grid); blocks.push(week);
+  cur.setUTCDate(cur.getUTCDate()+7);
+}
+var cal = document.getElementById('cal');
+blocks.reverse().forEach(function(b){ cal.appendChild(b); });
+/* open on today's week so the current post is in view */
+var todayCell = cal.querySelector('.cell.today');
+if (todayCell && !location.hash) setTimeout(function(){ todayCell.closest('.week').scrollIntoView({block:'start'}); }, 0);
+
+var ov = document.getElementById('ov'), modal = document.getElementById('modal');
+function open(p){
+  var dsc = disclaimer(p), full = p.text + (dsc ? '\n\n'+dsc : '');
+  var isSquare = /1x1/.test(p.img), m = p.metrics, k = 'nd-post-'+keyOf(p);
+  function row(part, label, val, cls){ return '<div class="row"'+A(k+'-'+part)+'><span class="l">'+label+'</span><span class="v'+(cls?' '+cls:'')+'">'+val+'</span></div>'; }
+  modal.innerHTML =
+    '<div class="mh"'+A(k+'-header')+'><b>'+fmt(d(p.date))+' '+d(p.date).getUTCFullYear()+'</b><span class="b st-'+p.status+'">'+p.status+'</span><span class="b src-'+p.src+'">'+SRC[p.src]+'</span><span class="b t-'+p.type+'">'+(p.type==='ad'?'Advertising · NY disclaimer':'Educational · no disclaimer')+'</span><button class="close" aria-label="Close" data-review-skip>×</button></div>'+
+    '<div class="post">'+
+      '<div class="ph"'+A(k+'-author')+'><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Credo Legal Services Professional Corporation</strong><small>Business post · '+fmt(d(p.date))+'</small></span></div>'+
+      '<div class="pb"><div'+A(k+'-text')+'>'+linkify(p.text)+'</div>'+(dsc?'<span class="disc"'+A(k+'-disclaimer')+'>'+esc(dsc)+'</span>':'')+'</div>'+
+      (p.img?'<div'+A(k+'-image')+'><img class="pimg" src="'+p.img+'" alt="" style="aspect-ratio:'+(isSquare?'1/1':'16/9')+';object-fit:cover"></div>':'')+
+      '<div class="pf"><span>🏠 Thank</span><span>💬 Reply</span><span>↗ Share</span></div>'+
+    '</div>'+
+    '<div class="meta">'+
+      (m ? '<div class="kpi"'+A(k+'-metrics')+'><div><b>'+m.views+'</b><span>views</span></div><div><b>'+m.reactions+'</b><span>reactions</span></div><div><b>'+m.comments+'</b><span>comments</span></div></div>'+
+           row('asof','As of',fmt(d(m.asOf))+' '+d(m.asOf).getUTCFullYear())+
+           row('url','Post','<a href="'+p.url+'" target="_blank" rel="noopener">'+esc(p.url.replace('https://',''))+'</a>')+
+           row('insights','Insights','<a href="'+p.insights+'" target="_blank" rel="noopener">'+esc(p.insights.replace('https://',''))+'</a>') : '')+
+      row('time', p.status==='scheduled'?'Scheduled':'Posted', esc(fmt(d(p.date))+' '+d(p.date).getUTCFullYear()+' · '+(p.status==='scheduled'?fmtTime(p.time):whenLabel(p).replace('Posted · ',''))))+
+      row('topic','Topic',esc(p.cluster))+
+      row('source','Source',SRC[p.src])+
+      row('imgnote','Image',esc(p.imgNote))+
+      (p.lp?row('lp','Landing page','<a href="'+p.lp+'" target="_blank" rel="noopener">'+esc(p.lp.replace('https://',''))+'</a>'):'')+
+      row('length','Length',full.length+' characters'+(dsc?' incl. disclaimer':''))+
+      row('why','Disclaimer',esc(p.why),'why')+
+      (p.note?'<div class="note"'+A(k+'-note')+'>'+esc(p.note)+'</div>':'')+
+      '<div class="acts" data-review-skip><button class="btn primary" id="copy">Copy post text</button>'+
+      (m?'<a class="btn" href="'+p.url+'" target="_blank" rel="noopener">Open post ↗</a><a class="btn" href="'+p.insights+'" target="_blank" rel="noopener">Open insights ↗</a>':'')+
+      '<button class="btn" id="cls">Close</button></div>'+
+    '</div>';
+  ov.classList.add('on');
+  modal.querySelector('.close').onclick = close; modal.querySelector('#cls').onclick = close;
+  modal.querySelector('#copy').onclick = function(){ navigator.clipboard.writeText(full).then(function(){ var b=modal.querySelector('#copy'); b.textContent='Copied'; setTimeout(function(){b.textContent='Copy post text';},1400); }); };
+  if (window.__rwRefresh) window.__rwRefresh();
+}
+function close(){ ov.classList.remove('on'); }
+ov.addEventListener('click', function(e){ if(e.target===ov) close(); });
+
+/* Sidebar → element: open the post modal for nd-post-* anchors, flip the carousel for nd-cal-* anchors. */
+window.__rwReveal = function(anchor){
+  var sel = '[data-comment-id="'+(window.CSS&&CSS.escape?CSS.escape(anchor):anchor)+'"]';
+  var mp = /^nd-post-(\d{4}-\d{2}-\d{2}-[a-z0-9-]+?)-(header|author|text|disclaimer|image|metrics|asof|url|insights|time|topic|source|imgnote|lp|length|why|note)$/.exec(anchor);
+  if (mp && BY_KEY[mp[1]]) { open(BY_KEY[mp[1]]); return modal.querySelector(sel); }
+  close();
+  var el = document.querySelector(sel);
+  if (el) { var item = el.closest('.item'), cell = el.closest('.cell'); if (item && cell && cell.__show) cell.__show(item.getAttribute('data-key')); }
+  return el;
+};
+document.addEventListener('keydown', function(e){ if(e.key==='Escape' && !document.querySelector('.review-modal-overlay')) close(); });
+})();
+</script>
+<script src="review.config.js"></script>
+<script src="review-bootstrap.js"></script>
+</body></html>
