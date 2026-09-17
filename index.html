@@ -1,23 +1,39 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex">
-<title>Crēdo Legal — Nextdoor Business Page · Content Review</title>
+<title>Crēdo Legal — Nextdoor Business Page</title>
 <style>
- :root{--green:#0a7d3a;--green2:#0a5d2b;--ink:#12141d;--sec:#5b6360;--line:#dfe3e3;--bg:#f4f6f5;--card:#fff;--soft:#eef6ef;--amber:#c9862b;
+ :root{--green:#0a7d3a;--green2:#0a5d2b;--ink:#12141d;--sec:#5b6360;--line:#dfe3e3;--bg:#f4f6f5;--card:#fff;--soft:#eef6ef;--amber:#c9862b;--red:#8e1b22;
    --body:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;--disp:Georgia,"Times New Roman",serif;}
  *{box-sizing:border-box}
  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 var(--body)}
- .page{max-width:820px;margin:0 auto;padding:26px 16px 60px}
- header.hd{margin-bottom:6px}
+ .page{max-width:880px;margin:0 auto;padding:26px 18px 60px}
  header.hd h1{font:700 24px/1.2 var(--disp);margin:0}
  header.hd p{color:var(--sec);font-size:13.5px;margin:7px 0 0;line-height:1.55}
- header.hd .tag{display:inline-block;font:600 11px var(--body);background:var(--soft);color:var(--green2);border:1px solid #c7e2cd;border-radius:20px;padding:3px 11px;margin-top:10px}
+ .pills{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+ .tag{display:inline-block;font:600 11px var(--body);background:var(--soft);color:var(--green2);border:1px solid #c7e2cd;border-radius:20px;padding:3px 11px;text-decoration:none}
+ .tag.amber{background:#fff7ea;color:#8a6316;border-color:#f0e2c9}
+ .tag.grey{background:#f1f2f6;color:#3b4256;border-color:#d9dce6}
+ a.tag:hover{background:#e3f1e7}
  h2.sec{font:700 12px var(--body);text-transform:uppercase;letter-spacing:.09em;color:var(--green2);margin:34px 2px 12px;padding-bottom:7px;border-bottom:2px solid #e6e9e8}
- h2.sec span{color:var(--sec);font-weight:400;text-transform:none;letter-spacing:0;font-size:11.5px}
+ h2.sec span{color:var(--sec);font-weight:400;text-transform:none;letter-spacing:0;font-size:11.5px;margin-left:8px}
  .note{font-size:12px;color:var(--sec);line-height:1.55;margin:0 2px 14px}
  .flag{background:#fdf9f1;border:1px solid #f0e2c9;border-left:3px solid var(--amber);border-radius:8px;padding:11px 13px;font-size:12.5px;color:#6b5426;line-height:1.55;margin:0 0 16px}
  .flag b{color:#8a6316}
- /* ---- profile mockup ---- */
+ /* metrics */
+ .kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px}
+ @media(max-width:640px){.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}}
+ .kpi{background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+ .kpi b{display:block;font-size:22px;line-height:1.1}
+ .kpi span{font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--sec)}
+ .kpi .d{font-size:11px;color:var(--green2);margin-top:2px}
+ .kpi .d.down{color:var(--red)}
+ .kpi .d.flat{color:#8a918d}
+ table.hist{width:100%;border-collapse:collapse;font-size:12px;margin-top:10px}
+ table.hist th,table.hist td{padding:6px 8px;border-top:1px solid #eef0ef;text-align:right;font-variant-numeric:tabular-nums}
+ table.hist th{font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--sec);border-top:0}
+ table.hist th:first-child,table.hist td:first-child{text-align:left}
+ /* profile mockup */
  .bp{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;box-shadow:0 1px 3px rgba(20,30,20,.06)}
  .bp-cover{aspect-ratio:16/6;background:#dfe6e2 center/cover no-repeat;position:relative}
  .bp-cover img{width:100%;height:100%;object-fit:cover;display:block}
@@ -31,7 +47,7 @@
  .bp-stats{display:flex;gap:18px;padding:12px 18px 4px;font-size:12.5px;color:var(--sec)}
  .bp-stats b{color:var(--ink)}
  .bp-acts{display:flex;gap:9px;flex-wrap:wrap;padding:12px 18px 16px;border-bottom:1px solid #eef0ef}
- .bp-acts button{font:600 13px var(--body);border-radius:22px;padding:8px 16px;cursor:pointer;border:1px solid var(--green)}
+ .bp-acts button{font:600 13px var(--body);border-radius:22px;padding:8px 16px;cursor:default;border:1px solid var(--green)}
  .bp-acts .primary{background:var(--green);color:#fff}
  .bp-acts .ghost{background:#fff;color:var(--green2)}
  .bp-info{padding:14px 18px}
@@ -40,206 +56,137 @@
  .bp-row .k{width:96px;flex:0 0 auto;color:var(--sec)}
  .bp-row .v{color:var(--ink)}
  .bp-bio{padding:6px 18px 18px;font-size:13.5px;line-height:1.6;color:#2b322f}
- /* ---- generic content cards ---- */
+ /* cards + templates */
  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:15px 16px;margin-bottom:14px}
  .card .lbl{font:700 11px var(--body);text-transform:uppercase;letter-spacing:.05em;color:var(--green2);margin-bottom:8px}
- /* post card */
- .post{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;margin-bottom:14px}
- .post .ph{display:flex;align-items:center;gap:10px;padding:11px 13px 6px}
- .post .pav{width:38px;height:38px;border-radius:10px;background:#fff;border:1px solid #eef0ef;display:grid;place-items:center;overflow:hidden}
- .post .pav img{width:80%}
- .post .pw{line-height:1.25}.post .pw strong{font-size:13.5px}.post .pw small{color:var(--sec);font-size:11.5px;display:block}
- .post .pmeta{margin-left:auto;font-size:10.5px;color:#8a918d;text-align:right}
- .post .pb{padding:4px 14px 12px;font-size:14px;line-height:1.55}
- .post .pb a{color:var(--green2);font-weight:600;word-break:break-all}
- .post .pb .disc{display:block;margin-top:7px;font-size:11px;color:#8a918d}
- .post .pf{display:flex;gap:16px;padding:9px 14px;border-top:1px solid #eef0ef;color:var(--sec);font-size:12.5px}
- .post .cluster{font:600 10px var(--body);letter-spacing:.03em;text-transform:uppercase;background:var(--soft);color:var(--green2);border:1px solid #c7e2cd;border-radius:5px;padding:2px 7px;margin-left:auto}
- .post .pimg{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-top:1px solid #eef0ef;background:#eef0ef}
- /* template block */
  .tmpl{white-space:pre-wrap;background:#f7faf8;border:1px solid #e2ebe6;border-radius:8px;padding:12px 13px;font:13.5px/1.55 var(--body);color:#25302b;margin-top:4px}
  .tmpl .fill{color:var(--green2);font-weight:600}
  .mini{font-size:11.5px;color:var(--sec);margin-top:8px;line-height:1.5}
- /* checklist table */
- table.chk{width:100%;border-collapse:collapse;font-size:13px}
- table.chk td{padding:8px 6px;border-top:1px solid #eef0ef;vertical-align:top}
- table.chk tr:first-child td{border-top:0}
- table.chk .f{font-weight:700;width:150px}
- table.chk .verify{color:var(--amber);font-size:11px}
- ul.tick{margin:6px 0 0;padding-left:2px;list-style:none;font-size:13px}
- ul.tick li{padding:5px 0 5px 22px;position:relative;line-height:1.5}
- ul.tick li:before{content:"✓";position:absolute;left:0;color:var(--green);font-weight:700}
+ ul.open{margin:0;padding-left:2px;list-style:none;font-size:13px}
+ ul.open li{padding:7px 0 7px 24px;position:relative;line-height:1.5;border-top:1px solid #f2f4f3}
+ ul.open li:first-child{border-top:0}
+ ul.open li:before{content:"?";position:absolute;left:2px;top:7px;width:16px;height:16px;border-radius:50%;background:#fff7ea;border:1px solid #f0e2c9;color:#8a6316;font:700 10px/16px var(--body);text-align:center}
+ ul.open li b{color:var(--ink)}
+ .ok{font-size:12.5px;color:var(--sec);line-height:1.6;margin:0 0 12px}
+ .ok b{color:var(--green2)}
+ .two{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+ @media(max-width:700px){.two{grid-template-columns:1fr}}
+ a{color:var(--green2)}
  footer{margin-top:34px;padding-top:14px;border-top:1px solid var(--line);font-size:11.5px;color:#8a918d;line-height:1.6}
+ html[data-review-mode="on"] body{padding-right:340px}
 </style></head><body>
+<script src="hub-nav.js" data-page="business"></script>
 <div class="page">
 
-<header class="hd" data-comment-target data-comment-id="bp-header">
-  <h1>Crēdo Legal — Nextdoor Business Page</h1>
-  <p>Everything for the <b>organic</b> Business Page that anchors the paid Nextdoor campaigns (NY · NJ). This is the always-on trust layer under the ad groups — the "Business Page visit" journey. Draft for review; nothing is live yet.</p>
-  <span class="tag">Pre-launch · content review</span>
-  <span class="tag" style="margin-left:8px"><a href="calendar.html" style="color:inherit;text-decoration:none">📅 Content calendar →</a></span>
-  <span class="tag" style="margin-left:8px"><a href="engagement.html" style="color:inherit;text-decoration:none">💬 Engagement calendar →</a></span>
+<header class="hd">
+  <h1 data-comment-target data-comment-id="bp-title">Crēdo Legal — Nextdoor Business Page</h1>
+  <p data-comment-target data-comment-id="bp-intro">The <b>organic</b> Business Page that anchors the paid Nextdoor campaigns — the always-on trust layer under the ads. Live since 31 Aug 2026. Posts are planned on the Feed Calendar, neighbour engagement on the Engagement Calendar, and the paid campaign under Ads.</p>
+  <div class="pills">
+    <span class="tag">Live · New York, NY</span>
+    <a class="tag" href="https://nextdoor.com/page/credo-legal-services-professional-corporation-new-york-ny/" target="_blank" rel="noopener">Open the live page ↗</a>
+    <a class="tag grey" href="https://nextdoor.com/page-admin/dashboard/" target="_blank" rel="noopener">Page dashboard ↗</a>
+  </div>
 </header>
 
-<div class="flag" data-comment-target data-comment-id="bp-compliance-gate">
-  <b>Compliance gate — do first.</b> Everything here is attorney advertising in NY and NJ, so it follows the same state rules as the paid ads. <b>Scope:</b> debt <b>validation / invalidation and settlement only</b> — no litigation, lawsuit, garnishment or judgment content. <b>New York:</b> each post carries the <b>“Attorney Advertising”</b> label and an <b>AI-generated-content</b> disclosure, and <b>every post must be pre-approved by the attorney (Jack) before it goes live</b>. <b>New Jersey:</b> the responsible attorney's name + firm contact appear. All copy is <b>AI-drafted (pending humanizing) and not published until Jack's review</b>. <b>[CONFIRM with counsel + the state compliance sheet:</b> Jack's full name, firm mailing address &amp; email, exact NY AI-disclosure wording, and testimonial/recommendation rules.]
+<h2 class="sec">1 · At a glance <span id="kpi-sub">…</span></h2>
+<div class="card" data-comment-target data-comment-id="bp-metrics">
+  <div class="kpis" id="kpis"></div>
+  <div id="hist"></div>
+  <div class="mini" id="kpi-note"></div>
 </div>
 
-<h2 class="sec">1 · The page as it will appear <span>Nextdoor business-page mockup</span></h2>
+<h2 class="sec">2 · The live page <span>what neighbours see · values taken from the live page on 17 Sep 2026</span></h2>
 <div class="bp" data-comment-target data-comment-id="bp-profile">
   <div class="bp-cover" data-comment-target data-comment-id="bp-cover"><img src="assets/cover.jpg" alt="cover"></div>
   <div class="bp-id">
     <div class="bp-av"><img src="assets/credo-mark.png" alt="Crēdo"></div>
-    <div class="bp-idtx"><h3>Crēdo Legal</h3><div class="cat">Debt-defense law firm · <b>Legal services</b> · New York &amp; New Jersey</div></div>
+    <div class="bp-idtx"><h3>Credo Legal Services Professional Corporation</h3><div class="cat"><b>Lawyer</b> · New York, NY</div></div>
   </div>
-  <div class="bp-stats" data-comment-target data-comment-id="bp-stats"><span><b>0</b> Recommendations</span><span><b>0</b> Faves</span><span>Serving NY · NJ</span></div>
+  <div class="bp-stats" data-comment-target data-comment-id="bp-stats"><span><b id="s-recs">0</b> Recommendations</span><span><b id="s-faves">0</b> Faves</span><span><b id="s-views">—</b> page views</span></div>
   <div class="bp-acts" data-comment-target data-comment-id="bp-actions">
     <button class="primary">Recommend</button><button class="ghost">Fave</button><button class="ghost">Message</button><button class="ghost">Call</button>
   </div>
   <div class="bp-info">
-    <div class="bp-row" data-comment-target data-comment-id="bp-field-phone"><span class="k">Phone</span><span class="v">(347) 474-9602 (NY) · (201) 416-7080 (NJ) — tracked lines</span></div>
-    <div class="bp-row" data-comment-target data-comment-id="bp-field-web"><span class="k">Website</span><span class="v">start.credolegal.com</span></div>
-    <div class="bp-row" data-comment-target data-comment-id="bp-field-area"><span class="k">Service area</span><span class="v">New York and New Jersey (set by ZIP / radius per campaign)</span></div>
-    <div class="bp-row" data-comment-target data-comment-id="bp-field-addr"><span class="k">Address</span><span class="v">New York, NY <span class="verify" style="color:var(--amber)">[confirm street address]</span></span></div>
-    <div class="bp-row" data-comment-target data-comment-id="bp-field-hours"><span class="k">Hours</span><span class="v">Mon–Fri 9:00 AM – 6:00 PM <span class="verify" style="color:var(--amber)">[confirm]</span></span></div>
+    <div class="bp-row" data-comment-target data-comment-id="bp-field-phone"><span class="k">Phone</span><span class="v">(646) 350-2650 — the Nextdoor-only number</span></div>
+    <div class="bp-row" data-comment-target data-comment-id="bp-field-web"><span class="k">Website</span><span class="v">https://credolegal.com/</span></div>
+    <div class="bp-row" data-comment-target data-comment-id="bp-field-email"><span class="k">Email</span><span class="v">sona@credolegal.com</span></div>
+    <div class="bp-row" data-comment-target data-comment-id="bp-field-addr"><span class="k">Address</span><span class="v">1 Liberty Street, Suite 4010, New York, NY</span></div>
+    <div class="bp-row" data-comment-target data-comment-id="bp-field-hours"><span class="k">Hours</span><span class="v">Shown as “Open until 5:00 PM” on weekdays</span></div>
   </div>
   <div class="bp-bio" data-comment-target data-comment-id="bp-bio">
-    Credo Legal is a consumer debt-defense law firm serving neighbors across New York and New Jersey. If you have been sued over a debt, had your wages garnished, or you are getting nonstop collector calls, our attorneys can step in — for a flat monthly fee, not a big upfront retainer. A free case review costs nothing. Prior results do not guarantee a similar outcome.
+    Credo Legal is a consumer debt-defense law firm serving neighbors across New York and New Jersey. If you have been sued over a debt, had your wages garnished, or you are getting nonstop collector calls, our attorneys can step in for a flat monthly fee, not a big upfront retainer. A free case review costs nothing except a bit of our and your time. A time that could be well spent.
   </div>
 </div>
-<p class="note">"Recommend" and "Fave" are the primary on-platform actions; "Message" opens the business inbox; "Call" uses the tracked DNI line. Recommendations drive up to ~19× page views, so §3 is the highest-leverage work.</p>
+<p class="note">“Recommend” and “Fave” are the primary on-platform actions; “Message” opens the business inbox; “Call” dials the Nextdoor number. Recommendations lift reach the most, so the request template in §4 is the highest-leverage work.</p>
 
-<h2 class="sec">2 · Profile fields to enter <span>completeness checklist</span></h2>
-<div class="card" data-comment-target data-comment-id="bp-checklist">
-  <table class="chk">
-    <tr><td class="f">Business name</td><td>Crēdo Legal &nbsp;<span class="verify">(legal entity: Credo Legal Services, P.C.)</span></td></tr>
-    <tr><td class="f">Category</td><td>Legal services / Attorney <span class="verify">[confirm closest available in-tool]</span></td></tr>
-    <tr><td class="f">Service area</td><td>New York and New Jersey — one page + multi-state service area, or a page per state <span class="verify">[verify in-tool]</span></td></tr>
-    <tr><td class="f">Phone</td><td>Tracked DNI line per state — (347) 474-9602 NY · (201) 416-7080 NJ</td></tr>
-    <tr><td class="f">Website</td><td>start.credolegal.com</td></tr>
-    <tr><td class="f">Hours</td><td>Real intake hours <span class="verify">[confirm]</span></td></tr>
-    <tr><td class="f">Description</td><td>See the bio above (debt-defense; sued / garnished / harassed; flat monthly fee; licensed in NY &amp; NJ)</td></tr>
-    <tr><td class="f">Logo + cover</td><td>Crēdo mark (avatar) + the warm neighborhood cover above</td></tr>
-  </table>
+<h2 class="sec">3 · Profile — still to resolve <span>everything else on the live page is accepted as correct</span></h2>
+<div class="card" data-comment-target data-comment-id="bp-open">
+  <p class="ok"><b>Accepted from the live page:</b> business name (Credo Legal Services Professional Corporation), category (Lawyer), phone (646) 350-2650, email, bio, logo and cover photo.</p>
+  <ul class="open">
+    <li data-comment-target data-comment-id="bp-open-area"><b>Service area.</b> The page is a New York, NY page; the bio and the ads promise New York <i>and</i> New Jersey. Decide whether NJ is covered by a service-area setting on this page or needs a second page.</li>
+    <li data-comment-target data-comment-id="bp-open-address"><b>Address.</b> Live: 1 Liberty Street, Suite 4010. The NY disclaimer rule and the website footer use 1 Liberty Plaza, Suite 401. Confirm the principal office and align all three.</li>
+    <li data-comment-target data-comment-id="bp-open-website"><b>Website.</b> Live: credolegal.com. Posts and ads send people to start.credolegal.com landing pages. Decide which the page should carry (or keep credolegal.com and let posts carry the deep links).</li>
+    <li data-comment-target data-comment-id="bp-open-hours"><b>Hours.</b> The page shows “Open until 5:00 PM” today; the full weekly schedule is not visible without editing the page. Confirm intake hours match.</li>
+  </ul>
 </div>
 
-<h2 class="sec">3 · Business posts <span>education-first · ~2/month · rotate the clusters</span></h2>
-<p class="note">Free business posts reach neighbors within ~2 miles, up to twice a month. Keep them <b>education-first</b> and on <b>debt validation / settlement only</b> — no litigation, lawsuit or garnishment content. Every post carries the attorney-advertising disclosure (NY = "Attorney Advertising" label + AI-generated disclosure; NJ = attorney name + contact) and needs <b>Jack's pre-approval before it goes live</b>. The <b>{{city}}</b> tag is documented for ads; <span style="color:var(--amber)">for organic posts it is [verify in-tool]</span>.</p>
-
-<div class="post" data-comment-target data-comment-id="bp-post-scam">
-  <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Scam alert</span></div>
-  <div class="pb">Getting calls about a debt, and something feels off? A few signs it may be a scam rather than a real collector: they push you to pay right now with gift cards, crypto, or a wire; they will not give you a company name and mailing address; or they threaten arrest. A legitimate collector has to send written notice, and if you ask, prove the debt is actually yours. When something feels wrong, do not pay on the spot. Ask for it in writing, then check it. Neighbors, what is the strangest collection call you have gotten?<span class="disc">Attorney Advertising. Credo Legal Services, P.C. — responsible attorney Jack [CONFIRM], admitted in New York &amp; New Jersey. Contact: [mailing address · phone · email — CONFIRM] · start.credolegal.com. Includes AI-generated content. Not legal advice.</span></div>
-  <img class="pimg" src="assets/post-scam.jpg" alt="A neighbor at a kitchen table looking cautiously at a phone call" loading="lazy">
-  <div class="pf"><span>🏠 Thank</span><span>💬 Reply</span><span>↗ Share</span></div>
-</div>
-
-<div class="post" data-comment-target data-comment-id="bp-post-validation">
-  <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Debt validation</span></div>
-  <div class="pb">Not sure a debt a collector is chasing is even yours? You have the right to make them <b>validate</b> it in writing before you pay a cent, and many collectors, especially debt buyers, cannot produce the paperwork to back it up. Here is how debt validation works: <a href="https://start.credolegal.com/debt-harassment-stop-calls">start.credolegal.com/debt-harassment-stop-calls</a><span class="disc">Attorney Advertising. Credo Legal Services, P.C. — responsible attorney Jack [CONFIRM], admitted in New York &amp; New Jersey. Contact: [mailing address · phone · email — CONFIRM] · start.credolegal.com. Includes AI-generated content. Prior results do not guarantee a similar outcome. Not legal advice.</span></div>
-  <img class="pimg" src="assets/post-validation.jpg" alt="A person reading a mailed letter at home" loading="lazy">
-  <div class="pf"><span>🏠 Thank</span><span>💬 Reply</span><span>↗ Share</span></div>
-</div>
-
-<div class="post" data-comment-target data-comment-id="bp-post-medical">
-  <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Medical</span></div>
-  <div class="pb">A surprise medical bill is worth a second look before you pay it. Medical billing is full of coding errors, duplicate charges, and amounts a collector cannot always validate. You can ask them to prove the amount first. Free review: <a href="https://start.credolegal.com/medical-debt-bills-errors">start.credolegal.com/medical-debt-bills-errors</a><span class="disc">Attorney Advertising. Credo Legal Services, P.C. — responsible attorney Jack [CONFIRM], admitted in New York &amp; New Jersey. Contact: [mailing address · phone · email — CONFIRM] · start.credolegal.com. Includes AI-generated content. Prior results do not guarantee a similar outcome. Not legal advice.</span></div>
-  <img class="pimg" src="assets/post-medical.jpg" alt="A person reviewing medical paperwork at a kitchen table" loading="lazy">
-  <div class="pf"><span>🏠 Thank</span><span>💬 Reply</span><span>↗ Share</span></div>
-</div>
-
-<div class="post" data-comment-target data-comment-id="bp-post-creditcard">
-  <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Credit Card</span></div>
-  <div class="pb">Being pressured over an old credit card balance? Debt buyers often cannot produce the original contract or full account history to prove they even own the account, and balances get inflated with added interest and fees. You can make them validate it, and in many cases settle for less. Free review: <a href="https://start.credolegal.com/credit-card-debt-negotiation">start.credolegal.com/credit-card-debt-negotiation</a><span class="disc">Attorney Advertising. Credo Legal Services, P.C. — responsible attorney Jack [CONFIRM], admitted in New York &amp; New Jersey. Contact: [mailing address · phone · email — CONFIRM] · start.credolegal.com. Includes AI-generated content. Prior results do not guarantee a similar outcome. Not legal advice.</span></div>
-  <img class="pimg" src="assets/post-credit.jpg" alt="A person reviewing account documents beside a laptop at home" loading="lazy">
-  <div class="pf"><span>🏠 Thank</span><span>💬 Reply</span><span>↗ Share</span></div>
-</div>
-
-<div class="post" data-comment-target data-comment-id="bp-post-money">
-  <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Community</span></div>
-  <div class="pb">Money has been on a lot of neighbors' minds lately, between rising costs and bills that never seem to slow down. If you are feeling the squeeze, you are far from alone, and there is no shame in it. Talking about it openly is how we all figure out what actually helps. What has made the biggest difference for your household this year?<span class="disc">Attorney Advertising. Credo Legal Services, P.C. — responsible attorney Jack [CONFIRM], admitted in New York &amp; New Jersey. Contact: [mailing address · phone · email — CONFIRM] · start.credolegal.com. Includes AI-generated content. Not legal advice.</span></div>
-  <img class="pimg" src="assets/post-money.jpg" alt="Two neighbors talking warmly on a front porch at golden hour" loading="lazy">
-  <div class="pf"><span>🏠 Thank</span><span>💬 Reply</span><span>↗ Share</span></div>
-</div>
-
-<div class="post" data-comment-target data-comment-id="bp-post-rights">
-  <div class="ph"><span class="pav"><img src="assets/credo-mark.png" alt=""></span><span class="pw"><strong>Crēdo Legal</strong><small>Business post</small></span><span class="cluster">Rights education</span></div>
-  <div class="pb">Three things debt collectors hope you do not know: (1) you can make them <b>validate</b> the debt in writing before you pay; (2) debt buyers often cannot prove they even <b>own</b> it; (3) balances are frequently inflated, so you may owe <b>far less</b> than they claim. Knowing this changes how you respond. A free review can show you where you really stand: <a href="https://start.credolegal.com">start.credolegal.com</a><span class="disc">Attorney Advertising. Credo Legal Services, P.C. — responsible attorney Jack [CONFIRM], admitted in New York &amp; New Jersey. Contact: [mailing address · phone · email — CONFIRM] · start.credolegal.com. Includes AI-generated content. Prior results do not guarantee a similar outcome. Not legal advice.</span></div>
-  <img class="pimg" src="assets/post-rights.jpg" alt="A person reading a printed document by a bright window" loading="lazy">
-  <div class="pf"><span>🏠 Thank</span><span>💬 Reply</span><span>↗ Share</span></div>
-</div>
-
-<h2 class="sec">4 · Recommendations drive <span>the highest-leverage lever</span></h2>
+<h2 class="sec">4 · Response playbook <span>templates the page uses day to day</span></h2>
 <div class="card" data-comment-target data-comment-id="bp-rec-template">
   <div class="lbl">Recommendation request — send after a positive resolution</div>
   <div class="tmpl">Hi <span class="fill">[first name]</span> — it was a privilege helping with your case. If you felt supported, would you consider leaving Credo a recommendation on Nextdoor? It genuinely helps other neighbors who are facing the same stress find real help.
 
-Here's the link: <span class="fill">[Nextdoor page URL]</span>
+Here's the link: <span class="fill">https://nextdoor.com/page/credo-legal-services-professional-corporation-new-york-ny/</span>
 
 No pressure at all — and thank you.</div>
-  <div class="mini"><b>Target:</b> a first wave of 10–15 recommendations, then a steady trickle. <b>Guardrails:</b> voluntary only, never incentivized; route any testimonial language past counsel; add the required disclaimer wherever testimonials appear. <span style="color:var(--amber)">[Verify NY/NJ bar testimonial rules.]</span></div>
+  <div class="mini"><b>Target:</b> a first wave of 10–15 recommendations, then a steady trickle. <b>Guardrails:</b> voluntary only, never incentivized; route any testimonial language past counsel; where testimonials appear, the NY disclaimer rule applies.</div>
 </div>
-
-<h2 class="sec">5 · Review responses <span>reply to every review within ~2 business days</span></h2>
-<div class="card" data-comment-target data-comment-id="bp-review-5star">
-  <div class="lbl">5-star / positive</div>
-  <div class="tmpl">Thank you so much, <span class="fill">[name]</span> — it means a lot to the whole Credo team. We're glad we could help, and we're here for any neighbor who needs us.</div>
+<div class="two">
+  <div class="card" data-comment-target data-comment-id="bp-review-5star">
+    <div class="lbl">Review reply — positive</div>
+    <div class="tmpl">Thank you so much, <span class="fill">[name]</span> — it means a lot to the whole Credo team. We're glad we could help, and we're here for any neighbor who needs us.</div>
+  </div>
+  <div class="card" data-comment-target data-comment-id="bp-review-critical">
+    <div class="lbl">Review reply — critical</div>
+    <div class="tmpl">Thank you for the feedback, <span class="fill">[name]</span> — we take it seriously and would like to make this right. Please message us directly so we can look into it. — The Credo Legal team</div>
+    <div class="mini">Never discuss case specifics publicly; move details to the private inbox. Reply within ~2 business days.</div>
+  </div>
 </div>
-<div class="card" data-comment-target data-comment-id="bp-review-critical">
-  <div class="lbl">Critical / negative</div>
-  <div class="tmpl">Thank you for the feedback, <span class="fill">[name]</span> — we take it seriously and would like to make this right. Please message us directly so we can look into it. — The Credo Legal team</div>
-  <div class="mini"><b>Rule:</b> never discuss case specifics publicly; move details to the private inbox. Keep replies brief, human, and compliant.</div>
-</div>
-
-<h2 class="sec">6 · Message / intake auto-reply <span>first response in the business inbox</span></h2>
 <div class="card" data-comment-target data-comment-id="bp-message-reply">
+  <div class="lbl">Inbox auto-reply — first response to a message</div>
   <div class="tmpl">Thanks for reaching out to Credo Legal. A team member will reply shortly.
 
-If it's urgent — you've been served, your wages are being garnished, or you have a court date soon — call us at (347) 474-9602 (NY) or (201) 416-7080 (NJ). A free case review costs nothing.</div>
+If it's urgent — you've been served, your wages are being garnished, or you have a court date soon — call us at (646) 350-2650. A free case review costs nothing.</div>
   <div class="mini">Set an intake SLA and hand qualified threads into the CRM — the same pipeline as the paid Lead Gen form.</div>
 </div>
 
-<h2 class="sec">7 · Measurement</h2>
-<div class="card" data-comment-target data-comment-id="bp-measurement">
-  <ul class="tick">
-    <li><b>Page visits</b> — organic-assist to the paid campaigns (visits often precede a lead)</li>
-    <li><b>Faves</b> (followers) and <b>Recommendations count</b> — the trust signals that lift reach</li>
-    <li><b>Messages</b> — inbound inbox threads → CRM</li>
-    <li><b>Post reach &amp; engagement</b> — which clusters resonate; feed the winners into paid</li>
-  </ul>
-  <div class="mini">These map to the "Business Page visit" lane in the ad-review hub's journey map.</div>
+<h2 class="sec">5 · Compliance <span>applies to every post, comment and ad</span></h2>
+<div class="flag" data-comment-target data-comment-id="bp-compliance">
+  <b>New York attorney advertising.</b> Anything whose primary purpose is getting hired (offers, free-review links, landing-page links) carries the “Attorney Advertising” snippet with the firm name, address and the Nextdoor number, plus “Image is a dramatization.” and “Prior results do not guarantee a similar outcome.” when they apply — the rule in <code>brand/ny-attorney-advertising-disclaimer.md</code>. Educational and community posts, and neighbourly comments with no pitch, carry nothing. Every advertising post is pre-approved by the responsible attorney before it goes live and kept for a year. <b>Scope:</b> debt validation / invalidation and settlement only.
 </div>
 
-<h2 class="sec">8 · Open items to verify</h2>
-<div class="card" data-comment-target data-comment-id="bp-verify">
-  <ul class="tick" style="list-style:none">
-    <li style="color:#6b5426">One page + multi-state service area <b>vs</b> a page per state (NY, NJ) — [verify in-tool]</li>
-    <li style="color:#6b5426">Exact category label for a law firm — [verify in-tool]</li>
-    <li style="color:#6b5426">Testimonial / recommendation rules under the NY and NJ bars — [verify with counsel]</li>
-    <li style="color:#6b5426">Whether business posts support the {{city}} dynamic tag — [verify]</li>
-    <li style="color:#6b5426">Street address and real intake hours — [confirm]</li>
-  </ul>
-</div>
-
-<h2 class="sec">9 · Paid ads handoff <span>Nextdoor Ads Manager upload package</span></h2>
-<div class="card" data-comment-target data-comment-id="bp-ads-handoff">
-  <div class="lbl">Upload-ready package (build PAUSED · NY &amp; NJ · validation/settlement scope)</div>
-  <p style="font-size:14px;line-height:1.55;margin:8px 0 10px">The paid counterpart to this Business Page: 2 campaigns (Lead Gen + Traffic) over 3 ad-group clusters (validation · medical · credit-card), 7 ads, reusing the existing Meta creative sets. UTM-tagged per the approved <b>nextdoor / paid_social / credo_nd_{objective}_v1 / {cluster} / {ad}-{direction}</b> scheme.</p>
-  <p style="font-size:14px;margin:8px 0 10px"><b>⬇ Download the full package (zip, ~34 MB):</b> <a href="handoff/nextdoor/credo-nextdoor-ads-v1.zip" download>credo-nextdoor-ads-v1.zip</a> — docs + copy + all 42 creative files, organized <i>campaign → ad group → ad</i> (<code>creatives/&lt;cluster&gt;/&lt;ad&gt;/&lt;ad&gt;_&lt;direction&gt;_&lt;ratio&gt;</code>).</p>
-  <p style="font-size:12.5px;color:#8a918d;margin:0 0 10px">Or browse the individual files below:</p>
-  <ul class="tick" style="list-style:none;font-size:13px">
-    <li><a href="handoff/nextdoor/README.md">handoff/nextdoor/README.md</a> — build guide, compliance gate, upload steps</li>
-    <li><a href="handoff/nextdoor/campaign-manifest.json">campaign-manifest.json</a> — machine-readable structure, UTM scheme, targeting, budget</li>
-    <li><a href="handoff/nextdoor/copy/ads.csv">copy/ads.csv</a> · <a href="handoff/nextdoor/copy/headlines.csv">headlines.csv</a> · <a href="handoff/nextdoor/copy/bodies.csv">bodies.csv</a></li>
-    <li><a href="handoff/nextdoor/asset-manifest.csv">asset-manifest.csv</a> — reused creatives (1:1 + 1.91:1) + per-creative utm_content</li>
-    <li><a href="handoff/nextdoor/lead-gen-form-spec.md">lead-gen-form-spec.md</a> — native Lead Gen form (primary path)</li>
-  </ul>
-</div>
-
-<footer>
-  Crēdo Legal · Nextdoor Business Page content review · organic counterpart to the paid Nextdoor campaigns (NY · NJ). Draft — pending legal sign-off and Nextdoor advertiser/eligibility confirmation. Hover any component and use the Comments button to leave feedback.
+<footer data-comment-target data-comment-id="bp-footer">
+  Crēdo Legal · Nextdoor Business Page · organic counterpart to the paid Nextdoor campaigns (NY · NJ). Metrics refresh every Monday 9 AM ET. Hover any component and use the Comments button to leave feedback.
 </footer>
-
 </div>
+
+<script>document.write('<script src="page-metrics.js?v='+Date.now()+'"><\/script>');</script>
+<script>
+(function(){
+var P = window.CREDO_ND_PAGE, S = P.snapshots, cur = S[S.length-1], prev = S.length>1 ? S[S.length-2] : null;
+var MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+function fmt(d){ var p=d.split('-'); return +p[2]+' '+MON[+p[1]-1]+' '+p[0]; }
+function delta(k){ if(!prev || prev[k]==null) return ''; var d=cur[k]-prev[k]; var cls=d>0?'':(d<0?' down':' flat'); return '<div class="d'+cls+'">'+(d>0?'+':'')+d+' since '+fmt(prev.asOf)+'</div>'; }
+var KP=[['Page views','pageViews'],['Faves','faves'],['Recommendations','recs'],['Mentions','mentions'],['Messages','messages'],['Posts published','postsPublished'],['Post views (total)','postViews'],['Engagements made','engagements']];
+document.getElementById('kpis').innerHTML = KP.map(function(k){ return '<div class="kpi"><b>'+(cur[k[1]]==null?'—':cur[k[1]])+'</b><span>'+k[0]+'</span>'+delta(k[1])+'</div>'; }).join('');
+document.getElementById('kpi-sub').textContent = 'as of '+fmt(cur.asOf)+' · refreshed every Monday 9 AM ET';
+document.getElementById('kpi-note').textContent = (cur.note||'') + ' Sources: page dashboard (all-time), business inbox, and each post\'s insights page.';
+document.getElementById('s-recs').textContent = cur.recs; document.getElementById('s-faves').textContent = cur.faves; document.getElementById('s-views').textContent = cur.pageViews;
+if (S.length>1) {
+  document.getElementById('hist').innerHTML = '<table class="hist"><tr><th>Week</th>'+KP.map(function(k){return '<th>'+k[0]+'</th>';}).join('')+'</tr>'+
+    S.slice().reverse().map(function(s){ return '<tr><td>'+fmt(s.asOf)+'</td>'+KP.map(function(k){return '<td>'+(s[k[1]]==null?'—':s[k[1]])+'</td>';}).join('')+'</tr>'; }).join('')+'</table>';
+}
+})();
+</script>
 <script src="review.config.js"></script>
 <script src="review-bootstrap.js"></script>
 </body></html>

@@ -44,7 +44,7 @@ window.CREDO_ND_POSTS = [
  /* ---------------- scheduled ---------------- */
  {date:'2026-09-17', time:'17:00', status:'published', src:'hub', type:'ad', cluster:'Rights education', img:'assets/post-rights.jpg', imgNote:'Hub image (16:9)',
   url:'https://nextdoor.com/p/HPMtgQZQcgNS/', insights:'https://nextdoor.com/post_insights/HPMtgQZQcgNS/', postedAt:'2026-09-17T15:37:50.116Z',
-  metrics:{views:0, reactions:0, comments:0, asOf:'2026-09-17'},
+  metrics:{views:3, reactions:0, comments:0, asOf:'2026-09-17'},
   lp:'https://start.credolegal.com',
   text:'Three things debt collectors hope you do not know: (1) you can make them validate the debt in writing before you pay; (2) debt buyers often cannot prove they even own it; (3) balances are frequently inflated, so you may owe far less than they claim. Knowing this changes how you respond. A free review can show you where you really stand: start.credolegal.com',
   disc:['dram','prior'], why:'Offers a free review and links to the landing page → advertising. "Far less than they claim" suggests a result → Prior results line.'},

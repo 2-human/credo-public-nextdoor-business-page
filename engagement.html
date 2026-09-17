@@ -12,9 +12,6 @@
  header.hd h1{font:700 24px/1.2 var(--disp);margin:0}
  header.hd p{color:var(--sec);font-size:13.5px;margin:7px 0 0;line-height:1.55;max-width:780px}
  header.hd .tag{display:inline-block;font:600 11px var(--body);background:var(--soft);color:var(--green2);border:1px solid #c7e2cd;border-radius:20px;padding:3px 11px;margin-top:10px}
- header.hd .nav{margin-left:auto;display:flex;gap:8px}
- header.hd .nav a{font-size:13px;color:var(--green2);text-decoration:none;border:1px solid #c7e2cd;background:#fff;border-radius:8px;padding:7px 12px;white-space:nowrap}
- header.hd .nav a:hover{background:var(--soft)}
  /* queue summary */
  .qbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;background:#fff;border:1px solid var(--line);border-radius:12px;padding:10px 14px;margin-bottom:22px;font-size:13px}
  .qbar b{font-size:16px}
@@ -72,6 +69,7 @@
  footer{margin-top:34px;padding-top:14px;border-top:1px solid var(--line);font-size:11.5px;color:#8a918d;line-height:1.6}
  html[data-review-mode="on"] body{padding-right:340px}
 </style></head><body>
+<script src="hub-nav.js" data-page="engagement"></script>
 <div class="page">
 
 <header class="hd">
@@ -80,7 +78,6 @@
     <p data-comment-target data-comment-id="nd-eng-intro">Every day a scan of the Nextdoor feed picks <b>five neighbors' posts</b> Credo's page could react to, each with a suggested reaction and comment. Pick a reaction, edit or clear the comment, and <b>Submit</b> — it goes into a queue that is applied on Nextdoor by the next run; the card then shows <b>Engaged</b> with permalinks to the post and to Credo's comment. <b>Skip</b> drops a candidate. Nothing is posted until you submit.</p>
     <span class="tag" id="summary">…</span>
   </div>
-  <nav class="nav"><a href="calendar.html">Content calendar</a><a href="index.html">← Business Page review</a></nav>
 </header>
 
 <div class="qbar" data-comment-target data-comment-id="nd-eng-queue">
