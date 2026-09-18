@@ -176,7 +176,7 @@ var P = window.CREDO_ND_PAGE, S = P.snapshots, cur = S[S.length-1], prev = S.len
 var MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 function fmt(d){ var p=d.split('-'); return +p[2]+' '+MON[+p[1]-1]+' '+p[0]; }
 function delta(k){ if(!prev || prev[k]==null) return ''; var d=cur[k]-prev[k]; var cls=d>0?'':(d<0?' down':' flat'); return '<div class="d'+cls+'">'+(d>0?'+':'')+d+' since '+fmt(prev.asOf)+'</div>'; }
-var KP=[['Page views','pageViews'],['Faves','faves'],['Recommendations','recs'],['Mentions','mentions'],['Messages','messages'],['Posts published','postsPublished'],['Post views (total)','postViews'],['Engagements made','engagements']];
+var KP=[['Page views','pageViews'],['Faves','faves'],['Recommendations','recs'],['Mentions','mentions'],['Messages','messages'],['Posts published','postsPublished'],['Post views (total)','postViews'],['Engagements made','engagements'],['Link clicks','ndClicks']];
 document.getElementById('kpis').innerHTML = KP.map(function(k){ return '<div class="kpi"><b>'+(cur[k[1]]==null?'—':cur[k[1]])+'</b><span>'+k[0]+'</span>'+delta(k[1])+'</div>'; }).join('');
 document.getElementById('kpi-sub').textContent = 'as of '+fmt(cur.asOf)+' · refreshed every Monday 9 AM ET';
 document.getElementById('kpi-note').textContent = (cur.note||'') + ' Sources: page dashboard (all-time), business inbox, and each post\'s insights page.';

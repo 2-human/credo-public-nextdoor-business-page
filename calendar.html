@@ -23,6 +23,7 @@
  .b.t-edu{background:#eaf3fb;color:#1d5a8c;border-color:#c9dff0}
  .b.st-published{background:var(--green);color:#fff;border-color:var(--green)}
  .b.st-scheduled{background:#fff;color:var(--sec);border-color:#c9cfcc}
+ .b.lnk{background:#f1f4f9;color:#3d4f6b;border-color:#d7dfea;text-transform:none;letter-spacing:0;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
  .week{margin-bottom:26px}
  .week h2{font:700 12px var(--body);text-transform:uppercase;letter-spacing:.09em;color:var(--green2);margin:0 2px 10px;padding-bottom:7px;border-bottom:2px solid #e6e9e8}
  .week h2 span{color:var(--sec);font-weight:400;text-transform:none;letter-spacing:0;font-size:11.5px;margin-left:8px}
@@ -155,7 +156,7 @@ function fmt(dt){return DOW[(dt.getUTCDay()+6)%7]+' '+dt.getUTCDate()+' '+MON[dt
 function fmtShort(s){var dt=d(s);return dt.getUTCDate()+' '+MON[dt.getUTCMonth()];}
 function disclaimer(p){ if(p.type!=='ad') return ''; var s=BASE; if(p.disc.indexOf('dram')>-1) s+=' '+DRAM; if(p.disc.indexOf('prior')>-1) s+=' '+PRIOR; return s; }
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
-function linkify(s){return esc(s).replace(/(start\.credolegal\.com[\w\/-]*)/g,'<a href="https://$1" target="_blank" rel="noopener">$1</a>');}
+function linkify(s){return esc(s).replace(/((?:start\.credolegal\.com|credolegal\.s\.gy)[\w\/-]*)/g,'<a href="https://$1" target="_blank" rel="noopener">$1</a>');}
 /* 'HH:MM' (24h, ET) → '5:00 PM ET' */
 function fmtTime(t){ if(!t) return ''; var h=+t.slice(0,2), m=t.slice(3,5); return ((h%12)||12)+':'+m+' '+(h<12?'AM':'PM')+' ET'; }
 function whenLabel(p){
@@ -185,16 +186,20 @@ document.getElementById('summary').textContent = nPub+' published · '+(POSTS.le
  * re-applies outlines/dots) and window.__rwReveal opens the right post or carousel slide
  * when a comment is clicked in the sidebar. */
 function keyOf(p){ return p.date+'-'+slug(p.cluster); }
+/* Tracked short link for one channel. p.short is keyed by channel ('nextdoor', later
+ * 'linkedin', 'facebook', ...), so other networks reuse this shape with no schema change. */
+function shortOf(p, ch){ return (p.short && p.short[ch || 'nextdoor']) || null; }
 function A(id){ return ' data-comment-target data-comment-id="'+id+'"'; }
 var BY_KEY = {}; POSTS.forEach(function(p){ BY_KEY[keyOf(p)] = p; });
 
 function itemHtml(p){
-  var m = p.metrics, k = 'nd-cal-'+keyOf(p);
+  var m = p.metrics, sh = shortOf(p), k = 'nd-cal-'+keyOf(p);
   return '<div class="item"'+A(k)+' data-key="'+keyOf(p)+'">'+
     '<div class="thumb"'+A(k+'-image')+'>'+(p.img?'<img src="'+p.img+'" alt="" loading="lazy">':'no image')+'</div>'+
     '<div class="body"><div class="when'+(p.status==='published'?' pub':'')+'"'+A(k+'-time')+'>🕘 '+esc(whenLabel(p))+'</div><div class="cluster"'+A(k+'-topic')+'>'+esc(p.cluster)+'</div><div class="pv"'+A(k+'-text')+'>'+esc(p.text)+'</div>'+
-    '<div class="badges"'+A(k+'-badges')+'><span class="b st-'+p.status+'">'+p.status+'</span><span class="b src-'+p.src+'">'+SRC[p.src]+'</span><span class="b t-'+p.type+'">'+(p.type==='ad'?'Advertising':'Educational')+'</span></div></div>'+
-    (m ? '<div class="stats"><div'+A(k+'-metrics')+'><b>'+m.views+'</b> views · '+m.reactions+' reactions · '+m.comments+' comments<div class="asof">as of '+fmtShort(m.asOf)+'</div></div>'+
+    '<div class="badges"'+A(k+'-badges')+'><span class="b st-'+p.status+'">'+p.status+'</span><span class="b src-'+p.src+'">'+SRC[p.src]+'</span><span class="b t-'+p.type+'">'+(p.type==='ad'?'Advertising':'Educational')+'</span>'+
+    (sh?'<span class="b lnk"'+A(k+'-short')+'>🔗 '+esc(sh.url.replace(/^https:\/\/[^/]+\//,''))+'</span>':'')+'</div></div>'+
+    (m ? '<div class="stats"><div'+A(k+'-metrics')+'><b>'+m.views+'</b> views · '+m.reactions+' reactions · '+m.comments+' comments'+(sh&&sh.asOf?' · <b>'+sh.clicks+'</b> clicks':'')+'<div class="asof">as of '+fmtShort(m.asOf)+'</div></div>'+
          '<div class="links"'+A(k+'-links')+'><a href="'+p.url+'" target="_blank" rel="noopener" onclick="event.stopPropagation()">Post ↗</a><a href="'+p.insights+'" target="_blank" rel="noopener" onclick="event.stopPropagation()">Insights ↗</a></div></div>' : '')+
   '</div>';
 }
@@ -253,7 +258,7 @@ if (todayCell && !location.hash) setTimeout(function(){ todayCell.closest('.week
 var ov = document.getElementById('ov'), modal = document.getElementById('modal');
 function open(p){
   var dsc = disclaimer(p), full = p.text + (dsc ? '\n\n'+dsc : '');
-  var isSquare = /1x1/.test(p.img), m = p.metrics, k = 'nd-post-'+keyOf(p);
+  var isSquare = /1x1/.test(p.img), m = p.metrics, sh = shortOf(p), k = 'nd-post-'+keyOf(p);
   function row(part, label, val, cls){ return '<div class="row"'+A(k+'-'+part)+'><span class="l">'+label+'</span><span class="v'+(cls?' '+cls:'')+'">'+val+'</span></div>'; }
   modal.innerHTML =
     '<div class="mh"'+A(k+'-header')+'><b>'+fmt(d(p.date))+' '+d(p.date).getUTCFullYear()+'</b><span class="b st-'+p.status+'">'+p.status+'</span><span class="b src-'+p.src+'">'+SRC[p.src]+'</span><span class="b t-'+p.type+'">'+(p.type==='ad'?'Advertising · NY disclaimer':'Educational · no disclaimer')+'</span><button class="close" aria-label="Close" data-review-skip>×</button></div>'+
@@ -272,6 +277,7 @@ function open(p){
       row('topic','Topic',esc(p.cluster))+
       row('source','Source',SRC[p.src])+
       row('imgnote','Image',esc(p.imgNote))+
+      (sh?row('short','Short link','<a href="'+sh.url+'" target="_blank" rel="noopener">'+esc(sh.url.replace('https://',''))+'</a> · '+(sh.asOf?'<b>'+sh.clicks+'</b> clicks as of '+fmt(d(sh.asOf)):'no clicks recorded yet')):'')+
       (p.lp?row('lp','Landing page','<a href="'+p.lp+'" target="_blank" rel="noopener">'+esc(p.lp.replace('https://',''))+'</a>'):'')+
       row('length','Length',full.length+' characters'+(dsc?' incl. disclaimer':''))+
       row('why','Disclaimer',esc(p.why),'why')+
@@ -291,7 +297,7 @@ ov.addEventListener('click', function(e){ if(e.target===ov) close(); });
 /* Sidebar → element: open the post modal for nd-post-* anchors, flip the carousel for nd-cal-* anchors. */
 window.__rwReveal = function(anchor){
   var sel = '[data-comment-id="'+(window.CSS&&CSS.escape?CSS.escape(anchor):anchor)+'"]';
-  var mp = /^nd-post-(\d{4}-\d{2}-\d{2}-[a-z0-9-]+?)-(header|author|text|disclaimer|image|metrics|asof|url|insights|time|topic|source|imgnote|lp|length|why|note)$/.exec(anchor);
+  var mp = /^nd-post-(\d{4}-\d{2}-\d{2}-[a-z0-9-]+?)-(header|author|text|disclaimer|image|metrics|asof|url|insights|time|topic|source|imgnote|short|lp|length|why|note)$/.exec(anchor);
   if (mp && BY_KEY[mp[1]]) { open(BY_KEY[mp[1]]); return modal.querySelector(sel); }
   close();
   var el = document.querySelector(sel);
