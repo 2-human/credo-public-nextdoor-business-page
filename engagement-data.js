@@ -118,6 +118,54 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": ""
     }
    ]
+  },
+  "2026-09-18": {
+   "scannedAt": "2026-09-18T12:07:53.593Z",
+   "feedPosts": 11,
+   "todayPosts": 2,
+   "excluded": [],
+   "candidates": [
+    {
+     "id": "511812166",
+     "short": "STwYq2CJHSbr",
+     "url": "https://nextdoor.com/p/STwYq2CJHSbr/",
+     "who": "Jasmine Von Rock",
+     "hood": "Kips Bay (32nd-1st-34th-3rd)",
+     "t": 1789732901634,
+     "age": "5 min ago",
+     "subject": "I love you, my neighbors ❤️",
+     "body": "I love you, my neighbors ❤️",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "A simple, warm good-morning message to the neighborhood — nothing controversial, just a nice one to acknowledge.",
+     "suggestReaction": "Like",
+     "suggestComment": ""
+    },
+    {
+     "id": "511812120",
+     "short": "thkZHcMRZXCx",
+     "url": "https://nextdoor.com/p/thkZHcMRZXCx/",
+     "who": "Jasmine Von Rock",
+     "hood": "Kips Bay (32nd-1st-34th-3rd)",
+     "t": 1789732870864,
+     "age": "6 min ago",
+     "subject": "The fact that you all made it through another week is AMAZING 👏 🤩 I love you.",
+     "body": "The fact that you all made it through another week is AMAZING 👏 🤩 I love you. I'm proud of you. Keep going 💪 ✨️",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Same neighbor's Friday-morning encouragement post, posted a minute apart from the one above — worth a reaction but keeping the comment to just the first post so it doesn't look automated.",
+     "suggestReaction": "Like",
+     "suggestComment": ""
+    }
+   ]
   }
  }
 };
