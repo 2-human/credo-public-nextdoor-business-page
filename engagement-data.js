@@ -166,6 +166,272 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": ""
     }
    ]
+  },
+  "2026-09-19": {
+   "scannedAt": "2026-09-21T07:11:40.000Z",
+   "feedPosts": 19,
+   "todayPosts": 7,
+   "excluded": [
+    {
+     "id": "512194492",
+     "who": "David Goldstein",
+     "subject": "Rally set Sunday, 9/20 at noon to help save the AMC Kips Bay 15",
+     "reason": "Organised rally with elected officials — civic advocacy, outside the neutral neighbourly lane."
+    },
+    {
+     "id": "512220027",
+     "who": "Beth Harkavy",
+     "subject": "Any non-profits or political offices need an experienced person",
+     "reason": "Explicitly political work — excluded as political."
+    },
+    {
+     "id": "512190265",
+     "who": "Francesca Espinal",
+     "subject": "Interested in building connections.",
+     "reason": "Invites strangers to phone calls — a business page engaging could read as endorsement of a risky ask."
+    },
+    {
+     "id": "512059186",
+     "who": "Joann Smith",
+     "subject": "Hope was definitely good and exciting to watch the killing was horrifically bloody",
+     "reason": "Film talk, but the wording reads graphically violent out of context — wrong tone for a law firm to amplify."
+    }
+   ],
+   "candidates": [
+    {
+     "id": "512209429",
+     "short": "TLs-Br5WrbJg",
+     "url": "https://nextdoor.com/p/TLs-Br5WrbJg/",
+     "who": "Ivan Eone",
+     "hood": "Chelsea (23rd-10th-34th)",
+     "t": 1789869068609,
+     "age": "1 day ago",
+     "subject": "Watch out, neighbors.",
+     "body": "Watch out, neighbors. There are some incredibly reckless riders speeding around the neighborhood completely unchecked. I was almost hit today along with a few others. Please stay safe and keep your eyes peeled!",
+     "reactions": 19,
+     "comments": 11,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "A straightforward street-safety warning with real traction (19 reactions, 11 comments) — the top-priority category, and nobody is named or blamed.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thank you for flagging this, and glad you are okay. A heads-up like this is what makes people look twice at the crossings."
+    },
+    {
+     "id": "512193641",
+     "short": "9tZMDMkTmKXc",
+     "url": "https://nextdoor.com/p/9tZMDMkTmKXc/",
+     "who": "Josselyn Magaly Buna",
+     "hood": "Battery Park City (River Terr)",
+     "t": 1789862417690,
+     "age": "1 day ago",
+     "subject": "Hello neighbors, I hope you're having a wonderful weekend!",
+     "body": "Hello neighbors, I hope you're having a wonderful weekend! A while ago I shared a picture of Lucky when he was a little boy. Look how much he's grown! Now Lucky has a new little brother and has become quite the protector.",
+     "reactions": 293,
+     "comments": 45,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "The most-loved post of the day by a wide margin (293 reactions) — a dog growing up, warm and entirely uncontroversial.",
+     "suggestReaction": "Like",
+     "suggestComment": "Lucky has grown up well, and a big brother now too. Updates like this are the best part of the feed."
+    },
+    {
+     "id": "512097198",
+     "short": "yTmM4YS7QQMm",
+     "url": "https://nextdoor.com/p/yTmM4YS7QQMm/",
+     "who": "Brandon Sage",
+     "hood": "Chelsea (8Ave-25th)",
+     "t": 1789833459805,
+     "age": "1 day ago",
+     "subject": "Can anyone recommend a card shop in Manhattan that has an offering of more uniquely funny cards?",
+     "body": "Can anyone recommend a card shop in Manhattan that has an offering of more uniquely funny cards? There used to be a couple on the upper west side and they're both closed. I've been to Barnes & Noble and I've been to so many others, but I can't find a store which offers offbeat, funny greeting cards. Can anyone help me with this?",
+     "reactions": 15,
+     "comments": 63,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "A busy, friendly recommendation thread (63 comments) about small shops closing — easy to join as a neighbour without steering anyone.",
+     "suggestReaction": "Like",
+     "suggestComment": "Following this one. The offbeat card shops have really thinned out downtown, so hoping someone turns up a good spot."
+    }
+   ]
+  },
+  "2026-09-20": {
+   "scannedAt": "2026-09-21T07:11:40.000Z",
+   "feedPosts": 19,
+   "todayPosts": 11,
+   "excluded": [
+    {
+     "id": "512405585",
+     "who": "Keith O. Bennett",
+     "subject": "I'M GIVING A LITTLE GIFT TO THE FIRST 5 PEOPLE WHO DM ME THE WORD \"GOD IS GOOD\"",
+     "reason": "Religious framing plus a DM-bait giveaway pattern — excluded as religious and likely a scam hook."
+    },
+    {
+     "id": "512405560",
+     "who": "Keith O. Bennett",
+     "subject": "I'M GIVING A LITTLE GIFT TO THE FIRST 5 PEOPLE WHO DM ME THE WORD \"GOD IS GOOD\"",
+     "reason": "Duplicate of the post above, same reason."
+    },
+    {
+     "id": "512402236",
+     "who": "Grace Prego",
+     "subject": "AFFORDABLE HOUSE FOR RENT!!!",
+     "reason": "Rental listing posted twice within an hour — promotional, and the duplication pattern reads as spam."
+    },
+    {
+     "id": "512396164",
+     "who": "Grace Prego",
+     "subject": "AFFORDABLE HOUSE FOR RENT",
+     "reason": "Duplicate of the listing above, same reason."
+    },
+    {
+     "id": "512309075",
+     "who": "Vee P.",
+     "subject": "…..hmm",
+     "reason": "89 comments on a cryptic image post — cannot verify the subject, and that much heat suggests an argument."
+    },
+    {
+     "id": "512288512",
+     "who": "Elise Weber",
+     "subject": "We're Hiring: Procurement Manager",
+     "reason": "Corporate recruitment post rather than a neighbour's own post."
+    }
+   ],
+   "candidates": [
+    {
+     "id": "512291055",
+     "short": "yGC67sh2BmGR",
+     "url": "https://nextdoor.com/p/yGC67sh2BmGR/",
+     "who": "Ashley Alsaiedi",
+     "hood": "Chelsea (23rd-10th-34th)",
+     "t": 1789922647881,
+     "age": "14 hr ago",
+     "subject": "finch loose near 14 haratio st",
+     "body": "finch loose near 14 haratio st",
+     "reactions": 3,
+     "comments": 2,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/af/65/af65238df9d09cfea8d28387e8a7f5d8.jpeg",
+     "why": "A lost pet with a photo — the classic neighbourly request, and the kind of post where a kind word costs nothing.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Hope the little one is back home safe by now. Good of you to post the photo so neighbors know what to look for."
+    },
+    {
+     "id": "512402371",
+     "short": "Mjq9jnnnLdrM",
+     "url": "https://nextdoor.com/p/Mjq9jnnnLdrM/",
+     "who": "Joseph DiMartino",
+     "hood": "Brooklyn Heights",
+     "t": 1789960023131,
+     "age": "3 hr ago",
+     "subject": "Twilight",
+     "body": "Twilight",
+     "reactions": 3,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/15/48/15488d4ab79f118cf87fb5a1bf986e65.jpeg",
+     "why": "A one-word photo post of the evening sky — pure local appreciation, no angle to get wrong.",
+     "suggestReaction": "Like",
+     "suggestComment": "Beautiful shot. The light over the city this time of year is hard to beat."
+    },
+    {
+     "id": "512244374",
+     "short": "5WKjF7Nh43wK",
+     "url": "https://nextdoor.com/p/5WKjF7Nh43wK/",
+     "who": "Joann Smith",
+     "hood": "FiDi (West-Broadway-Pearl)",
+     "t": 1789905842454,
+     "age": "19 hr ago",
+     "subject": "Ok yesterday was a good day I went to church lunch and then I went to movies to see Resident Evil in 4DX",
+     "body": "Ok yesterday was a good day I went to church lunch and then I went to movies to see Resident Evil in 4DX and because of the special effects I was jumping and screaming out loud and that chair caused it all loll and god damn and it's a continuation for another movie yet to come, but it was definitely funny and scary at the same time just like Hope, your gotta experience 4DX style at least once in your life loll it's always with a action movie.",
+     "reactions": 2,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/c0/76/c0760ab3b450e53bc08d601651c16f1a.jpeg",
+     "why": "Cheerful account of a day out — light local chatter with no one to offend, and it has had no replies yet.",
+     "suggestReaction": "Haha",
+     "suggestComment": "4DX really does get you — the chair is half the movie. Sounds like a great day out."
+    },
+    {
+     "id": "512324948",
+     "short": "xn5mMNcnt2DG",
+     "url": "https://nextdoor.com/p/xn5mMNcnt2DG/",
+     "who": "Julieanne Goris",
+     "hood": "Ft Greene (Ingersoll-Whitman)",
+     "t": 1789932413585,
+     "age": "11 hr ago",
+     "subject": "Hi everyone!",
+     "body": "Hi everyone! I am offering chess lessons for complete beginners in and around the Fort Greene area. I have a lot of experience coaching kids between 5 and 7 years old, getting them tournament-ready, and helping promote confidence & precision. Rates Flexible",
+     "reactions": 2,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "A neighbour starting something small and local for kids — warm to encourage, and no competitive overlap with Credo.",
+     "suggestReaction": "Like",
+     "suggestComment": "Chess at that age is such a good confidence builder. Hope you get a full roster of local kids."
+    },
+    {
+     "id": "512371119",
+     "short": "Y7yGjPHnBKMg",
+     "url": "https://nextdoor.com/p/Y7yGjPHnBKMg/",
+     "who": "Linda Montoya",
+     "hood": "Stuyvesant Hts (Park-Myrtle)",
+     "t": 1789947205951,
+     "age": "7 hr ago",
+     "subject": "I'm on Rover.",
+     "body": "I'm on Rover. Anyone need a dog sitter I'm your girl. Linda M.",
+     "reactions": 2,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "A neighbour offering a small service with no replies yet — a friendly acknowledgement, stopping short of vouching for her.",
+     "suggestReaction": "Like",
+     "suggestComment": "Good luck with it. Neighbors are always looking for someone nearby for the dogs."
+    }
+   ]
+  },
+  "2026-09-21": {
+   "scannedAt": "2026-09-21T07:11:40.000Z",
+   "feedPosts": 19,
+   "todayPosts": 1,
+   "excluded": [],
+   "candidates": [
+    {
+     "id": "512416677",
+     "short": "gww_t5pn6Ps-",
+     "url": "https://nextdoor.com/p/gww_t5pn6Ps-/",
+     "who": "Paris Pakeera",
+     "hood": "E Williamsburg (Morgan-Divisn)",
+     "t": 1789972067236,
+     "age": "38 min ago",
+     "subject": "Would anyone like to share paranormal experiences?",
+     "body": "Would anyone like to share paranormal experiences?",
+     "reactions": 0,
+     "comments": 1,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "The only post so far today — this scan ran at 3 AM ET. Harmless late-night chatter, suggested react-only since a law firm joining a ghost-story thread adds nothing.",
+     "suggestReaction": "Like",
+     "suggestComment": ""
+    }
+   ]
   }
  }
 };
