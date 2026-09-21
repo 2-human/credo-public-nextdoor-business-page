@@ -404,6 +404,34 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Good luck with it. Neighbors are always looking for someone nearby for the dogs."
     }
    ]
+  },
+  "2026-09-21": {
+   "scannedAt": "2026-09-21T07:34:00.501Z",
+   "feedPosts": 20,
+   "todayPosts": 1,
+   "excluded": [],
+   "candidates": [
+    {
+     "id": "512416677",
+     "short": "gww_t5pn6Ps-",
+     "url": "https://nextdoor.com/p/gww_t5pn6Ps-/",
+     "who": "Paris Pakeera",
+     "hood": "E Williamsburg (Morgan-Divisn)",
+     "t": 1789972067236,
+     "age": "1 hr ago",
+     "subject": "Would anyone like to share paranormal experiences?",
+     "body": "Would anyone like to share paranormal experiences?",
+     "reactions": 1,
+     "comments": 1,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Light, harmless local curiosity post with zero controversy risk — good low-key engagement.",
+     "suggestReaction": "Wow",
+     "suggestComment": "Ha, now you have me curious — following this one to see what stories people share!"
+    }
+   ]
   }
  }
 };
