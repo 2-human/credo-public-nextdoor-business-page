@@ -168,11 +168,21 @@ function render(){
 /* persistent strong highlight on the currently-selected comment's element(s).
  * querySelectorAll because a campaign-wide headline anchor (hl-{i}) can match
  * several ads at once. */
+/* An anchor can land on an element the page hides; a hidden element cannot be
+ * scrolled to and shows no outline, so the click looks broken. Climb to the
+ * nearest ancestor that actually occupies space and use that instead. */
+function visibleTarget(el){
+  for(let e=el; e && e.getBoundingClientRect; e=e.parentElement){
+    const r=e.getBoundingClientRect();
+    if(r.width||r.height) return e;
+  }
+  return null;
+}
 function applyActive(){
   document.querySelectorAll('.rw-active-anchor').forEach(e=>e.classList.remove('rw-active-anchor'));
   if(!SELANCHOR)return;
   const sel='[data-comment-id="'+(window.CSS&&CSS.escape?CSS.escape(SELANCHOR):SELANCHOR)+'"]';
-  document.querySelectorAll(sel).forEach(a=>a.classList.add('rw-active-anchor'));
+  document.querySelectorAll(sel).forEach(a=>{const t=visibleTarget(a); if(t) t.classList.add('rw-active-anchor');});
 }
 function spotlight(anchor){
   SELANCHOR=anchor;
@@ -183,6 +193,7 @@ function spotlight(anchor){
   if(!a)a=document.querySelector('[data-comment-id="'+(window.CSS&&CSS.escape?CSS.escape(anchor):anchor)+'"]');
   applyActive();
   if(!a)return;
+  a = visibleTarget(a) || a;
   a.scrollIntoView({behavior:'smooth',block:'center'});
   a.classList.remove('rw-spot');void a.offsetWidth;a.classList.add('rw-spot');setTimeout(()=>a.classList.remove('rw-spot'),1200);
 }
