@@ -432,6 +432,47 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Ha, now you have me curious — following this one to see what stories people share!"
     }
    ]
+  },
+  "2026-09-22": {
+   "scannedAt": "2026-09-22T07:07:15.895Z",
+   "feedPosts": 17,
+   "todayPosts": 3,
+   "excluded": [
+    {
+     "id": "512662840",
+     "who": "Takima Darnell",
+     "subject": "SUNDAY",
+     "reason": "Body is just \"SUNDAY / Join Me\" with a photo we can't inspect for context — too ambiguous to safely engage (could be a church/event invite)."
+    },
+    {
+     "id": "512662826",
+     "who": "Takima Darnell",
+     "subject": "",
+     "reason": "Empty subject/body, same author and same minute as the SUNDAY post — almost certainly a second photo card from the same album post, no standalone content."
+    }
+   ],
+   "candidates": [
+    {
+     "id": "512650344",
+     "short": "-43P8htQgYB8",
+     "url": "https://nextdoor.com/p/-43P8htQgYB8/",
+     "who": "Natalia Ahmed",
+     "hood": "Greenwich Village (3-10-Bway-Uni)",
+     "t": 1790051801903,
+     "age": "2 hr ago",
+     "subject": "Hi everyone, I’m a new college student in New York and if anyone is in the need of affordable dog walking please feel free to reach out.",
+     "body": "Hi everyone, I’m a new college student in New York and if anyone is in the need of affordable dog walking please feel free to reach out. I love dogs and have one myself and have done pet sitting back at home so I would take great care of your pets 💗",
+     "reactions": 1,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "New college student in the neighborhood offering affordable dog-walking and pet-sitting — a warm, low-risk neighborly post that's easy to welcome and support.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Welcome to the neighborhood! What a lovely thing to offer — hope it helps you meet some furry (and two-legged) neighbors."
+    }
+   ]
   }
  }
 };
