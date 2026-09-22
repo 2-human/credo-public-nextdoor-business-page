@@ -77,13 +77,15 @@ window.CREDO_ND_POSTS = [
  /* ---------------- scheduled ---------------- */
  {date:'2026-09-21', time:'21:00', status:'published', src:'hub', type:'ad', cluster:'Credit card', img:'assets/post-credit.jpg', imgNote:'Hub image (16:9)',
   url:'https://nextdoor.com/p/XG5dc6BpP8rY/', insights:'https://nextdoor.com/post_insights/XG5dc6BpP8rY/', postedAt:'2026-09-22T07:22:29.863Z',
-  metrics:{views:0, reactions:0, comments:0, asOf:'2026-09-22'},
+  metrics:{views:2, reactions:0, comments:0, asOf:'2026-09-22'},
   lp:'https://start.credolegal.com/credit-card-debt-negotiation',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-credit-card', dest:'https://start.credolegal.com/credit-card-debt-negotiation?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_nd_organic_v1&utm_content=2026-09-21-credit-card&utm_term=credit-card', id:'link_8on3_034QvCdZayTxR2XRQO1uTh', term:'credit-card', clicks:0, asOf:null}},
   text:'Being pressured over an old credit card balance? Debt buyers often cannot produce the original contract or full account history to prove they even own the account, and balances get inflated with added interest and fees. You can make them validate it, and in many cases settle for less. Free review: credolegal.s.gy/nd-credit-card',
   disc:['dram','prior'], why:'Free review + link → advertising. "Settle for less" suggests a result → Prior results line.'},
 
- {date:'2026-09-22', time:'09:00', status:'scheduled', src:'hub', type:'edu', cluster:'Community', img:'assets/post-money.jpg', imgNote:'Hub image (16:9)',
+ {date:'2026-09-22', time:'09:00', status:'published', src:'hub', type:'edu', cluster:'Community', img:'assets/post-money.jpg', imgNote:'Hub image (16:9)',
+  url:'https://nextdoor.com/p/yWc288-zNdC5/', insights:'https://nextdoor.com/post_insights/yWc288-zNdC5/', postedAt:'2026-09-22T13:10:48.185Z',
+  metrics:{views:0, reactions:0, comments:0, asOf:'2026-09-22'},
   text:'Money has been on a lot of neighbors\' minds lately, between rising costs and bills that never seem to slow down. If you are feeling the squeeze, you are far from alone, and there is no shame in it. Talking about it openly is how we all figure out what actually helps. What has made the biggest difference for your household this year?',
   disc:[], why:'Conversation starter with no pitch, offer or link → not advertising, no disclaimer.'},
 
