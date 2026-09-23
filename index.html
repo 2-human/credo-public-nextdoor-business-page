@@ -80,6 +80,9 @@
  ul.open li:first-child{border-top:0}
  ul.open li:before{content:"?";position:absolute;left:2px;top:7px;width:16px;height:16px;border-radius:50%;background:#fff7ea;border:1px solid #f0e2c9;color:#8a6316;font:700 10px/16px var(--body);text-align:center}
  ul.open li b{color:var(--ink)}
+ ul.open li.done{color:var(--sec)}
+ ul.open li.done:before{content:"\2713";background:var(--soft);border-color:#c7e2cd;color:var(--green2)}
+ ul.open li.done b{color:var(--green2)}
  .ok{font-size:12.5px;color:var(--sec);line-height:1.6;margin:0 0 12px}
  .ok b{color:var(--green2)}
  .two{display:grid;grid-template-columns:1fr 1fr;gap:12px}
@@ -130,7 +133,7 @@
     <div class="bp-row" data-comment-target data-comment-id="bp-field-web"><span class="k">Website</span><span class="v">https://credolegal.com/</span></div>
     <div class="bp-row" data-comment-target data-comment-id="bp-field-email"><span class="k">Email</span><span class="v">sona@credolegal.com</span></div>
     <div class="bp-row" data-comment-target data-comment-id="bp-field-addr"><span class="k">Address</span><span class="v">1 Liberty Street, Suite 4010, New York, NY</span></div>
-    <div class="bp-row" data-comment-target data-comment-id="bp-field-hours"><span class="k">Hours</span><span class="v">Shown as “Open until 5:00 PM” on weekdays</span></div>
+    <div class="bp-row" data-comment-target data-comment-id="bp-field-hours"><span class="k">Hours</span><span class="v">Live: “Open until 5:00 PM” · <b>to set: 9 AM – 9 PM</b></span></div>
   </div>
   <div class="bp-bio" data-comment-target data-comment-id="bp-bio">
     Credo Legal is a consumer debt-defense law firm serving neighbors across New York and New Jersey. If you have been sued over a debt, had your wages garnished, or you are getting nonstop collector calls, our attorneys can step in for a flat monthly fee, not a big upfront retainer. A free case review costs nothing except a bit of our and your time. A time that could be well spent.
@@ -138,14 +141,17 @@
 </div>
 <p class="note">“Recommend” and “Fave” are the primary on-platform actions; “Message” opens the business inbox; “Call” dials the Nextdoor number. Recommendations lift reach the most, so the request template in §4 is the highest-leverage work.</p>
 
-<h2 class="sec">4 · Profile — still to resolve <span>everything else on the live page is accepted as correct</span></h2>
+<h2 class="sec">4 · Profile — decisions &amp; open items <span>decided 21 Sep; everything else on the live page is accepted as correct</span></h2>
 <div class="card" data-comment-target data-comment-id="bp-open">
   <p class="ok"><b>Accepted from the live page:</b> business name (Credo Legal Services Professional Corporation), category (Lawyer), phone (646) 350-2650, email, bio, logo and cover photo.</p>
+  <p class="ok" style="margin-bottom:14px"><b>Decided 21 Sep:</b> service area <b>New York only</b> · address <b>1 Liberty Street, Suite 4010</b> · hours <b>9 AM – 9 PM</b> · website left as is for now.</p>
   <ul class="open">
-    <li data-comment-target data-comment-id="bp-open-area"><b>Service area.</b> The page is a New York, NY page; the bio and the ads promise New York <i>and</i> New Jersey. Decide whether NJ is covered by a service-area setting on this page or needs a second page.</li>
-    <li data-comment-target data-comment-id="bp-open-address"><b>Address.</b> Live: 1 Liberty Street, Suite 4010. The NY disclaimer rule and the website footer use 1 Liberty Plaza, Suite 401. Confirm the principal office and align all three.</li>
-    <li data-comment-target data-comment-id="bp-open-website"><b>Website.</b> Live: credolegal.com. Posts and ads send people to start.credolegal.com landing pages. Decide which the page should carry (or keep credolegal.com and let posts carry the deep links).</li>
-    <li data-comment-target data-comment-id="bp-open-hours"><b>Hours.</b> The page shows “Open until 5:00 PM” today; the full weekly schedule is not visible without editing the page. Confirm intake hours match.</li>
+    <li class="done" data-comment-target data-comment-id="bp-open-area"><b>Service area — decided.</b> Build <b>New York only</b> for now (Sona, 21 Sep). No New Jersey page and no NJ service-area setting.</li>
+    <li class="done" data-comment-target data-comment-id="bp-open-address"><b>Address — decided.</b> <b>1 Liberty Street, Suite 4010</b> (Sona, 21 Sep), matching the live page. Applied to the NY disclaimer rule and the posting helper, and corrected on the five posts already live.</li>
+    <li class="done" data-comment-target data-comment-id="bp-open-hours"><b>Hours — decided.</b> <b>9 AM – 9 PM</b> (Sona, 21 Sep). Still to do on Nextdoor: set the weekly schedule in the page editor — the live page currently shows “Open until 5:00 PM”.</li>
+    <li data-comment-target data-comment-id="bp-open-website"><b>Website — left as is.</b> The page carries credolegal.com while posts and ads deep-link to start.credolegal.com. “Fine for now. We will make the adjustments manually later” (Milos, 17 Sep) — kept here as the reminder.</li>
+    <li data-comment-target data-comment-id="bp-open-bio"><b>Bio still promises New Jersey.</b> The live bio reads “serving neighbors across New York and New Jersey”. With NY-only decided, rewrite it to New York and re-check the ads package, which is still scoped NY + NJ.</li>
+    <li data-comment-target data-comment-id="bp-open-phone"><b>Confirm the Nextdoor number reaches sales.</b> Check that (646) 350-2650 forwards to the sales team and is answered during the 9 AM – 9 PM window (Sona, 21 Sep).</li>
   </ul>
 </div>
 
