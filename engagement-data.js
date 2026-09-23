@@ -473,6 +473,87 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Welcome to the neighborhood! What a lovely thing to offer — hope it helps you meet some furry (and two-legged) neighbors."
     }
    ]
+  },
+  "2026-09-23": {
+   "scannedAt": "2026-09-23T12:52:02Z",
+   "feedPosts": 16,
+   "todayPosts": 5,
+   "excluded": [
+    {
+     "id": "512935510",
+     "who": "Joshua Knight",
+     "subject": "i am busy upgrading every single area of my life",
+     "reason": "vague low-content personal post, no neighborly substance to react to"
+    },
+    {
+     "id": "512933024",
+     "who": "Heaven Perez",
+     "subject": "My dog was stolen from an unlicensed rescue and was illegally given away by a group in the Bronx called new friends rescue.",
+     "reason": "dispute naming a specific rescue organization, emotionally charged accusation — excluded per policy against disputes naming people/orgs"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "512947100",
+     "short": "8CDMmHbS-sch",
+     "url": "https://nextdoor.com/p/8CDMmHbS-sch/",
+     "who": "Adlin A.",
+     "hood": "Murray Hill (E42-Park-E38-2nd)",
+     "t": 1790162765596,
+     "age": "1 hr ago",
+     "subject": "These two kittens need a foster home!",
+     "body": "These two kittens need a foster home!\n\nThey were surrendered to our rescue by someone who had been hoarding cats. Some of their siblings are already safe with a foster, but these two are still waiting for a place to land.\n\nThey need a safe, loving home where they can be cared for while we find their forever families. If you can foster these two kittens, please message us. \n\nPlease share to help them find their foster! \n\nLucky Cat Rescue \nNonprofit",
+     "reactions": 3,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://d16kzk4negkp9h.cloudfront.net/e5/fa/15/e5fa15958123bdc8a746e3e022e946d6/transcoded-compressed-F80A7F48-6AA4-4377-A213-09E3D26D82C8.mp4",
+     "why": "Neighborly rescue/foster request — warm, positive, no controversy.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Hope these two sweet kittens find a loving foster soon, thank you for taking them in and looking out for them."
+    },
+    {
+     "id": "512933414",
+     "short": "Z4wdbN57RRZY",
+     "url": "https://nextdoor.com/p/Z4wdbN57RRZY/",
+     "who": "Jessica Sander",
+     "hood": "Bedford Stuyvesant (Bd-Lfyt)",
+     "t": 1790146126416,
+     "age": "6 hr ago",
+     "subject": "Found dog!!",
+     "body": "Found dog!! \n\nI found a dog running around the border of Bed-Stuy and Clinton Hill. He’s an adult male, white with a few brown patches, possibly a bully mix, no collar. If you lost your dog, please contact me.\n\nI will require proof of ownership before I return him. If I can’t find his owner soon, I will be contacting some rescues I work with.",
+     "reactions": 5,
+     "comments": 0,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/33/52/3352ef916c87f2ea637c99bf6c02c13a.jpeg",
+     "why": "Lost & found neighborly post, low-conflict, easy to engage warmly.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "So relieved he found someone kind to look after him, hope his owner turns up soon!"
+    },
+    {
+     "id": "512921718",
+     "short": "Jb-f3h-_BWqc",
+     "url": "https://nextdoor.com/p/Jb-f3h-_BWqc/",
+     "who": "Maki Sawyer",
+     "hood": "FiDi (Wall-Broad)",
+     "t": 1790136051423,
+     "age": "8 hr ago",
+     "subject": "Hello, I live in a small building in the Financial District with no doorman.",
+     "body": "Hello, I live in a small building in the Financial District with no doorman. Yesterday, an Amazon delivery man wearing full Amazon gear stole the contents of a FedEx envelope addressed to me. The entire incident was captured on our security camera.\nAfter delivering an Amazon package to my neighbor, he reached for my FedEx envelope, ripped it open, took the items inside, and left the torn envelope behind. He even looks toward the camera before turning away and taking the contents. \nMy super reported the incident to the NYPD, but as far as I know, he is still delivering Amazon packages in the neighborhood. I’m concerned this may not be the first time and that he’ll do it again.\nI contacted Amazon, but was told they couldn’t take action unless the NYPD contacted them. It’s shocking and upsetting, and I want my neighbors to be aware and to keep an eye on their packages.",
+     "reactions": 4,
+     "comments": 1,
+     "topics": [
+      "Safety"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/32/0d/320d383f5203b316554503667799ec45.png",
+     "why": "Package-theft safety warning with camera evidence — no named individual dispute, high community value.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Sorry this happened, and thank you for sharing the footage instead of just letting it go, this kind of heads-up helps the whole block stay alert."
+    }
+   ]
   }
  }
 };
