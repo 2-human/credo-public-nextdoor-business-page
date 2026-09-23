@@ -68,7 +68,7 @@ window.CREDO_ND_POSTS = [
 
  {date:'2026-09-20', time:'17:00', status:'published', src:'bold', type:'ad', cluster:'Brand · not alone', img:'assets/bold/heart-1x1.jpeg', imgNote:'Bold creative · "Don\'t face your debt collectors alone" (1:1)',
   url:'https://nextdoor.com/p/dg56q7WfWtN-/', insights:'https://nextdoor.com/post_insights/dg56q7WfWtN-/', postedAt:'2026-09-21T07:10:49.253Z',
-  metrics:{views:10, reactions:0, comments:0, asOf:'2026-09-22'},
+  metrics:{views:11, reactions:0, comments:0, asOf:'2026-09-23'},
   lp:'https://start.credolegal.com',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-not-alone', dest:'https://start.credolegal.com/?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_nd_organic_v1&utm_content=2026-09-20-brand-not-alone&utm_term=brand', id:'link_8on3_034QvCdZayPJ7cFSfjOUei', term:'brand', clicks:0, asOf:null}},
   text:'Dealing with debt collectors is stressful enough without doing it alone. Credo is a debt-defense law firm: real attorneys, a flat monthly fee, and one job, which is making collectors prove what they claim and handling them so you do not have to. If you are getting calls or letters about a debt, start with a free review: credolegal.s.gy/nd-not-alone',
@@ -77,7 +77,7 @@ window.CREDO_ND_POSTS = [
  /* ---------------- scheduled ---------------- */
  {date:'2026-09-21', time:'21:00', status:'published', src:'hub', type:'ad', cluster:'Credit card', img:'assets/post-credit.jpg', imgNote:'Hub image (16:9)',
   url:'https://nextdoor.com/p/XG5dc6BpP8rY/', insights:'https://nextdoor.com/post_insights/XG5dc6BpP8rY/', postedAt:'2026-09-22T07:22:29.863Z',
-  metrics:{views:2, reactions:0, comments:0, asOf:'2026-09-22'},
+  metrics:{views:4, reactions:0, comments:0, asOf:'2026-09-23'},
   lp:'https://start.credolegal.com/credit-card-debt-negotiation',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-credit-card', dest:'https://start.credolegal.com/credit-card-debt-negotiation?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_nd_organic_v1&utm_content=2026-09-21-credit-card&utm_term=credit-card', id:'link_8on3_034QvCdZayTxR2XRQO1uTh', term:'credit-card', clicks:0, asOf:null}},
   text:'Being pressured over an old credit card balance? Debt buyers often cannot produce the original contract or full account history to prove they even own the account, and balances get inflated with added interest and fees. You can make them validate it, and in many cases settle for less. Free review: credolegal.s.gy/nd-credit-card',
@@ -85,7 +85,7 @@ window.CREDO_ND_POSTS = [
 
  {date:'2026-09-22', time:'09:00', status:'published', src:'hub', type:'edu', cluster:'Community', img:'assets/post-money.jpg', imgNote:'Hub image (16:9)',
   url:'https://nextdoor.com/p/yWc288-zNdC5/', insights:'https://nextdoor.com/post_insights/yWc288-zNdC5/', postedAt:'2026-09-22T13:10:48.185Z',
-  metrics:{views:0, reactions:0, comments:0, asOf:'2026-09-22'},
+  metrics:{views:94, reactions:0, comments:0, asOf:'2026-09-23'},
   text:'Money has been on a lot of neighbors\' minds lately, between rising costs and bills that never seem to slow down. If you are feeling the squeeze, you are far from alone, and there is no shame in it. Talking about it openly is how we all figure out what actually helps. What has made the biggest difference for your household this year?',
   disc:[], why:'Conversation starter with no pitch, offer or link → not advertising, no disclaimer.'},
 
