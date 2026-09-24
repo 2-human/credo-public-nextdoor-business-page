@@ -85,13 +85,13 @@ window.CREDO_ND_POSTS = [
 
  {date:'2026-09-22', time:'09:00', status:'published', src:'hub', type:'edu', cluster:'Community', img:'assets/post-money.jpg', imgNote:'Hub image (16:9)',
   url:'https://nextdoor.com/p/yWc288-zNdC5/', insights:'https://nextdoor.com/post_insights/yWc288-zNdC5/', postedAt:'2026-09-22T13:10:48.185Z',
-  metrics:{views:110, reactions:0, comments:0, asOf:'2026-09-23'},
+  metrics:{views:111, reactions:0, comments:0, asOf:'2026-09-23'},
   text:'Money has been on a lot of neighbors\' minds lately, between rising costs and bills that never seem to slow down. If you are feeling the squeeze, you are far from alone, and there is no shame in it. Talking about it openly is how we all figure out what actually helps. What has made the biggest difference for your household this year?',
   disc:[], why:'Conversation starter with no pitch, offer or link → not advertising, no disclaimer.'},
 
  {date:'2026-09-23', time:'17:00', status:'published', src:'bold', type:'ad', cluster:'Inflated balance', img:'assets/bold/pinch-1x1.jpeg', imgNote:'Bold creative · "Your debt may be less than they say" (1:1)',
   url:'https://nextdoor.com/p/X2W_F26Y_sD2/', insights:'https://nextdoor.com/post_insights/X2W_F26Y_sD2/', postedAt:'2026-09-23T21:15:59.347Z',
-  metrics:{views:0, reactions:0, comments:0, asOf:'2026-09-23'},
+  metrics:{views:6, reactions:0, comments:0, asOf:'2026-09-23'},
   lp:'https://start.credolegal.com/credit-card-debt-negotiation',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-inflated-balance', dest:'https://start.credolegal.com/credit-card-debt-negotiation?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_nd_organic_v1&utm_content=2026-09-23-inflated-balance&utm_term=credit-card', id:'link_8on3_034QvCdZayWlSG1jw3vSpX', term:'credit-card', clicks:0, asOf:'2026-09-23'}},
   text:'Your debt may be less than they say. Interest, fees and collection charges get added along the way, and the number on the letter is not always the number you actually owe. You can ask the collector to show exactly how they got to it. We check the balance for free: credolegal.s.gy/nd-inflated-balance',
