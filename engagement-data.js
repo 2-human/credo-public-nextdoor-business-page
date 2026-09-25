@@ -554,6 +554,128 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Sorry this happened, and thank you for sharing the footage instead of just letting it go, this kind of heads-up helps the whole block stay alert."
     }
    ]
+  },
+  "2026-09-24": {
+   "scannedAt": "2026-09-25T09:48:16Z",
+   "backfill": true,
+   "feedPosts": 10,
+   "todayPosts": 7,
+   "excluded": [
+    {
+     "id": "513411748",
+     "who": "Eugene Solfanelli",
+     "subject": "Sweetie needs help ny Essex st...",
+     "reason": "unclear one-line plea (possible animal emergency) with no context or engagement, nothing safe to respond to"
+    },
+    {
+     "id": "513377385",
+     "who": "Leo King",
+     "subject": "@all We are expecting to grow significantly very soon.",
+     "reason": "job-recruiting solicitation for a business, not a neighbourly post"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "513188089",
+     "short": "68wh6q-TG7Ws",
+     "url": "https://nextdoor.com/p/68wh6q-TG7Ws/",
+     "who": "Britt Mc",
+     "hood": "Carroll Gardens",
+     "t": 1790232482534,
+     "age": "1 day ago",
+     "subject": "Hi there.",
+     "body": "Hi there. If anyone is missing a black cat (no chipped ear) there has been one in my area the past several days. Came out of nowhere. My cat doesn’t like him! He seems sweet. President & Court Street. Message me.",
+     "reactions": 13,
+     "comments": 2,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://d16kzk4negkp9h.cloudfront.net/61/f4/3a/61f43a5b5e265f427b4ececb0663286f/transcoded-compressed-1D2FE6D0-1823-4B3E-B9DD-1C62FE5A46CB.mp4",
+     "why": "Found-pet heads-up with good traction; a kind, low-risk neighbourly thread.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "So kind of you to keep an eye on him and post this. Hope his family around President and Court sees it soon."
+    },
+    {
+     "id": "513430610",
+     "short": "fpwXSYhXQy-c",
+     "url": "https://nextdoor.com/p/fpwXSYhXQy-c/",
+     "who": "James Ou",
+     "hood": "Battery Park City (Albany-1Pl)",
+     "t": 1790299956541,
+     "age": "8 hr ago",
+     "subject": "The sunset over the Hudson was insane tonight.",
+     "body": "The sunset over the Hudson was insane tonight.",
+     "reactions": 105,
+     "comments": 16,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/e7/64/e7648dca19fff271816ab208efe2e12b.jpeg",
+     "why": "The day's most lively post (105 reactions, 16 comments), pure local appreciation.",
+     "suggestReaction": "Wow",
+     "suggestComment": "What a shot. Evenings like this are a good reminder of why we love living by the water."
+    },
+    {
+     "id": "513449495",
+     "short": "kS9-t7mhMkP7",
+     "url": "https://nextdoor.com/p/kS9-t7mhMkP7/",
+     "who": "Natacha Harley",
+     "hood": "FiDi (West-Broadway-Pearl)",
+     "t": 1790307467843,
+     "age": "6 hr ago",
+     "subject": "Hi, I’m Looking for a reliable home sitter who loves pets.",
+     "body": "Hi, I’m Looking for a reliable home sitter who loves pets.",
+     "reactions": 2,
+     "comments": 2,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Simple neighbourly recommendation request, easy to support without taking sides.",
+     "suggestReaction": "Like",
+     "suggestComment": "Hope you find someone great. A sitter your pets already feel at home with makes all the difference."
+    },
+    {
+     "id": "513412419",
+     "short": "YB-SFWw3ZW-F",
+     "url": "https://nextdoor.com/p/YB-SFWw3ZW-F/",
+     "who": "Princess McILwain",
+     "hood": "E Williamsburg (Mntrse-Leonrd)",
+     "t": 1790294037677,
+     "age": "9 hr ago",
+     "subject": "Searching for a forever home for my sweet Lovie girl .",
+     "body": "Searching for a forever home for my sweet Lovie girl . Serious inquiries only .must be active and love outdoor life . Catahoula leopard dog / German Shepherd",
+     "reactions": 2,
+     "comments": 1,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/fa/1a/fa1af72595537fa1f47a28a513bcab9a.jpeg",
+     "why": "Rehoming request that benefits from a boost; warm and uncontroversial.",
+     "suggestReaction": "Like",
+     "suggestComment": "Lovie looks like a sweetheart. Sharing good vibes that the right active family finds her soon."
+    },
+    {
+     "id": "513273913",
+     "short": "-jJxwNNgdr_-",
+     "url": "https://nextdoor.com/p/-jJxwNNgdr_-/",
+     "who": "Gemma Preston",
+     "hood": "Tribeca",
+     "t": 1790266003195,
+     "age": "17 hr ago",
+     "subject": "Hello,",
+     "body": "Hello, \nI’m looking for a magician for a children’s birthday party. Can anyone recommend someone they’ve used or know of please?",
+     "reactions": 1,
+     "comments": 1,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Light, happy neighbourly request about a kid's party.",
+     "suggestReaction": "Like",
+     "suggestComment": "What a fun idea for a birthday. Hope a neighbour has a great magician to recommend and the party is a hit."
+    }
+   ]
   }
  }
 };
