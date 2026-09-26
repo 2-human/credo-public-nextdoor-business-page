@@ -676,6 +676,116 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "What a fun idea for a birthday. Hope a neighbour has a great magician to recommend and the party is a hit."
     }
    ]
+  },
+  "2026-09-25": {
+   "scannedAt": "2026-09-26T13:55:17Z",
+   "backfill": true,
+   "feedPosts": 9,
+   "todayPosts": 3,
+   "excluded": [],
+   "candidates": [
+    {
+     "id": "513653890",
+     "short": "QPYnSXqWcyf6",
+     "url": "https://nextdoor.com/p/QPYnSXqWcyf6/",
+     "who": "YT YT",
+     "hood": "Battery Park City (Albany-1Pl)",
+     "t": 1790380584065,
+     "age": "12 hr ago",
+     "subject": "Found near Stuyvesant HS.",
+     "body": "Found near Stuyvesant HS. Smart glasses. Please identify make, color, approximate time and location.",
+     "reactions": 1,
+     "comments": 0,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": null,
+     "why": "Found-item post near Stuyvesant HS; classic neighbourly lost-and-found worth a boost.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thank you for holding onto these and asking for details before handing them back. Smart glasses are not cheap, so someone will be very relieved."
+    },
+    {
+     "id": "513629076",
+     "short": "X-X3dbQq5fxK",
+     "url": "https://nextdoor.com/p/X-X3dbQq5fxK/",
+     "who": "Amyraa Elaine",
+     "hood": "Park Slope (StMarks-5th)",
+     "t": 1790373560928,
+     "age": "14 hr ago",
+     "subject": "ANY EMPLOYMENT OPPORTUNITIES?",
+     "body": "ANY EMPLOYMENT OPPORTUNITIES?\nAnything off the books? \n\nI currently live in Brooklyn (park slope)\n\nI am a graphic designer, I make flyers, logos, and I also have 8+ years in customer service and call center experience. \n\nI am also a security guard and currently possess a F02/F03/F04 and security guard license",
+     "reactions": 4,
+     "comments": 5,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Neighbour looking for work (cost-of-living/money theme) with an active, friendly thread; encouragement fits without offering anything.",
+     "suggestReaction": "Like",
+     "suggestComment": "Design skills plus years of customer service and a security license is a strong mix. Wishing you luck, and hope a neighbour here has something that fits."
+    },
+    {
+     "id": "513547719",
+     "short": "FQTmxzZWj-SD",
+     "url": "https://nextdoor.com/p/FQTmxzZWj-SD/",
+     "who": "Keith Steier",
+     "hood": "Chelsea (W29-6th-W22-7th)",
+     "t": 1790354214637,
+     "age": "19 hr ago",
+     "subject": "Why are there so many requests for animals finding a home?",
+     "body": "Why are there so many requests for animals finding a home? It just seems that pet owners get fed up or realize they can't continue providing a home. It is so unfair to the pet to now have to find a new family.",
+     "reactions": 18,
+     "comments": 10,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": null,
+     "why": "Most active thread of the day on pet rehoming, but opinionated and likely to draw debate — react-only.",
+     "suggestReaction": "Insightful",
+     "suggestComment": ""
+    }
+   ]
+  },
+  "2026-09-26": {
+   "scannedAt": "2026-09-26T13:55:17Z",
+   "feedPosts": 9,
+   "todayPosts": 3,
+   "excluded": [
+    {
+     "id": "513716956",
+     "who": "Lagui Milagros",
+     "subject": "Kylie’s Era",
+     "reason": "Memorial/grief post for a pet that has died — excluded under deaths rule"
+    },
+    {
+     "id": "513714838",
+     "who": "Lagui Milagros",
+     "subject": "I’ll love ❤️ her my entire existence—",
+     "reason": "Same author's second memorial post for the pet — grief/death, excluded"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "513688917",
+     "short": "zYHBJmZH9YRr",
+     "url": "https://nextdoor.com/p/zYHBJmZH9YRr/",
+     "who": "Frank Sp",
+     "hood": "Battery Park City (River Terr)",
+     "t": 1790395219631,
+     "age": "8 hr ago",
+     "subject": "We have a box of fancy feast cat food (30 mixed cans) , that have expiration dates of 9/2025-11/2025.",
+     "body": "We have a box of fancy feast cat food (30 mixed cans) , that have expiration dates of 9/2025-11/2025. Does anyone know if these should be composted or are there rescues/shelters that can still use them? Thanks.",
+     "reactions": 0,
+     "comments": 1,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Neighbourly give-away question about donating unused cat food; friendly, zero-risk thread that could use a little encouragement.",
+     "suggestReaction": "Like",
+     "suggestComment": "Love that you're looking for a home for these instead of just tossing them. Hope a local rescue can put them to good use."
+    }
+   ]
   }
  }
 };
