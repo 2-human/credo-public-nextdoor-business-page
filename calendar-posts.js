@@ -30,7 +30,7 @@ window.CREDO_ND_POSTS = [
 
  {date:'2026-09-03', status:'published', src:'live', type:'edu', cluster:'Community reply · Clara', img:'', imgNote:'No image — a share of a neighbor\'s post',
   url:'https://nextdoor.com/p/-YYtr5_rF9B4/', insights:'https://nextdoor.com/post_insights/-YYtr5_rF9B4/',
-  metrics:{views:11, reactions:0, comments:0, asOf:'2026-09-26'},
+  metrics:{views:91, reactions:0, comments:0, asOf:'2026-09-26'},
   text:'We\'re a bunch who love helping people out when they are in a spot. It\'s our job, but it\'s also our calling.\nClara sounds like a great person to work with. The cats and dogs would know!\n\n[shares Clara Locklear Fuller\'s 31 Aug post looking for work]',
   disc:[], why:'Community reply, no pitch or link → not advertising, no disclaimer.'},
 
@@ -85,7 +85,7 @@ window.CREDO_ND_POSTS = [
 
  {date:'2026-09-22', time:'09:00', status:'published', src:'hub', type:'edu', cluster:'Community', img:'assets/post-money.jpg', imgNote:'Hub image (16:9)',
   url:'https://nextdoor.com/p/yWc288-zNdC5/', insights:'https://nextdoor.com/post_insights/yWc288-zNdC5/', postedAt:'2026-09-22T13:10:48.185Z',
-  metrics:{views:129, reactions:0, comments:0, asOf:'2026-09-26'},
+  metrics:{views:130, reactions:0, comments:0, asOf:'2026-09-26'},
   text:'Money has been on a lot of neighbors\' minds lately, between rising costs and bills that never seem to slow down. If you are feeling the squeeze, you are far from alone, and there is no shame in it. Talking about it openly is how we all figure out what actually helps. What has made the biggest difference for your household this year?',
   disc:[], why:'Conversation starter with no pitch, offer or link → not advertising, no disclaimer.'},
 
