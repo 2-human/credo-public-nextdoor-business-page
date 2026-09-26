@@ -111,7 +111,9 @@ window.CREDO_ND_POSTS = [
   text:'Within five days of first contacting you, a debt collector has to send a written validation notice. It should name the creditor, state the amount and how it was calculated, and tell you that you have 30 days to dispute the debt. If you never got one, or it is missing pieces, that matters. Keep every letter, and do not rely on what they tell you on the phone. Neighbors, has anyone received a proper notice? What did it look like?',
   disc:[], why:'Explains a process with no offer or link → educational, no disclaimer.', note:'Attorney to confirm the FDCPA § 1692g / Regulation F wording before it goes live.'},
 
- {date:'2026-09-26', time:'17:00', status:'scheduled', src:'bold', type:'ad', cluster:'Check your debt for free', img:'assets/bold/offer-1x1.jpeg', imgNote:'Bold creative · "Check your debt for free" (1:1)',
+ {date:'2026-09-26', time:'17:00', status:'published', src:'bold', type:'ad', cluster:'Check your debt for free', img:'assets/bold/offer-1x1.jpeg', imgNote:'Bold creative · "Check your debt for free" (1:1)',
+  url:'https://nextdoor.com/p/KcM3QXS4Wczm/', insights:'https://nextdoor.com/post_insights/KcM3QXS4Wczm/', postedAt:'2026-09-26T21:40:48.758Z',
+  metrics:{views:0, reactions:0, comments:0, asOf:'2026-09-26'},
   lp:'https://start.credolegal.com',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-free-check', dest:'https://start.credolegal.com/?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_nd_organic_v1&utm_content=2026-09-26-check-your-debt-for-free&utm_term=validation', id:'link_8on3_034QvCdZayc772HDYDZJOs', term:'validation', clicks:0, asOf:'2026-09-23'}},
   text:'Not sure whether a debt is real, accurate, or even yours? Check it for free. Send us the letter or the collector\'s details and our attorneys will tell you whether the collector can back it up and what your options are. No upfront cost, no obligation. credolegal.s.gy/nd-free-check',
