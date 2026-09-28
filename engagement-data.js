@@ -786,6 +786,77 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Love that you're looking for a home for these instead of just tossing them. Hope a local rescue can put them to good use."
     }
    ]
+  },
+  "2026-09-27": {
+   "scannedAt": "2026-09-28T12:19:08Z",
+   "backfill": true,
+   "feedPosts": 10,
+   "todayPosts": 2,
+   "excluded": [
+    {
+     "id": "514003440",
+     "who": "Robert EK",
+     "subject": "(photo only, no text)",
+     "reason": "Photo-only post with no text; content could not be verified from the feed, so skipped rather than reacting blind"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "514013613",
+     "short": "mC2WfHsnb96Z",
+     "url": "https://nextdoor.com/p/mC2WfHsnb96Z/",
+     "who": "Emily song",
+     "hood": "FiDi (Wall-Broad)",
+     "t": 1790543864512,
+     "age": "15 hr ago",
+     "subject": "Hi, I’m looking for a 24/7 monthly parking space starting in January 2027 around Quentin Rd & E 18th Street in Brooklyn (within a 10 min walk).",
+     "body": "Hi, I’m looking for a 24/7 monthly parking space starting in January 2027 around Quentin Rd & E 18th Street in Brooklyn (within a 10 min walk). \nPrivate house driveways, garages, or reserved spots are all welcome! If you’re a local homeowner with an extra driveway spot or space to rent out starting early next year, please send me a message with the price and details. Thank you!",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Neighbourly request (looking for a parking spot) with no replies yet; a friendly nudge can help it get seen.",
+     "suggestReaction": "Like",
+     "suggestComment": "Planning this far ahead is smart, since good monthly spots go fast. Hope a neighbour with a spare driveway sees this and reaches out."
+    }
+   ]
+  },
+  "2026-09-28": {
+   "scannedAt": "2026-09-28T12:19:08Z",
+   "feedPosts": 10,
+   "todayPosts": 2,
+   "excluded": [
+    {
+     "id": "514102881",
+     "who": "Cristina Fontanelli",
+     "subject": "I will be there and am testifying in favor if PRISCILLA's Law!",
+     "reason": "Political/legislative advocacy tied to a fatal crash (death), so excluded under the political and deaths rules"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "514098345",
+     "short": "sksNZ5ZfXQgN",
+     "url": "https://nextdoor.com/p/sksNZ5ZfXQgN/",
+     "who": "Amadou Diop",
+     "hood": "Alphabet City",
+     "t": 1790595809705,
+     "age": "35 min ago",
+     "subject": "🐕 Local dog walker available in Manhattan NYC!",
+     "body": "🐕 Local dog walker available in Manhattan NYC!\n\nBusy day at work? Need a midday break for your pup? I'd love to help.\n\n✅ 30 or 60 minute walks\n✅ Photo updates after every walk\n✅ Free meet-and-greet before we start\n✅ Flexible scheduling, including weekends\n\nRates start at $20 per 30 minutes & $25 for 1 hour walk. I'm currently taking on new clients, so message me if you'd like to book a spot!",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "The only other qualifying post today: a neighbour starting a small dog-walking side business. It's light and positive, so react-only to avoid looking like an endorsement.",
+     "suggestReaction": "Like",
+     "suggestComment": ""
+    }
+   ]
   }
  }
 };
