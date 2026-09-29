@@ -857,6 +857,113 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": ""
     }
    ]
+  },
+  "2026-09-29": {
+   "scannedAt": "2026-09-29T21:09:40.756Z",
+   "feedPosts": 10,
+   "todayPosts": 7,
+   "excluded": [
+    {
+     "id": "514522334",
+     "who": "Mia Jones",
+     "subject": "I simply posted a message to celebrate my birthday.",
+     "reason": "Interpersonal dispute / complaint about another neighbour"
+    },
+    {
+     "id": "514521562",
+     "who": "Mark Salamon",
+     "subject": "Around town, everyone seems to have a store they trust more than others.",
+     "reason": "Paid-survey spam with shortened link (likely scam); do not amplify"
+    },
+    {
+     "id": "514512959",
+     "who": "Anna Boyiazis",
+     "subject": "Around town, everyone seems to have a store they trust more than others.",
+     "reason": "Duplicate paid-survey spam with shortened link (likely scam); do not amplify"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "514474055",
+     "short": "3wLBDQr55x7y",
+     "url": "https://nextdoor.com/p/3wLBDQr55x7y/",
+     "who": "Maria Maldonado",
+     "hood": "Cobble Hill",
+     "t": 1790704349990,
+     "age": "3 hr ago",
+     "subject": "Good afternoon everyone here is a picture of my baby.",
+     "body": "Good afternoon everyone here is a picture of my baby. Her name is Chulita I’m sure some of you have seen her before. Well yesterday, my baby had16 teeth removed cost me a pretty penny however, during the extractions, the teeth broke off and the root is still within her gums, which means I have to take her to a specialist, surgeon, and I’m trying to find out if anyone knows of organizations that can issue grants. The worst is that this has to be done within one month I can’t wait any longer. They said a month is the top amount of time I can wait from yesterday, which was when she had the extractions any information that can be given to me. I’d greatly appreciate it.",
+     "reactions": 1,
+     "comments": 1,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/51/1f/511f5b27503814353434e61867399337.jpeg",
+     "why": "Money and cost-of-living pressure (surprise vet bill) paired with a neighbourly request for help finding grants.",
+     "suggestReaction": "Sad",
+     "suggestComment": "Chulita is lucky to have someone fighting this hard for her. I hope a neighbour knows a good pet-care grant group, and sending her a quick, easy recovery."
+    },
+    {
+     "id": "514462125",
+     "short": "CYSy6_jPYq5d",
+     "url": "https://nextdoor.com/p/CYSy6_jPYq5d/",
+     "who": "Sunny Bright",
+     "hood": "Chelsea (8Ave-25th)",
+     "t": 1790701829698,
+     "age": "3 hr ago",
+     "subject": "Do you any of you guys know of any job oppertunities for customer service over the phone, dishwasher, customer service representative,  stock, mailroom position,  file clerk, etc.",
+     "body": "Do you any of you guys know of any job oppertunities for customer service over the phone, dishwasher, customer service representative,  stock, mailroom position,  file clerk, etc. ? I work in retail right now but looking for fulltime or another part time at this time. Thank you for any help.",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Cost-of-living / income request from a neighbour looking for more work, with no replies yet.",
+     "suggestReaction": "Like",
+     "suggestComment": "Good for you for putting the word out. Plenty of local shops and offices hire through word of mouth, so I hope a neighbour here has a lead for you soon."
+    },
+    {
+     "id": "514480273",
+     "short": "h8qfS8D5rN7F",
+     "url": "https://nextdoor.com/p/h8qfS8D5rN7F/",
+     "who": "Rachel Cohn",
+     "hood": "Ft Greene (Hanson-Fulton)",
+     "t": 1790705840779,
+     "age": "2 hr ago",
+     "subject": "Cat spotted in Prospect Park-near the Boathouse.",
+     "body": "Cat spotted in Prospect Park-near the Boathouse. Is he yours?",
+     "reactions": 2,
+     "comments": 0,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/25/20/25205e4367fa201db9104e3e89b46158.jpeg",
+     "why": "Lost & found pet post; a reaction helps it reach the owner.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thank you for stopping to snap a photo and post. Hoping his family sees this and he is home tonight."
+    },
+    {
+     "id": "514490315",
+     "short": "LyPzPSJy5Djm",
+     "url": "https://nextdoor.com/p/LyPzPSJy5Djm/",
+     "who": "Jane Hoffman",
+     "hood": "Flatiron (W17-5th-W14-6th)",
+     "t": 1790708012713,
+     "age": "2 hr ago",
+     "subject": "Take baby squirrel to Wild Bird Fund ASAP",
+     "body": "Take baby squirrel to Wild Bird Fund ASAP \nColumbus and 88th in Manhattan",
+     "reactions": 1,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Light, kind local tip pointing neighbours to a wildlife rescue.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Great tip, the Wild Bird Fund does wonderful work. Good to know where to go if we ever find a little one in trouble."
+    }
+   ]
   }
  }
 };
