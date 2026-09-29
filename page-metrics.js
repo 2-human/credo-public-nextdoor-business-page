@@ -30,6 +30,32 @@ window.CREDO_ND_PAGE = {
    "postViews": 477,
    "engagements": 5,
    "note": "Quiet week: page views +15 to 119, still 0 Faves/Mentions/Recs/messages. The 31 Aug scam-alert post is still the whole story at 373 views; the new 17 Sep rights-education post has 5 views in its first 14 hours and the Clara reply crept up to 91. No new engagements applied since 17 Sep."
+  },
+  {
+   "asOf": "2026-09-23",
+   "pageViews": 108,
+   "faves": 0,
+   "mentions": 0,
+   "recs": 0,
+   "messages": 0,
+   "postsPublished": 9,
+   "postViews": 697,
+   "engagements": 15,
+   "ndClicks": 1,
+   "note": "Still 0 Faves/Mentions/Recs/messages. 5 new posts published this week (17-22 Sep); the 22 Sep community money post already has 96 views and the 31 Aug scam-alert post remains the all-time leader at 373. Only click recorded: 1 on the stop-the-calls link (EU). Note: all-time page views read 108, down from 119 last week -- likely a Nextdoor dashboard recalculation, not a real drop; worth a sanity check next run."
+  },
+  {
+   "asOf": "2026-09-28",
+   "pageViews": 130,
+   "faves": 0,
+   "mentions": 0,
+   "recs": 0,
+   "messages": 0,
+   "postsPublished": 14,
+   "postViews": 1016,
+   "engagements": 26,
+   "ndClicks": 1,
+   "note": "The 25 Sep validation-notice post drove the week with 256 views and the 22 Sep community post climbed to 133; all posts still show 0 reactions and 0 comments, there are still 0 Faves/Mentions/Recs/messages, and the only click remains the one on stop-the-calls."
   }
  ]
 };
