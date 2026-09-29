@@ -107,7 +107,7 @@ window.CREDO_ND_POSTS = [
 
  {date:'2026-09-25', time:'09:00', status:'published', src:'new', type:'edu', cluster:'What a validation notice must include', img:'assets/post-validation.jpg', imgNote:'Reuses the hub validation image — a new image would help',
   url:'https://nextdoor.com/p/FpZfGx-ZmxbH/', insights:'https://nextdoor.com/post_insights/FpZfGx-ZmxbH/', postedAt:'2026-09-26T12:35:27.808Z',
-  metrics:{views:265, reactions:0, comments:0, asOf:'2026-09-28'},
+  metrics:{views:270, reactions:0, comments:0, asOf:'2026-09-28'},
   text:'Within five days of first contacting you, a debt collector has to send a written validation notice. It should name the creditor, state the amount and how it was calculated, and tell you that you have 30 days to dispute the debt. If you never got one, or it is missing pieces, that matters. Keep every letter, and do not rely on what they tell you on the phone. Neighbors, has anyone received a proper notice? What did it look like?',
   disc:[], why:'Explains a process with no offer or link → educational, no disclaimer.', note:'Attorney to confirm the FDCPA § 1692g / Regulation F wording before it goes live.'},
 
@@ -121,13 +121,13 @@ window.CREDO_ND_POSTS = [
 
  {date:'2026-09-27', time:'21:00', status:'published', src:'new', type:'edu', cluster:'Who is actually calling you', img:'assets/post-scam.jpg', imgNote:'Reuses the hub scam-alert image — a new image would help',
   url:'https://nextdoor.com/p/bKsW_8J9MTSD/', insights:'https://nextdoor.com/post_insights/bKsW_8J9MTSD/', postedAt:'2026-09-28T12:20:06.542Z',
-  metrics:{views:51, reactions:0, comments:0, asOf:'2026-09-28'},
+  metrics:{views:62, reactions:0, comments:0, asOf:'2026-09-28'},
   text:'The company calling about your old credit card balance is often not the bank. Old debts get sold, sometimes several times, to debt buyers who pay pennies on the dollar and then try to collect the full amount. Along the way the paperwork gets thin: the original contract, the account history, proof of the balance. That is why you are allowed to ask them to prove it before you pay. Ask for it in writing, every time.',
   disc:[], why:'Explains how debt buying works, no offer or link → educational, no disclaimer.'},
 
  {date:'2026-09-28', time:'09:00', status:'published', src:'bold', type:'ad', cluster:'Sued? Make them prove it', img:'assets/bold/fist-1x1.jpeg', imgNote:'Bold creative · "Sued over a debt? Make them prove it" (1:1)',
   url:'https://nextdoor.com/p/DJhFwj2_W_Rq/', insights:'https://nextdoor.com/post_insights/DJhFwj2_W_Rq/', postedAt:'2026-09-28T13:15:22.873Z',
-  metrics:{views:5, reactions:0, comments:0, asOf:'2026-09-28'},
+  metrics:{views:6, reactions:0, comments:0, asOf:'2026-09-28'},
   lp:'https://start.credolegal.com/debt-lawsuit-summons-respond',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-sued', dest:'https://start.credolegal.com/debt-lawsuit-summons-respond?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_nd_organic_v1&utm_content=2026-09-28-sued-make-them-prove-it&utm_term=lawsuit', id:'link_8on3_034QvCdZayffHYy6XrdqCX', term:'lawsuit', clicks:0, asOf:'2026-09-28'}},
   text:'Sued over a debt? Do not ignore it. In New York you may have as little as 20 days to answer a summons, and if you do nothing the collector can win by default. They still have to prove the debt is yours, the amount is right, and that they own it, and many cannot. Our attorneys can file your answer and make them prove it. Free case review: credolegal.s.gy/nd-sued',
