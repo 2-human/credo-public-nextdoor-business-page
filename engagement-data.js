@@ -964,6 +964,163 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Great tip, the Wild Bird Fund does wonderful work. Good to know where to go if we ever find a little one in trouble."
     }
    ]
+  },
+  "2026-09-30": {
+   "scannedAt": "2026-09-30T21:12:08.314Z",
+   "feedPosts": 21,
+   "todayPosts": 13,
+   "excluded": [
+    {
+     "id": "514704470",
+     "who": "Kate Kate",
+     "subject": "If you can work from home, let me know!",
+     "reason": "Work-from-home '650/weekly, text this number' job spam (likely scam); do not amplify"
+    },
+    {
+     "id": "514670186",
+     "who": "Roberto Sabatini",
+     "subject": "Why use bike lanes when there is a perfectly good sidewalk just sitting there",
+     "reason": "Political advocacy (City Council vote on cyclist enforcement) with a 63-comment argument"
+    },
+    {
+     "id": "514657450",
+     "who": "Eon Lino",
+     "subject": "I am very disappointed and deeply upset by my recent experience with a security guard at Trinity Church.",
+     "reason": "Dispute naming a specific place and person, with a discrimination allegation; religious setting"
+    },
+    {
+     "id": "514656139",
+     "who": "Kimberly Young",
+     "subject": "Earn $200 for about 3 hours of your time.",
+     "reason": "Paid-research-study recruitment via DM (likely spam); do not amplify"
+    },
+    {
+     "id": "514608985",
+     "who": "Johnny Taylor",
+     "subject": "Shopping habits can look completely different from one household to another.",
+     "reason": "Paid-survey spam with link ($75/hour), same pattern as the 29 Sep spam posts; do not amplify"
+    },
+    {
+     "id": "514641917",
+     "who": "Amanda B.",
+     "subject": "Let's Talk About Bodega Cats and Kittens",
+     "reason": "Advocacy post criticising local businesses with a 49-comment debate; a business page should stay out of it"
+    },
+    {
+     "id": "514615298",
+     "who": "Vanessa Aquilino",
+     "subject": "Hi neighbors!",
+     "reason": "Not picked: second post today from the same author (Francis post picked instead)"
+    },
+    {
+     "id": "514673827",
+     "who": "Julian Miguel",
+     "subject": "Hi neighbor Sheah saying hi",
+     "reason": "Not picked: light chatter, capped at five candidates"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "514627081",
+     "short": "bHQYQpMCfQyj",
+     "url": "https://nextdoor.com/p/bHQYQpMCfQyj/",
+     "who": "Skynet Smith",
+     "hood": "FiDi (Pearl-John)",
+     "t": 1790766070349,
+     "age": "10 hr ago",
+     "subject": "Lost Cat!",
+     "body": "Lost Cat! Please be on the lookout for our cat Lee, would be around Front Street and Fletcher/John Street in FiDi. He’s a very sweet black cat, approximately four years old and he was wearing a grey and white bow tie collar (see recent pics) but he may have gotten out of it. He has some balding on the back of his ears. He’s been missing since Monday, no sign that he has been taken into a shelter so I’m hoping someone maybe has him. Please contact me if you have any info, we are worried sick. Call or text any time - 646-287-3174 or message through this app, day or night. Thank you,  neighbors!",
+     "reactions": 21,
+     "comments": 5,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/26/f4/26f4b8c415492820f1b152973d4fcbd4.jpeg",
+     "why": "Lost-pet appeal in FiDi with a lively, supportive thread and no argument.",
+     "suggestReaction": "Sad",
+     "suggestComment": "Hoping Lee turns up soon. Black cats can tuck themselves into the smallest corners, so fingers crossed a neighbour spots that bow tie and gets in touch."
+    },
+    {
+     "id": "514686460",
+     "short": "PLJL-8TqXmqW",
+     "url": "https://nextdoor.com/p/PLJL-8TqXmqW/",
+     "who": "Valerie Garral",
+     "hood": "Ft Greene Park",
+     "t": 1790782121478,
+     "age": "5 hr ago",
+     "subject": "sweet pup needs a home",
+     "body": "sweet pup needs a home\n\nHi my neighbor is foster this super adorable 11 month old dog who is very good with people and very friendly. He was part of a household with his sibling but that owner couldn’t not handle two dogs. My husband and i are helping the foster parent find for a forever home for this beautiful dog. Interested parties please email my husband at RickSavinon@gmail.com . The dog is an informal foster but our aim to make the adoption a formal process to make sure he find a good, reliable home.",
+     "reactions": 6,
+     "comments": 4,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/4b/e7/4be700b19ac4e0ce8e5d2667e167c6cc.jpeg",
+     "why": "Neighbourly rehoming request for a foster dog, done carefully and with a little engagement already.",
+     "suggestReaction": "Like",
+     "suggestComment": "Good on you and your neighbour for taking the time to find him the right home rather than the quick one. Hoping the perfect family sees this."
+    },
+    {
+     "id": "514727698",
+     "short": "BZgLSGm2s5Cb",
+     "url": "https://nextdoor.com/p/BZgLSGm2s5Cb/",
+     "who": "Vinita Haldia",
+     "hood": "Chelsea (W23-8th-W21-10th)",
+     "t": 1790791151003,
+     "age": "3 hr ago",
+     "subject": "Looking for someone who is Indian and speaks Hindi to help take care of my mom, who is visiting from India.",
+     "body": "Looking for someone who is Indian and speaks Hindi to help take care of my mom, who is visiting from India. ❤️\n\nMainly looking for someone who can cook simple Indian food, keep her company, and help with her daily needs.\n\nIf you or someone you know is interested, please contact me. Looking for someone as soon as possible. 🙏  dm me",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Neighbourly recommendation request for a companion for a visiting parent, with no replies yet.",
+     "suggestReaction": "Like",
+     "suggestComment": "What a thoughtful thing to set up for your mom while she is here. Hoping a neighbour knows just the right person."
+    },
+    {
+     "id": "514690891",
+     "short": "sphfY8tp-TZ_",
+     "url": "https://nextdoor.com/p/sphfY8tp-TZ_/",
+     "who": "Vanessa Aquilino",
+     "hood": "N Side Williamsburg (McCarrenPk)",
+     "t": 1790783162148,
+     "age": "5 hr ago",
+     "subject": "This is Francis, I been feeding her 7 years, I'm not sure who else feeds her but she comes every night, I decided to move her Summer house AND Winter house in my shed which is now hers.",
+     "body": "This is Francis, I been feeding her 7 years, I'm not sure who else feeds her but she comes every night, I decided to move her Summer house AND Winter house in my shed which is now hers. She clearly owns my yard and now shed lol...I always wonder if anyone else feeds her, she comes over the fence from the lot of 20 Bayard by union and then to me...I love her, hopefully one day she I'll want to retire the feral life and come in...Just sharing how cute she is... 🩷",
+     "reactions": 199,
+     "comments": 52,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://d16kzk4negkp9h.cloudfront.net/82/64/9f/82649f43dd697e469d0e198de5c3849b/transcoded-compressed-36C1302E-6F11-4625-84D6-ACD64B43EFF2.mp4",
+     "why": "Warm local-appreciation post (seven years of feeding a neighbourhood cat) with the liveliest friendly thread of the day.",
+     "suggestReaction": "Like",
+     "suggestComment": "Seven years of dinner service and now a shed of her own. Francis clearly chose well. Thank you for looking out for her."
+    },
+    {
+     "id": "514741126",
+     "short": "fWBXHQk4DYX3",
+     "url": "https://nextdoor.com/p/fWBXHQk4DYX3/",
+     "who": "Alex Hernandez",
+     "hood": "NoMad",
+     "t": 1790794122253,
+     "age": "2 hr ago",
+     "subject": "Looking to hire for an art teacher AND a music teacher for a charter school in NYC.",
+     "body": "Looking to hire for an art teacher AND a music teacher for a charter school in NYC. Happy to video chat. \n\nSend me a message!",
+     "reactions": 3,
+     "comments": 3,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Local job opening shared neighbour-to-neighbour (income angle), with a small friendly thread.",
+     "suggestReaction": "Like",
+     "suggestComment": "Great to see a local school hiring through the neighbourhood. Hope the right art and music teachers find this."
+    }
+   ]
   }
  }
 };
