@@ -1121,6 +1121,213 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Great to see a local school hiring through the neighbourhood. Hope the right art and music teachers find this."
     }
    ]
+  },
+  "2026-10-01": {
+   "scannedAt": "2026-10-02T09:48:06.132Z",
+   "backfill": true,
+   "feedPosts": 43,
+   "todayPosts": 21,
+   "note": "Backfill for 2026-10-01 run on 2026-10-02 (scan did not run on the day). The page-admin feed is relevance-sorted and rendered a different subset on each load, so posts were merged across three loads of the feed.",
+   "excluded": [
+    {
+     "id": "514919599",
+     "who": "Natan Bibliowicz",
+     "subject": "This lady walked by our home and stole a pumpkin from our stoop a few minutes ago.",
+     "reason": "Accuses an identifiable person with a photo; 138-comment argument thread"
+    },
+    {
+     "id": "515117594",
+     "who": "Bruce Boone",
+     "subject": "Blessings neighbors, I was talking with my niece who works in finance about how expensive groceries and utilities have gotten in Crown Heights lately.",
+     "reason": "Earned-wage/overdraft-fee 'link in the comments' bait (likely scam) and money/debt-adjacent; never engage"
+    },
+    {
+     "id": "515088371",
+     "who": "Jean Paul Ho",
+     "subject": "NOW HIRING: Real Estate Salespeople",
+     "reason": "Recruiting/job ad"
+    },
+    {
+     "id": "515021741",
+     "who": "Mo M.",
+     "subject": "RESTAURANT HIRING: The Vaux in Prospect Heights is hiring!",
+     "reason": "Business hiring post (The Vaux restaurant)"
+    },
+    {
+     "id": "515114002",
+     "who": "Buttermilk & Sundries",
+     "subject": "Caught the New York Stock Exchange all lit up after dark.",
+     "reason": "Business page author"
+    },
+    {
+     "id": "515048255",
+     "who": "Buttermilk & Sundries",
+     "subject": "Manhattan neighbors: Buttermilk & Sundries is getting ready to open",
+     "reason": "Business page author (opening announcement)"
+    },
+    {
+     "id": "515011239",
+     "who": "Tiffany Grigorian",
+     "subject": "Does anyone know any churches in the area that will be doing a blessing of the animals?",
+     "reason": "Religious topic"
+    },
+    {
+     "id": "515081249",
+     "who": "Diane perez",
+     "subject": "I would highly recommend this show.",
+     "reason": "Sacred-history light show at St. Patrick's Cathedral; religious-adjacent, left alone"
+    },
+    {
+     "id": "514944945",
+     "who": "Racheal Caryn",
+     "subject": "Coffee first, everything else later.",
+     "reason": "Selfie engagement-bait profile pattern; skipped to be safe"
+    },
+    {
+     "id": "514975927",
+     "who": "Michelle Ashkin",
+     "subject": "if you see an injured bird…please",
+     "reason": "Post is only an external Facebook link; nothing to engage with"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "515004169",
+     "short": "63pn3md_bRTz",
+     "url": "https://nextdoor.com/p/63pn3md_bRTz/",
+     "who": "Vicki Devor",
+     "hood": "Carroll Gardens",
+     "t": 1790875883977,
+     "age": "16 hr ago",
+     "subject": "Hicks and President.",
+     "body": "Hicks and President. 11231\n\nOr Bass and Bourbon on Hamilton Avenue. \n\nColumbia street and Hamilton. / 113 Hamilton Ave.\n\nHicks and President. All areas this cat has been sighted. \n\nDo you know this cat ?? \n\nHe is running under cars. And in traffic. We very much want to grab (trap) /help this cat. \n\nPlease reach out if you see him regularly. Or feed him. Or maybe he is yours? Your neighbors ? Or you know anything🤷‍♀️\n\nHe is out in the middle of the day. So not feral. But very scared. 😬\n\nVicdevor@yahoo.com or DM me here",
+     "reactions": 18,
+     "comments": 4,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/a6/c9/a6c9fee8ad74f76556004b51a5025bed.jpeg",
+     "why": "Neighbourly effort to get a scared cat off the street in Carroll Gardens, with a live but friendly thread.",
+     "suggestReaction": "Like",
+     "suggestComment": "Thank you for keeping an eye on him and trying to get him somewhere safe instead of just hoping he moves on. Fingers crossed a neighbor on Hicks recognizes him."
+    },
+    {
+     "id": "514949668",
+     "short": "sHyhSYHG8_Gd",
+     "url": "https://nextdoor.com/p/sHyhSYHG8_Gd/",
+     "who": "Alexandra Delgado",
+     "hood": "Two Bridges (Catherine-Cherry)",
+     "t": 1790868312467,
+     "age": "18 hr ago",
+     "subject": "MISSING DOG named Khaos",
+     "body": "MISSING DOG named Khaos \n1 1/2\nMale\nBlue eyes \nWhite , black & brown fur \nLast seen around Harlem 125th st area \nIf anyone has seen or see any posts about him plz contact me so I can bring him home plz 🙏🏻🙏🏻💔💔💔💔💔💔💔",
+     "reactions": 11,
+     "comments": 6,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/ef/89/ef89bcad981a7f04ee1819841701de07.png",
+     "why": "Lost-dog appeal; a supportive, non-advisory reply is exactly the neighbourly voice we want.",
+     "suggestReaction": "Sad",
+     "suggestComment": "So sorry, Khaos sounds like a sweetheart with those blue eyes. Sharing really does help, and hoping a neighbor near 125th spots him soon and gets him home to you."
+    },
+    {
+     "id": "515069515",
+     "short": "nZfQM3x3fqjh",
+     "url": "https://nextdoor.com/p/nZfQM3x3fqjh/",
+     "who": "Philip Orlick",
+     "hood": "Greenwich Village (3-10-Bway-Uni)",
+     "t": 1790891024021,
+     "age": "11 hr ago",
+     "subject": "I will pay someone who is technology,-capable to set up my printer with my laptop.",
+     "body": "I will pay someone who is technology,-capable to set up my printer with my laptop.",
+     "reactions": 4,
+     "comments": 4,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Small, relatable neighbourly request with a few helpful replies already; easy warm encouragement.",
+     "suggestReaction": "Like",
+     "suggestComment": "Love that you asked the neighborhood for this. Printers have a way of defeating all of us, so hopefully someone nearby who speaks fluent printer gets in touch."
+    },
+    {
+     "id": "515119889",
+     "short": "fxQLjN_-59zr",
+     "url": "https://nextdoor.com/p/fxQLjN_-59zr/",
+     "who": "Dalen Rosa",
+     "hood": "Cobble Hill",
+     "t": 1790905605446,
+     "age": "7 hr ago",
+     "subject": "The annual Halloween Dog Costume Party and ACC donation event will be held on Sunday, October 25th from 1 - 3 pm in Cobble Hill Park.",
+     "body": "The annual Halloween Dog Costume Party and ACC donation event will be held on Sunday, October 25th from 1 - 3 pm in Cobble Hill Park. \n\nWe will be collecting clean towels, blankets, linens, toys, and unopened food for Queens Animal Care Center (formerly the Brooklyn ACC).  Every year, the dog shelter really appreciates these donations of clean towels, beds, blankets, and linens as we head into the colder months.  Dogs who are more comfortable are less stressed and more likely to be adopted.  Please find and clean your old blankets and towels now in preparation!",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/c9/45/c9451538f9ba98b9429d1a72972fcfd0.png",
+     "why": "Local community event with a shelter donation drive; wholesome, uncontroversial, and worth a boost early.",
+     "suggestReaction": "Like",
+     "suggestComment": "What a great way to head into the colder months. Thanks for the early notice so everyone can start digging out the clean blankets and towels now."
+    },
+    {
+     "id": "515027524",
+     "short": "qKK8nkLffhWp",
+     "url": "https://nextdoor.com/p/qKK8nkLffhWp/",
+     "who": "Diana Lawrence",
+     "hood": "Manhattan Plaza",
+     "t": 1790880934233,
+     "age": "14 hr ago",
+     "subject": "Shout  out to gracious help on NYC streets...",
+     "body": "Shout  out to gracious help on NYC streets...strangers who notice  someone needs a  little assistance, abd  to bus drivers  who stop AT the curb and especially to the drivers who wait the few seconds for you to get to the bus!👍 THANKS TO ALL",
+     "reactions": 48,
+     "comments": 2,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Local appreciation post with lots of positive reactions and no argument; pure good-neighbour energy.",
+     "suggestReaction": "Like",
+     "suggestComment": "Such a nice reminder that the city is kinder than its reputation. The bus drivers who wait those extra few seconds deserve every bit of this thanks."
+    }
+   ]
+  },
+  "2026-10-02": {
+   "scannedAt": "2026-10-02T09:48:06.132Z",
+   "feedPosts": 43,
+   "todayPosts": 2,
+   "note": "Early-morning run (about 5:40 am ET): only two posts from today were in the feed, one of them spam, so one candidate was picked rather than padding.",
+   "excluded": [
+    {
+     "id": "515151824",
+     "who": "Victoria Johnson",
+     "subject": "Houses and apartments are available for rent, let's know your specific zip code and budget.",
+     "reason": "Rental/WhatsApp-number scam post"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "515152905",
+     "short": "Y8HLJy9K2NTm",
+     "url": "https://nextdoor.com/p/Y8HLJy9K2NTm/",
+     "who": "Eddy Vmuzik",
+     "hood": "Greenwich Vill (W14-6th-Gnw-7th)",
+     "t": 1790927547234,
+     "age": "1 hr ago",
+     "subject": "Hey, everyone!",
+     "body": "Hey, everyone! 👋 I’m Eddy, and I’m new to Greenwich Vill (W14-6th-Gnw-7th).",
+     "reactions": 1,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "New-neighbour intro; a simple welcome is the lightest, friendliest engagement available this early in the day.",
+     "suggestReaction": "Like",
+     "suggestComment": "Welcome to the neighborhood, Eddy! Hope the Village treats you well, there is always something going on around here."
+    }
+   ]
   }
  }
 };
