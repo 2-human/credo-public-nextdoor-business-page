@@ -52,7 +52,7 @@ window.CREDO_ND_POSTS = [
 
  {date:'2026-09-18', time:'21:00', status:'published', src:'bold', type:'ad', cluster:'Stop the calls', img:'assets/bold/stop-1x1.jpeg', imgNote:'Bold creative · "Make the debt collector calls stop?" (1:1)',
   url:'https://nextdoor.com/p/xdWtCx-7mrD7/', insights:'https://nextdoor.com/post_insights/xdWtCx-7mrD7/', postedAt:'2026-09-19T06:39:40.978Z',
-  metrics:{views:92, reactions:0, comments:0, asOf:'2026-10-02'},
+  metrics:{views:93, reactions:0, comments:0, asOf:'2026-10-02'},
   lp:'https://start.credolegal.com/debt-harassment-stop-calls',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-stop-calls', dest:'https://start.credolegal.com/debt-harassment-stop-calls?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_nd_organic_v1&utm_content=2026-09-18-stop-the-calls&utm_term=harassment', id:'link_8on3_034QvCdZaxyMLD9JW5mqQO', term:'harassment', clicks:1, asOf:'2026-09-28'}},
   text:'Want the debt collector calls to stop? You can tell a collector in writing to stop contacting you, and under the FDCPA they have to. Calls before 8am, after 9pm, or at your job after you have asked them not to can each be a violation. Our attorneys send the letter and deal with the collector so you do not have to. Free review of your calls: credolegal.s.gy/nd-stop-calls',
@@ -60,7 +60,7 @@ window.CREDO_ND_POSTS = [
 
  {date:'2026-09-19', time:'09:00', status:'published', src:'hub', type:'ad', cluster:'Debt validation', img:'assets/post-validation.jpg', imgNote:'Hub image (16:9)',
   url:'https://nextdoor.com/p/y8RyPYgRbdYy/', insights:'https://nextdoor.com/post_insights/y8RyPYgRbdYy/', postedAt:'2026-09-21T06:54:31.991Z',
-  metrics:{views:12, reactions:0, comments:0, asOf:'2026-10-02'},
+  metrics:{views:13, reactions:0, comments:0, asOf:'2026-10-02'},
   lp:'https://start.credolegal.com/debt-harassment-stop-calls',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-validation', dest:'https://start.credolegal.com/debt-harassment-stop-calls?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_nd_organic_v1&utm_content=2026-09-19-debt-validation&utm_term=validation', id:'link_8on3_034QvCdZayL6PFp65ofFSq', term:'validation', clicks:0, asOf:'2026-09-28'}},
   text:'Not sure a debt a collector is chasing is even yours? You have the right to make them validate it in writing before you pay a cent, and many collectors, especially debt buyers, cannot produce the paperwork to back it up. Here is how debt validation works: credolegal.s.gy/nd-validation',
@@ -136,7 +136,7 @@ window.CREDO_ND_POSTS = [
 
  {date:'2026-09-29', time:'17:00', status:'published', src:'new', type:'edu', cluster:'Community question', img:'assets/post-money.jpg', imgNote:'Reuses the hub community image — a new image would help',
   url:'https://nextdoor.com/p/2-nychNwssxr/', insights:'https://nextdoor.com/post_insights/2-nychNwssxr/', postedAt:'2026-09-29T21:16:16.169Z',
-  metrics:{views:256, reactions:0, comments:0, asOf:'2026-10-02'},
+  metrics:{views:259, reactions:0, comments:0, asOf:'2026-10-02'},
   text:'Quick neighborly question: which bill surprised you most this year? For a lot of households it has been a medical bill that showed up months later, or a card balance that grew faster than expected. Sharing what caught you off guard helps someone else spot it sooner.',
   disc:[], why:'Conversation starter, no pitch or link → not advertising, no disclaimer.'},
 
