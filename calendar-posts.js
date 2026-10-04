@@ -136,13 +136,13 @@ window.CREDO_ND_POSTS = [
 
  {date:'2026-09-29', time:'17:00', status:'published', src:'new', type:'edu', cluster:'Community question', img:'assets/post-money.jpg', imgNote:'Reuses the hub community image — a new image would help',
   url:'https://nextdoor.com/p/2-nychNwssxr/', insights:'https://nextdoor.com/post_insights/2-nychNwssxr/', postedAt:'2026-09-29T21:16:16.169Z',
-  metrics:{views:291, reactions:0, comments:0, asOf:'2026-10-04'},
+  metrics:{views:297, reactions:0, comments:0, asOf:'2026-10-04'},
   text:'Quick neighborly question: which bill surprised you most this year? For a lot of households it has been a medical bill that showed up months later, or a card balance that grew faster than expected. Sharing what caught you off guard helps someone else spot it sooner.',
   disc:[], why:'Conversation starter, no pitch or link → not advertising, no disclaimer.'},
 
  {date:'2026-09-30', time:'21:00', status:'published', src:'new', type:'edu', cluster:'Old debt has a deadline', img:'assets/post-rights.jpg', imgNote:'Reuses the hub rights image — a new image would help',
   url:'https://nextdoor.com/p/sM6j-NHq6jMb/', insights:'https://nextdoor.com/post_insights/sM6j-NHq6jMb/', postedAt:'2026-10-01T09:23:43.928Z',
-  metrics:{views:106, reactions:1, comments:0, asOf:'2026-10-04'},
+  metrics:{views:109, reactions:1, comments:0, asOf:'2026-10-04'},
   text:'Old debt does not stay collectible forever. Every state sets a deadline for suing over a debt, and in New York that window for most consumer debts is now three years. A collector can still ask you to pay after that, but they cannot sue you for it, and in New York they have to tell you when a debt is past that deadline. Before paying anything on an old account, check the dates.',
   disc:[], why:'Explains a rule with no offer or link → educational, no disclaimer.', note:'Attorney to confirm the New York statute-of-limitations and time-barred-debt disclosure wording before it goes live.'}
 ];
