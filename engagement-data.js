@@ -1328,6 +1328,111 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Welcome to the neighborhood, Eddy! Hope the Village treats you well, there is always something going on around here."
     }
    ]
+  },
+  "2026-10-03": {
+   "scannedAt": "2026-10-04T21:10:04+00:00",
+   "backfill": true,
+   "feedPosts": 11,
+   "todayPosts": 3,
+   "note": "Backfill for the missed 3 Oct scan, run from the 4 Oct extraction. The feed only loaded 11 posts in total; only 3 fall on 3 Oct and just one qualifies, so 1 pick rather than padding.",
+   "excluded": [
+    {
+     "id": "515565571",
+     "who": "Paul T.",
+     "subject": "Hi hope all are well.",
+     "reason": "Complaint about a named dog walker (dispute naming a person)"
+    },
+    {
+     "id": "515548294",
+     "who": "Diane perez",
+     "subject": "Thank you Mayor!",
+     "reason": "Political; 234-comment argument thread"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "515540398",
+     "short": "_XCr8n-32bQd",
+     "url": "https://nextdoor.com/p/_XCr8n-32bQd/",
+     "who": "Jessica Schupack",
+     "hood": "Ft Greene (Fulton-Ashland)",
+     "t": 1791071790407,
+     "age": "21 hr ago",
+     "subject": "UPDATE: She's home!",
+     "body": "UPDATE: She's home! 🎉 I was about to take her to the vet for a microchip scan, but first I went back to where I found her. I saw the steps and found her home, at the psychics' place. They had food and everything for her. She's actually 2 years old, and her owner said she always goes out. I told her to put a collar on her! Thank you all so much for the help and shares. 🐱❤️ \n\nFOUND CAT on Nevins & State in Brooklyn 🐱 \n\nI found this sweet girl on Nevins St between State and Atlantic, playing in a pile of wood and maybe looking for food. She's definitely still a kitten, about 5 to 7 months old, with adorable short legs. She's very friendly and purrs the second you pet her.\n\nIs she yours, or do you know whose she is? If nobody claims her, I'm also looking for a loving home for her. I'd keep her, but I already have two cats in my studio apartment. She's safe and warm with me for now.\n\nPlease message me if she's yours or you'd like to meet her. Sharing is appreciated!",
+     "reactions": 75,
+     "comments": 22,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://d16kzk4negkp9h.cloudfront.net/70/3f/1c/703f1c97aa6d74462287a6e842fdbda1/transcoded-compressed-05B98D29-810E-4094-AC74-4991EE491644.mp4",
+     "why": "Found-cat story with a happy ending and a lively, friendly thread. It is neighbourly lost & found at its best.",
+     "suggestReaction": "Like",
+     "suggestComment": "What a lovely ending, and thank you for going back to look before taking her to the vet. Fingers crossed she gets that collar soon!"
+    }
+   ]
+  },
+  "2026-10-04": {
+   "scannedAt": "2026-10-04T21:10:04+00:00",
+   "feedPosts": 11,
+   "todayPosts": 4,
+   "note": "Thin feed: only 11 posts loaded in total and 4 from today. 2 qualify, so 2 picks rather than padding.",
+   "excluded": [
+    {
+     "id": "515681365",
+     "who": "Sabi Elson",
+     "subject": "There is a young man, named Josh Roizen, living in the Bowery area of Manhattan.",
+     "reason": "Accusation naming a private person (crime and dispute)"
+    },
+    {
+     "id": "515656363",
+     "who": "Huzaifa Matawala",
+     "subject": "Over worked",
+     "reason": "Unclear two-line post (possibly health-related), no engagement"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "515621991",
+     "short": "_DKL6Hy3gPM8",
+     "url": "https://nextdoor.com/p/_DKL6Hy3gPM8/",
+     "who": "Dorcas Rosanne",
+     "hood": "Park Slope (Carroll-7Ave)",
+     "t": 1791127370764,
+     "age": "5 hr ago",
+     "subject": "Hey neighbors, I’m getting married.",
+     "body": "Hey neighbors, I’m getting married. I just need to find a man who can put up with me first 😂",
+     "reactions": 69,
+     "comments": 44,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Light, self-deprecating joke with a big, good-humoured thread. It is easy, warm engagement with no risk.",
+     "suggestReaction": "Haha",
+     "suggestComment": "Ha, the hardest part of the planning is done: you've got the announcement written! Wishing you luck on the search."
+    },
+    {
+     "id": "515671054",
+     "short": "XDs9jTRt3fjP",
+     "url": "https://nextdoor.com/p/XDs9jTRt3fjP/",
+     "who": "Milja D.",
+     "hood": "East Village (E4-1st-E1-Bwry)",
+     "t": 1791142180737,
+     "age": "1 hr ago",
+     "subject": "The evening before the storm last week.",
+     "body": "The evening before the storm last week.",
+     "reactions": 7,
+     "comments": 1,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/5e/0c/5e0c6dae4db2e8cbe50e9db09e04cba9.jpeg",
+     "why": "Local sky photo, simple appreciation of the neighbourhood.",
+     "suggestReaction": "Wow",
+     "suggestComment": "Beautiful shot. Funny how the sky always looks its best right before the weather turns."
+    }
+   ]
   }
  }
 };
