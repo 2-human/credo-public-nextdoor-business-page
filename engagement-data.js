@@ -1433,6 +1433,27 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Beautiful shot. Funny how the sky always looks its best right before the weather turns."
     }
    ]
+  },
+  "2026-10-05": {
+   "scannedAt": "2026-10-05T21:08:00.000Z",
+   "feedPosts": 3,
+   "todayPosts": 2,
+   "note": "Sparse feed: only 4 cards loaded after reload and repeated scrolling. Neither post from today qualified, so the day has no candidates. Yas N.'s lost-bracelet post (FiDi, 21 hr old) is from 4 Oct, outside today's window.",
+   "excluded": [
+    {
+     "id": "515907947",
+     "who": "Nancy R.",
+     "subject": "LOTS OF PRAYERS NEEDED for tomorrow's Cancer appointment",
+     "reason": "medical emergency / religious prayer request"
+    },
+    {
+     "id": "515836048",
+     "who": "William Yang",
+     "subject": "Hello, everyone. (looking for a developer)",
+     "reason": "matches the common Nextdoor 'just moved from California, looking for a developer' recruiting-scam template; not worth engaging from the firm's page"
+    }
+   ],
+   "candidates": []
   }
  }
 };
