@@ -1454,6 +1454,101 @@ window.CREDO_ND_ENGAGE = {
     }
    ],
    "candidates": []
+  },
+  "2026-10-06": {
+   "scannedAt": "2026-10-06T21:10:08.088Z",
+   "feedPosts": 12,
+   "todayPosts": 5,
+   "excluded": [
+    {
+     "id": "516090896",
+     "who": "Clinton Dante",
+     "subject": "Hello everyone ♥️",
+     "reason": "Remote-work recruitment solicitation (job-offer spam pattern), not a neighbour conversation"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "516027499",
+     "short": "7jwRs_CxY6st",
+     "url": "https://nextdoor.com/p/7jwRs_CxY6st/",
+     "who": "Sarah B.",
+     "hood": "Park Slope (StMarks-5th)",
+     "t": 1791285924262,
+     "age": "9 hr ago",
+     "subject": "Abused doodle mix puppy urgently needs foster!",
+     "body": "Abused doodle mix puppy urgently needs foster! I’m working with a team on this rescue case and really need to find a loving home to show him safety. He’s only 8 wks. All vetting will be covered. Please message me if interested!",
+     "reactions": 60,
+     "comments": 35,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/e9/ba/e9baf8157146c8ee8fed6ff9c32487ea.png",
+     "why": "A neighbourly rescue request with a lot of warm engagement (60 reactions, 35 comments) and no argument.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thank you for stepping in for this little one. Sharing so it reaches someone nearby who can give him a calm, safe place to land."
+    },
+    {
+     "id": "516178389",
+     "short": "FJspyzJsdJbn",
+     "url": "https://nextdoor.com/p/FJspyzJsdJbn/",
+     "who": "Jasmine Mason",
+     "hood": "FiDi (Water-William)",
+     "t": 1791316995833,
+     "age": "1 hr ago",
+     "subject": "Looking to Rehome my dog.",
+     "body": "Looking to Rehome my dog. I dont have the time or resources to retrain her at this moment. Please let us know it anyone is available",
+     "reactions": 2,
+     "comments": 2,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/14/4e/144e6e6b7c761996e80b861f508ea46b.png",
+     "why": "A fresh rehoming request where a kind, non-judgemental word helps the thread get seen.",
+     "suggestReaction": "Like",
+     "suggestComment": "It takes care to look for the right home rather than just any home. Hoping a neighbour with the time for her sees this soon."
+    },
+    {
+     "id": "516053844",
+     "short": "jXFcmP6CwKMX",
+     "url": "https://nextdoor.com/p/jXFcmP6CwKMX/",
+     "who": "Diane Serra",
+     "hood": "Columbia Waterfront",
+     "t": 1791294566743,
+     "age": "7 hr ago",
+     "subject": "Exactly right.",
+     "body": "Exactly right. I help feed a colony of cats and they are delightful. They help bring up your morale and make you feel happy. Its the best thing. I don't  have a cat of my own right now but had cats all of my life.",
+     "reactions": 30,
+     "comments": 7,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/0d/09/0d091982950449934cb3e7e3f11b6dac.jpeg",
+     "why": "Light, upbeat local appreciation post about community cat care with friendly engagement.",
+     "suggestReaction": "Like",
+     "suggestComment": "Looking after a colony is quiet, steady work and it shows. Those cats are lucky to have neighbours like you."
+    },
+    {
+     "id": "516070649",
+     "short": "GTYsYpXWz4w8",
+     "url": "https://nextdoor.com/p/GTYsYpXWz4w8/",
+     "who": "Beth K.",
+     "hood": "Tribeca",
+     "t": 1791298477771,
+     "age": "6 hr ago",
+     "subject": "Recovering from heart surgery and looking for someone to accompany me to drs appointments- OT -PT and Cardiac Rehab by uber",
+     "body": "Recovering from heart surgery and looking for someone to accompany me to drs appointments- OT -PT and Cardiac Rehab by uber\nCompensation by hour-please tell me about yourself and how I can contact you",
+     "reactions": 1,
+     "comments": 12,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "A neighbourly help request (not an emergency) where a short get-well note is welcome; keep it personal-detail free.",
+     "suggestReaction": "Like",
+     "suggestComment": "Wishing you a smooth and steady recovery. I hope the right companion for those appointments turns up quickly."
+    }
+   ]
   }
  }
 };
