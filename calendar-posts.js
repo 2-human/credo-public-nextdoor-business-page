@@ -107,7 +107,7 @@ window.CREDO_ND_POSTS = [
 
  {date:'2026-09-25', time:'09:00', status:'published', src:'new', type:'edu', cluster:'What a validation notice must include', img:'assets/post-validation.jpg', imgNote:'Reuses the hub validation image — a new image would help',
   url:'https://nextdoor.com/p/FpZfGx-ZmxbH/', insights:'https://nextdoor.com/post_insights/FpZfGx-ZmxbH/', postedAt:'2026-09-26T12:35:27.808Z',
-  metrics:{views:323, reactions:0, comments:0, asOf:'2026-10-05'},
+  metrics:{views:324, reactions:0, comments:0, asOf:'2026-10-05'},
   text:'Within five days of first contacting you, a debt collector has to send a written validation notice. It should name the creditor, state the amount and how it was calculated, and tell you that you have 30 days to dispute the debt. If you never got one, or it is missing pieces, that matters. Keep every letter, and do not rely on what they tell you on the phone. Neighbors, has anyone received a proper notice? What did it look like?',
   disc:[], why:'Explains a process with no offer or link → educational, no disclaimer.', note:'Attorney to confirm the FDCPA § 1692g / Regulation F wording before it goes live.'},
 
