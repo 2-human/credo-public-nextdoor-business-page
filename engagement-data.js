@@ -1549,6 +1549,353 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Wishing you a smooth and steady recovery. I hope the right companion for those appointments turns up quickly."
     }
    ]
+  },
+  "2026-10-08": {
+   "scannedAt": "2026-10-09T10:52:32.974Z",
+   "backfill": true,
+   "feedPosts": 160,
+   "todayPosts": 89,
+   "note": "Backfilled on 2026-10-09 from the Recent feed; Nextdoor stopped paginating at 12:15 PM ET on 8 Oct (nextPage null), so the morning of 8 Oct is not covered.",
+   "excluded": [
+    {
+     "id": "516744231",
+     "who": "Justin Estacionar",
+     "subject": "12000 dollars a year in taxes for a 1 bedroom apartment.",
+     "reason": "Anti-government rant with a heated 17-comment thread (political)"
+    },
+    {
+     "id": "516636620",
+     "who": "Jan Nordland",
+     "subject": "Shared from The Hudson County Chronicles fb pg: DOWN GOES JAMES!",
+     "reason": "Political attack post about local officials"
+    },
+    {
+     "id": "516678214",
+     "who": "Ann Marie Rak",
+     "subject": "Volunteer to Get Out the Vote for Senator Liz Krueger",
+     "reason": "Campaign volunteering (political)"
+    },
+    {
+     "id": "516779098",
+     "who": "Emily J.",
+     "subject": "The Debate for the New York State Attorney General's race just concluded.",
+     "reason": "Election content (political)"
+    },
+    {
+     "id": "516796973",
+     "who": "bobby yellin",
+     "subject": "UNBELIEVABLE AMAZON DELIVERED A GROCERY ITEM AND IT DISAPPEARED.",
+     "reason": "Dispute with the building plus a housing-court mention (legal territory)"
+    },
+    {
+     "id": "516792113",
+     "who": "Yulia Koktebel",
+     "subject": "Hi everyone! (Aetna vs Cigna)",
+     "reason": "Asks for insurance/medical-plan advice"
+    },
+    {
+     "id": "516704901",
+     "who": "Nancy R.",
+     "subject": "HELLO NEIGHBORS (2 questions)",
+     "reason": "Husband's cancer care questions (medical, sensitive)"
+    },
+    {
+     "id": "516682699",
+     "who": "Mary D.",
+     "subject": "Hospice/End of Life Care experiences",
+     "reason": "End-of-life topic (sensitive)"
+    },
+    {
+     "id": "516650168",
+     "who": "Sid ekow",
+     "subject": "ATTENTION - $5k for an overnight study",
+     "reason": "Paid-study solicitation"
+    },
+    {
+     "id": "516771709",
+     "who": "Victor Oc",
+     "subject": "Your income is a vital aspect of your life...",
+     "reason": "Passive-income e-book promotion (spam)"
+    },
+    {
+     "id": "516705597",
+     "who": "patrick ben hayoun",
+     "subject": "NYC PIED-A-TERRE TAX UPDATE",
+     "reason": "Tax-litigation update; commenting would read as legal commentary from a law firm"
+    },
+    {
+     "id": "516753792",
+     "who": "Eileen Giannikelis",
+     "subject": "CRITICALLY URGENT ... KILL COMMAND at Queens ACC",
+     "reason": "Euthanasia-list reposts (several); too heavy for a light neighbourly comment"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "516644865",
+     "short": "JJySWZtHbL96",
+     "url": "https://nextdoor.com/p/JJySWZtHbL96/",
+     "who": "Johanna DeCourcy",
+     "hood": "Chelsea (W17-8th-W22-6th)",
+     "t": 1791478015595,
+     "age": "18 hr ago",
+     "subject": "As one senior who can't leave her apartment without a rollator, I am so grateful for all the kindness I've been shown by passers-by over the years.",
+     "body": "As one senior who can't leave her apartment without a rollator, I am so grateful for all the kindness I've been shown by passers-by over the years. One of the lovely things people do is hold the heavy, self-closing doors of a building so I can get through safely.  I didn't realize that navigating those doors would sometimes be the most challenging part of my day.  As a bonus, a simple, \"Let me help you with that door,\" when I'm leaning against it can keep me from falling if that support is unexpectedly pulled away by a kind person behind me. Thank you and blessings to everyone who has helped a stranger and contributed to making this the best city in the world.",
+     "reactions": 67,
+     "comments": 5,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Warm local-appreciation post with lots of goodwill (67 reactions) and a practical tip for neighbours, no argument in the thread.",
+     "suggestReaction": "Like",
+     "suggestComment": "What a lovely reminder that the small things count. Thank you for putting it so kindly, and for giving the rest of us a simple way to help."
+    },
+    {
+     "id": "516753882",
+     "short": "4BCdN8-3Kc9M",
+     "url": "https://nextdoor.com/p/4BCdN8-3Kc9M/",
+     "who": "Sandra McKenzie Richard",
+     "hood": "Weehawken",
+     "t": 1791497390066,
+     "age": "12 hr ago",
+     "subject": "Is anyone missing a small white cat with a black patch over the right eye and back?",
+     "body": "Is anyone missing a small white cat with a black patch over the right eye and back? It’s been seen in backyards on Potter, Clifton, and Burr Place since Tuesday, 10/6. It comes close for food, but is skittish. With the weather getting cold, I pray the owner rescues it. I’ve already rescued several cats in my yard and adopted a couple, so am at capacity.",
+     "reactions": 27,
+     "comments": 8,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/28/16/2816bd1c282474cd3c84c190e0bd2cad.jpeg",
+     "why": "Classic lost-and-found neighbourly request with an active, friendly thread (27 reactions, 8 comments).",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thank you for looking out for this little one and for sharing the photo instead of just walking past. Hopefully the owner sees this soon."
+    },
+    {
+     "id": "516675187",
+     "short": "7RnLfLbQg_TR",
+     "url": "https://nextdoor.com/p/7RnLfLbQg_TR/",
+     "who": "Lizzy R.",
+     "hood": "Maspeth (65th Pl)",
+     "t": 1791479831817,
+     "age": "17 hr ago",
+     "subject": "This is a painting by a famous artist that I’ve been copying in my spare time.",
+     "body": "This is a painting by a famous artist that I’ve been copying in my spare time. It’s still a work in progress, but I wanted to share it with everyone. 😊",
+     "reactions": 150,
+     "comments": 38,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/cb/1b/cb1bdba19e2d0afddb2efdd2ec450d5b.jpg",
+     "why": "The most-loved post of the day (150 reactions, 38 comments): a neighbour sharing her art, pure positive local chatter.",
+     "suggestReaction": "Wow",
+     "suggestComment": "That is gorgeous, and the fact that it is still a work in progress makes it even more impressive. Thank you for sharing it with the neighborhood."
+    },
+    {
+     "id": "516653909",
+     "short": "8d_XScxzFPsH",
+     "url": "https://nextdoor.com/p/8d_XScxzFPsH/",
+     "who": "Lesleigh K.",
+     "hood": "Maspeth (65th Pl)",
+     "t": 1791479574589,
+     "age": "17 hr ago",
+     "subject": "Tomorrow is my birthday.",
+     "body": "Tomorrow is my birthday. It’s hard to believe I’ve been in the U.S. for so many years already. Time really flies. Sometimes it still feels like everything just happened yesterday.\nHappy birthday to me.",
+     "reactions": 69,
+     "comments": 44,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Light, warm local chatter with a big friendly thread (69 reactions, 44 comments); an easy, human moment to join.",
+     "suggestReaction": "Like",
+     "suggestComment": "Happy early birthday! Here is to many more years in the city you have made your home."
+    },
+    {
+     "id": "516760593",
+     "short": "Dm-FLgmHB9tn",
+     "url": "https://nextdoor.com/p/Dm-FLgmHB9tn/",
+     "who": "Clare Daly",
+     "hood": "Upper West Side",
+     "t": 1791499065293,
+     "age": "12 hr ago",
+     "subject": "Happy Halloween, come on by!",
+     "body": "Happy Halloween, come on by! We've got treats for pets too!!  #TreatMap",
+     "reactions": 12,
+     "comments": 6,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/93/c7/93c721a55a656945eb5372994cade5c1.jpeg",
+     "why": "Local community event post (Treat Map) with cheerful engagement; seasonal and uncontroversial.",
+     "suggestReaction": "Like",
+     "suggestComment": "Love this, and treats for the pets too is a nice touch. Hope you get a great turnout on the night."
+    }
+   ]
+  },
+  "2026-10-09": {
+   "scannedAt": "2026-10-09T10:52:32.974Z",
+   "feedPosts": 39,
+   "todayPosts": 29,
+   "note": "Early-morning run (06:52 ET); the feed had 29 neighbour posts from today, most of them solicitations, so the picks are lighter than usual.",
+   "excluded": [
+    {
+     "id": "516838868",
+     "who": "Jerome Vanderberg",
+     "subject": "NO ICE!",
+     "reason": "Political"
+    },
+    {
+     "id": "516837390",
+     "who": "Ann Marie Rak",
+     "subject": "45 Minute Volunteer Orientation Session to help get out the vote",
+     "reason": "Campaign volunteering (political)"
+    },
+    {
+     "id": "516821258",
+     "who": "Jo Suek",
+     "subject": "In California, Newscum, signed into law...",
+     "reason": "Political rant"
+    },
+    {
+     "id": "516833066",
+     "who": "bobby yellin",
+     "subject": "how can they stoop lower?",
+     "reason": "Dispute with building staff over a delivery"
+    },
+    {
+     "id": "516830659",
+     "who": "Bill Wood",
+     "subject": "Do you want to grow potent marijuana strains indoors",
+     "reason": "Solicitation / not appropriate"
+    },
+    {
+     "id": "516835973",
+     "who": "George Testman",
+     "subject": "DM Me or 9144874483 George",
+     "reason": "Electrician spam posted under three names"
+    },
+    {
+     "id": "516831272",
+     "who": "eddie briones",
+     "subject": "Hi Neighbors, (cleaning lady recommendation)",
+     "reason": "Promotes a specific paid service"
+    },
+    {
+     "id": "516823508",
+     "who": "Eileen Giannikelis",
+     "subject": "CRITICALLY URGENT ... KILL COMMAND at Queens ACC",
+     "reason": "Euthanasia-list reposts; too heavy for a light neighbourly comment"
+    },
+    {
+     "id": "516829908",
+     "who": "Bill Wood",
+     "subject": "Hey I'm a single building owner...",
+     "reason": "Dating solicitation"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "516820918",
+     "short": "6dGHxsb6TG8b",
+     "url": "https://nextdoor.com/p/6dGHxsb6TG8b/",
+     "who": "Alicia Davi",
+     "hood": "SoHo (Greene-Broome-Canal)",
+     "t": 1791520502370,
+     "age": "6 hr ago",
+     "subject": "To the tourist who stopped dead in their tracks on Spring Street to take a picture of a doorway: We made eye contact.",
+     "body": "To the tourist who stopped dead in their tracks on Spring Street to take a picture of a doorway: We made eye contact. We both know what happened.\nLook, I get it. The cast-iron buildings are great and the lighting was perfect.\nBut stopping out of nowhere when someone is walking right behind you with a hot coffee is a risky move. I had to do a sudden side-step dodge that nearly took out my ankle. Honestly, isn't this grounds for a crashout?",
+     "reactions": 1,
+     "comments": 1,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Light, funny local chatter about a very New York sidewalk moment; no target beyond an anonymous tourist.",
+     "suggestReaction": "Haha",
+     "suggestComment": "The sudden sidewalk stop with a hot coffee right behind is a true New York hazard. Glad the ankle survived."
+    },
+    {
+     "id": "516824777",
+     "short": "YgdmLRhmwDXc",
+     "url": "https://nextdoor.com/p/YgdmLRhmwDXc/",
+     "who": "Keron Benn",
+     "hood": "Lincoln Sq (58-Amst-66-WEnd)",
+     "t": 1791523496526,
+     "age": "5 hr ago",
+     "subject": "Finally finished my Knicks Sweater",
+     "body": "Finally finished my Knicks Sweater",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "A neighbour proudly sharing a finished handmade sweater (video post); cheerful local appreciation that could use a first reaction.",
+     "suggestReaction": "Wow",
+     "suggestComment": "That looks great, and finishing a whole sweater takes real patience. Perfect timing for the season too."
+    },
+    {
+     "id": "516833137",
+     "short": "L226JyGkhL_5",
+     "url": "https://nextdoor.com/p/L226JyGkhL_5/",
+     "who": "Ray Brizzi",
+     "hood": "Lenox Hill",
+     "t": 1791533676960,
+     "age": "2 hr ago",
+     "subject": "An unusual Chinese restaurant has been on First between 78 and 79 for a few years.",
+     "body": "An unusual Chinese restaurant has been on First between 78 and 79 for a few years. Not the classic hole in the wall. They specialize in fresh made noodles and dumplings and fresh soups. All sorts of dishes you wont find in most places. Great on a cold afternoon since winter is coming again soon. It’s called Super Taste and it’s easy to pass by. My standby is the Szichuan large pork dumplings in a very tasty broth, 10 for 9.75 but many more complex dishes also. Owner is very friendly and loves talking to people.\n\nhttps://www.supertasteeats.com/",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Genuine neighbour recommendation for a small local restaurant, warm and specific.",
+     "suggestReaction": "Like",
+     "suggestComment": "Thank you for the tip. A bowl of fresh dumplings in broth sounds like exactly the right thing for the colder afternoons ahead."
+    },
+    {
+     "id": "516833070",
+     "short": "N6F6QwyBz8Sx",
+     "url": "https://nextdoor.com/p/N6F6QwyBz8Sx/",
+     "who": "Bradford Buonasera",
+     "hood": "Kips Bay (32nd-1st-34th-3rd)",
+     "t": 1791533438096,
+     "age": "2 hr ago",
+     "subject": "Most of the shows I see, I see alone.",
+     "body": "Most of the shows I see, I see alone. Lottery and rush seats come in ones, and it took me a while to notice that every pre-show dinner list I'd written assumed two people with a reservation.\n\nSo I went looking for counters. Los Tacos No. 1 on West 43rd is a standing counter three minutes from the Shubert, and you're out the door under twenty-five dollars. Westway Diner on Ninth at 44th has stools and nobody hurrying you off them, eighteen to twenty-six. Pure Thai Cookhouse on Ninth at 51st keeps a counter upstairs that most people walk straight past. Joe Allen holds bar seats for walk-ins.\n\nOne thing to check before you walk over: Totto Ramen, Casellula and Ippudo Westside have all closed.\n\nI wrote up the full list here: https://go.borninthecity.com/counter-seats-before-show-nd\n\nHappy to answer questions in the comments if you're trying to place a particular theater.",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/f0/bd/f0bd5d3b4011b8c27c5a46c9d6f44012.jpg",
+     "why": "Helpful, budget-minded local recommendations for solo theatre-goers (links to his own blog, so keep the comment light).",
+     "suggestReaction": "Like",
+     "suggestComment": "Really useful list, especially the note on which places have closed. Counter seats are a great solo-theatre tip."
+    },
+    {
+     "id": "516828594",
+     "short": "GhNkNbRdTJf8",
+     "url": "https://nextdoor.com/p/GhNkNbRdTJf8/",
+     "who": "Burdy Jean-Louis",
+     "hood": "West Village (Bank-4th)",
+     "t": 1791527072888,
+     "age": "4 hr ago",
+     "subject": "Hey, everyone!",
+     "body": "Hey, everyone! 👋 Looking forward to connecting with my neighbors and being part of the community!",
+     "reactions": 2,
+     "comments": 1,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "New neighbour saying hello; a friendly welcome is the most natural engagement there is.",
+     "suggestReaction": "Like",
+     "suggestComment": "Welcome to the neighborhood! It is a friendly corner of the city, and you will find plenty of good people on here."
+    }
+   ]
   }
  }
 };
