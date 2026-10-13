@@ -224,7 +224,9 @@ window.CREDO_ND_POSTS = [
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
- {date:'2026-10-13', time:'09:00', status:'scheduled', src:'v2', type:'ad', cluster:'Stop the calls', organicId:'nd-1013', img:'assets/organic/b-phone-down-1x1-calls-at-7-a-m-at-work.jpg', imgNote:'Organic v2 · Hand pressing a phone face-down · silence the calls',
+ {date:'2026-10-13', time:'09:00', status:'published', src:'v2', type:'ad', cluster:'Stop the calls', organicId:'nd-1013', img:'assets/organic/b-phone-down-1x1-calls-at-7-a-m-at-work.jpg', imgNote:'Organic v2 · Hand pressing a phone face-down · silence the calls',
+  url:'https://nextdoor.com/p/zLTnY4k6dtC7/', insights:'https://nextdoor.com/post_insights/zLTnY4k6dtC7/', postedAt:'2026-10-13T13:16:04.748Z',
+  metrics:{views:0, reactions:0, comments:0, asOf:'2026-10-13'},
   lp:'https://staging.credolegal.com/debt-harassment-stop-calls',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-stop-the-calls-1013', dest:'https://staging.credolegal.com/debt-harassment-stop-calls?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-13-stop-the-calls&utm_term=harassment', id:'link_8on3_034eRDmwhx6lFCCaJo6ylQ', term:'harassment', clicks:0, asOf:'2026-10-12'}},
   text:'If a debt collector keeps calling, you can tell them in writing to stop contacting you, and under federal law they have to. Our attorneys send that letter and deal with the collector for you.\n\nFree review: credolegal.s.gy/nd-stop-the-calls-1013',
