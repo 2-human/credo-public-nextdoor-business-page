@@ -227,92 +227,92 @@ window.CREDO_ND_POSTS = [
  {date:'2026-10-13', time:'09:00', status:'published', src:'v2', type:'ad', cluster:'Stop the calls', organicId:'nd-1013', img:'assets/organic/b-phone-down-1x1-calls-at-7-a-m-at-work.jpg', imgNote:'Organic v2 · Hand pressing a phone face-down · silence the calls',
   url:'https://nextdoor.com/p/zLTnY4k6dtC7/', insights:'https://nextdoor.com/post_insights/zLTnY4k6dtC7/', postedAt:'2026-10-13T13:16:04.748Z',
   metrics:{views:11, reactions:0, comments:0, asOf:'2026-10-14'},
-  lp:'https://staging.credolegal.com/debt-harassment-stop-calls',
-  short:{nextdoor:{url:'https://credolegal.s.gy/nd-stop-the-calls-1013', dest:'https://staging.credolegal.com/debt-harassment-stop-calls?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-13-stop-the-calls&utm_term=harassment', id:'link_8on3_034eRDmwhx6lFCCaJo6ylQ', term:'harassment', clicks:0, asOf:'2026-10-12'}},
+  lp:'https://start.credolegal.com/debt-harassment-stop-calls',
+  short:{nextdoor:{url:'https://credolegal.s.gy/nd-stop-the-calls-1013', dest:'https://start.credolegal.com/debt-harassment-stop-calls?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-13-stop-the-calls&utm_term=harassment', id:'link_8on3_034eRDmwhx6lFCCaJo6ylQ', term:'harassment', clicks:0, asOf:'2026-10-12'}},
   text:'If a debt collector keeps calling, you can tell them in writing to stop contacting you, and under federal law they have to. Our attorneys send that letter and deal with the collector for you.\n\nFree review: credolegal.s.gy/nd-stop-the-calls-1013',
   disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-15', time:'21:00', status:'scheduled', src:'v2', type:'ad', cluster:'Is it even yours', organicId:'nd-1015', img:'assets/organic/b-envelope-1x1-is-this-debt-even-yours.jpg', imgNote:'Organic v2 · Hand holding up a sealed envelope · put it in writing',
-  lp:'https://staging.credolegal.com/debt-harassment-demand-proof-validation',
-  short:{nextdoor:{url:'https://credolegal.s.gy/nd-is-it-even-yours-1015', dest:'https://staging.credolegal.com/debt-harassment-demand-proof-validation?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-15-is-it-even-yours&utm_term=harassment', id:'link_8on3_034eRDnZVJqI3nLVdaAN7R', term:'harassment', clicks:0, asOf:'2026-10-12'}},
+  lp:'https://start.credolegal.com/debt-harassment-fdcpa-rights',
+  short:{nextdoor:{url:'https://credolegal.s.gy/nd-is-it-even-yours-1015', dest:'https://start.credolegal.com/debt-harassment-fdcpa-rights?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-15-is-it-even-yours&utm_term=harassment', id:'link_8on3_034eRDnZVJqI3nLVdaAN7R', term:'harassment', clicks:0, asOf:'2026-10-12'}},
   text:'Not sure a debt a collector is chasing is really yours, or that the amount is right? Dispute it in writing within 30 days of their first notice and they have to stop collecting until they verify it.\n\nFree review: credolegal.s.gy/nd-is-it-even-yours-1015',
   disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-17', time:'17:00', status:'scheduled', src:'v2', type:'ad', cluster:'Collector broke the rules', organicId:'nd-1017', img:'assets/organic/b-phone-down-1x1-did-a-collector-cross-the-line.jpg', imgNote:'Organic v2 · Hand pressing a phone face-down · silence the calls',
-  lp:'https://staging.credolegal.com/debt-harassment-make-them-pay-violations',
-  short:{nextdoor:{url:'https://credolegal.s.gy/nd-collector-broke-the-rules-1017', dest:'https://staging.credolegal.com/debt-harassment-make-them-pay-violations?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-17-collector-broke-the-rules&utm_term=harassment', id:'link_8on3_034eRDoWBvozNtYaLDJdDp', term:'harassment', clicks:0, asOf:'2026-10-12'}},
+  lp:'https://start.credolegal.com/debt-harassment-violations',
+  short:{nextdoor:{url:'https://credolegal.s.gy/nd-collector-broke-the-rules-1017', dest:'https://start.credolegal.com/debt-harassment-violations?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-17-collector-broke-the-rules&utm_term=harassment', id:'link_8on3_034eRDoWBvozNtYaLDJdDp', term:'harassment', clicks:0, asOf:'2026-10-12'}},
   text:'Threats, calls to your family about your debt, or lies about a lawsuit can break federal debt collection law. The law lets you recover damages and attorney fees when that happens. Our attorneys can look at what happened.\n\nFree review: credolegal.s.gy/nd-collector-broke-the-rules-1017',
   disc:['dram', 'prior'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. Suggests a result → Prior results line.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-20', time:'17:00', status:'scheduled', src:'v2', type:'ad', cluster:'Served? Respond on time', organicId:'nd-1020', img:'assets/organic/b-hourglass-1x1-served-with-papers.jpg', imgNote:'Organic v2 · Hand holding an hourglass · the answer deadline',
-  lp:'https://staging.credolegal.com/debt-lawsuit-respond-on-time',
-  short:{nextdoor:{url:'https://credolegal.s.gy/nd-served-respond-on-time-1020', dest:'https://staging.credolegal.com/debt-lawsuit-respond-on-time?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-20-served-respond-on-time&utm_term=lawsuit', id:'link_8on3_034eRDp5fuMq7m7OnbCbVS', term:'lawsuit', clicks:0, asOf:'2026-10-12'}},
+  lp:'https://start.credolegal.com/debt-lawsuit-respond-on-time',
+  short:{nextdoor:{url:'https://credolegal.s.gy/nd-served-respond-on-time-1020', dest:'https://start.credolegal.com/debt-lawsuit-respond-on-time?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-20-served-respond-on-time&utm_term=lawsuit', id:'link_8on3_034eRDp5fuMq7m7OnbCbVS', term:'lawsuit', clicks:0, asOf:'2026-10-12'}},
   text:'Sued over a debt? You may have only 20 to 30 days to answer, depending on your state. Missing it can mean a judgment and a garnished paycheck. Our attorneys file the answer and make the collector prove its case.\n\nFree review: credolegal.s.gy/nd-served-respond-on-time-1020',
   disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-22', time:'09:00', status:'scheduled', src:'v2', type:'ad', cluster:'Make them prove it in court', organicId:'nd-1022', img:'assets/organic/b-magnifier-1x1-sued-over-a-debt.jpg', imgNote:'Organic v2 · Hand holding a magnifying glass · make them prove it',
-  lp:'https://staging.credolegal.com/debt-lawsuit-demand-proof-prove-it',
-  short:{nextdoor:{url:'https://credolegal.s.gy/nd-make-them-prove-it-in-court-1022', dest:'https://staging.credolegal.com/debt-lawsuit-demand-proof-prove-it?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-22-make-them-prove-it-in-court&utm_term=lawsuit', id:'link_8on3_034eRDph6NkHEvpWRi7N1j', term:'lawsuit', clicks:0, asOf:'2026-10-12'}},
+  lp:'https://start.credolegal.com/debt-lawsuit-proof',
+  short:{nextdoor:{url:'https://credolegal.s.gy/nd-make-them-prove-it-in-court-1022', dest:'https://start.credolegal.com/debt-lawsuit-proof?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-22-make-them-prove-it-in-court&utm_term=lawsuit', id:'link_8on3_034eRDph6NkHEvpWRi7N1j', term:'lawsuit', clicks:0, asOf:'2026-10-12'}},
   text:'In court, the collector has to prove it owns the debt and that the amount is right. Debt buyers often cannot produce the paperwork. Our attorneys answer the lawsuit and hold them to that proof.\n\nFree review: credolegal.s.gy/nd-make-them-prove-it-in-court-1022',
   disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-24', time:'21:00', status:'scheduled', src:'v2', type:'ad', cluster:'Sued over a credit card', organicId:'nd-1024', img:'assets/organic/b-card-1x1-sued-over-a-credit-card.jpg', imgNote:'Organic v2 · Hand holding up a blank credit card · sued over a card',
-  lp:'https://staging.credolegal.com/debt-credit-card-respond-sued',
-  short:{nextdoor:{url:'https://credolegal.s.gy/nd-sued-over-a-credit-card-1024', dest:'https://staging.credolegal.com/debt-credit-card-respond-sued?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-24-sued-over-a-credit-card&utm_term=credit-card', id:'link_8on3_034eRDqHSnHSAm4KWY0eSD', term:'credit-card', clicks:0, asOf:'2026-10-12'}},
+  lp:'https://start.credolegal.com/credit-card-debt-lawsuit-respond',
+  short:{nextdoor:{url:'https://credolegal.s.gy/nd-sued-over-a-credit-card-1024', dest:'https://start.credolegal.com/credit-card-debt-lawsuit-respond?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-24-sued-over-a-credit-card&utm_term=credit-card', id:'link_8on3_034eRDqHSnHSAm4KWY0eSD', term:'credit-card', clicks:0, asOf:'2026-10-12'}},
   text:'A credit card lawsuit is not the end of the road. You can answer, ask for the account records, and challenge the amount. Our attorneys handle the court filings for a flat monthly fee.\n\nFree review: credolegal.s.gy/nd-sued-over-a-credit-card-1024',
   disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-27', time:'21:00', status:'scheduled', src:'v2', type:'ad', cluster:'Medical bill errors', organicId:'nd-1027', img:'assets/organic/b-red-pen-1x1-a-medical-bill-in-collections.jpg', imgNote:'Organic v2 · Hand with a red pen · check the bill',
-  lp:'https://staging.credolegal.com/debt-medical-demand-proof-bill-errors',
-  short:{nextdoor:{url:'https://credolegal.s.gy/nd-medical-bill-errors-1027', dest:'https://staging.credolegal.com/debt-medical-demand-proof-bill-errors?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-27-medical-bill-errors&utm_term=medical', id:'link_8on3_034eRDqtHjKV4N6AwELfPM', term:'medical', clicks:0, asOf:'2026-10-12'}},
+  lp:'https://start.credolegal.com/medical-debt-bills-errors',
+  short:{nextdoor:{url:'https://credolegal.s.gy/nd-medical-bill-errors-1027', dest:'https://start.credolegal.com/medical-debt-bills-errors?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-27-medical-bill-errors&utm_term=medical', id:'link_8on3_034eRDqtHjKV4N6AwELfPM', term:'medical', clicks:0, asOf:'2026-10-12'}},
   text:'A medical bill sent to collections is worth a second look. Coding errors, duplicate charges and amounts insurance should have paid are common, and the collector has to verify the amount if you dispute it. Our attorneys can review it.\n\nFree review: credolegal.s.gy/nd-medical-bill-errors-1027',
   disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-29', time:'17:00', status:'scheduled', src:'v2', type:'ad', cluster:'Card balance inflated', organicId:'nd-1029', img:'assets/organic/b-card-1x1-does-that-balance-look-right.jpg', imgNote:'Organic v2 · Hand holding up a blank credit card · sued over a card',
-  lp:'https://staging.credolegal.com/debt-credit-card-demand-proof-records',
-  short:{nextdoor:{url:'https://credolegal.s.gy/nd-card-balance-inflated-1029', dest:'https://staging.credolegal.com/debt-credit-card-demand-proof-records?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-29-card-balance-inflated&utm_term=credit-card', id:'link_8on3_034eRDrTk7CLl4oWnUx9OU', term:'credit-card', clicks:0, asOf:'2026-10-12'}},
+  lp:'https://start.credolegal.com/credit-card-debt-lawsuit-records',
+  short:{nextdoor:{url:'https://credolegal.s.gy/nd-card-balance-inflated-1029', dest:'https://start.credolegal.com/credit-card-debt-lawsuit-records?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-29-card-balance-inflated&utm_term=credit-card', id:'link_8on3_034eRDrTk7CLl4oWnUx9OU', term:'credit-card', clicks:0, asOf:'2026-10-12'}},
   text:'Credit card balances in collections often include fees and interest the collector cannot back up with records. You can ask them to prove every dollar. You may owe less than they claim. Our attorneys request the records for you.\n\nFree review: credolegal.s.gy/nd-card-balance-inflated-1029',
   disc:['dram', 'prior'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. Suggests a result → Prior results line.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-31', time:'09:00', status:'scheduled', src:'v2', type:'ad', cluster:'Medical collector calling', organicId:'nd-1031', img:'assets/organic/b-phone-down-1x1-a-medical-collector-keeps-calling.jpg', imgNote:'Organic v2 · Hand pressing a phone face-down · silence the calls',
-  lp:'https://staging.credolegal.com/debt-medical-stop-calls',
-  short:{nextdoor:{url:'https://credolegal.s.gy/nd-medical-collector-calling-1031', dest:'https://staging.credolegal.com/debt-medical-stop-calls?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-31-medical-collector-calling&utm_term=medical', id:'link_8on3_034eRDs4yoHVHQpJ2cxbmf', term:'medical', clicks:0, asOf:'2026-10-12'}},
+  lp:'https://start.credolegal.com/medical-debt-harassment',
+  short:{nextdoor:{url:'https://credolegal.s.gy/nd-medical-collector-calling-1031', dest:'https://start.credolegal.com/medical-debt-harassment?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-31-medical-collector-calling&utm_term=medical', id:'link_8on3_034eRDs4yoHVHQpJ2cxbmf', term:'medical', clicks:0, asOf:'2026-10-12'}},
   text:'Getting calls about an old hospital or doctor bill? The same federal rules apply: no calls at odd hours, none at work once they know, and they must stop if you tell them in writing. Our attorneys handle the collector for you.\n\nFree review: credolegal.s.gy/nd-medical-collector-calling-1031',
   disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-11-03', time:'09:00', status:'scheduled', src:'v2', type:'ad', cluster:'Stop a garnishment', organicId:'nd-1103', img:'assets/organic/b-protect-pay-1x1-wages-being-garnished.jpg', imgNote:'Organic v2 · Hand shielding a stack of bills · protect your paycheck',
-  lp:'https://staging.credolegal.com/debt-garnishment-stop-now',
-  short:{nextdoor:{url:'https://credolegal.s.gy/nd-stop-a-garnishment-1103', dest:'https://staging.credolegal.com/debt-garnishment-stop-now?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-11-03-stop-a-garnishment&utm_term=garnishment', id:'link_8on3_034eRDshyLcXwVl2GNjZik', term:'garnishment', clicks:0, asOf:'2026-10-12'}},
+  lp:'https://start.credolegal.com/stop-wage-garnishment',
+  short:{nextdoor:{url:'https://credolegal.s.gy/nd-stop-a-garnishment-1103', dest:'https://start.credolegal.com/stop-wage-garnishment?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-11-03-stop-a-garnishment&utm_term=garnishment', id:'link_8on3_034eRDshyLcXwVl2GNjZik', term:'garnishment', clicks:0, asOf:'2026-10-12'}},
   text:'If your wages are being garnished, part of your pay may be legally protected, and there may be ways to challenge the judgment behind it. Our attorneys check the garnishment and the limits that apply in your state.\n\nFree review: credolegal.s.gy/nd-stop-a-garnishment-1103',
   disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-11-05', time:'21:00', status:'scheduled', src:'v2', type:'ad', cluster:'Payday loan trouble', organicId:'nd-1105', img:'assets/organic/b-handshake-1x1-stuck-in-a-payday-loan.jpg', imgNote:'Organic v2 · Open hand offered · you do not have to face this alone',
-  lp:'https://staging.credolegal.com/debt-payday-loan-fight-back-illegal-loan',
-  short:{nextdoor:{url:'https://credolegal.s.gy/nd-payday-loan-trouble-1105', dest:'https://staging.credolegal.com/debt-payday-loan-fight-back-illegal-loan?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-11-05-payday-loan-trouble&utm_term=payday-loan', id:'link_8on3_034eRDtK5Uef0IdSS6WBQ1', term:'payday-loan', clicks:0, asOf:'2026-10-12'}},
+  lp:'https://start.credolegal.com/payday-loan-fight-back',
+  short:{nextdoor:{url:'https://credolegal.s.gy/nd-payday-loan-trouble-1105', dest:'https://start.credolegal.com/payday-loan-fight-back?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-11-05-payday-loan-trouble&utm_term=payday-loan', id:'link_8on3_034eRDtK5Uef0IdSS6WBQ1', term:'payday-loan', clicks:0, asOf:'2026-10-12'}},
   text:'Some payday and online lenders charge rates your state does not allow, or lend without a license where you live. Those loans may not be collectible. Our attorneys check whether yours follows the law.\n\nFree review: credolegal.s.gy/nd-payday-loan-trouble-1105',
   disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-11-07', time:'17:00', status:'scheduled', src:'v2', type:'ad', cluster:'Before garnishment starts', organicId:'nd-1107', img:'assets/organic/b-protect-pay-1x1-sued-and-worried-about-your-paycheck.jpg', imgNote:'Organic v2 · Hand shielding a stack of bills · protect your paycheck',
-  lp:'https://staging.credolegal.com/debt-garnishment-respond-before-it-starts',
-  short:{nextdoor:{url:'https://credolegal.s.gy/nd-before-garnishment-starts-1107', dest:'https://staging.credolegal.com/debt-garnishment-respond-before-it-starts?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-11-07-before-garnishment-starts&utm_term=garnishment', id:'link_8on3_034eRDtvQRUdEE6QlDjoSX', term:'garnishment', clicks:0, asOf:'2026-10-12'}},
+  lp:'https://start.credolegal.com/wage-garnishment-prevention',
+  short:{nextdoor:{url:'https://credolegal.s.gy/nd-before-garnishment-starts-1107', dest:'https://start.credolegal.com/wage-garnishment-prevention?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-11-07-before-garnishment-starts&utm_term=garnishment', id:'link_8on3_034eRDtvQRUdEE6QlDjoSX', term:'garnishment', clicks:0, asOf:'2026-10-12'}},
   text:'A garnishment usually follows a judgment, and a judgment usually follows a missed court deadline. Answering the lawsuit in time is the best way to protect your wages. Our attorneys file the answer and defend the case.\n\nFree review: credolegal.s.gy/nd-before-garnishment-starts-1107',
   disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-11-08', time:'21:00', status:'scheduled', src:'v2', type:'ad', cluster:'Not alone', organicId:'nd-1108', img:'assets/organic/b-handshake-1x1-you-do-not-have-to-face-this-alone.jpg', imgNote:'Organic v2 · Open hand offered · you do not have to face this alone',
-  lp:'https://staging.credolegal.com/',
-  short:{nextdoor:{url:'https://credolegal.s.gy/nd-not-alone-1108', dest:'https://staging.credolegal.com/?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-11-08-not-alone&utm_term=brand', id:'link_8on3_034eRDuW4cPByVoz9iDMrQ', term:'brand', clicks:0, asOf:'2026-10-12'}},
+  lp:'https://start.credolegal.com/',
+  short:{nextdoor:{url:'https://credolegal.s.gy/nd-not-alone-1108', dest:'https://start.credolegal.com/?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-11-08-not-alone&utm_term=brand', id:'link_8on3_034eRDuW4cPByVoz9iDMrQ', term:'brand', clicks:0, asOf:'2026-10-12'}},
   text:'Calls, letters, a lawsuit, a garnishment: debt problems pile up fast. Our attorneys take over the collectors and the court work for one flat monthly fee, so you can get back to your life.\n\nFree review: credolegal.s.gy/nd-not-alone-1108',
   disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
 ];
