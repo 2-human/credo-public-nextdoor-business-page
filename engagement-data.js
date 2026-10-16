@@ -2366,6 +2366,299 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Thank you for posting. Hoping the owner sees this and the little one gets home."
     }
    ]
+  },
+  "2026-10-13": {
+   "scannedAt": "2026-10-16T22:37:40.565Z",
+   "feedPosts": 23,
+   "todayPosts": 2,
+   "note": "Scanned 16 Oct ~18:00 ET. Claude in Chrome kept disconnecting and /news_feed/ redirected to the page-admin area, so the PersonalizedFeed API replay was not available; the page-admin feed loaded only 23 posts across 13–16 Oct, so coverage is partial (fewer than 5 qualifying picks per day).",
+   "backfill": true,
+   "excluded": [
+    {
+     "id": "517816049",
+     "who": "Noel Redmond",
+     "subject": "Hi neighbors!",
+     "reason": "Paid tech-study recruitment (spam-like)"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "517802319",
+     "short": "w79MS4MyXpfr",
+     "who": "Erin Purcell",
+     "hood": "West Village (Christopher-Washington)",
+     "t": 1791908323036,
+     "age": "3 days ago",
+     "subject": "WESTBETH this weekend is participating in Open House New York with an art, craft and VINTAGE market, baked goods, open studios and tours!",
+     "body": "WESTBETH this weekend is participating in Open House New York with an art, craft and VINTAGE market, baked goods, open studios and tours! Come and see us!",
+     "reactions": 10,
+     "comments": 2,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/ec/85/ec8568542ed36967283acb1b50fe74ec.jpeg",
+     "url": "https://nextdoor.com/p/w79MS4MyXpfr/",
+     "why": "Local arts event (Westbeth for Open House New York, 17–18 Oct weekend) that is still upcoming; friendly, low-stakes community appreciation.",
+     "suggestReaction": "Like",
+     "suggestComment": "This sounds like a lovely weekend outing. Westbeth during Open House New York is always worth a visit, hope you get a great turnout!"
+    }
+   ]
+  },
+  "2026-10-14": {
+   "scannedAt": "2026-10-16T22:37:40.565Z",
+   "feedPosts": 23,
+   "todayPosts": 3,
+   "note": "Scanned 16 Oct ~18:00 ET. Claude in Chrome kept disconnecting and /news_feed/ redirected to the page-admin area, so the PersonalizedFeed API replay was not available; the page-admin feed loaded only 23 posts across 13–16 Oct, so coverage is partial (fewer than 5 qualifying picks per day).",
+   "backfill": true,
+   "excluded": [
+    {
+     "id": "518206176",
+     "who": "Clark Green",
+     "subject": "This is the ideal nyc street.",
+     "reason": "Bikes-vs-cars debate (154 comments)"
+    },
+    {
+     "id": "518138469",
+     "who": "Clark Green",
+     "subject": "(poll)",
+     "reason": "Poll, not a USER post; same transport debate"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "518040896",
+     "short": "9q3NT5Mj6bH3",
+     "who": "Alyssa Vignone",
+     "hood": "Midtown SC (E32-Madison)",
+     "t": 1791988024027,
+     "age": "2 days ago",
+     "subject": "I’m looking to rehome my cat.",
+     "body": "I’m looking to rehome my cat. It’s a devastating situation. I need to find a safe home and preferably someone who doesn’t mind if I check in via text once and a while to see how she’s doing",
+     "reactions": 94,
+     "comments": 97,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/c2/46/c246d6905f90406e6cd2de630683c433.jpeg",
+     "url": "https://nextdoor.com/p/9q3NT5Mj6bH3/",
+     "why": "Neighbour rehoming a cat in a hard situation; heavily engaged neighbourly request.",
+     "suggestReaction": "Sad",
+     "suggestComment": "So sorry you are in this spot, it is clear how much you care about her. Hoping the right neighbour steps up and keeps you in the loop."
+    }
+   ]
+  },
+  "2026-10-15": {
+   "scannedAt": "2026-10-16T22:37:40.565Z",
+   "feedPosts": 23,
+   "todayPosts": 7,
+   "note": "Scanned 16 Oct ~18:00 ET. Claude in Chrome kept disconnecting and /news_feed/ redirected to the page-admin area, so the PersonalizedFeed API replay was not available; the page-admin feed loaded only 23 posts across 13–16 Oct, so coverage is partial (fewer than 5 qualifying picks per day).",
+   "backfill": true,
+   "excluded": [
+    {
+     "id": "518514964",
+     "who": "Joel . Bishop",
+     "subject": "To single moms, job seekers…",
+     "reason": "Unsolicited 'helping hand' offer, scam pattern"
+    },
+    {
+     "id": "518504900",
+     "who": "Carlos muah",
+     "subject": "I’m offering support to single mothers…",
+     "reason": "Unsolicited 'support' offer, scam pattern"
+    },
+    {
+     "id": "518450614",
+     "who": "Christine Snow",
+     "subject": "GREAT NEWS!!!!",
+     "reason": "Duplicate of the Zulu post"
+    },
+    {
+     "id": "518305653",
+     "who": "Patrick Price",
+     "subject": "Dog walking in Park Slope / Cobble Hill",
+     "reason": "Service advertisement"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "518506688",
+     "short": "6k_2LfCCZrHQ",
+     "who": "Christine Snow",
+     "hood": "Boerum Hill (Wyckoff-Smith)",
+     "t": 1792112708632,
+     "age": "21 hr ago",
+     "subject": "GREAT NEWS!!!!",
+     "body": "GREAT NEWS!!!! \nZULU came HOME!!!!\nAfter nothing since 1am today his location popped up on our GPS and Airtag devices 5 minutes before he showed up. His ID tag was removed.",
+     "reactions": 233,
+     "comments": 60,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/56/2d/562d7a18d25ef678c00e0362c7634f34.jpeg",
+     "url": "https://nextdoor.com/p/6k_2LfCCZrHQ/",
+     "why": "Lost dog Zulu made it home; joyful Lost & Found update with lots of neighbourly life.",
+     "suggestReaction": "Like",
+     "suggestComment": "What a relief, welcome home Zulu! So glad the tracker came through, give him an extra treat tonight."
+    },
+    {
+     "id": "518534056",
+     "short": "8dks8t739Gm_",
+     "who": "Jessica Degler",
+     "hood": "Hell's Kitchen",
+     "t": 1792122787975,
+     "age": "18 hr ago",
+     "subject": "Jade was abandoned in an apartment building hallway after her owner passed away.",
+     "body": "Jade was abandoned in an apartment building hallway after her owner passed away. The owner’s daughter wasn’t willing to responsibly care for her. She came to me very scared but turned into such a sweetheart. While having her spayed I found out she has FeLV so she needs a little special care. She weighs around 8lbs and has her microchip, spay and vaccinations. If you can foster or are interested in adopting please reach out.",
+     "reactions": 113,
+     "comments": 56,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/d7/a4/d7a44f327f35c8f7f4b8075f28b8266e.jpeg",
+     "url": "https://nextdoor.com/p/8dks8t739Gm_/",
+     "why": "Rescue cat needing a foster or adopter; neighbourly rehoming request that is well received.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thank you for taking Jade in when no one else would. Sharing in the hope the right foster or forever home sees this."
+    },
+    {
+     "id": "518498645",
+     "short": "XkD5cjYcM8Qc",
+     "who": "Bethley Stevenson",
+     "hood": "Chelsea (23rd-10th-34th)",
+     "t": 1792110332284,
+     "age": "21 hr ago",
+     "subject": "A little reminder for everyone today: Be kind, be helpful, and never underestimate the power of a simple smile.",
+     "body": "A little reminder for everyone today: Be kind, be helpful, and never underestimate the power of a simple smile. 😊❤️\n\nWe may all have different stories, but a little kindness can bring us closer together.\n\nLet’s make our neighborhood a better place, one good deed at a time! 🏡✨",
+     "reactions": 88,
+     "comments": 9,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "url": "https://nextdoor.com/p/XkD5cjYcM8Qc/",
+     "why": "Light, positive kindness reminder with good engagement and no argument.",
+     "suggestReaction": "Like",
+     "suggestComment": "Love this reminder. Small kindnesses really do add up on a block."
+    }
+   ]
+  },
+  "2026-10-16": {
+   "scannedAt": "2026-10-16T22:37:40.565Z",
+   "feedPosts": 23,
+   "todayPosts": 11,
+   "note": "Scanned 16 Oct ~18:00 ET. Claude in Chrome kept disconnecting and /news_feed/ redirected to the page-admin area, so the PersonalizedFeed API replay was not available; the page-admin feed loaded only 23 posts across 13–16 Oct, so coverage is partial (fewer than 5 qualifying picks per day).",
+   "excluded": [
+    {
+     "id": "518711656",
+     "who": "Caroline K.",
+     "subject": "Plymouth Church organ dedication",
+     "reason": "Religious"
+    },
+    {
+     "id": "518689068",
+     "who": "Lynda B.",
+     "subject": "Why we should vote no on the ballot initiatives.",
+     "reason": "Political"
+    },
+    {
+     "id": "518665098",
+     "who": "Clark Green",
+     "subject": "Central Park bike design",
+     "reason": "Bikes debate"
+    },
+    {
+     "id": "518587294",
+     "who": "Susie Gersten",
+     "subject": "Update…",
+     "reason": "Medical emergency / injuries"
+    },
+    {
+     "id": "518578235",
+     "who": "Almedina Kolar",
+     "subject": "Hi!",
+     "reason": "Service referral / advertising"
+    },
+    {
+     "id": "518577774",
+     "who": "Almedina Kolar",
+     "subject": "Hi all!",
+     "reason": "Service referral with phone number"
+    },
+    {
+     "id": "518554129",
+     "who": "George Plugman",
+     "subject": "Amen To That",
+     "reason": "No context, likely political/religious"
+    },
+    {
+     "id": "518548283",
+     "who": "Amber Knee",
+     "subject": "Life gets better…",
+     "reason": "Second post by an already-picked author"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "518598650",
+     "short": "DQ67-qg-X6dC",
+     "who": "Amber Knee",
+     "hood": "FiDi (Water-William)",
+     "t": 1792160872898,
+     "age": "7 hr ago",
+     "subject": "New York never stops being beautiful 🌇❤️ Sometimes you just have to pause and appreciate the little things.",
+     "body": "New York never stops being beautiful 🌇❤️ Sometimes you just have to pause and appreciate the little things. Who else loves a sunset like this? Happy Friday, neighbours! 🥰”",
+     "reactions": 117,
+     "comments": 12,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/80/a2/80a2959b1a2e05fbde0795dd85265a5f.jpeg",
+     "url": "https://nextdoor.com/p/DQ67-qg-X6dC/",
+     "why": "Sunset photo celebrating the city; warm local appreciation with strong engagement.",
+     "suggestReaction": "Like",
+     "suggestComment": "Beautiful shot. Those Friday sunsets are a good reason to look up from the phone for a minute."
+    },
+    {
+     "id": "518572462",
+     "short": "c7mtwsC9PdTF",
+     "who": "Sabri Coco",
+     "hood": "Kips Bay (E30-3rd-E34-Park)",
+     "t": 1792154661868,
+     "age": "9 hr ago",
+     "subject": "Hi!",
+     "body": "Hi! I’m looking for someone with caregiving experience to accompany to a minor surgical procedure in Manhattan next Tuesday or Wednesday.  I’ll know the exact date and time on Monday morning. Since they’ll be having sedation, they’ll need someone to accompany them home afterward.\n\nWe’ll take an Uber there and back, and it should take about 2–3 hours in total. The exact day and time are still to be confirmed.\n\nPlease DM me for more details and tell me a little about your caregiving experience. Thank you!",
+     "reactions": 6,
+     "comments": 9,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "url": "https://nextdoor.com/p/c7mtwsC9PdTF/",
+     "why": "Neighbour looking for a caregiver to accompany someone home from a minor procedure; practical neighbourly request.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Hope the procedure goes smoothly and you find someone kind and reliable. Good on you for planning the ride home ahead."
+    },
+    {
+     "id": "518671356",
+     "short": "z2qzz7BY4NqZ",
+     "who": "Rob Hansen",
+     "hood": "Cobble Hill",
+     "t": 1792175862047,
+     "age": "3 hr ago",
+     "subject": "Great looking home",
+     "body": "Great looking home",
+     "reactions": 9,
+     "comments": 0,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/52/73/52738dbf0061d529e70b70a7bc2eee5c.jpeg",
+     "url": "https://nextdoor.com/p/z2qzz7BY4NqZ/",
+     "why": "Light local chatter: a photo of a handsome home, no controversy.",
+     "suggestReaction": "Like",
+     "suggestComment": ""
+    }
+   ]
   }
  }
 };
