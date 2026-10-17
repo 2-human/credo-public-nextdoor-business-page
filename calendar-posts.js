@@ -161,7 +161,9 @@ window.CREDO_ND_POSTS = [
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
- {date:'2026-10-16', time:'09:00', status:'scheduled', src:'v2', type:'edu', cluster:'Real collector or scam', organicId:'nd-1016', img:'assets/organic/p-phone-table-1x1.jpg', imgNote:'Organic v2 · Phone lit with a call on a kitchen table, mail beside it',
+ {date:'2026-10-16', time:'09:00', status:'published', src:'v2', type:'edu', cluster:'Real collector or scam', organicId:'nd-1016', img:'assets/organic/p-phone-table-1x1.jpg', imgNote:'Organic v2 · Phone lit with a call on a kitchen table, mail beside it',
+  url:'https://nextdoor.com/p/qbwRPqPNC-nw/', insights:'https://nextdoor.com/post_insights/qbwRPqPNC-nw/', postedAt:'2026-10-17T13:10:15.111Z',
+  metrics:{views:0, reactions:0, comments:0, asOf:'2026-10-17'},
   text:'A real debt collector has to tell you who they are and send you a written notice with the amount and the original creditor. A scammer usually will not.\n\nRed flags: pay right now, pay with a gift card or a wire, or threats of arrest. Nobody gets arrested over a credit card bill.\n\nHas anyone had a call like that lately?',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
