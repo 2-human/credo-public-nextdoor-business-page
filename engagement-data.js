@@ -2659,6 +2659,81 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": ""
     }
    ]
+  },
+  "2026-10-17": {
+   "scannedAt": "2026-10-18T07:57:14.856Z",
+   "backfill": true,
+   "feedPosts": 21,
+   "todayPosts": 6,
+   "note": "Backfill for 17 Oct, scanned 18 Oct ~04:00 ET. /news_feed/ still redirects into the page-admin area, so the PersonalizedFeed API replay was not available; the page-admin feed loaded 21 posts across 13-17 Oct, 6 of them from 17 Oct. Only 2 qualified, so 2 picks rather than padding. 18 Oct had no posts yet at scan time.",
+   "excluded": [
+    {
+     "id": "518951908",
+     "who": "Clark Green",
+     "subject": "Bike space on subway cars",
+     "reason": "Ongoing bikes debate (same author's threads excluded earlier)"
+    },
+    {
+     "id": "518856118",
+     "who": "Clark Green",
+     "subject": "Biking space via air rights over government housing",
+     "reason": "Bikes/urban-policy debate"
+    },
+    {
+     "id": "518933669",
+     "who": "Kaya Hall",
+     "subject": "(photo only, no text)",
+     "reason": "No text; content unclear"
+    },
+    {
+     "id": "518965277",
+     "who": "Cindy Thorn",
+     "subject": "Happy to try new things and know new people",
+     "reason": "Vague, low-signal post"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "518956016",
+     "short": "NFkwxtPHRqD-",
+     "url": "https://nextdoor.com/p/NFkwxtPHRqD-/",
+     "who": "Adlin A.",
+     "hood": "Murray Hill (E42-Park-E38-2nd)",
+     "t": 1792278241730,
+     "age": "8 hr ago",
+     "subject": "🚨💔 ONE KITTEN HAS ALREADY BEEN GIVEN AWAY.",
+     "body": "🚨💔 ONE KITTEN HAS ALREADY BEEN GIVEN AWAY. TWO STILL NEED OUR HELP.\n\nWe urgently need a foster for the two remaining kittens in this video. They are living in a garage, and the person caring for them wants them out this week.\n\nThey plan to spay their mom and keep her, but her babies need somewhere safe to go.\n\nOne kitten has already been given away. We don’t know whether that baby will receive the proper care or veterinary attention, and that uncertainty is heartbreaking.\n\nWe want to help the remaining two receive the care they need and find carefully screened, loving homes. But we need a foster to make that possible.\n\n🏠 CAN YOU OPEN YOUR HOME TO THESE TWO KITTENS?\n\nPlease message Lucky Cat Rescue NYC ASAP if you can help. If you cannot foster, please share.\n\n💔 They need more than somewhere to be sent. They need someone to make sure they’ll be safe. \n\n Lucky Cat Rescue NYC \nNon profit 501 (c)(3)",
+     "reactions": 23,
+     "comments": 9,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Neighbourly foster request for two kittens with a deadline this week; a supportive reply helps keep it visible.",
+     "suggestReaction": "Like",
+     "suggestComment": "Thank you for stepping in for these two before the week runs out. Hoping a neighbour with a spare corner and some patience sees this in time."
+    },
+    {
+     "id": "518910409",
+     "short": "CkYZr-pNpMYR",
+     "url": "https://nextdoor.com/p/CkYZr-pNpMYR/",
+     "who": "Mercedes Jeanne",
+     "hood": "S Side Willmsburg (Driggs-S3St)",
+     "t": 1792264342009,
+     "age": "12 hr ago",
+     "subject": "Today 3 families turn away from her.",
+     "body": "Today 3 families turn away from her. It’s so sad. She needs a place to thrive and someone who can handle everything for a baby parrot. She needs constant care, maintenance, and a lot of patience. She will be 10-12 inches. If you are the ideal family and you won’t be warned to be kicked out of your home because in the end of the day is either you or the animal and the obvious choice is yourself. Just know you can hear her verbal sounds through the walls and outside on the street. We in NYC yeah it’s loud but if your consider that she is not  a pigeon, pigeons don’t make high pitched sounds. She just needs a place to thrive",
+     "reactions": 50,
+     "comments": 27,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Rehoming a baby parrot after three families backed out; lively, sympathetic thread.",
+     "suggestReaction": "Like",
+     "suggestComment": "Rooting for her to land with someone who is ready for the noise and the attention. Thank you for being upfront about what she needs instead of just passing her on."
+    }
+   ]
   }
  }
 };
