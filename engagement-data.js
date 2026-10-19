@@ -2734,6 +2734,101 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Rooting for her to land with someone who is ready for the noise and the attention. Thank you for being upfront about what she needs instead of just passing her on."
     }
    ]
+  },
+  "2026-10-18": {
+   "scannedAt": "2026-10-19T07:40:00.000Z",
+   "backfill": true,
+   "feedPosts": 22,
+   "todayPosts": 7,
+   "note": "Backfill for 18 Oct, scanned 19 Oct ~03:40 ET. /news_feed/ still redirects into the page-admin area, so the PersonalizedFeed API replay was not available, and Claude in Chrome disconnected several times; the page-admin feed loaded 22 posts across 14-18 Oct, 7 of them from 18 Oct. Only 3 qualified, so 3 picks rather than padding. 19 Oct had no posts yet at scan time.",
+   "excluded": [
+    {
+     "id": "519147104",
+     "who": "Clark Green",
+     "subject": "New Court Street bike-lane design",
+     "reason": "Ongoing bikes/street-design debate (17 comments, 1 reaction)"
+    },
+    {
+     "id": "519140304",
+     "who": "Vee P.",
+     "subject": "Mamdani announcement",
+     "reason": "Political"
+    },
+    {
+     "id": "519094029",
+     "who": "Carlos muah",
+     "subject": "Offering support to single mothers / homeless / unemployed",
+     "reason": "Unverified author with no neighbourhood, vague 'reach out to me' offer to vulnerable people; possible scam bait"
+    },
+    {
+     "id": "519050329",
+     "who": "Carla Johnson",
+     "subject": "Banned Tompkins Square Park t-shirts",
+     "reason": "Sales pitch tied to a dispute with the Parks Department"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "519081488",
+     "short": "Hg_pSRPDbPkP",
+     "url": "https://nextdoor.com/p/Hg_pSRPDbPkP/",
+     "who": "Vicki Devor",
+     "hood": "Carroll Gardens",
+     "t": 1792345740181,
+     "age": "13 hr ago",
+     "subject": "I have FOUR!!",
+     "body": "I have FOUR!! Friendly kitties looking for fosters, and /or adopters. I normally do not come to Nextdoor for help, but All my usual paths to fosters are coming up short 😢.., do you think\nNextdoor can help me find loving, caring people to foster … \n\nThey are all siblings!!  But all different ages. If you email or message me I can tell you their story. And send you videos. \n\nAll are neutered males, FIV/FeLv negative, vacinnated, had rabies shots, treated for fleas, nails trimmed, the works. \n\nTeddy, 6 months old \nMarv, 6-8 yrs old.\nFinn, 2yrs old \nTommy, 1-yr old. (Only Black🖤kitty ) \n\nAll sweet, loving kitties, they love other kitties and humans too.",
+     "reactions": 48,
+     "comments": 9,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Neighbourly rehoming request for four vetted sibling cats; warm, active thread with no argument.",
+     "suggestReaction": "Like",
+     "suggestComment": "Teddy, Marv, Finn and Tommy sound like lovely boys, and it is clear how well they have been looked after. Sharing in the hope the right foster in the neighbourhood sees this soon."
+    },
+    {
+     "id": "519043598",
+     "short": "LwmDP8DrYQ75",
+     "url": "https://nextdoor.com/p/LwmDP8DrYQ75/",
+     "who": "James Ou",
+     "hood": "Battery Park City (Albany-1Pl)",
+     "t": 1792335676479,
+     "age": "16 hr ago",
+     "subject": "I've never seen fall so beautiful.",
+     "body": "I've never seen fall so beautiful.",
+     "reactions": 76,
+     "comments": 12,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/2e/56/2e5609e5a95fa39bc32b35794e973b68.jpeg",
+     "why": "Seasonal appreciation photo (waterfall in autumn colour) with lots of friendly engagement.",
+     "suggestReaction": "Wow",
+     "suggestComment": "What a view, those colours are unreal. Thanks for sharing a bit of fall with everyone stuck scrolling indoors."
+    },
+    {
+     "id": "519010297",
+     "short": "_P2xQL-fJCWy",
+     "url": "https://nextdoor.com/p/_P2xQL-fJCWy/",
+     "who": "Mario E Golden",
+     "hood": "FiDi (Park Row-South St)",
+     "t": 1792314755475,
+     "age": "22 hr ago",
+     "subject": "My grandson is playing with sybbie's puppies.",
+     "body": "My grandson is playing with sybbie's puppies.",
+     "reactions": 10,
+     "comments": 1,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/74/48/744840619c1f199045b75f2837ed71b7.jpeg",
+     "why": "Light, happy family photo (grandson with puppies); easy, friendly engagement.",
+     "suggestReaction": "Like",
+     "suggestComment": "This made my morning. Hard to tell who is having more fun, your grandson or the puppies."
+    }
+   ]
   }
  }
 };
