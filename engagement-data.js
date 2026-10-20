@@ -2829,6 +2829,132 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "This made my morning. Hard to tell who is having more fun, your grandson or the puppies."
     }
    ]
+  },
+  "2026-10-19": {
+   "scannedAt": "2026-10-20T01:38:44.010Z",
+   "feedPosts": 23,
+   "todayPosts": 10,
+   "note": "Scanned 19 Oct ~21:40 ET from the page-admin feed (23 posts, 10 from 19 Oct). Only 4 qualified, so 4 picks rather than padding.",
+   "excluded": [
+    {
+     "id": "519412228",
+     "who": "Theodore . Fairbanks",
+     "subject": "I'm offering support to single mothers…",
+     "reason": "Copy-paste 'support' offer posted by two accounts within minutes; likely spam/scam"
+    },
+    {
+     "id": "519409773",
+     "who": "Joel . Bishop",
+     "subject": "I'm offering support to single mothers…",
+     "reason": "Duplicate of the same likely-spam offer"
+    },
+    {
+     "id": "519385253",
+     "who": "Mario E Golden",
+     "subject": "Minsk, Belarus.",
+     "reason": "Not local; freemasonry/fraternal-religious content"
+    },
+    {
+     "id": "519319706",
+     "who": "Dee Keller",
+     "subject": "Blakeman for Gov,?",
+     "reason": "Political"
+    },
+    {
+     "id": "519288045",
+     "who": "Ellen Sandles",
+     "subject": "Biker Violation This Morning - East 17th Street and 2nd Avenue",
+     "reason": "Heated cyclists-vs-pedestrians dispute (86 comments); reacting would take a side"
+    },
+    {
+     "id": "519282227",
+     "who": "Gail Freeman",
+     "subject": "What do you think?",
+     "reason": "No content to engage with"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "519283853",
+     "short": "Ccj_-gmYYCsH",
+     "url": "https://nextdoor.com/p/Ccj_-gmYYCsH/",
+     "who": "Monique Lewis",
+     "hood": "FiDi (William-John)",
+     "t": 1792427468786,
+     "age": "8 hr ago",
+     "subject": "Hi neighbors!",
+     "body": "Hi neighbors! \n\nHEADS UP: My purse and bag were stolen on the N train last night. My ID, passport, wallet, money, keys was all in there. Filed a police report and detectives are supposed to be looking into it now. Please keep your belongings close when you ride, and if you come across a bag, wallet, or documents -please let me know. The bag is a brown vintage Coach bag that they don't make anymore-gift from my mom, and I had an African handmade red wallet in the bag. My passport is in a pink passport book cover and the bag was a black Roca canvas bag. \n\nIt was a rough night, but I'm choosing to see it as a fresh start. I get to rebuild from scratch, and I'm feeling hopeful about it. Thankfully, my phone was in the repair shop but the money to retrieve it was in the bag, so I'm stuck. And yes, I went to the repair shop and let them know the situation and they're holding it for me without any additional costs.\n\nIn the meantime, I'm looking for odd jobs to earn some extra cash. I'm hard-working, reliable, and happy to help with things like errands, cleaning, organizing, moving or carrying things, yard work, dog walking, or whatever else you need a hand with. Fair rates, and I'll show up on time.\n\nIf you have something that needs doing, send me a message. Thanks, neighbors, and stay safe out there!",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Subway theft heads-up from the neighbour herself, with a hopeful tone and a lost-items description; safety warning with no thread yet.",
+     "suggestReaction": "Sad",
+     "suggestComment": "So sorry this happened, and thank you for turning a rough night into a heads-up for the rest of us on the N. Hoping your mom's Coach bag and that red wallet find their way back to you."
+    },
+    {
+     "id": "519234944",
+     "short": "6_bRRPmJzLdb",
+     "url": "https://nextdoor.com/p/6_bRRPmJzLdb/",
+     "who": "Tommy Max",
+     "hood": "West Village (Chris-Bleecker)",
+     "t": 1792417226263,
+     "age": "11 hr ago",
+     "subject": "Some streets in NYC just have a charm of their own.",
+     "body": "Some streets in NYC just have a charm of their own. The brick townhouses, green trees, and a classic car make this West Village street feel timeless. ❤️🏙️🍃",
+     "reactions": 37,
+     "comments": 4,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/37/25/3725b15f14558c6fa5107955821b88a0.jpeg",
+     "why": "Local appreciation photo of a West Village street; well liked, friendly thread.",
+     "suggestReaction": "Like",
+     "suggestComment": "Brick townhouses, big trees and a classic car out front, it really does feel timeless. Thanks for the little moment of calm in the feed."
+    },
+    {
+     "id": "519206103",
+     "short": "-Yw2LDhbmK2K",
+     "url": "https://nextdoor.com/p/-Yw2LDhbmK2K/",
+     "who": "Andrew Beckerman",
+     "hood": "West Village (Christopher-Washington)",
+     "t": 1792403686164,
+     "age": "15 hr ago",
+     "subject": "Hi neighbors!",
+     "body": "Hi neighbors! I'm happy to walk your dog for free. I live in the West Village, work from home. I've been around dogs for years and would love to meet more of them. Message me with your dog's name, breed, and what works for you!",
+     "reactions": 1,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Neighbourly offer to walk dogs for free; light, kind post with no argument.",
+     "suggestReaction": "Like",
+     "suggestComment": "What a kind offer, and a lovely way to get to know the neighbourhood dogs. Hope a few happy pups take you up on it."
+    },
+    {
+     "id": "519395873",
+     "short": "2Yh9M73LjBpp",
+     "url": "https://nextdoor.com/p/2Yh9M73LjBpp/",
+     "who": "Clark Green",
+     "hood": "FiDi (William-John)",
+     "t": 1792453656383,
+     "age": "1 hr ago",
+     "subject": "NYC is the city that never sleeps and the city of bold ideas.",
+     "body": "NYC is the city that never sleeps and the city of bold ideas. While it might not seem possible now, this is what the ideal avenue would look like in Manhattan. Plenty of space for bikes, while keeping pedestrians safe by keeping them to their designated lane.",
+     "reactions": 2,
+     "comments": 12,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/05/d6/05d6a4a20a1fc76b37241c4342c6a4f0.jpeg",
+     "why": "Local street-design idea with an active thread; bike lanes draw debate, so react-only.",
+     "suggestReaction": "Insightful",
+     "suggestComment": ""
+    }
+   ]
   }
  }
 };
