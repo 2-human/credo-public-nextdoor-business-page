@@ -2955,6 +2955,599 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": ""
     }
    ]
+  },
+  "2026-10-20": {
+   "scannedAt": "2026-10-23T21:30:26.028Z",
+   "feedPosts": 302,
+   "todayPosts": 58,
+   "note": "Backfill from the 23 Oct run (58 posts dated 20 Oct).",
+   "backfill": true,
+   "excluded": [
+    {
+     "id": "519677908",
+     "who": "Bradford Buonasera",
+     "subject": "Broadway moved its curtain up an hour …",
+     "reason": "Content-marketing post with an outbound link"
+    },
+    {
+     "id": "519514160",
+     "who": "Daniel Balk",
+     "subject": "… sports cards …",
+     "reason": "Buy/sell solicitation"
+    },
+    {
+     "id": "519629644",
+     "who": "Justin Patrick",
+     "subject": "Can NYC benefit from new residential highway project",
+     "reason": "Infrastructure debate"
+    },
+    {
+     "id": "519473611",
+     "who": "Dana X10sen",
+     "subject": "Did anyone hear a big explosion around 4am …",
+     "reason": "Possible incident/crime"
+    },
+    {
+     "id": "519513920",
+     "who": "Leah Plawker",
+     "subject": "Hi everyone! I'm Leah, and I work at Treat …",
+     "reason": "Company research recruitment"
+    },
+    {
+     "id": "519545028",
+     "who": "Alasandro Fenston",
+     "subject": "Have a free desk, desk chair, and lamp …",
+     "reason": "Same-day giveaway, stale by now"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "519665918",
+     "short": "BQhcxtNzrP69",
+     "url": "https://nextdoor.com/p/BQhcxtNzrP69/",
+     "who": "Alex A.",
+     "hood": "Midtown SC (E32-Madison)",
+     "t": 1792535493378,
+     "age": "2 days ago",
+     "subject": "🌸🌸🌸10/21/26 Happy update from Cool Cat Chicks : SIAMESE kitten WAS ADOPTED !",
+     "body": "🌸🌸🌸10/21/26 Happy update from Cool Cat Chicks : SIAMESE kitten WAS ADOPTED !🌸🌸🌸 \n🐾 SIAMESE KITTEN is Looking for a Loving Forever Home! 🐾\n\nMeet this adorable 2.5-month-old male Siamese kitten! 💙 This friendly little boy was rescued and is looking for a loving forever home where he can thrive and be cherished.\n\n🐱 About the kitten:\n\n* Breed: Siamese\n* Age: Approximately 2.5 months old\n* Sex: Male\n* Personality: Friendly and very sweet\n* Care: Treated for fleas and dewormed\n\n🏡 He deserves a safe, loving home where he can grow up happy and cared for.\n\n📌 Please note: I am sharing this post as a courtesy on behalf of an independent rescuer from NJ. I am not affiliated with the rescuer or her rescue efforts, and I have never met her personally. I am simply helping spread the word about this kitten.\n\n📩 For adoption inquiries or additional information, please contact the rescuer directly : Anna (201) xxx-xxxx \nI am not handling the adoption process.\n\n🙏 Please share to help this sweet boy find his forever family! ❤️🐾\n\nThank you ,\nCool Cat Chicks",
+     "reactions": 143,
+     "comments": 44,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/87/b6/87b69c81a1c7bb977edb8617f3fc488e.png",
+     "why": "Happy adoption update for a rescued kitten; very popular, purely positive.",
+     "suggestReaction": "Like",
+     "suggestComment": "The best kind of update! Thank you to everyone who shared and helped him find his family."
+    },
+    {
+     "id": "519596255",
+     "short": "Ct3cdT_QbQPC",
+     "url": "https://nextdoor.com/p/Ct3cdT_QbQPC/",
+     "who": "Kara Badalamente",
+     "hood": "Murray Hill (E42-Park-E38-2nd)",
+     "t": 1792519342280,
+     "age": "3 days ago",
+     "subject": "Hii everyone!!",
+     "body": "Hii everyone!! 💕 I just moved to NYC and I’m currently looking for a job! I’m 26 and really interested in getting into production, but I’m also open to assistant positions or other opportunities where I can learn and grow in the industry!\n\nIf anyone knows of any openings, is looking for an assistant, or has any connections or advice, I would be so grateful! Thank you so much!! 💗",
+     "reactions": 25,
+     "comments": 16,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "New neighbour looking for a first NYC job in production; neighbourly request with an encouraging thread.",
+     "suggestReaction": "Like",
+     "suggestComment": "Welcome to the city! Wishing you luck with the search, and hope a neighbor here has the right connection for you."
+    },
+    {
+     "id": "519627057",
+     "short": "zhnMSCYJyWRN",
+     "url": "https://nextdoor.com/p/zhnMSCYJyWRN/",
+     "who": "Judith Uolde-Mariam",
+     "hood": "Park Slope (12St-5Ave)",
+     "t": 1792526123718,
+     "age": "3 days ago",
+     "subject": "Save the date.",
+     "body": "Save the date. I’m giving an artist talk at the New York City Public library, Ottendorfer branch (the oldest branch in NYC). It’s located at 135 2nd Avenue. near ninth Street in Manhattan. The date is November 7, 2026. Time is 2 to 4 PM. There will be a Q&A and snacks at this FREE event. I hope to see you there.",
+     "reactions": 16,
+     "comments": 4,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/71/38/713885f1aa5abbebc5f21001b68e099d.jpg",
+     "why": "Free local artist talk at the Ottendorfer library branch; community event.",
+     "suggestReaction": "Like",
+     "suggestComment": "The Ottendorfer branch is such a lovely spot for a talk. Thanks for sharing and good luck on the 7th!"
+    },
+    {
+     "id": "519629574",
+     "short": "Fx85LSZG7SJ7",
+     "url": "https://nextdoor.com/p/Fx85LSZG7SJ7/",
+     "who": "Simone Lillian",
+     "hood": "Stuyvesant Town West",
+     "t": 1792526826790,
+     "age": "3 days ago",
+     "subject": "Looking for someone to help with minor computer issues - mac and Ipad.",
+     "body": "Looking for someone to help with minor computer issues - mac and Ipad.\nI live in Stuytown 1st ave bet 14 and 15 st.\nSimone 917 4504088",
+     "reactions": 3,
+     "comments": 2,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": null,
+     "why": "Neighbour asking for help with minor Mac and iPad issues; simple neighbourly request.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Hope a tech-savvy neighbor in Stuy Town can lend a hand soon."
+    },
+    {
+     "id": "519555611",
+     "short": "T5RGrWK5pYRd",
+     "url": "https://nextdoor.com/p/T5RGrWK5pYRd/",
+     "who": "Jasmine Von Rock",
+     "hood": "Kips Bay (32nd-1st-34th-3rd)",
+     "t": 1792514995684,
+     "age": "3 days ago",
+     "subject": "I was born on a Tuesday 🤗 Happy Tuesday, everyone!!!",
+     "body": "I was born on a Tuesday 🤗 Happy Tuesday, everyone!!! ✨️💛",
+     "reactions": 20,
+     "comments": 5,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Light, cheerful greeting with good engagement.",
+     "suggestReaction": "Like",
+     "suggestComment": "Happy Tuesday right back to you! Thanks for the burst of good cheer."
+    }
+   ]
+  },
+  "2026-10-21": {
+   "scannedAt": "2026-10-23T21:30:26.028Z",
+   "feedPosts": 302,
+   "todayPosts": 70,
+   "note": "Backfill from the 23 Oct run (70 posts dated 21 Oct). Floating-beaches post is react-only.",
+   "backfill": true,
+   "excluded": [
+    {
+     "id": "519927718",
+     "who": "Bianca Kerry",
+     "subject": "Anyone used a service to transport an elderly parent …",
+     "reason": "Dementia/family-care topic; author asked for no comments beyond recommendations"
+    },
+    {
+     "id": "519897489",
+     "who": "Mark B.",
+     "subject": "This is yet Another big problem with the city …",
+     "reason": "Street/policy rant"
+    },
+    {
+     "id": "519847497",
+     "who": "Kim Jones",
+     "subject": "ARE WE EDUCATING STUDENTS FOR LIFE …",
+     "reason": "Education policy debate"
+    },
+    {
+     "id": "519852982",
+     "who": "Ellen Sandles",
+     "subject": "Biker Violations - 10th Street and 2nd Ave",
+     "reason": "Heated dispute (92 comments)"
+    },
+    {
+     "id": "519761300",
+     "who": "Iris Spellings",
+     "subject": "Human beings are born with free will …",
+     "reason": "Religious/spiritual"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "519967180",
+     "short": "SRT2ZTz2m2xp",
+     "url": "https://nextdoor.com/p/SRT2ZTz2m2xp/",
+     "who": "Johanna DeCourcy",
+     "hood": "Chelsea (W17-8th-W22-6th)",
+     "t": 1792634187918,
+     "age": "1 day ago",
+     "subject": "ALERT FOR SMALL-PET OWNERS: On Wednesday morning, Oct.",
+     "body": "ALERT FOR SMALL-PET OWNERS: On Wednesday morning, Oct. 21, I glanced out a 5th-floor window that overlooks a street near Trader Joe’s in Chelsea. There, not four feet away, was a fully grown redtail hawk standing on the air conditioner and looking me in the eye, probably sizing me up for suitability as a breakfast treat. She was big; this was no fluffy-feathered fledgling, although she did have a little feather dangling from her beak. (I know her type but not her gender, so I’ll just call her “she,” as in this species, the girls are usually heavier than the boys.) \n\nAfter we had watched each other for perhaps 5 minutes, I slowly reached for a camera. By the time I had raised it to my eye, however, she was gone. \n\nHoping she would return, I looked down at the a/c (TENDER-HEARTED READERS, JUMP TO THE NEXT PARAGRAPH NOW) and saw the headless corpse of a pigeon, still moist and bright red from where she had ripped off its head in a moment of gustatory frenzy.\n\nIn my 46 years here, this is the first time I’ve seen a raptor of any type in Chelsea. It’s thrilling to see them in town, like Pale Male or the barn owls in Central Park, but there is a down side.\n\nIf you walk your very small pet in Chelsea, please be aware that there is a stone-cold killer looking for a meal in the area. Stay alert. According to my brief online research, most redtails can’t fly far while carrying much more than half their weight of 1.5 to 4 pounds, which rules out most dogs and cats. If your pet is a large bunny or an over-fed ferret, though, keep your eyes peeled. Hawks seem to take pleasure in making humans scream by diving threateningly low over our heads, so I wouldn’t put it past them to enjoy traumatizing your beloved fur baby the same way. They probably won’t dive-bomb you, but if they do, protect the back of your neck and your head. Hold something above your head (like a hat, bag, notebook, arms, jacket, backpack). Stand tall and put your arms up—hawks target the highest point. Stay facing the bird while you slowly and calmly back away. Birds in NYC are used to humans, so they probably won’t try to terrorize you unless you’re getting too close to their young or the nest.\n\nP.S. If you’re making a Comment, please don’t throw hate at our beautiful NYC pigeons. There’s room in this city for both us and those gentle avian neighbors.",
+     "reactions": 97,
+     "comments": 29,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Small-pet safety heads-up about a red-tailed hawk in Chelsea; well written, lots of engagement.",
+     "suggestReaction": "Wow",
+     "suggestComment": "What an encounter, and thank you for the heads-up to small-pet owners. The tip about standing tall and backing away calmly is a good one to know."
+    },
+    {
+     "id": "519950094",
+     "short": "Nq9h434SHQ8D",
+     "url": "https://nextdoor.com/p/Nq9h434SHQ8D/",
+     "who": "Josselyn Magaly Bunay",
+     "hood": "Battery Park City (River Terr)",
+     "t": 1792628810274,
+     "age": "1 day ago",
+     "subject": "After a long day of hard work, Lucky and Zebro are enjoying a clean home.",
+     "body": "After a long day of hard work, Lucky and Zebro are enjoying a clean home. Look how happy and peaceful they are! 🥰 Sometimes, it’s the little moments that bring us the most joy. I hope all my neighbors are having a lovely evening and are able to get some rest, too. Sending a big hug to the whole community!",
+     "reactions": 175,
+     "comments": 22,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/5f/68/5f68a5a6814c8dcc6244e6e3efbc6402.jpeg",
+     "why": "Happy pet photo and a warm note to the whole community; very popular.",
+     "suggestReaction": "Like",
+     "suggestComment": "Lucky and Zebro look so content. Thank you for the hug, sending one right back!"
+    },
+    {
+     "id": "519793584",
+     "short": "MMLLMHnWQQqM",
+     "url": "https://nextdoor.com/p/MMLLMHnWQQqM/",
+     "who": "Allison Horwitz",
+     "hood": "Clinton Hill (Fulton-St James)",
+     "t": 1792593542741,
+     "age": "2 days ago",
+     "subject": "It’s been sorted out.",
+     "body": "It’s been sorted out. Thanks for your help! \n\nGood morning,\n\nDoes anyone recognize this building entryway? Amazon delivered my package to the wrong building and the photo isn’t clear enough for me to see an address.\n\nThanks",
+     "reactions": 6,
+     "comments": 21,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/bc/4b/bc4b00ac16f2075d2f38e9c20f45d505.jpeg",
+     "why": "Misdelivered package sorted out with neighbours' help; feel-good community outcome.",
+     "suggestReaction": "Like",
+     "suggestComment": "Love that the neighbors figured it out so quickly. Glad your package found its way home."
+    },
+    {
+     "id": "519772697",
+     "short": "Bh8-JqFdhFLr",
+     "url": "https://nextdoor.com/p/Bh8-JqFdhFLr/",
+     "who": "Maria Standish",
+     "hood": "Chelsea (23rd-10th-34th)",
+     "t": 1792588995615,
+     "age": "2 days ago",
+     "subject": "Does anyone know of somewhat reasonably priced parking (can be outdoor), anywhere in the city, uptown, Queens, wherever, just somewhat close to a subway stop?",
+     "body": "Does anyone know of somewhat reasonably priced parking (can be outdoor), anywhere in the city, uptown, Queens, wherever, just somewhat close to a subway stop?",
+     "reactions": 0,
+     "comments": 4,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Cost-of-living question about affordable parking near the subway.",
+     "suggestReaction": "Like",
+     "suggestComment": "Affordable parking near a subway stop really is the NYC unicorn. Hope some good leads come your way."
+    },
+    {
+     "id": "519947574",
+     "short": "85mCjysHdh3n",
+     "url": "https://nextdoor.com/p/85mCjysHdh3n/",
+     "who": "Justin Patrick",
+     "hood": "Alphabet City",
+     "t": 1792628056612,
+     "age": "1 day ago",
+     "subject": "MANHATTAN FLOATING BEACHES",
+     "body": "MANHATTAN FLOATING BEACHES\n\nReimagining New York City's Waterfront as a Living Public Destination\n\nConcept Proposal | Preliminary Vision\n\nNew York City is surrounded by water, yet much of Manhattan lacks direct access to sandy beaches and waterfront recreational spaces.\n\nWe propose exploring a network of modular floating beach platforms along suitable portions of Manhattan's shoreline, transforming underutilized waterfront opportunities into vibrant public destinations for recreation, wellness, culture, and community life.\n\nThese floating environments could feature sandy volleyball courts, open recreational spaces, sun decks, shaded gardens, family-friendly activities, wellness pavilions, cafés, nonalcoholic elixir bars, and seasonal cultural programming.\n\nDesigned around public accessibility, environmental responsibility, maritime safety, and economic sustainability, the initiative would seek to create new recreational opportunities without requiring extensive permanent shoreline alteration.\n\nOur initial request is to explore a public-private feasibility partnership for a pilot floating beach facility.\n\nThe long-term vision is a replicable network of waterfront destinations that expands recreational access, supports local employment, encourages healthy living, and reconnects New Yorkers with their surrounding waterways.\n\nMore waterfront. More community. More possibilities.",
+     "reactions": 41,
+     "comments": 13,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/03/3d/033d5f04645b0da894127e15a4fc6db6.jpeg",
+     "why": "Upbeat local idea about floating beaches on the Manhattan waterfront; engaged but not heated.",
+     "suggestReaction": "Insightful",
+     "suggestComment": ""
+    }
+   ]
+  },
+  "2026-10-22": {
+   "scannedAt": "2026-10-23T21:30:26.028Z",
+   "feedPosts": 302,
+   "todayPosts": 95,
+   "note": "Backfill from the 23 Oct run (95 posts dated 22 Oct). Feed heavy on lost/rehoming pets.",
+   "backfill": true,
+   "excluded": [
+    {
+     "id": "520089614",
+     "who": "Paula Rossi",
+     "subject": "Has anyone here had a C3 C4 fusion …",
+     "reason": "Medical"
+    },
+    {
+     "id": "519988816",
+     "who": "Mark B.",
+     "subject": "So apparently Blakeman might have been lying …",
+     "reason": "Political"
+    },
+    {
+     "id": "520094029",
+     "who": "Lena Hunter",
+     "subject": "Why are some people capable of hurting animals …",
+     "reason": "Animal cruelty, heated"
+    },
+    {
+     "id": "520048550",
+     "who": "Cashmere Thomas",
+     "subject": "Neighbors — quick heads-up from someone who's done a lot of October moves …",
+     "reason": "Likely disguised hauling-service marketing"
+    },
+    {
+     "id": "520223178",
+     "who": "Adlin A.",
+     "subject": "HABEAR IS READY …",
+     "reason": "Rescue organisation promo; picked an individual rehoming post instead"
+    },
+    {
+     "id": "520030571",
+     "who": "Harmony Powell",
+     "subject": "Looking to find someone who can rehouse a 2yr old pup",
+     "reason": "Kept to one rehoming post per day"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "520253826",
+     "short": "QGZmC4CHqNHJ",
+     "url": "https://nextdoor.com/p/QGZmC4CHqNHJ/",
+     "who": "Natasha Otrakji",
+     "hood": "S Side Willmsburg (Driggs-S3St)",
+     "t": 1792720567594,
+     "age": "19 hr ago",
+     "subject": "LOST CAT!!",
+     "body": "LOST CAT!! Please help us find Joe/JoJo. Last seen yesterday 10/21/26 at s4 st and bedford ave, south williamsburg\nCall 786-208-1682",
+     "reactions": 17,
+     "comments": 19,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/50/02/5002b9d00453cf49fa5a2afd6364870b.jpeg",
+     "why": "Lost cat in South Williamsburg; neighbourly lost-pet request with an active thread.",
+     "suggestReaction": "Sad",
+     "suggestComment": "Sending hope that Joe turns up safe soon. Sharing so more eyes on the Southside are looking out for him."
+    },
+    {
+     "id": "520139738",
+     "short": "YZ-XgnHRFthr",
+     "url": "https://nextdoor.com/p/YZ-XgnHRFthr/",
+     "who": "Etienne Venet",
+     "hood": "Ft Greene (Hanson-Fulton)",
+     "t": 1792691495164,
+     "age": "1 day ago",
+     "subject": "Hi everyone, a black cat with a little bowtie and white spot on their tail walked into my house yesterday.",
+     "body": "Hi everyone, a black cat with a little bowtie and white spot on their tail walked into my house yesterday. He is friendly to people and was a bit hungry but overall healthy and in a good condition. Wanted to reach out and see if anyone lost them or is willing to take care of them. I'm not a cat person but I am a friend to all animals would rather get him back home than put him on the street.",
+     "reactions": 74,
+     "comments": 24,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/39/a7/39a7d5a067f6624f696743e2d8811ccc.jpeg",
+     "why": "Found friendly cat in Fort Greene, trying to reunite it with its owner; very active thread.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thank you for taking him in and looking for his family instead of putting him back out. Hope his people see this soon."
+    },
+    {
+     "id": "520053634",
+     "short": "tPSpg5DznjBS",
+     "url": "https://nextdoor.com/p/tPSpg5DznjBS/",
+     "who": "Lynne Christensen",
+     "hood": "Cobble Hill",
+     "t": 1792678259922,
+     "age": "1 day ago",
+     "subject": "This disabled pigeon is on my property.",
+     "body": "This disabled pigeon is on my property. It can't fly and seems to have a broken wing. Does anyone have any advice about keeping the bird alive (eg, what food?). We would like to get it to a bird rehabilitator, but the Animal Care Center in Brooklyn is closed.",
+     "reactions": 36,
+     "comments": 35,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/b7/be/b7be3ebda6d9e6d90ce41363447c9b22.jpeg",
+     "why": "Neighbour caring for an injured pigeon and asking for help reaching a rehabilitator; kind, active thread.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thank you for looking out for this little one. Hope you were able to get it to someone who can help."
+    },
+    {
+     "id": "520090934",
+     "short": "mzJ8JKCDsRmr",
+     "url": "https://nextdoor.com/p/mzJ8JKCDsRmr/",
+     "who": "Victoria Berk",
+     "hood": "Garment Dist",
+     "t": 1792685687129,
+     "age": "1 day ago",
+     "subject": "3.",
+     "body": "3.5 months old friendly female kitten, rescued from the street, fully vetted ( vaccinated, SNAP test done, dewormed, defleased), desperately needs a loving family. If you are interested in adoption, please call or send message on my phone: (718) 419-7703. Pet Adoption Application and Adoption Fee apply.",
+     "reactions": 62,
+     "comments": 13,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/db/39/db3905f895228a5a47ee9f4b9e35cb9d.jpeg",
+     "why": "Rescued kitten looking for a home; popular, positive rehoming post.",
+     "suggestReaction": "Like",
+     "suggestComment": "What a sweetheart. Hope she finds a wonderful family quickly."
+    },
+    {
+     "id": "520197708",
+     "short": "CXxczXWS3qKt",
+     "url": "https://nextdoor.com/p/CXxczXWS3qKt/",
+     "who": "Martha Duke",
+     "hood": "Gramercy Park (E22-1st-E18-3rd)",
+     "t": 1792704931444,
+     "age": "23 hr ago",
+     "subject": "I’ve been trying to contact the Toby Project or any low cost spaying program and I think I have the wrong contact info.",
+     "body": "I’ve been trying to contact the Toby Project or any low cost spaying program and I think I have the wrong contact info. If anyone has their info please lmk!",
+     "reactions": 1,
+     "comments": 9,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Neighbour looking for low-cost spay programme contact; money-conscious pet care request.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thank you for getting your pet spayed, it makes such a difference. Hope a neighbor has the current contact for you."
+    }
+   ]
+  },
+  "2026-10-23": {
+   "scannedAt": "2026-10-23T21:30:26.028Z",
+   "feedPosts": 302,
+   "todayPosts": 70,
+   "note": "Scanned 23 Oct ~16:10 ET from the page-admin feed (302 posts loaded, 70 from 23 Oct). Same run backfilled 20-22 Oct.",
+   "excluded": [
+    {
+     "id": "520323694",
+     "who": "Cashmere Thomas",
+     "subject": "Quick neighbor PSA … \"who can take this couch?\"",
+     "reason": "Reads as a hauling/moving business marketing in disguise (same author posts disposal tips offering help)"
+    },
+    {
+     "id": "520427373",
+     "who": "Nicholas Catania",
+     "subject": "Piece of dirt.",
+     "reason": "Accusation naming/shaming a person"
+    },
+    {
+     "id": "520369442",
+     "who": "Mark B.",
+     "subject": "If hundreds of bike police aren't hired …",
+     "reason": "Political/policing debate"
+    },
+    {
+     "id": "520451123",
+     "who": "jessica rose",
+     "subject": "Well I am bit of old crank … vote",
+     "reason": "Election/political"
+    },
+    {
+     "id": "520451094",
+     "who": "Kelsey Sellenraad",
+     "subject": "Looking for a skilled fabricator",
+     "reason": "Self-promotion for a new business"
+    },
+    {
+     "id": "520371667",
+     "who": "Natasha Otrakji",
+     "subject": "LOST CAT!!",
+     "reason": "Duplicate of the lost-cat post picked for 22 Oct"
+    },
+    {
+     "id": "520437700",
+     "who": "Sharon Mear",
+     "subject": "HELP FIND OWNERS",
+     "reason": "No text to engage with"
+    },
+    {
+     "id": "520379305",
+     "who": "Lynda B.",
+     "subject": "This Flatbush redesign is a mess.",
+     "reason": "Street-safety debate with accidents"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "520295653",
+     "short": "bsgJF-qsz2Q_",
+     "url": "https://nextdoor.com/p/bsgJF-qsz2Q_/",
+     "who": "Robin Rogers",
+     "hood": "Greenpoint (Nassau-Sutton)",
+     "t": 1792754117075,
+     "age": "10 hr ago",
+     "subject": "A delivery woman just thanked me for a generous tip.",
+     "body": "A delivery woman just thanked me for a generous tip. For me, the tip seemed average—I rarely tip under $5. It is another reminder to be generous to everyone—with time, money, whatever. You never know what someone needs to keep their spirits and their money up.",
+     "reactions": 7,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Generosity and cost-of-living note about tipping delivery workers; warm, no argument.",
+     "suggestReaction": "Like",
+     "suggestComment": "Love this reminder. A few extra dollars and a thank-you can turn someone's whole shift around."
+    },
+    {
+     "id": "520274944",
+     "short": "YSscWjJkh6yK",
+     "url": "https://nextdoor.com/p/YSscWjJkh6yK/",
+     "who": "Victoria Greco",
+     "hood": "Dumbo",
+     "t": 1792730265514,
+     "age": "16 hr ago",
+     "subject": "Hi neighbors!",
+     "body": "Hi neighbors! I am moving apartments this Wednesday, 10/28, and am looking to see if anyone has any moving boxes / etc they are looking to get rid of vs throwing away. Please LMK if you are and in the Dumbo / BK heights area for easy pickup (I'm in Dumbo)! SOOO much appreciated - thanks :)",
+     "reactions": 5,
+     "comments": 9,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Neighbourly request for moving boxes ahead of a move; friendly thread with replies.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Good luck with the move next week! Hope a neighbor with a pile of boxes sees this before they hit the recycling."
+    },
+    {
+     "id": "520345335",
+     "short": "kZMYTqbHRcDL",
+     "url": "https://nextdoor.com/p/kZMYTqbHRcDL/",
+     "who": "Tommy Max",
+     "hood": "West Village (Chris-Bleecker)",
+     "t": 1792767664520,
+     "age": "6 hr ago",
+     "subject": "West Village neighbors, what’s one little thing that can instantly turn a bad day around for you?",
+     "body": "West Village neighbors, what’s one little thing that can instantly turn a bad day around for you? For me, it’s a good coffee and a walk outside.",
+     "reactions": 13,
+     "comments": 9,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/67/78/67786d6a568d561d2b82b6dc0f96980b.jpeg",
+     "why": "Light, positive West Village question with a lively thread.",
+     "suggestReaction": "Like",
+     "suggestComment": "A good coffee and a walk is hard to beat. A friendly chat with a neighbor on the stoop works wonders too."
+    },
+    {
+     "id": "520431938",
+     "short": "ryHG4d7nfJYD",
+     "url": "https://nextdoor.com/p/ryHG4d7nfJYD/",
+     "who": "Goldie Kyla",
+     "hood": "Gramercy Park (Stuyvesant Sq)",
+     "t": 1792786249844,
+     "age": "1 hr ago",
+     "subject": "She is very curious about the outside world.",
+     "body": "She is very curious about the outside world.",
+     "reactions": 19,
+     "comments": 8,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/75/07/750701284c8bb2b94317e56dc244b05b.jpg",
+     "why": "Cheerful pet photo with steady engagement.",
+     "suggestReaction": "Like",
+     "suggestComment": "She looks ready to explore the whole neighborhood. Such a sweet face!"
+    },
+    {
+     "id": "520392137",
+     "short": "zMmgKgSww4tt",
+     "url": "https://nextdoor.com/p/zMmgKgSww4tt/",
+     "who": "Jean Berman",
+     "hood": "Park Slope (2St-7Ave)",
+     "t": 1792776995396,
+     "age": "3 hr ago",
+     "subject": "Thank you to everyone who responded to my post seeking a cleaning lady.",
+     "body": "Thank you to everyone who responded to my post seeking a cleaning lady. I am not able to answer all of you. Just wanted to let you know that I have found someone. Thanks again, Jean",
+     "reactions": 1,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Thank-you post after neighbours helped with a recommendation; pure appreciation.",
+     "suggestReaction": "Like",
+     "suggestComment": "So glad the neighbors came through for you, Jean. This is what Nextdoor is best at."
+    }
+   ]
   }
  }
 };
