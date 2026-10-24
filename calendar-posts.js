@@ -149,28 +149,28 @@ window.CREDO_ND_POSTS = [
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-12', time:'21:00', status:'published', src:'v2', type:'edu', cluster:'Collector call hours', organicId:'nd-1012', img:'assets/organic/p-phone-table-1x1.jpg', imgNote:'Organic v2 · Phone lit with a call on a kitchen table, mail beside it',
   url:'https://nextdoor.com/p/6hhDN-Q_sqgj/', insights:'https://nextdoor.com/post_insights/6hhDN-Q_sqgj/', postedAt:'2026-10-13T12:51:34.679Z',
-  metrics:{views:100, reactions:0, comments:0, asOf:'2026-10-23'},
+  metrics:{views:101, reactions:0, comments:0, asOf:'2026-10-23'},
   text:'Quick one for anyone getting debt collection calls: a collector is not allowed to call before 8 in the morning or after 9 at night, your time. If they know your job does not allow calls at work, they have to stop calling you there too.\n\nWriting down the date and time of each call is worth it.\n\nHas anyone else noticed calls coming in at odd hours?',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-14', time:'17:00', status:'published', src:'v2', type:'edu', cluster:'Seven calls in seven days', organicId:'nd-1014', img:'assets/organic/p-phone-table-1x1.jpg', imgNote:'Organic v2 · Phone lit with a call on a kitchen table, mail beside it',
   url:'https://nextdoor.com/p/_CKFDb9JBdPm/', insights:'https://nextdoor.com/post_insights/_CKFDb9JBdPm/', postedAt:'2026-10-15T13:27:46.145Z',
-  metrics:{views:95, reactions:0, comments:0, asOf:'2026-10-23'},
+  metrics:{views:96, reactions:0, comments:0, asOf:'2026-10-23'},
   text:'Something many people do not know: under the federal debt collection rules, a collector who calls you more than 7 times in 7 days about the same debt is presumed to be harassing you.\n\nA call log on your phone or a note on the fridge is enough to keep track.\n\nWould a simple call log template be useful? Happy to share one.',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-16', time:'09:00', status:'published', src:'v2', type:'edu', cluster:'Real collector or scam', organicId:'nd-1016', img:'assets/organic/p-phone-table-1x1.jpg', imgNote:'Organic v2 · Phone lit with a call on a kitchen table, mail beside it',
   url:'https://nextdoor.com/p/qbwRPqPNC-nw/', insights:'https://nextdoor.com/post_insights/qbwRPqPNC-nw/', postedAt:'2026-10-17T13:10:15.111Z',
-  metrics:{views:66, reactions:0, comments:0, asOf:'2026-10-23'},
+  metrics:{views:67, reactions:0, comments:0, asOf:'2026-10-23'},
   text:'A real debt collector has to tell you who they are and send you a written notice with the amount and the original creditor. A scammer usually will not.\n\nRed flags: pay right now, pay with a gift card or a wire, or threats of arrest. Nobody gets arrested over a credit card bill.\n\nHas anyone had a call like that lately?',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-18', time:'21:00', status:'published', src:'v2', type:'edu', cluster:'Neighborhood question', organicId:'nd-1018', img:'assets/organic/p-neighbors-1x1.jpg', imgNote:'Organic v2 · Two neighbors talking over a fence',
   url:'https://nextdoor.com/p/CRfbsWp2TL2B/', insights:'https://nextdoor.com/post_insights/CRfbsWp2TL2B/', postedAt:'2026-10-20T17:58:16.786Z',
-  metrics:{views:232, reactions:0, comments:0, asOf:'2026-10-23'},
+  metrics:{views:235, reactions:0, comments:0, asOf:'2026-10-23'},
   text:'A question for the neighborhood: if a friend told you a collector was calling every day, what would you tell them to do first?\n\nOurs would be: do not pay anything on the first call, ask for everything in writing, and keep a log of every call.\n\nWhat would you add?',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
@@ -234,7 +234,7 @@ window.CREDO_ND_POSTS = [
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-13', time:'09:00', status:'published', src:'v2', type:'ad', cluster:'Stop the calls', organicId:'nd-1013', img:'assets/organic/b-phone-down-1x1-calls-at-7-a-m-at-work.jpg', imgNote:'Organic v2 · Hand pressing a phone face-down · silence the calls',
   url:'https://nextdoor.com/p/zLTnY4k6dtC7/', insights:'https://nextdoor.com/post_insights/zLTnY4k6dtC7/', postedAt:'2026-10-13T13:16:04.748Z',
-  metrics:{views:11, reactions:0, comments:0, asOf:'2026-10-23'},
+  metrics:{views:12, reactions:0, comments:0, asOf:'2026-10-23'},
   lp:'https://start.credolegal.com/debt-harassment-stop-calls',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-stop-the-calls-1013', dest:'https://start.credolegal.com/debt-harassment-stop-calls?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-13-stop-the-calls&utm_term=harassment', id:'link_8on3_034eRDmwhx6lFCCaJo6ylQ', term:'harassment', clicks:0, asOf:'2026-10-19'}},
   text:'If a debt collector keeps calling, you can tell them in writing to stop contacting you, and under federal law they have to. Our attorneys send that letter and deal with the collector for you.\n\nFree review: credolegal.s.gy/nd-stop-the-calls-1013',
@@ -243,7 +243,7 @@ window.CREDO_ND_POSTS = [
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-15', time:'21:00', status:'published', src:'v2', type:'ad', cluster:'Is it even yours', organicId:'nd-1015', img:'assets/organic/b-envelope-1x1-is-this-debt-even-yours.jpg', imgNote:'Organic v2 · Hand holding up a sealed envelope · put it in writing',
   url:'https://nextdoor.com/p/PByW2TjwbpML/', insights:'https://nextdoor.com/post_insights/PByW2TjwbpML/', postedAt:'2026-10-16T13:14:39.993Z',
-  metrics:{views:4, reactions:0, comments:0, asOf:'2026-10-23'},
+  metrics:{views:5, reactions:0, comments:0, asOf:'2026-10-23'},
   lp:'https://start.credolegal.com/debt-harassment-fdcpa-rights',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-is-it-even-yours-1015', dest:'https://start.credolegal.com/debt-harassment-fdcpa-rights?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-15-is-it-even-yours&utm_term=harassment', id:'link_8on3_034eRDnZVJqI3nLVdaAN7R', term:'harassment', clicks:0, asOf:'2026-10-19'}},
   text:'Not sure a debt a collector is chasing is really yours, or that the amount is right? Dispute it in writing within 30 days of their first notice and they have to stop collecting until they verify it.\n\nFree review: credolegal.s.gy/nd-is-it-even-yours-1015',
@@ -252,7 +252,7 @@ window.CREDO_ND_POSTS = [
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-17', time:'17:00', status:'published', src:'v2', type:'ad', cluster:'Collector broke the rules', organicId:'nd-1017', img:'assets/organic/b-phone-down-1x1-did-a-collector-cross-the-line.jpg', imgNote:'Organic v2 · Hand pressing a phone face-down · silence the calls',
   url:'https://nextdoor.com/p/xJSGzrkc7jT6/', insights:'https://nextdoor.com/post_insights/xJSGzrkc7jT6/', postedAt:'2026-10-20T01:11:06.764Z',
-  metrics:{views:3, reactions:0, comments:0, asOf:'2026-10-23'},
+  metrics:{views:4, reactions:0, comments:0, asOf:'2026-10-23'},
   lp:'https://start.credolegal.com/debt-harassment-violations',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-collector-broke-the-rules-1017', dest:'https://start.credolegal.com/debt-harassment-violations?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-17-collector-broke-the-rules&utm_term=harassment', id:'link_8on3_034eRDoWBvozNtYaLDJdDp', term:'harassment', clicks:0, asOf:'2026-10-19'}},
   text:'Threats, calls to your family about your debt, or lies about a lawsuit can break federal debt collection law. The law lets you recover damages and attorney fees when that happens. Our attorneys can look at what happened.\n\nFree review: credolegal.s.gy/nd-collector-broke-the-rules-1017',
