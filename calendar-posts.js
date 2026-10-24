@@ -175,7 +175,9 @@ window.CREDO_ND_POSTS = [
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
- {date:'2026-10-19', time:'09:00', status:'scheduled', src:'v2', type:'edu', cluster:'The answer deadline', organicId:'nd-1019', img:'assets/organic/p-door-papers-1x1.jpg', imgNote:'Organic v2 · Adult at the front door holding court papers',
+ {date:'2026-10-19', time:'09:00', status:'published', src:'v2', type:'edu', cluster:'The answer deadline', organicId:'nd-1019', img:'assets/organic/p-door-papers-1x1.jpg', imgNote:'Organic v2 · Adult at the front door holding court papers',
+  url:'https://nextdoor.com/p/LLs6L3tx79dH/', insights:'https://nextdoor.com/post_insights/LLs6L3tx79dH/', postedAt:'2026-10-24T01:15:05.039Z',
+  metrics:{views:0, reactions:0, comments:0, asOf:'2026-10-23'},
   text:'If someone in your household is ever handed court papers about a debt, the most important thing is the deadline on them. In many states you have only 20 to 30 days to file a written answer with the court.\n\nIf nobody answers, the court can decide for the collector without hearing your side.\n\nDid you know the clock starts the day you are served?',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
