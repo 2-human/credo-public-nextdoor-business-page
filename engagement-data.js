@@ -3548,6 +3548,329 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "So glad the neighbors came through for you, Jean. This is what Nextdoor is best at."
     }
    ]
+  },
+  "2026-10-24": {
+   "scannedAt": "2026-10-25T22:11:56.061Z",
+   "backfill": true,
+   "feedPosts": 171,
+   "todayPosts": 75,
+   "note": "Backfill for 24 Oct, taken from the 25 Oct run (75 posts from 24 Oct in the page-admin feed).",
+   "excluded": [
+    {
+     "id": "",
+     "who": "Paul C. (two posts)",
+     "subject": "A No vote helps preserve LIBERTY / new leadership in NY",
+     "reason": "Political"
+    },
+    {
+     "id": "",
+     "who": "Clark Green / Andie D. / Robert Farfan",
+     "subject": "Ballot proposals",
+     "reason": "Political ballot debate"
+    },
+    {
+     "id": "",
+     "who": "Zach Schiffman",
+     "subject": "Hit by a car in front of One Brooklyn Bridge",
+     "reason": "Injury incident, could invite legal advice"
+    },
+    {
+     "id": "",
+     "who": "Amed Al",
+     "subject": "Pitbull on the 1 train",
+     "reason": "Argument thread (33 comments)"
+    },
+    {
+     "id": "",
+     "who": "John Woods",
+     "subject": "Unused gift cards",
+     "reason": "Possible scam pattern"
+    },
+    {
+     "id": "",
+     "who": "John jay / Daniel smith / Mave Rick / Carlos muah",
+     "subject": "Housekeeper wanted / support offers",
+     "reason": "Non-local spam-pattern accounts"
+    },
+    {
+     "id": "",
+     "who": "Jean Paul Ho / Nicole Kew / Yvette Mable",
+     "subject": "Open houses, listings",
+     "reason": "Real-estate promotion"
+    },
+    {
+     "id": "",
+     "who": "Bret C. / Delaney Ellison",
+     "subject": "Tooth implant / eye doctor",
+     "reason": "Medical recommendation requests"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "520714359",
+     "short": "w8QqFtPMhn3-",
+     "url": "https://nextdoor.com/p/w8QqFtPMhn3-/",
+     "who": "Tammy McJannet",
+     "hood": "East Village (Cooper Square)",
+     "t": 1792890158091,
+     "age": "21 hr ago",
+     "subject": "There are free flu shots at Bellevue in the atrium for New York residents.",
+     "body": "There are free flu shots at Bellevue in the atrium for New York residents.",
+     "reactions": 7,
+     "comments": 3,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Useful public heads-up: free flu shots at Bellevue for New York residents.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thanks for passing this along. Free and close by makes it so much easier to get it done before winter."
+    },
+    {
+     "id": "520724334",
+     "short": "wCYWFRbD4Bzm",
+     "url": "https://nextdoor.com/p/wCYWFRbD4Bzm/",
+     "who": "Sasha Raskin",
+     "hood": "East Village (Cooper Square)",
+     "t": 1792894596769,
+     "age": "19 hr ago",
+     "subject": "Hi all, the NYC housing market is never particularly great I guess.",
+     "body": "Hi all, the NYC housing market is never particularly great I guess. But I don't think I've ever seen it THIS bad. It's a total nightmare. \n\nIf anyone knows of anything, please message. My new housing fell through, and I'm effectively couch surfing while figuring out WTF to do. But there is near nothing out there. Posting a pic for boost - in case anyone knows of anything. THanks! #housing #apartment #nycapartment",
+     "reactions": 22,
+     "comments": 10,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/88/de/88de27947f4e37bb136290d94bada755.jpeg",
+     "why": "Cost-of-living post about the brutal NYC rental market; sympathetic thread, no argument.",
+     "suggestReaction": "Agree",
+     "suggestComment": "Really sorry your housing fell through, that is so stressful. Hoping a neighbor here knows of something that fits soon."
+    },
+    {
+     "id": "520630369",
+     "short": "y_rzKpWfds-2",
+     "url": "https://nextdoor.com/p/y_rzKpWfds-2/",
+     "who": "Parv Bhardwaj",
+     "hood": "Bedford Stuyvesant (Nostrand-Madison)",
+     "t": 1792863747825,
+     "age": "1 day ago",
+     "subject": "UPDATE: Our cat has reunited with us!!!",
+     "body": "UPDATE: Our cat has reunited with us!!! Thank you to all the lovely people of this neighborhood and y’all’s kindness. 🙌💞💞💞\n\nHello everyone! I would appreciate anyone’s help with finding our cat!\n\nOur address is 129 Madison St, Brooklyn, NY\n\nCat last seen at this address in the backyard 2 hours ago.\n\nCat is vaccinated and is easy to be picked up. Please help us find our cat. Call/Text: 2164826703\n\nThank you,\nParv",
+     "reactions": 16,
+     "comments": 6,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/a2/99/a299eb73ba965ffc0d05d78451d3032c.jpeg",
+     "why": "Happy lost/found ending: cat reunited thanks to neighbors.",
+     "suggestReaction": "Like",
+     "suggestComment": "So happy Po made it home! Love seeing the neighborhood come together like this."
+    },
+    {
+     "id": "520677572",
+     "short": "fLW7RRGNPtcM",
+     "url": "https://nextdoor.com/p/fLW7RRGNPtcM/",
+     "who": "Migdalis Cruz",
+     "hood": "Brooklyn Heights",
+     "t": 1792877026505,
+     "age": "1 day ago",
+     "subject": "About six months I posted how sad and neglected our Brooklyn Borough Hall appeared and many of you agreed.",
+     "body": "About six months I posted how sad and neglected our Brooklyn Borough Hall appeared and many of you agreed. It lacked banners, greenery and lighting. Had taken on the look of an abandoned building. I walked past there a few nights ago and saw all the lampposts lit and today in the daylight I was pleasantly surprised by this. It seems someone listened (maybe our Borough President A. Reynoso or our local Councilman L. Restler). Love it!",
+     "reactions": 21,
+     "comments": 5,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/7f/62/7f627d1e84a994f1af34a7566e164d22.jpeg",
+     "why": "Local appreciation: Brooklyn Borough Hall spruced up with lights and banners.",
+     "suggestReaction": "Like",
+     "suggestComment": "It looks so much better, thanks for noticing and for raising it months ago. Small upgrades like this make the whole block feel cared for."
+    },
+    {
+     "id": "520694685",
+     "short": "gDCLrH9WtsGQ",
+     "url": "https://nextdoor.com/p/gDCLrH9WtsGQ/",
+     "who": "Gerald Stone",
+     "hood": "LES (Hamilton Fish Park)",
+     "t": 1792882677331,
+     "age": "23 hr ago",
+     "subject": "Looking to Adopt a Cat 🐈",
+     "body": "Looking to Adopt a Cat 🐈\n\nHi neighbors! I’m a single man living on the Lower East Side, and I’m looking to welcome a cat into my home. I have the time to give them plenty of attention, affection, and proper care, and I’d love to give a cat a comfortable, loving home.\n\nI’d prefer a female cat, but I’m also open to adopting a male as long as he’s already neutered. I’m open to different ages and personalities!\n\nIf you or someone you know is looking to rehome a cat, please feel free to message me. I’d love to hear about them and see if we’re a good fit. Thank you! 🐾",
+     "reactions": 14,
+     "comments": 21,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Neighbourly rehoming request: LES neighbor looking to adopt a cat; lively thread.",
+     "suggestReaction": "Like",
+     "suggestComment": "Love this. Whichever cat ends up with you sounds very lucky, and good luck with the search!"
+    }
+   ]
+  },
+  "2026-10-25": {
+   "scannedAt": "2026-10-25T22:11:56.061Z",
+   "feedPosts": 171,
+   "todayPosts": 70,
+   "note": "Scanned 25 Oct ~early afternoon ET from the page-admin feed (171 posts loaded, 70 from 25 Oct). Same run backfilled 24 Oct. The extractor computed todayStart an hour early (browser DST change); day boundaries were recomputed at true ET midnight. Chris R. attachment is an expiring signed video URL, stored as null.",
+   "excluded": [
+    {
+     "id": "",
+     "who": "Gail S.",
+     "subject": "A vote to re-elect Kathy Hochul…",
+     "reason": "Political (election), heated thread"
+    },
+    {
+     "id": "",
+     "who": "Clark Green",
+     "subject": "Biking is a constitutional right / ballot proposals",
+     "reason": "Political ballot debate, 57 comments"
+    },
+    {
+     "id": "",
+     "who": "Vee P.",
+     "subject": "ALL LATINOS … / sarcastic post",
+     "reason": "Political call-out and a personal dispute"
+    },
+    {
+     "id": "",
+     "who": "Bebi Brienza",
+     "subject": "Profiled and accused of stealing at CVS",
+     "reason": "Dispute naming a store manager, crime accusation"
+    },
+    {
+     "id": "",
+     "who": "Anne Marie ODea",
+     "subject": "Leaving the flea market…",
+     "reason": "Crime incident describing a suspect by race"
+    },
+    {
+     "id": "",
+     "who": "Helen Terplak / Watkins W.",
+     "subject": "Myasthenia gravis specialist / Medicare choices",
+     "reason": "Medical and benefits-advice requests"
+    },
+    {
+     "id": "",
+     "who": "Lucy C. / Mari DeJesus",
+     "subject": "Ukrainian Orthodox Church / S.D.A. church meals",
+     "reason": "Religious"
+    },
+    {
+     "id": "",
+     "who": "John Walton / Cashmere Thomas / Crystal G.",
+     "subject": "Loans, moving tips, real estate",
+     "reason": "Business promotion from personal accounts"
+    },
+    {
+     "id": "",
+     "who": "Eugene Solfanelli",
+     "subject": "Po is missing!!",
+     "reason": "Stale repost: Po was already reunited (Parv Bhardwaj update, 24 Oct)"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "520811870",
+     "short": "wZGwF2yGDNzn",
+     "url": "https://nextdoor.com/p/wZGwF2yGDNzn/",
+     "who": "Ramona Scott",
+     "hood": "Clinton Hill (Grand-Greene)",
+     "t": 1792948013545,
+     "age": "5 hr ago",
+     "subject": "Grifters tried the wrong person for the necklace theft",
+     "body": "Grifters tried the wrong person for the necklace theft\nI just had an encounter with the grifters approaching seniors. I was on the corner of St. James Place and Lafayette Avenue at noon, waiting to cross the street. A car pulled in front of me and the lady was in the back seat with window rolled down. She was motioning towards me with her finger to get me to walk up to the car. I recognized the lady from previous posts and from the news. At first I thought they were going to ask for directions but then I realized she was the lady shown on the news regarding the scam. Either she noticed that I did not have a necklace on or she didn’t expect me to say, “ Get the F out of here”, then they took off. I wish I would have thought to memorize the license plate number or type of car. The license plate was from Maryland. Be aware out there.",
+     "reactions": 37,
+     "comments": 9,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Scam warning about the necklace grifters targeting seniors in Clinton Hill; lots of engagement, no argument.",
+     "suggestReaction": "Insightful",
+     "suggestComment": "So glad you spotted it and they moved on. Thank you for the heads-up, it is exactly the kind of post that helps older neighbors stay alert."
+    },
+    {
+     "id": "520851229",
+     "short": "SZb7GXYFS-6r",
+     "url": "https://nextdoor.com/p/SZb7GXYFS-6r/",
+     "who": "Sh G.",
+     "hood": "Park Slope (12St-5Ave)",
+     "t": 1792959181583,
+     "age": "1 hr ago",
+     "subject": "There is a beautiful tall/long grey tiger striped cat that is hanging out in the alley of Wonder (on 12th st.",
+     "body": "There is a beautiful tall/long grey tiger striped cat that is hanging out in the alley of Wonder (on 12th st.) It has been going into the front areas of some of the buildings along that side of the street as well. It looks skinny. I'm super allergic to cats and so is my husband and we have two dogs, so I'm hoping someone can try to help it.",
+     "reactions": 1,
+     "comments": 1,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": null,
+     "why": "Neighbourly lost/found request for a skinny stray cat in a Park Slope alley.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thank you for looking out for this cat even with allergies. Hope a nearby neighbor or a local rescue can get it fed and checked for a chip soon."
+    },
+    {
+     "id": "520755719",
+     "short": "BXzsnS9N_Nn2",
+     "url": "https://nextdoor.com/p/BXzsnS9N_Nn2/",
+     "who": "teresa Low",
+     "hood": "Stuyvesant Town East",
+     "t": 1792928155197,
+     "age": "10 hr ago",
+     "subject": "Looking to play mahjong near me.",
+     "body": "Looking to play mahjong near me. Ok stuy town. Chinese mahjong. Not a beginner. Anyone knows where I can play? Thanks!",
+     "reactions": 2,
+     "comments": 8,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Friendly recommendation request for a Chinese mahjong game in Stuy Town; active thread.",
+     "suggestReaction": "Like",
+     "suggestComment": "Hope you find a good table nearby. Mahjong groups are such a nice way to meet neighbors."
+    },
+    {
+     "id": "520819357",
+     "short": "gpK-5-p8gxcF",
+     "url": "https://nextdoor.com/p/gpK-5-p8gxcF/",
+     "who": "Dino Gangemi",
+     "hood": "Cobble Hill",
+     "t": 1792950185290,
+     "age": "4 hr ago",
+     "subject": "Prepping For Daughters Baby Shower",
+     "body": "Prepping For Daughters Baby Shower \nProps to My Wife, who put this all together. Labor of Love.\nI would expect nothing less. For our first grandchild.❤️❤️❤️",
+     "reactions": 13,
+     "comments": 7,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/4d/2e/4d2e30a63e170ff36081ef22feeff901.jpeg",
+     "why": "Warm family moment: baby-shower prep for a first grandchild, photo, good engagement.",
+     "suggestReaction": "Like",
+     "suggestComment": "What a lovely setup, and congratulations on your first grandchild! Your wife clearly put a lot of love into it."
+    },
+    {
+     "id": "520796273",
+     "short": "qmG8HzJKzN8g",
+     "url": "https://nextdoor.com/p/qmG8HzJKzN8g/",
+     "who": "Chris R.",
+     "hood": "Brooklyn Heights",
+     "t": 1792943484434,
+     "age": "6 hr ago",
+     "subject": "Rachel did a Vegan hot wings challenge while we were out and about at a street fair in our neighborhood today.",
+     "body": "Rachel did a Vegan hot wings challenge while we were out and about at a street fair in our neighborhood today. I tell you this child is far more braver than most people I know. God bless her for it!",
+     "reactions": 7,
+     "comments": 2,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Light local chatter from a Brooklyn Heights street fair; fun and wholesome.",
+     "suggestReaction": "Haha",
+     "suggestComment": "Brave is the word! Street fairs are the best for moments like this."
+    }
+   ]
   }
  }
 };
