@@ -221,21 +221,6 @@ window.CREDO_ND_POSTS = [
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
- {date:'2026-11-02', time:'21:00', status:'scheduled', src:'v2', type:'edu', cluster:'Garnishment needs a judgment', organicId:'nd-1102', img:'assets/organic/p-paystub-1x1.jpg', imgNote:'Organic v2 · Worker holding a pay stub at a workbench',
-  text:'Worried a collector will take money from your paycheck? For most consumer debts like credit cards and medical bills, a collector first needs a court judgment before it can garnish wages.\n\nThat is why answering a lawsuit on time matters so much.\n\n(Taxes, child support and federal student loans follow different rules.)\n\nWas this news to you?',
-  disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
-
- /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
- {date:'2026-11-04', time:'17:00', status:'scheduled', src:'v2', type:'edu', cluster:'Benefits are protected', organicId:'nd-1104', img:'assets/organic/p-paystub-1x1.jpg', imgNote:'Organic v2 · Worker holding a pay stub at a workbench',
-  text:'Good to know for older neighbors: Social Security and most federal benefits are protected from collectors on ordinary debts. If those benefits are deposited directly, the bank has to protect two months of them automatically.\n\nIf a bank account with benefits is ever frozen, ask the bank about this right away.\n\nDo you know someone who should hear this?',
-  disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
-
- /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
- {date:'2026-11-06', time:'09:00', status:'scheduled', src:'v2', type:'edu', cluster:'Garnishment limits', organicId:'nd-1106', img:'assets/organic/p-paystub-1x1.jpg', imgNote:'Organic v2 · Worker holding a pay stub at a workbench',
-  text:'If a garnishment does happen, federal law caps it. A creditor can take no more than 25% of your take-home pay, and less if you earn close to minimum wage. Some states, including New York, protect more than that.\n\nIt is worth checking the math on a garnishment order.\n\nHave you ever had to read one of these?',
-  disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
-
- /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-13', time:'09:00', status:'published', src:'v2', type:'ad', cluster:'Stop the calls', organicId:'nd-1013', img:'assets/organic/b-phone-down-1x1-calls-at-7-a-m-at-work.jpg', imgNote:'Organic v2 · Hand pressing a phone face-down · silence the calls',
   url:'https://nextdoor.com/p/zLTnY4k6dtC7/', insights:'https://nextdoor.com/post_insights/zLTnY4k6dtC7/', postedAt:'2026-10-13T13:16:04.748Z',
   metrics:{views:18, reactions:0, comments:0, asOf:'2026-10-26'},
@@ -311,30 +296,10 @@ window.CREDO_ND_POSTS = [
   disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
- {date:'2026-11-03', time:'09:00', status:'scheduled', src:'v2', type:'ad', cluster:'Stop a garnishment', organicId:'nd-1103', img:'assets/organic/b-protect-pay-1x1-wages-being-garnished.jpg', imgNote:'Organic v2 · Hand shielding a stack of bills · protect your paycheck',
-  lp:'https://start.credolegal.com/stop-wage-garnishment',
-  short:{nextdoor:{url:'https://credolegal.s.gy/nd-stop-a-garnishment-1103', dest:'https://start.credolegal.com/stop-wage-garnishment?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-11-03-stop-a-garnishment&utm_term=garnishment', id:'link_8on3_034eRDshyLcXwVl2GNjZik', term:'garnishment', clicks:0, asOf:'2026-10-26'}},
-  text:'If your wages are being garnished, part of your pay may be legally protected, and there may be ways to challenge the judgment behind it. Our attorneys check the garnishment and the limits that apply in your state.\n\nFree review: credolegal.s.gy/nd-stop-a-garnishment-1103',
-  disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
-
- /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-11-05', time:'21:00', status:'scheduled', src:'v2', type:'ad', cluster:'Payday loan trouble', organicId:'nd-1105', img:'assets/organic/b-handshake-1x1-stuck-in-a-payday-loan.jpg', imgNote:'Organic v2 · Open hand offered · you do not have to face this alone',
   lp:'https://start.credolegal.com/payday-loan-fight-back',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-payday-loan-trouble-1105', dest:'https://start.credolegal.com/payday-loan-fight-back?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-11-05-payday-loan-trouble&utm_term=payday-loan', id:'link_8on3_034eRDtK5Uef0IdSS6WBQ1', term:'payday-loan', clicks:0, asOf:'2026-10-26'}},
   text:'Some payday and online lenders charge rates your state does not allow, or lend without a license where you live. Those loans may not be collectible. Our attorneys check whether yours follows the law.\n\nFree review: credolegal.s.gy/nd-payday-loan-trouble-1105',
   disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
 
- /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
- {date:'2026-11-07', time:'17:00', status:'scheduled', src:'v2', type:'ad', cluster:'Before garnishment starts', organicId:'nd-1107', img:'assets/organic/b-protect-pay-1x1-sued-and-worried-about-your-paycheck.jpg', imgNote:'Organic v2 · Hand shielding a stack of bills · protect your paycheck',
-  lp:'https://start.credolegal.com/wage-garnishment-prevention',
-  short:{nextdoor:{url:'https://credolegal.s.gy/nd-before-garnishment-starts-1107', dest:'https://start.credolegal.com/wage-garnishment-prevention?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-11-07-before-garnishment-starts&utm_term=garnishment', id:'link_8on3_034eRDtvQRUdEE6QlDjoSX', term:'garnishment', clicks:0, asOf:'2026-10-26'}},
-  text:'A garnishment usually follows a judgment, and a judgment usually follows a missed court deadline. Answering the lawsuit in time is the best way to protect your wages. Our attorneys file the answer and defend the case.\n\nFree review: credolegal.s.gy/nd-before-garnishment-starts-1107',
-  disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
-
- /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
- {date:'2026-11-08', time:'21:00', status:'scheduled', src:'v2', type:'ad', cluster:'Not alone', organicId:'nd-1108', img:'assets/organic/b-handshake-1x1-you-do-not-have-to-face-this-alone.jpg', imgNote:'Organic v2 · Open hand offered · you do not have to face this alone',
-  lp:'https://start.credolegal.com/',
-  short:{nextdoor:{url:'https://credolegal.s.gy/nd-not-alone-1108', dest:'https://start.credolegal.com/?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-11-08-not-alone&utm_term=brand', id:'link_8on3_034eRDuW4cPByVoz9iDMrQ', term:'brand', clicks:0, asOf:'2026-10-26'}},
-  text:'Calls, letters, a lawsuit, a garnishment: debt problems pile up fast. Our attorneys take over the collectors and the court work for one flat monthly fee, so you can get back to your life.\n\nFree review: credolegal.s.gy/nd-not-alone-1108',
-  disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
 ];
