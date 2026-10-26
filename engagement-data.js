@@ -3871,6 +3871,224 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Brave is the word! Street fairs are the best for moments like this."
     }
    ]
+  },
+  "2026-10-26": {
+   "scannedAt": "2026-10-26T22:35:02.031Z",
+   "feedPosts": 97,
+   "todayPosts": 72,
+   "note": "Scanned 26 Oct ~6:35 pm ET from the page-admin feed (97 posts loaded, 72 from 26 Oct). todayStart checked = 04:00Z (true ET midnight). No backfill needed.",
+   "excluded": [
+    {
+     "id": "521018301",
+     "who": "Ellen Sandles",
+     "subject": "Hochul's lieutenant governor pick",
+     "reason": "Political (election), 55-comment debate"
+    },
+    {
+     "id": "521026398",
+     "who": "Paul C.",
+     "subject": "Cato report on Hochul",
+     "reason": "Political"
+    },
+    {
+     "id": "521093393",
+     "who": "Robert Perrego",
+     "subject": "Biking is a constitutional right / mayor",
+     "reason": "Political"
+    },
+    {
+     "id": "521086676",
+     "who": "Kate H.",
+     "subject": "READ before voting",
+     "reason": "Political (election)"
+    },
+    {
+     "id": "520995672",
+     "who": "Madelline Prat",
+     "subject": "Support Mark's parents",
+     "reason": "Death / fundraiser"
+    },
+    {
+     "id": "521121026",
+     "who": "Sharon Goldberg",
+     "subject": "Milo Bear cleared for euthanasia (repost)",
+     "reason": "Distressing urgent animal-death appeal"
+    },
+    {
+     "id": "521015333",
+     "who": "Danielle C.",
+     "subject": "VERG vet pressured me",
+     "reason": "Dispute naming a business, medical"
+    },
+    {
+     "id": "520995792",
+     "who": "Darlene Teotelbaum",
+     "subject": "NYU orthopedics recommendation",
+     "reason": "Medical"
+    },
+    {
+     "id": "521011371",
+     "who": "Monique Lewis",
+     "subject": "Detective update on stolen card",
+     "reason": "Crime victim"
+    },
+    {
+     "id": "521078610",
+     "who": "noria mabaso",
+     "subject": "Lied in a job interview",
+     "reason": "Religion-related job story, likely contentious"
+    },
+    {
+     "id": "521029125",
+     "who": "Sean McC",
+     "subject": "Does anyone on Nextdoor actually read...",
+     "reason": "Argument thread"
+    },
+    {
+     "id": "520948335",
+     "who": "Melissa King",
+     "subject": "Alternate-side parking question",
+     "reason": "Good fit but a long 38-comment thread; kept to 5 picks"
+    },
+    {
+     "id": "520979882",
+     "who": "Jamey Harris",
+     "subject": "Part-time partner USD 2,000-3,000",
+     "reason": "Likely job scam"
+    },
+    {
+     "id": "521114819",
+     "who": "Ascension Educational Services",
+     "subject": "Hunter College admissions cohort",
+     "reason": "Business author"
+    },
+    {
+     "id": "521111384",
+     "who": "Nova Custom Label Printing",
+     "subject": "Holiday packaging",
+     "reason": "Business author"
+    },
+    {
+     "id": "521070240",
+     "who": "Morgan's Brooklyn Barbecue",
+     "subject": "New happy days",
+     "reason": "Business author"
+    },
+    {
+     "id": "520978296",
+     "who": "Dylan Hoffman",
+     "subject": "Staten Island 1-bedroom listing",
+     "reason": "Business author (real estate)"
+    },
+    {
+     "id": "520967407",
+     "who": "St. Nicks Alliance",
+     "subject": "Leviticus Fund partnership",
+     "reason": "Organisation author"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "521005310",
+     "short": "y8Tc-kyTgwYR",
+     "url": "https://nextdoor.com/p/y8Tc-kyTgwYR/",
+     "who": "José A.",
+     "hood": "Midtown (52nd-6th-44th-Park)",
+     "t": 1793027944972,
+     "age": "7 hr ago",
+     "subject": "People I understand I have things I sell on my profile please 🙏🏻 I ask of you do not ask for my number we can clearly communicate through Next door through message why do you need my number with the amount of scams I've been seeing lately on this",
+     "body": "People I understand I have things I sell on my profile please 🙏🏻 I ask of you do not ask for my number we can clearly communicate through Next door through message why do you need my number with the amount of scams I've been seeing lately on this site trust me its not gonn happen I remember when this site was all about figuring out what was going on in our community now its just full of scammers and people looking for a date while I only agree if people do end up meeting here and date that's amazing may it be in God's hands that people meet each other and fall in Love cause hey we grown and things happen but please refrain from asking for my number we can communicate on here 😉 thank you.",
+     "reactions": 3,
+     "comments": 1,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Seller reminding neighbours to keep sales chats inside Nextdoor messages because of scams, a useful safety heads-up.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Smart boundary, and thank you for saying it out loud. Keeping things in Nextdoor messages until you actually meet is one of the simplest ways to stay clear of the scammers."
+    },
+    {
+     "id": "521113382",
+     "short": "pfcZxQ4PyqpS",
+     "url": "https://nextdoor.com/p/pfcZxQ4PyqpS/",
+     "who": "heather hager",
+     "hood": "Park Slope (St Johns-6th)",
+     "t": 1793051483544,
+     "age": "43 min ago",
+     "subject": "I’m live in Park Slope and am trying register for a community solar program so I can stop using ConEd.",
+     "body": "I’m live in Park Slope and am trying register for a community solar program so I can stop using ConEd. Does anyone have any experience doing this or suggestions?",
+     "reactions": 0,
+     "comments": 1,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Practical question about cutting the electric bill with community solar, the kind of money topic neighbours swap notes on.",
+     "suggestReaction": "Like",
+     "suggestComment": "Good luck with it, community solar is something a lot of us keep meaning to look into. Would love to hear how the sign-up goes once you are through it."
+    },
+    {
+     "id": "520981676",
+     "short": "gXdkwXtz75pm",
+     "url": "https://nextdoor.com/p/gXdkwXtz75pm/",
+     "who": "Aaliyah Cooper",
+     "hood": "Crown Heights",
+     "t": 1793023532106,
+     "age": "8 hr ago",
+     "subject": "Neighbors, I need your help!",
+     "body": "Neighbors, I need your help! Where in NY can I get cheap winter clothing? Mainly coats, sweaters, and boots. \n\nI am from the south, but have spent time in and out of New York for the past 4 years. However, this will be my first full winter living in New York, as I have officially relocated to the city. As you all know, Southern winters are milder than Northern. \n\nI need to know where to go for the best prices on winter attire to survive the next few months. 😅\n\nThanks in advance! 💜💜💜",
+     "reactions": 6,
+     "comments": 55,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "New neighbour asking where to find affordable winter clothes, a warm cost-of-living thread with lots of helpful replies.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Welcome to your first full New York winter! Lots of great tips in this thread already, and good boots plus layers really do make all the difference."
+    },
+    {
+     "id": "521101926",
+     "short": "kqFDFXqFyyyC",
+     "url": "https://nextdoor.com/p/kqFDFXqFyyyC/",
+     "who": "Ian Burgess",
+     "hood": "Park Slope (15St-7Ave)",
+     "t": 1793048796812,
+     "age": "1 hr ago",
+     "subject": "Shadow is safe at home thank you all!",
+     "body": "Shadow is safe at home thank you all!",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Happy ending to today's lost-dog post in Park Slope, a nice moment to celebrate with neighbours.",
+     "suggestReaction": "Like",
+     "suggestComment": "So glad Shadow is safe at home! Lovely to see how quickly everyone shared the word."
+    },
+    {
+     "id": "520929901",
+     "short": "Tdrs-rscXGHz",
+     "url": "https://nextdoor.com/p/Tdrs-rscXGHz/",
+     "who": "Anna Oliveri",
+     "hood": "Alphabet City",
+     "t": 1792987973296,
+     "age": "18 hr ago",
+     "subject": "What I liked best was the welcoming atmosphere and the kindness of the volunteers.",
+     "body": "What I liked best was the welcoming atmosphere and the kindness of the volunteers. These are some of the friendliest, most helpful volunteers I have ever encountered. In today's monthly giveaway, it was a long wait. Especially as they opened the doors an hour late and we were in line 2 hours before that, However, a very sweet volunteer kept coming out with a cart of some of the best cookies and baked goods the city has to offer which made the wait a bit easier. There were some great household products like new sponges, wipes, scrubbers, parchment paper and utensils but other than that, there really wasn't much in terms of clothing, shoes or products or food. Unless it was an off day, don't go expecting to find new shoes or coats for you or your kids like the ads on social media suggest. They say they replenish the supply all day but as they allow people to take as much as they want, unless you are the first to go in the stuff left is not worth the wait. There are people who load up huge amounts of stuff and there's no regulation on that. That being said, these are some brutal economic times and the efforts put forth by this organization to help their neighbors in need is commendable.",
+     "reactions": 8,
+     "comments": 1,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Neighbour appreciating the volunteers at a monthly community giveaway in hard economic times, balanced and kind.",
+     "suggestReaction": "Like",
+     "suggestComment": "Thank you for the honest write-up, and a big thank-you to those volunteers. Cookies for the people waiting in line is such a kind touch."
+    }
+   ]
   }
  }
 };
