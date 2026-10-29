@@ -177,42 +177,42 @@ window.CREDO_ND_POSTS = [
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-19', time:'09:00', status:'published', src:'v2', type:'edu', cluster:'The answer deadline', organicId:'nd-1019', img:'assets/organic/p-door-papers-1x1.jpg', imgNote:'Organic v2 · Adult at the front door holding court papers',
   url:'https://nextdoor.com/p/LLs6L3tx79dH/', insights:'https://nextdoor.com/post_insights/LLs6L3tx79dH/', postedAt:'2026-10-24T01:15:05.039Z',
-  metrics:{views:207, reactions:0, comments:0, asOf:'2026-10-29'},
+  metrics:{views:212, reactions:0, comments:0, asOf:'2026-10-29'},
   text:'If someone in your household is ever handed court papers about a debt, the most important thing is the deadline on them. In many states you have only 20 to 30 days to file a written answer with the court.\n\nIf nobody answers, the court can decide for the collector without hearing your side.\n\nDid you know the clock starts the day you are served?',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-21', time:'21:00', status:'published', src:'v2', type:'edu', cluster:'Default judgment', organicId:'nd-1021', img:'assets/organic/p-calendar-1x1.jpg', imgNote:'Organic v2 · Hand circling a date on a fridge calendar',
   url:'https://nextdoor.com/p/nL4LbmDCCN85/', insights:'https://nextdoor.com/post_insights/nL4LbmDCCN85/', postedAt:'2026-10-25T15:58:44.395Z',
-  metrics:{views:90, reactions:0, comments:0, asOf:'2026-10-29'},
+  metrics:{views:94, reactions:0, comments:0, asOf:'2026-10-29'},
   text:'A "default judgment" sounds technical, but it just means the court ruled because the person being sued never answered. It can lead to wage garnishment or a frozen bank account.\n\nMost people who end up with one simply did not know what the papers meant.\n\nIf this happened to someone you know, would they know where to start?',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-23', time:'17:00', status:'published', src:'v2', type:'edu', cluster:'Old debt has a deadline', organicId:'nd-1023', img:'assets/organic/p-calendar-1x1.jpg', imgNote:'Organic v2 · Hand circling a date on a fridge calendar',
   url:'https://nextdoor.com/p/t3pgTCnH6Bys/', insights:'https://nextdoor.com/post_insights/t3pgTCnH6Bys/', postedAt:'2026-10-26T05:22:42.287Z',
-  metrics:{views:110, reactions:0, comments:0, asOf:'2026-10-29'},
+  metrics:{views:112, reactions:0, comments:0, asOf:'2026-10-29'},
   text:'Debts have an expiration date for lawsuits. Every state sets a time limit, often 3 to 6 years, after which a collector can no longer sue over most consumer debts.\n\nOne catch: in many states, a small payment can restart that clock. So before paying anything on a very old debt, check how old it really is.\n\nAnyone else been surprised by a debt from years ago?',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-25', time:'09:00', status:'published', src:'v2', type:'edu', cluster:'Real court papers or a scam', organicId:'nd-1025', img:'assets/organic/p-door-papers-1x1.jpg', imgNote:'Organic v2 · Adult at the front door holding court papers',
   url:'https://nextdoor.com/p/kRfBX39CqzKN/', insights:'https://nextdoor.com/post_insights/kRfBX39CqzKN/', postedAt:'2026-10-26T22:36:41.438Z',
-  metrics:{views:180, reactions:0, comments:0, asOf:'2026-10-29'},
+  metrics:{views:196, reactions:0, comments:0, asOf:'2026-10-29'},
   text:'Real court papers name a court, have a case number, and are delivered by a process server, a sheriff or certified mail. You can call the court clerk to check that the case exists.\n\nA phone call saying "you will be served today unless you pay now" is a pressure tactic, not how courts work.\n\nHas anyone gotten one of those calls?',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-26', time:'17:00', status:'published', src:'v2', type:'edu', cluster:'Ask for the itemized bill', organicId:'nd-1026', img:'assets/organic/p-medical-bill-1x1.jpg', imgNote:'Organic v2 · Bill, glasses and coffee on a table',
   url:'https://nextdoor.com/p/Kdx4CDcqYhxH/', insights:'https://nextdoor.com/post_insights/Kdx4CDcqYhxH/', postedAt:'2026-10-27T02:29:46.749Z',
-  metrics:{views:137, reactions:0, comments:0, asOf:'2026-10-29'},
+  metrics:{views:141, reactions:0, comments:0, asOf:'2026-10-29'},
   text:'Tip for anyone dealing with a medical bill: ask the provider for an itemized bill with the billing codes, not just the total. Duplicate charges and services you never received are more common than people think.\n\nYou can also ask your insurer for the explanation of benefits and compare the two.\n\nHas anyone found a mistake on a medical bill before?',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-28', time:'09:00', status:'published', src:'v2', type:'edu', cluster:'Medical debt and credit', organicId:'nd-1028', img:'assets/organic/p-medical-bill-1x1.jpg', imgNote:'Organic v2 · Bill, glasses and coffee on a table',
   url:'https://nextdoor.com/p/qm4X3nJWwXRZ/', insights:'https://nextdoor.com/post_insights/qm4X3nJWwXRZ/', postedAt:'2026-10-28T14:18:45.228Z',
-  metrics:{views:261, reactions:0, comments:0, asOf:'2026-10-29'},
+  metrics:{views:353, reactions:0, comments:0, asOf:'2026-10-29'},
   text:'Good to know: the three big credit bureaus have changed how they handle medical debt. Medical collections under $500 are not reported, paid medical collections come off your report, and new medical collections wait a year before they show up.\n\nSo paying a medical collection on the first call is rarely urgent. Checking it is.\n\nHad you heard about these changes?',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
@@ -290,7 +290,9 @@ window.CREDO_ND_POSTS = [
   disc:['dram'], why:'Free review + landing-page link → advertising: New York snippet with the Nextdoor number. AI image of a person → dramatization. No result suggested → no Prior results line.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
- {date:'2026-10-29', time:'17:00', status:'scheduled', src:'v2', type:'ad', cluster:'Card balance inflated', organicId:'nd-1029', img:'assets/organic/b-card-1x1-does-that-balance-look-right.jpg', imgNote:'Organic v2 · Hand holding up a blank credit card · sued over a card',
+ {date:'2026-10-29', time:'17:00', status:'published', src:'v2', type:'ad', cluster:'Card balance inflated', organicId:'nd-1029', img:'assets/organic/b-card-1x1-does-that-balance-look-right.jpg', imgNote:'Organic v2 · Hand holding up a blank credit card · sued over a card',
+  url:'https://nextdoor.com/p/S7HMWRJmF4mS/', insights:'https://nextdoor.com/post_insights/S7HMWRJmF4mS/', postedAt:'2026-10-29T22:42:52.466Z',
+  metrics:{views:0, reactions:0, comments:0, asOf:'2026-10-29'},
   lp:'https://start.credolegal.com/credit-card-debt-lawsuit-records',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-card-balance-inflated-1029', dest:'https://start.credolegal.com/credit-card-debt-lawsuit-records?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-29-card-balance-inflated&utm_term=credit-card', id:'link_8on3_034eRDrTk7CLl4oWnUx9OU', term:'credit-card', clicks:0, asOf:'2026-10-26'}},
   text:'Credit card balances in collections often include fees and interest the collector cannot back up with records. You can ask them to prove every dollar. You may owe less than they claim. Our attorneys request the records for you.\n\nFree review: credolegal.s.gy/nd-card-balance-inflated-1029',
