@@ -4089,6 +4089,401 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Thank you for the honest write-up, and a big thank-you to those volunteers. Cookies for the people waiting in line is such a kind touch."
     }
    ]
+  },
+  "2026-10-27": {
+   "scannedAt": "2026-10-28T23:59:24.916Z",
+   "feedPosts": 39,
+   "todayPosts": 17,
+   "backfill": true,
+   "note": "feed-extract.js pagination stalled at 21 posts; 18 more collected via real wheel scrolls until the feed stopped loading (39 posts, back to 27 Oct 01:40 ET). 27 Oct coverage starts ~01:40 ET (partial for the earliest hours).",
+   "excluded": [
+    {
+     "id": "521468041",
+     "who": "Ellen Sandles",
+     "subject": "FINANCIAL INFO.",
+     "reason": "Political (election/bike-share finances)"
+    },
+    {
+     "id": "521459780",
+     "who": "Sam Johnston",
+     "subject": "Hello, everyone!",
+     "reason": "Self-promotion / networking"
+    },
+    {
+     "id": "521449447",
+     "who": "James Ou",
+     "subject": "New York, looking up.",
+     "reason": "Photo only; lower priority"
+    },
+    {
+     "id": "521392342",
+     "who": "Ellen Sandles",
+     "subject": "FINANCIAL FACTS.",
+     "reason": "Political (election/bike-share finances)"
+    },
+    {
+     "id": "521384114",
+     "who": "Vee P.",
+     "subject": "Here are four videos in English and Spanish to learn to be m",
+     "reason": "Fine but lower priority (wildlife videos)"
+    },
+    {
+     "id": "521343387",
+     "who": "Paula C.",
+     "subject": "Happy Tuesday, neighbors!",
+     "reason": "Generic greeting; lower priority"
+    },
+    {
+     "id": "521289352",
+     "who": "Carla Johnson",
+     "subject": "@ Halloween in Tompkins Square Park and La Plaza Cultural 50",
+     "reason": "Dispute with Parks Department / vending"
+    },
+    {
+     "id": "521263081",
+     "who": "Steven Roig",
+     "subject": "My two fluffs!",
+     "reason": "Pet photo; lower priority"
+    },
+    {
+     "id": "521255498",
+     "who": "Daniel Clark",
+     "subject": "8 Jobs Recently Posted in BK",
+     "reason": "Job-listing link spam"
+    },
+    {
+     "id": "521215279",
+     "who": "Jacob Turner",
+     "subject": "The team helped me find the perfect lenses for my glasses.",
+     "reason": "Business review (possible promo)"
+    },
+    {
+     "id": "521199735",
+     "who": "Lisa Chau",
+     "subject": "I'm looking for a cohost for a podcast co-host: someone smar",
+     "reason": "Self-promotion (podcast co-host search)"
+    },
+    {
+     "id": "521191049",
+     "who": "Terese Loeb Kreuzer",
+     "subject": "I am a senior and yesterday I voted early.",
+     "reason": "Political (election), 183-comment debate"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "521367019",
+     "short": "mXDjCdF9nQWR",
+     "url": "https://nextdoor.com/p/mXDjCdF9nQWR/",
+     "who": "Natasha Otrakji",
+     "hood": "S Side Willmsburg (Driggs-S3St)",
+     "t": 1793129783906,
+     "age": "1 day ago",
+     "subject": "🚨LOST CAT STILL MISSING!!!",
+     "body": "🚨LOST CAT STILL MISSING!!!🚨 please help us find Joe and get him back home, we love him so much💔 share and keep an eye out 🙏 fyi he is not a pure siamese, he’s a mixed breed rescue. last seen on bedford ave & s4 st in williamsburg, brooklyn. if you have seen him anywhere or have any info call 786-208-1682",
+     "reactions": 8,
+     "comments": 10,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/9e/44/9e4412e47cca6b5585d9cc10676245f3.jpeg",
+     "why": "Lost cat still missing after days; a neighbourly boost keeps the post circulating.",
+     "suggestReaction": "Sad",
+     "suggestComment": "So sorry Joe is still out there. Keeping an eye out around Bedford and S 4th, and fingers crossed he is home soon."
+    },
+    {
+     "id": "521431334",
+     "short": "wnCnpwdnzPSS",
+     "url": "https://nextdoor.com/p/wnCnpwdnzPSS/",
+     "who": "Charlotte Dodd",
+     "hood": "Livingston",
+     "t": 1793145488501,
+     "age": "1 day ago",
+     "subject": "Recently moved to Fort Greene and looking for a dog walker for my 2.",
+     "body": "Recently moved to Fort Greene and looking for a dog walker for my 2.5 year old labradoodle. Any recommendations? (Looking for professionals only and will be minimum 2 x a week. Thank you",
+     "reactions": 0,
+     "comments": 10,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Neighbourly recommendation request from someone new to Fort Greene; warm welcome fits.",
+     "suggestReaction": "Like",
+     "suggestComment": "Welcome to Fort Greene! Hope you find a great walker soon, it is a lovely neighbourhood for dog walks."
+    },
+    {
+     "id": "521469305",
+     "short": "wbFGRqWDRBc_",
+     "url": "https://nextdoor.com/p/wbFGRqWDRBc_/",
+     "who": "Joanie N.",
+     "hood": "Chelsea (8Ave-25th)",
+     "t": 1793158829926,
+     "age": "20 hr ago",
+     "subject": "Can anybody foster:adopt a young sweet friendly boy kitty?",
+     "body": "Can anybody foster:adopt a young sweet friendly boy kitty? He was found by someone he was sitting in the middle of the road she has him in her bathroom but she has 3 cats in her studio already.\n\nWe will vet him first.",
+     "reactions": 109,
+     "comments": 39,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/35/c0/35c0dd80531c1a7ef59de1f8e326f61f.jpeg",
+     "why": "Big, positive thread rallying neighbours to foster a rescued kitten (later rehomed); lively without argument.",
+     "suggestReaction": "Like",
+     "suggestComment": "Lovely to see so many neighbours stepping up for this little guy. Thank you for looking out for him."
+    },
+    {
+     "id": "521318330",
+     "short": "jc5f6D82QyT4",
+     "url": "https://nextdoor.com/p/jc5f6D82QyT4/",
+     "who": "Julia Simmons",
+     "hood": "Tribeca",
+     "t": 1793121215450,
+     "age": "1 day ago",
+     "subject": "A stranger held the door for me today and gave me the nicest little smile.",
+     "body": "A stranger held the door for me today and gave me the nicest little smile. Such a small thing, but it genuinely made my morning better. A reminder that being kind doesn't have to take much effort. Hope everyone has a lovely day. ❤️",
+     "reactions": 321,
+     "comments": 35,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Simple kindness post with very high engagement; appreciation content with no debate.",
+     "suggestReaction": "Like",
+     "suggestComment": "Such a good reminder. Small moments like that really do make a day, thanks for sharing it."
+    },
+    {
+     "id": "521403261",
+     "short": "shnCjYyYG4cz",
+     "url": "https://nextdoor.com/p/shnCjYyYG4cz/",
+     "who": "Rob Hansen",
+     "hood": "Cobble Hill",
+     "t": 1793138017930,
+     "age": "1 day ago",
+     "subject": "On Bergen street",
+     "body": "On Bergen street",
+     "reactions": 114,
+     "comments": 12,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/47/6c/476ce7aa24db475a3603fdc133910a1c.jpeg",
+     "why": "Popular local photo (carved pumpkins on Bergen Street); pure neighbourhood appreciation.",
+     "suggestReaction": "Wow",
+     "suggestComment": "These are amazing, whoever carved them has real talent. Bergen Street is bringing its A game this Halloween."
+    }
+   ]
+  },
+  "2026-10-28": {
+   "scannedAt": "2026-10-28T23:59:24.916Z",
+   "feedPosts": 39,
+   "todayPosts": 22,
+   "note": "feed-extract.js pagination stalled at 21 posts; 18 more collected via real wheel scrolls until the feed stopped loading (39 posts, back to 27 Oct 01:40 ET).",
+   "excluded": [
+    {
+     "id": "521688026",
+     "who": "Valentin Liz",
+     "subject": "For sell",
+     "reason": "Sales post (\"For sell\"), no content"
+    },
+    {
+     "id": "521665307",
+     "who": "Keitha Leighton",
+     "subject": "🐾 There’s something special about the love we share with ou",
+     "reason": "Generic engagement-bait chatter, no local substance"
+    },
+    {
+     "id": "521657424",
+     "who": "Judith Garcia",
+     "subject": "Don’t be jealous of anyone.",
+     "reason": "Vague motivational quote, no local substance"
+    },
+    {
+     "id": "521654946",
+     "who": "Teddy Miller",
+     "subject": "Birds, a bar in New York City, is hiring a bartender.",
+     "reason": "Job-listing link spam"
+    },
+    {
+     "id": "521634568",
+     "who": "Nestor R.",
+     "subject": "Yesterday was national black cat day and I treated luna like",
+     "reason": "Fine but lower priority than picks (pet photo)"
+    },
+    {
+     "id": "521630917",
+     "who": "Jhon Maicol Leon",
+     "subject": "Would you be interested in Sephora perfumes on sale for Blac",
+     "reason": "Sales pitch (perfume resale)"
+    },
+    {
+     "id": "521622753",
+     "who": "Doctor Ebert",
+     "subject": "I just put my cat to sleep today.",
+     "reason": "Pet death / grief post — sensitive, skipped"
+    },
+    {
+     "id": "521619875",
+     "who": "José A.",
+     "subject": "So decided to start dressing up more often like the Gents fr",
+     "reason": "Personal style selfie; lower priority"
+    },
+    {
+     "id": "521599834",
+     "who": "Joanie N.",
+     "subject": "These are some of the kittens at animal care and control go ",
+     "reason": "Duplicate kitten-adoption theme (same author as a pick)"
+    },
+    {
+     "id": "521593993",
+     "who": "janice frischberg",
+     "subject": "The medical insurance companies.",
+     "reason": "Medical/insurance complaint thread — medical topic, skipped"
+    },
+    {
+     "id": "521588072",
+     "who": "Patrick Price",
+     "subject": "VOTE NO TO PROP 5",
+     "reason": "Political (ballot proposal)"
+    },
+    {
+     "id": "521584508",
+     "who": "Joanie N.",
+     "subject": "Thank you to everyone but we found a home for him.",
+     "reason": "Duplicate kitten thread (same author as pick); resolved update"
+    },
+    {
+     "id": "521559259",
+     "who": "Jed Becker, Music Teacher",
+     "subject": "Hi!",
+     "reason": "Business/professional author (music teacher)"
+    },
+    {
+     "id": "521557206",
+     "who": "David Richardson",
+     "subject": "I’m reaching out to support single fathers and anyone who is",
+     "reason": "Business/page author; outreach to people in hardship"
+    },
+    {
+     "id": "521551945",
+     "who": "Judith Garcia",
+     "subject": "Hello new to the neighborhood but not new to the system.",
+     "reason": "Low substance intro post"
+    },
+    {
+     "id": "521544250",
+     "who": "Dolores Richards",
+     "subject": "Hi!",
+     "reason": "Personal meet-up request"
+    },
+    {
+     "id": "521538068",
+     "who": "Sam Mad",
+     "subject": "This year's crop.",
+     "reason": "Instagram promo link; similar pumpkin content picked from 27 Oct"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "521691235",
+     "short": "y3qW3Cw-f2Sp",
+     "url": "https://nextdoor.com/p/y3qW3Cw-f2Sp/",
+     "who": "Laura Restrepo",
+     "hood": "E Williamsburg (Morgan-Divisn)",
+     "t": 1793230479883,
+     "age": "24 min ago",
+     "subject": "East Williamsburg neighbours.",
+     "body": "East Williamsburg neighbours. My cat is lost, he hangs out in the backyards of Jackson st and Withers st, between Woodpoont RD and Kingsland ave. We believe he either got trapped in a basement or entered someone's house. Please, please if you live on the block with access to the yard, take a look at your basements, or yards. His name is Gnocchi is a gray brown tabby and tuxedo, please contact Rob 8087834097 or Laura 516495289\nThank you so much 🙏🏻",
+     "reactions": 1,
+     "comments": 3,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/d1/4b/d14bf16e30d1cab180454ee8477e1adf.jpeg",
+     "why": "Fresh lost-cat plea with a specific block and description; a kind word and a share-style nudge is genuinely useful.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Hoping Gnocchi turns up safe and sound soon. Neighbours around Jackson and Withers, a quick look in basements and yards tonight could make all the difference."
+    },
+    {
+     "id": "521610609",
+     "short": "4_c2FHJj24Nr",
+     "url": "https://nextdoor.com/p/4_c2FHJj24Nr/",
+     "who": "Victoria Berk",
+     "hood": "Garment Dist",
+     "t": 1793212817769,
+     "age": "5 hr ago",
+     "subject": "About 4 months old female friendly kitten, rescued from the street, fully vetted (vaccinated, dewormed , defleased, SNAP test negative) desperately needs a loving family.",
+     "body": "About 4 months old female friendly kitten, rescued from the street, fully vetted (vaccinated, dewormed , defleased, SNAP test negative) desperately needs a loving family. The kitten is not yet spayed because she is young. If you are interested in adoption, please call (718) 419-7703. Adoption Pet Application and Adoption Fee apply.",
+     "reactions": 15,
+     "comments": 7,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/7a/79/7a7912b3160057a7fa485e3ec8553f74.jpeg",
+     "why": "Rescue kitten rehoming post with plenty of warmth in the thread; easy, positive neighbourly support.",
+     "suggestReaction": "Like",
+     "suggestComment": "What a sweet face, and thank you for taking such good care of her before finding her a home. Hope the right family spots this soon."
+    },
+    {
+     "id": "521586603",
+     "short": "x8NS2kKtxr9C",
+     "url": "https://nextdoor.com/p/x8NS2kKtxr9C/",
+     "who": "Molly Mccollow",
+     "hood": "Chelsea (W17-8th-W22-6th)",
+     "t": 1793207739324,
+     "age": "6 hr ago",
+     "subject": "Hi all, my mother is an award-winning watercolorist, and I’m excited to share some of her recent work.",
+     "body": "Hi all, my mother is an award-winning watercolorist, and I’m excited to share some of her recent work. The first piece, “Urban Stoop”, is a scene in Brooklyn. The second, is an original illustration inspired by vintage, pre-1920’s “Vogue” magazine covers. Message me if you’d like more information about her work, or if you’d like to join her email list. Thanks, neighbors!",
+     "reactions": 52,
+     "comments": 9,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/f0/11/f0115cb93bcbbfe04c315a9f908511da.jpeg",
+     "why": "Local appreciation: a neighbour sharing her mother's Brooklyn watercolors, lively and friendly thread.",
+     "suggestReaction": "Wow",
+     "suggestComment": "Urban Stoop is lovely, it captures that Brooklyn feeling perfectly. Thanks for sharing your mother's work with the neighbourhood."
+    },
+    {
+     "id": "521574228",
+     "short": "rjKp7R26SjL7",
+     "url": "https://nextdoor.com/p/rjKp7R26SjL7/",
+     "who": "Katharina Goetz",
+     "hood": "Vinegar Hill",
+     "t": 1793205081266,
+     "age": "7 hr ago",
+     "subject": "Free kid-friendly events this week in Brooklyn!",
+     "body": "Free kid-friendly events this week in Brooklyn!\nThis week, families can head to our Halloween Party at Kings Plaza in Mill Basin, then spend Halloween Saturday at the Greenpoint, Cobble Hill and Park Slope children’s parades, Dumboween, BAMboo! in Fort Greene, Trick-or-Streets open streets across the borough, Día de los Muertos at Brooklyn Army Terminal and First Skate Weekend at Lakeside in Prospect Park. On Sunday, the Brooklyn FAM Festival fills the Prospect Park Boathouse and the NYC Marathon passes the mile 8 cheering station in Fort Greene.\nhttps://brooklynbridgeparents.com/free-kid-friendly-events-this-week-in-brooklyn-10-26-11-1/",
+     "reactions": 1,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/b5/eb/b5eb06f122996e2ab7950d5adf295a63.webp",
+     "why": "Helpful roundup of free family Halloween events across Brooklyn this week; low-engagement post a reaction can lift.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thanks for pulling all of these together in one place. Free family events are such a help this time of year."
+    },
+    {
+     "id": "521531534",
+     "short": "TNxJGRXdQ-Zs",
+     "url": "https://nextdoor.com/p/TNxJGRXdQ-Zs/",
+     "who": "Tommy Max",
+     "hood": "West Village (Chris-Bleecker)",
+     "t": 1793196556785,
+     "age": "9 hr ago",
+     "subject": "Halloween 2026 shopping is done!",
+     "body": "Halloween 2026 shopping is done! 👻 The kids are going to have so much fun with these costumes! I can’t wait to see them all dressed up for Halloween. Anyone else already picked out costumes for their little ones, or are you still shopping?",
+     "reactions": 7,
+     "comments": 2,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/c8/c7/c8c7a0c7219ecaf3cdbf2185f6e4efd2.jpeg",
+     "why": "Light, cheerful Halloween chatter with an open question to neighbours.",
+     "suggestReaction": "Like",
+     "suggestComment": "Love that you are ahead of the game this year! The kids are going to have a blast on Saturday."
+    }
+   ]
   }
  }
 };
