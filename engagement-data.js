@@ -4484,6 +4484,163 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Love that you are ahead of the game this year! The kids are going to have a blast on Saturday."
     }
    ]
+  },
+  "2026-10-29": {
+   "scannedAt": "2026-10-29T22:39:19.888Z",
+   "feedPosts": 30,
+   "todayPosts": 13,
+   "excluded": [
+    {
+     "id": "521966590",
+     "who": "Amber S.",
+     "subject": "Hiring !?",
+     "reason": "Two-word post with no content to engage with"
+    },
+    {
+     "id": "521955093",
+     "who": "Felipe Nolan",
+     "subject": "Hey Parents of Brooklyn and NYC can you control and manage you children better?",
+     "reason": "Rant criticising a specific mother and her children — dispute/argument risk"
+    },
+    {
+     "id": "521949516",
+     "who": "Buttermilk & Sundries",
+     "subject": "Your Thanksgiving recipes are specific.",
+     "reason": "Business author / promotional post"
+    },
+    {
+     "id": "521885655",
+     "who": "Lora T.",
+     "subject": "PROP 3 IS NOT ONLY ABOUT BIKE LANES.",
+     "reason": "Political (ballot proposal, vote-no campaign)"
+    },
+    {
+     "id": "521845542",
+     "who": "Tutt Heights",
+     "subject": "A HEARTFELT THANK YOU TO OUR BROOKLYN NEIGHBORS.",
+     "reason": "Business promotion (cafe award post)"
+    },
+    {
+     "id": "521837986",
+     "who": "javier acosta",
+     "subject": "Whats good neighbor?",
+     "reason": "No content to engage with"
+    },
+    {
+     "id": "521835529",
+     "who": "Nicholas Viscomi",
+     "subject": "Looking to give your dog a great adventure?",
+     "reason": "Commercial service advertisement (dog-hiking business)"
+    },
+    {
+     "id": "521752431",
+     "who": "José A.",
+     "subject": "Miss my Maine Coon Maximus ...",
+     "reason": "Grief post about pets that have died — sensitive, skip"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "521804872",
+     "short": "BGK7qSQy4Tzr",
+     "url": "https://nextdoor.com/p/BGK7qSQy4Tzr/",
+     "who": "Katie Meehan",
+     "hood": "Greenpoint (Humboldt-Engert)",
+     "t": 1793282660656,
+     "age": "8 hr ago",
+     "subject": "Please keep an eye out for this cat.",
+     "body": "Please keep an eye out for this cat. He got out of his apartment on S4 and Bedford but could have traveled. He is so loved by my friends. Let’s get him home to them 💔",
+     "reactions": 14,
+     "comments": 4,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/30/af/30af1183c901c26066765a9404d48b53.jpeg",
+     "why": "A lost-pet request is the most neighbourly kind of post, and the thread is active without any argument.",
+     "suggestReaction": "Sad",
+     "suggestComment": "Sending good thoughts that he turns up soon. Cats often hide close by, so a quick look under stoops and in basements around S4 and Bedford is worth it. Hope he is home tonight."
+    },
+    {
+     "id": "521926847",
+     "short": "8d2HY3NxfMYN",
+     "url": "https://nextdoor.com/p/8d2HY3NxfMYN/",
+     "who": "Cindy LeBow",
+     "hood": "Gowanus",
+     "t": 1793303199121,
+     "age": "2 hr ago",
+     "subject": "help wanted is anybody looking for a job in the neighborhood ?",
+     "body": "help wanted is anybody looking for a job in the neighborhood ? \n\nWe are looking for a smart well spoken front desk and sales person who lives in the neighborhood we are located on ninth Street and 2nd Ave.\n\nWe have flexible hours and a terrific staff\nIf you or someone you know is looking for a part-time job that could eventually be a full-time job\n\nPlease give us a call. 718-369-9000\nOr send your résumé to\nhr@greatgreencleaning.com\n\nThank you!",
+     "reactions": 4,
+     "comments": 0,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "A local part-time job with flexible hours fits the money/cost-of-living theme and is plainly helpful to neighbours.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Love seeing a local job posted for people who live nearby. Flexible hours that can grow into full-time is a real opportunity, hope the right neighbor sees this."
+    },
+    {
+     "id": "521929957",
+     "short": "9Bg3tXgNDz5c",
+     "url": "https://nextdoor.com/p/9Bg3tXgNDz5c/",
+     "who": "Alexander Curry",
+     "hood": "LES (Broome-Columbia)",
+     "t": 1793303743247,
+     "age": "2 hr ago",
+     "subject": "Hi neighbors!",
+     "body": "Hi neighbors! 😊 I’m looking for a reliable house sitter in the area. Please check the flyer for details and how to apply. Thank you!",
+     "reactions": 0,
+     "comments": 1,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/a5/c3/a5c39c0a72ad061b83d664a3cdaf3968.jpeg",
+     "why": "A simple neighbourly request with no reactions yet, so a friendly response gives it visibility.",
+     "suggestReaction": "Like",
+     "suggestComment": "Hope you find someone great nearby. Asking neighbors first is the best way to find a house sitter you can actually trust."
+    },
+    {
+     "id": "521809239",
+     "short": "7HjzKSC2xxQF",
+     "url": "https://nextdoor.com/p/7HjzKSC2xxQF/",
+     "who": "Jon Armenta",
+     "hood": "Park Slope (11St-7Ave)",
+     "t": 1793283169234,
+     "age": "8 hr ago",
+     "subject": "Red maple - Propect Park",
+     "body": "Red maple - Propect Park",
+     "reactions": 22,
+     "comments": 0,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/88/bb/88bbde49310c074584b2e8e250a8b8b5.jpeg",
+     "why": "Local appreciation photo of fall colour in Prospect Park, well liked and no comments yet.",
+     "suggestReaction": "Wow",
+     "suggestComment": "What a color. Prospect Park in late October never disappoints, thanks for stopping to share it."
+    },
+    {
+     "id": "521852203",
+     "short": "Kw_cWdxwDYJD",
+     "url": "https://nextdoor.com/p/Kw_cWdxwDYJD/",
+     "who": "Katharina Goetz",
+     "hood": "Vinegar Hill",
+     "t": 1793291332224,
+     "age": "6 hr ago",
+     "subject": "October food news: Carroll Gardens got its Nordic bakery, Park Slope got Caputo’s bagels and then a Georgian bakery, a smash-burger shop and a frozen-yogurt shop, Williamsburg got Eyal Shani’s Naked Tomato on the Wharf, Birdie’s froyo and Tartine",
+     "body": "October food news: Carroll Gardens got its Nordic bakery, Park Slope got Caputo’s bagels and then a Georgian bakery, a smash-burger shop and a frozen-yogurt shop, Williamsburg got Eyal Shani’s Naked Tomato on the Wharf, Birdie’s froyo and Tartine co-founder Chad Robertson’s Altbau bakery, Bay Ridge a kunafa café, Prospect Heights a ramen shop and Crown Heights a bakery. Read more here: https://brooklynbridgeparents.com/new-restaurants-bars-bakeries-cafes-and-supermarkets-that-opened-closed-in-our-neighborhoods-in-october-26/",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/37/36/37366fe99c421ac63148410bc38c8ea7.jpg",
+     "why": "Light local roundup of new Brooklyn food spots — easy, positive chatter with no reactions yet.",
+     "suggestReaction": "Insightful",
+     "suggestComment": "Great roundup, thank you. A Georgian bakery and a kunafa café in one month is a good month for Brooklyn."
+    }
+   ]
   }
  }
 };
