@@ -4641,6 +4641,169 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Great roundup, thank you. A Georgian bakery and a kunafa café in one month is a good month for Brooklyn."
     }
    ]
+  },
+  "2026-10-30": {
+   "scannedAt": "2026-10-30T22:08:48.633Z",
+   "feedPosts": 31,
+   "todayPosts": 14,
+   "excluded": [
+    {
+     "id": "522211591",
+     "who": "Priscilla Franklin",
+     "subject": "Why are sirens going off",
+     "reason": "Possible emergency with no details; nothing useful to add."
+    },
+    {
+     "id": "522207139",
+     "who": "Brigit Kenney",
+     "subject": "Hi there!",
+     "reason": "Self-promotion for pet-sitting services."
+    },
+    {
+     "id": "522157608",
+     "who": "Antonio S.",
+     "subject": "(image only)",
+     "reason": "Workplace-distrust meme with no local angle."
+    },
+    {
+     "id": "522157445",
+     "who": "Roger Wimmer",
+     "subject": "Let me ask everyone something 😊",
+     "reason": "Generic engagement prompt; stronger local posts were available."
+    },
+    {
+     "id": "522134703",
+     "who": "Peter Donahue",
+     "subject": "How are you?",
+     "reason": "Job-seeking post; a business comment could imply a job lead."
+    },
+    {
+     "id": "522094846",
+     "who": "andrew hecht",
+     "subject": "Manhattan Tech Testing - $200 💰💸💵",
+     "reason": "Paid-gig solicitation asking for DMs with personal details; looks spammy."
+    },
+    {
+     "id": "522058642",
+     "who": "Michelle Pruit",
+     "subject": "Sharing a heartfelt appeal for 1-year-old Clara",
+     "reason": "Medical fundraising appeal with a PayPal link."
+    },
+    {
+     "id": "522058384",
+     "who": "Michelle Pruit",
+     "subject": "Sharing a heartfelt appeal for 1-year-old Clara",
+     "reason": "Duplicate of the same medical fundraising appeal."
+    },
+    {
+     "id": "522043418",
+     "who": "Briana Harmon",
+     "subject": "Great service and lots of glasses to pick from.",
+     "reason": "Unnamed business review with no engagement; reads as promotional."
+    }
+   ],
+   "candidates": [
+    {
+     "id": "522213743",
+     "short": "L2dFtFL7dNWX",
+     "url": "https://nextdoor.com/p/L2dFtFL7dNWX/",
+     "who": "Helane Novell",
+     "hood": "Gramercy Park (E22-1st-E18-3rd)",
+     "t": 1793397039913,
+     "age": "18 min ago",
+     "subject": "Looking for someone to do my individual taxes.",
+     "body": "Looking for someone to do my individual taxes. Any recommendations. Thanks in advance.",
+     "reactions": 1,
+     "comments": 0,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "A fresh money-related neighbour request with no replies yet, so a kind word is noticed without touching any advice.",
+     "suggestReaction": "Like",
+     "suggestComment": "Hope a neighbor here has a good name for you. A personal referral is usually the best way to find someone you'll stick with year after year."
+    },
+    {
+     "id": "522129940",
+     "short": "GYnd3J9Fh534",
+     "url": "https://nextdoor.com/p/GYnd3J9Fh534/",
+     "who": "Blesselle H.",
+     "hood": "Clinton Hill (Myrtle-Wash)",
+     "t": 1793377850771,
+     "age": "5 hr ago",
+     "subject": "Happy Halloween from my furbabies and feather baby!",
+     "body": "Happy Halloween from my furbabies and feather baby! Zoe the centipede, Bear the nun and Toasty",
+     "reactions": 27,
+     "comments": 6,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/a7/76/a7769a042fef81c34b1f2cd136551ac0.jpeg",
+     "why": "Pets in Halloween costumes on a stoop, a warm and lively thread on the eve of Halloween.",
+     "suggestReaction": "Haha",
+     "suggestComment": "The centipede costume is incredible, and Bear is carrying off that outfit with total seriousness. Happy Halloween to all of them!"
+    },
+    {
+     "id": "522056290",
+     "short": "zzNRLfL37QGL",
+     "url": "https://nextdoor.com/p/zzNRLfL37QGL/",
+     "who": "Janice G.",
+     "hood": "Ft Greene (Hanson-Fulton)",
+     "t": 1793360111978,
+     "age": "10 hr ago",
+     "subject": "Dramatic Morning!",
+     "body": "Dramatic Morning!",
+     "reactions": 23,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/3f/85/3f857e23263b5ff13db4ad339c658d13.jpeg",
+     "why": "A well-liked photo of the sky over the neighbourhood with no comments yet.",
+     "suggestReaction": "Wow",
+     "suggestComment": "What a sky to wake up to. That band of orange under the clouds is beautiful, thanks for sharing it."
+    },
+    {
+     "id": "522123467",
+     "short": "w5YBsy5yLYnT",
+     "url": "https://nextdoor.com/p/w5YBsy5yLYnT/",
+     "who": "Chris R.",
+     "hood": "Brooklyn Heights",
+     "t": 1793376219638,
+     "age": "6 hr ago",
+     "subject": "My daughter Rachel marched in a Halloween parade at her school today.",
+     "body": "My daughter Rachel marched in a Halloween parade at her school today.",
+     "reactions": 34,
+     "comments": 1,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/b8/7d/b87df039d4418227cc75635cf3e99fb3.jpeg",
+     "why": "A proud parent's post and the most-liked of the day; react-only because it shows a child and a business comment adds nothing.",
+     "suggestReaction": "Like",
+     "suggestComment": ""
+    },
+    {
+     "id": "522093255",
+     "short": "xcq3_WfcCpb6",
+     "url": "https://nextdoor.com/p/xcq3_WfcCpb6/",
+     "who": "Amed Al",
+     "hood": "Alphabet City",
+     "t": 1793370411276,
+     "age": "7 hr ago",
+     "subject": "Whats your favorite sitcom that’s based in New York ?",
+     "body": "Whats your favorite sitcom that’s based in New York ?\n\nMine is the king of queens",
+     "reactions": 3,
+     "comments": 25,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Easy, friendly chatter with 25 comments and no argument, the liveliest thread of the day.",
+     "suggestReaction": "Haha",
+     "suggestComment": "Seinfeld would be hard to beat, the diner scenes still feel like a normal Tuesday here. King of Queens is a great pick though, Arthur alone makes it worth it."
+    }
+   ]
   }
  }
 };
