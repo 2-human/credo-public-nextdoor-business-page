@@ -4804,6 +4804,211 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Seinfeld would be hard to beat, the diner scenes still feel like a normal Tuesday here. King of Queens is a great pick though, Arthur alone makes it worth it."
     }
    ]
+  },
+  "2026-10-31": {
+   "scannedAt": "2026-10-31T22:14:02.960Z",
+   "feedPosts": 32,
+   "todayPosts": 21,
+   "excluded": [
+    {
+     "id": "522454886",
+     "who": "syndie lynn",
+     "subject": "PLEASE READ WHOLE AD!",
+     "reason": "Commercial ad for a shared studio sublease."
+    },
+    {
+     "id": "522445478",
+     "who": "Denise NYC",
+     "subject": "SAD NEWS .....",
+     "reason": "Medical crisis and end-of-life fundraising appeal; not a page's place to engage."
+    },
+    {
+     "id": "522440663",
+     "who": "Sandra hernades",
+     "subject": "HIRING HIRING HIRING!!!",
+     "reason": "Likely job scam posted three times today, with a text-me number."
+    },
+    {
+     "id": "522293961",
+     "who": "Sandra hernades",
+     "subject": "HIRING HIRING HIRING!!!",
+     "reason": "Duplicate of the same likely job scam."
+    },
+    {
+     "id": "522293912",
+     "who": "Sandra hernades",
+     "subject": "HIRING HIRING HIRING!!!",
+     "reason": "Duplicate of the same likely job scam."
+    },
+    {
+     "id": "522438715",
+     "who": "Luka Grant",
+     "subject": "I made a FREE tool that helps you find where free parking may be available in NYC!",
+     "reason": "Self-promotion that asks for comments in exchange for a link."
+    },
+    {
+     "id": "522431952",
+     "who": "javier acosta",
+     "subject": "Anybody interested in a Mini golden doodle 6weeks 3days old puppies for new homes.",
+     "reason": "Puppy sale post with a DM-me pitch; looks like a common scam format."
+    },
+    {
+     "id": "522430279",
+     "who": "Chris Avalos",
+     "subject": "Hello",
+     "reason": "No local content; reads like a spam account warming up."
+    },
+    {
+     "id": "522429629",
+     "who": "Chris Avalos",
+     "subject": "Hello everyone I’m Chris from LA",
+     "reason": "No local content; same account as above."
+    },
+    {
+     "id": "522427306",
+     "who": "Rob Hansen",
+     "subject": "Happy Halloween",
+     "reason": "Thin greeting; stronger Halloween posts were picked."
+    },
+    {
+     "id": "522421574",
+     "who": "Robert Perrego",
+     "subject": "After probably doubling your monthly Con Ed bill, Hochul sent out tiny checks just days before her election.",
+     "reason": "Political, and a live argument."
+    },
+    {
+     "id": "522408965",
+     "who": "Paul Spiteri",
+     "subject": "Does anybody actually like that new empire garbage bin on Garden Place?",
+     "reason": "Invites a complaint about a city program, with nothing warm to add."
+    },
+    {
+     "id": "522382611",
+     "who": "Rebecca Sullivan",
+     "subject": "Hello neighbors Happy Halloween!",
+     "reason": "Thin greeting with no photo or engagement."
+    },
+    {
+     "id": "522314919",
+     "who": "Andy McNeil",
+     "subject": "If you’ve had a chance to visit the Brooklyn Heights Designer Showhouse at 1 Monroe Place, you’ve probably seen some pretty incredible rooms.",
+     "reason": "Promotes the author's coming interview, and the video link expires too soon to show on the calendar."
+    },
+    {
+     "id": "522292889",
+     "who": "Annie Sama",
+     "subject": "Sweetie Pie",
+     "reason": "Caption gives no subject and is filed under Lost & Found, so the tone cannot be judged without the thread."
+    },
+    {
+     "id": "522285921",
+     "who": "carole Musa",
+     "subject": "Please help us and sign this petition to",
+     "reason": "Political petition against bike and bus lanes; a debate."
+    }
+   ],
+   "candidates": [
+    {
+     "id": "522364518",
+     "short": "hGxsFyh9rW3Q",
+     "url": "https://nextdoor.com/p/hGxsFyh9rW3Q/",
+     "who": "Bryan Haywood",
+     "hood": "Brooklyn Heights",
+     "t": 1793463112715,
+     "age": "6 hr ago",
+     "subject": "If this is your car on Pacific, I just watched someone back into your door and promptly speed away.",
+     "body": "If this is your car on Pacific, I just watched someone back into your door and promptly speed away. It was a silver Tesla, and I have the license plate #",
+     "reactions": 4,
+     "comments": 0,
+     "topics": [
+      "Safety"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/ab/26/ab266644295f5e42cfc75be0cb19ed6a.jpeg",
+     "why": "A neighbour-to-neighbour safety heads-up with no replies yet, and the most useful post of the day to back.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Good of you to stop and note the plate instead of just walking on. Hope the owner sees this and you two connect."
+    },
+    {
+     "id": "522278213",
+     "short": "D3wrk8zcFWZR",
+     "url": "https://nextdoor.com/p/D3wrk8zcFWZR/",
+     "who": "Ann Spivack",
+     "hood": "Chelsea (23rd-10th-34th)",
+     "t": 1793420036173,
+     "age": "17 hr ago",
+     "subject": "Saw this display at the corner of Christopher and Waverly.",
+     "body": "Saw this display at the corner of Christopher and Waverly. It's fantastic. (Kudos to the folks who did this.)\n\nAny other places in Manhattan that have over-the-top Halloween decorations?",
+     "reactions": 90,
+     "comments": 10,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/cc/1a/cc1a25591fbdd90f9fddc6ee238eadc4.jpg",
+     "why": "The liveliest friendly thread of the day, timely for Halloween, and it thanks the neighbours who made the display.",
+     "suggestReaction": "Wow",
+     "suggestComment": "That corner looks fantastic, thanks for the tip. The effort people put into their stoops every Halloween never gets old."
+    },
+    {
+     "id": "522362829",
+     "short": "TLnnqnrXkP8r",
+     "url": "https://nextdoor.com/p/TLnnqnrXkP8r/",
+     "who": "Hannah Arnett",
+     "hood": "Clinton Hill (Fulton-St James)",
+     "t": 1793462670607,
+     "age": "6 hr ago",
+     "subject": "Festive neighbors with fun treats for kids, adults and pets!",
+     "body": "Festive neighbors with fun treats for kids, adults and pets! Outside until we run out! Happy Halloween! 🍂👻🍁🎃🍂 #TreatMap",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/43/34/4334a40443aa26dd8ae362c530abc12c.jpeg",
+     "why": "A warm local event with no reactions yet, so a kind word is noticed.",
+     "suggestReaction": "Like",
+     "suggestComment": "Treats for pets as well as kids is such a nice touch. Thank you for making the block feel festive today."
+    },
+    {
+     "id": "522400706",
+     "short": "ZfMFR7D7LrSL",
+     "url": "https://nextdoor.com/p/ZfMFR7D7LrSL/",
+     "who": "Dahiana Buten",
+     "hood": "Boerum Hill (Schermerhorn-Bond)",
+     "t": 1793471986523,
+     "age": "3 hr ago",
+     "subject": "Happy Doggyween 🎃",
+     "body": "Happy Doggyween 🎃",
+     "reactions": 8,
+     "comments": 2,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/34/44/34444667f7cc06b6e0611f2fefec869f.jpeg",
+     "why": "Light seasonal pet photo in a small friendly thread, with no argument in sight.",
+     "suggestReaction": "Like",
+     "suggestComment": "Happy Doggyween right back! Thanks for the smile today."
+    },
+    {
+     "id": "522316095",
+     "short": "Fth5_957qGyG",
+     "url": "https://nextdoor.com/p/Fth5_957qGyG/",
+     "who": "Lora T.",
+     "hood": "SoHo (Greene-Broome-Canal)",
+     "t": 1793453478976,
+     "age": "8 hr ago",
+     "subject": "Blue Passionflower.",
+     "body": "Blue Passionflower. Up close and personal.",
+     "reactions": 14,
+     "comments": 1,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/9f/19/9f19ffa1aa89ac5cc489ea792a991a51.jpeg",
+     "why": "A simple local photo people are already enjoying, and a calm change from the Halloween posts.",
+     "suggestReaction": "Wow",
+     "suggestComment": "What an extraordinary flower up close. Thanks for brightening the feed with it."
+    }
+   ]
   }
  }
 };
