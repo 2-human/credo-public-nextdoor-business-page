@@ -224,7 +224,9 @@ window.CREDO_ND_POSTS = [
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
- {date:'2026-11-01', time:'17:00', status:'scheduled', src:'v2', type:'edu', cluster:'Neighborhood question', organicId:'nd-1101', img:'assets/organic/p-neighbors-1x1.jpg', imgNote:'Organic v2 · Two neighbors talking over a fence',
+ {date:'2026-11-01', time:'17:00', status:'published', src:'v2', type:'edu', cluster:'Neighborhood question', organicId:'nd-1101', img:'assets/organic/p-neighbors-1x1.jpg', imgNote:'Organic v2 · Two neighbors talking over a fence',
+  url:'https://nextdoor.com/p/tpxDKQwpwbLZ/', insights:'https://nextdoor.com/post_insights/tpxDKQwpwbLZ/', postedAt:'2026-11-01T22:17:07.271Z',
+  metrics:{views:0, reactions:0, comments:0, asOf:'2026-11-01'},
   text:'A question for neighbors: what is one thing about debt or bills you wish someone had explained to you earlier?\n\nWe answer common questions here from time to time, plainly and without a sales pitch. Your answers help us pick the next topics.',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
