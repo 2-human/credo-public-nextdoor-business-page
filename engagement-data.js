@@ -5009,6 +5009,218 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "What an extraordinary flower up close. Thanks for brightening the feed with it."
     }
    ]
+  },
+  "2026-11-01": {
+   "scannedAt": "2026-11-01T22:15:16.934Z",
+   "feedPosts": 31,
+   "todayPosts": 22,
+   "note": "US clocks changed today, so feed-extract's todayStart came out 05:00Z; true ET midnight was 04:00Z and that value was used.",
+   "excluded": [
+    {
+     "id": "522664301",
+     "who": "Fran Weiner",
+     "subject": "Ian, could I ask you to please stay on this site?",
+     "reason": "Addresses a named person about a dispute over the site."
+    },
+    {
+     "id": "522662459",
+     "who": "Aileen Mendano",
+     "subject": "Hello, neighbors!",
+     "reason": "Generic introduction with a real-estate interest; nothing local to respond to."
+    },
+    {
+     "id": "522662453",
+     "who": "Mitchell Beale",
+     "subject": "Anyone in the market for a gaming pc?",
+     "reason": "Trade listing."
+    },
+    {
+     "id": "522658511",
+     "who": "Derica Raymond",
+     "subject": "Hello everyone!",
+     "reason": "Recruitment ad with a phone number; can't vouch for it."
+    },
+    {
+     "id": "522642047",
+     "who": "Sarah B.",
+     "subject": "NEED FOSTER!",
+     "reason": "Good cause, but a video post that won't render on the calendar; Joanie N.'s rehoming post covers the slot."
+    },
+    {
+     "id": "522637152",
+     "who": "Wendy Vickers",
+     "subject": "My Cat Sitter is the Playwright of this fabulous play",
+     "reason": "Commercial promotion with ticket and service links."
+    },
+    {
+     "id": "522622635",
+     "who": "Tiff W.",
+     "subject": "Many of you have supported my cat rescue adventures",
+     "reason": "Kind shout-out but no thread activity yet; Paula C.'s post has far more life."
+    },
+    {
+     "id": "522622176",
+     "who": "Dahiana Buten",
+     "subject": "It’s coquito season",
+     "reason": "Light chatter from an author picked yesterday."
+    },
+    {
+     "id": "522615083",
+     "who": "Mari DeJesus",
+     "subject": "Hi I'm looking for home decor/wall art",
+     "reason": "Request for free goods; nothing a page can offer."
+    },
+    {
+     "id": "522610154",
+     "who": "Kyle Rae",
+     "subject": "Hello neighbors!",
+     "reason": "Asks for a meal-prep provider; the page has no recommendation to give."
+    },
+    {
+     "id": "522608100",
+     "who": "megan bidner",
+     "subject": "does anyone have a 3D printer and want to make some money?",
+     "reason": "Paid gig request."
+    },
+    {
+     "id": "522601044",
+     "who": "Vince VITALE",
+     "subject": "Missing my Buddy",
+     "reason": "Solicitation with a phone number."
+    },
+    {
+     "id": "522596294",
+     "who": "Mitchell Beale",
+     "subject": "New to the area and looking for some extra work.",
+     "reason": "Offer of paid services."
+    },
+    {
+     "id": "522596215",
+     "who": "Ellen Sandles",
+     "subject": "I hope everyone had a Happy Halloween.",
+     "reason": "The bikes remark could turn into an argument; better picks available."
+    },
+    {
+     "id": "522595061",
+     "who": "Buttermilk & Sundries",
+     "subject": "BAS #SundrySights after dark.",
+     "reason": "Business author."
+    },
+    {
+     "id": "522593475",
+     "who": "Antonio S.",
+     "subject": "",
+     "reason": "Photo with no text, so nothing specific to respond to."
+    },
+    {
+     "id": "522531913",
+     "who": "Valerie Donaldson",
+     "subject": "Still looking for a lawyer to draw up a will and trust.",
+     "reason": "Asks for legal help."
+    }
+   ],
+   "candidates": [
+    {
+     "id": "522576649",
+     "short": "dD_KcWmc_FMR",
+     "url": "https://nextdoor.com/p/dD_KcWmc_FMR/",
+     "who": "Cashmere Thomas",
+     "hood": "Dumbo",
+     "t": 1793545290615,
+     "age": "7 hr ago",
+     "subject": "Quick neighbor note for anyone clearing space before the holidays — if it's still usable, it doesn't have to go to the curb.",
+     "body": "Quick neighbor note for anyone clearing space before the holidays — if it's still usable, it doesn't have to go to the curb.\n\nA few options that actually work in the city:\n- Habitat ReStore and Housing Works take furniture in good shape, and both run pickups if you book ahead — their November slots fill fast.\n- Buy Nothing groups and local mutual-aid pages are great for a quick same-week handoff, especially for smaller pieces.\n- Most donation spots won't take mattresses, broken frames, or anything stained or torn, so check their list before you haul it downstairs.\n\nOne thing that saves a lot of back-and-forth: take a quick photo of each piece and measure the big ones before you reach out — pickups go a lot smoother when they know what fits in the truck and through the door.\n\nIf you've donated locally lately, what worked best for you? Always looking for good drop-off spots to pass along.",
+     "reactions": 6,
+     "comments": 0,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "A practical, money-saving tip that invites replies and has no comments yet.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Really useful list, especially the tip about photographing and measuring first. Good reminder that a lot of what we clear out still has plenty of life left for someone else."
+    },
+    {
+     "id": "522644346",
+     "short": "xmcjCd-5wb6G",
+     "url": "https://nextdoor.com/p/xmcjCd-5wb6G/",
+     "who": "Robert Lawton",
+     "hood": "Park Slope (12St-5Ave)",
+     "t": 1793564446593,
+     "age": "1 hr ago",
+     "subject": "Looking for a job anyone currently hiring?",
+     "body": "Looking for a job anyone currently hiring?",
+     "reactions": 0,
+     "comments": 1,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "A neighbour feeling the cost of being out of work, and a little encouragement goes a long way on a quiet post.",
+     "suggestReaction": "Like",
+     "suggestComment": "Wishing you luck with the search, Robert. It takes something to ask out loud, and I hope a neighbor here knows of the right opening."
+    },
+    {
+     "id": "522605411",
+     "short": "gDpP8X2kjyC_",
+     "url": "https://nextdoor.com/p/gDpP8X2kjyC_/",
+     "who": "Joanie N.",
+     "hood": "Chelsea (8Ave-25th)",
+     "t": 1793553103668,
+     "age": "5 hr ago",
+     "subject": "This pair of bff’s are heading to the kill shelter if nobody steps up owner can’t keep them anymore.",
+     "body": "This pair of bff’s are heading to the kill shelter if nobody steps up owner can’t keep them anymore. They are very bonded. \nLulu and Lucky 2 and 21/2 years old. They were originally adopted from animal control their numbers were 254697 and 696.\nIf interested in taking both and saving them from doom email me at:\nNYPETICARE@aol.com",
+     "reactions": 19,
+     "comments": 8,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/0e/59/0e597bb9730318e5b2721bfdec7ea9bf.jpeg",
+     "why": "An urgent rehoming request with an active thread, where visibility could really help.",
+     "suggestReaction": "Sad",
+     "suggestComment": "Thank you for speaking up for Lulu and Lucky. I hope someone here has room for the two of them, and that sharing this gets them seen by the right person."
+    },
+    {
+     "id": "522626072",
+     "short": "NqP_FY5RNnD9",
+     "url": "https://nextdoor.com/p/NqP_FY5RNnD9/",
+     "who": "Annie Sama",
+     "hood": "Brooklyn Heights",
+     "t": 1793559011100,
+     "age": "3 hr ago",
+     "subject": "A few random images from yesterday’s DUMBOween celebration.",
+     "body": "A few random images from yesterday’s DUMBOween celebration.",
+     "reactions": 10,
+     "comments": 1,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/17/ad/17ade4b35ec3f4d62f96e4a0cd005daf.jpeg",
+     "why": "Local event photos, friendly and easy to appreciate.",
+     "suggestReaction": "Wow",
+     "suggestComment": "Thanks for sharing these. DUMBOween looks like it was a great time, and it's lovely to see the neighborhood out enjoying it together."
+    },
+    {
+     "id": "522633194",
+     "short": "FF-xkSch6kFr",
+     "url": "https://nextdoor.com/p/FF-xkSch6kFr/",
+     "who": "Paula C.",
+     "hood": "Greenpoint (Franklin-Eagle)",
+     "t": 1793561191528,
+     "age": "2 hr ago",
+     "subject": "Happy Sunday, neighbors!",
+     "body": "Happy Sunday, neighbors! Wishing everyone a wonderful and relaxing weekend. Just wanted to share a few pictures of my sweet little boy. He always knows how to make me smile!",
+     "reactions": 43,
+     "comments": 17,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/6e/c6/6ec602a0f8227676f14398bfe107c042.jpg",
+     "why": "The liveliest thread of the day, warm and with no argument in it.",
+     "suggestReaction": "Like",
+     "suggestComment": "What a sweetheart. Thanks for brightening up the Sunday feed, and happy Sunday to you both."
+    }
+   ]
   }
  }
 };
