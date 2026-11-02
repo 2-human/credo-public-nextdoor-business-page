@@ -5221,6 +5221,223 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "What a sweetheart. Thanks for brightening up the Sunday feed, and happy Sunday to you both."
     }
    ]
+  },
+  "2026-11-02": {
+   "scannedAt": "2026-11-02T22:08:20.000Z",
+   "feedPosts": 32,
+   "todayPosts": 27,
+   "excluded": [
+    {
+     "id": "522890553",
+     "who": "james donald",
+     "subject": "Van Wyck cruise control joke",
+     "reason": "video-only (mp4) novelty post, weak pick"
+    },
+    {
+     "id": "522888857",
+     "who": "Alison Bloom",
+     "subject": "Couple seeking long-term NYC rental",
+     "reason": "housing-wanted post, likely scam bait pattern"
+    },
+    {
+     "id": "522884354",
+     "who": "Yvette Mable",
+     "subject": "Studio apartment, Matos home Realty",
+     "reason": "commercial rental ad"
+    },
+    {
+     "id": "522871452",
+     "who": "Lucia Larson",
+     "subject": "Social media help for a Rolfing practice",
+     "reason": "service/job request for a business"
+    },
+    {
+     "id": "522870161",
+     "who": "Mario E Golden",
+     "subject": "The history of my Freemasonry (x4)",
+     "reason": "repeated fraternal/organisational posts, spam-like"
+    },
+    {
+     "id": "522867536",
+     "who": "Mario E Golden",
+     "subject": "European Conference of Grand Masters",
+     "reason": "repeated fraternal/organisational posts"
+    },
+    {
+     "id": "522848032",
+     "who": "Barbara S.",
+     "subject": "Worried about daughter’s cat",
+     "reason": "pet medical concern, would invite vet advice"
+    },
+    {
+     "id": "522839867",
+     "who": "Peter Cramer",
+     "subject": "Leslie Lowe (1952–2026) exhibition",
+     "reason": "memorial for a deceased person"
+    },
+    {
+     "id": "522828972",
+     "who": "Jennifer Taylor",
+     "subject": "Meet my cute little cat / Hi everyone",
+     "reason": "new-account greeting pattern flagged as bot-like"
+    },
+    {
+     "id": "522828605",
+     "who": "Pankaj Parjata",
+     "subject": "Hope everyone has a wonderful week",
+     "reason": "generic low-content greeting"
+    },
+    {
+     "id": "522811851",
+     "who": "Kelvin Roux",
+     "subject": "I love this guy so much",
+     "reason": "vague engagement-bait post"
+    },
+    {
+     "id": "522791886",
+     "who": "Evelyn Anderson",
+     "subject": "Hi, I’m Evelyn",
+     "reason": "new-account greeting pattern flagged as bot-like"
+    },
+    {
+     "id": "522791808",
+     "who": "Mercedes Gallego",
+     "subject": "Deutsche Welle casting call",
+     "reason": "media recruitment, not neighbour conversation"
+    },
+    {
+     "id": "522791144",
+     "who": "Laura L.",
+     "subject": "Looking for a gal/guy Friday",
+     "reason": "job posting"
+    },
+    {
+     "id": "522768837",
+     "who": "Milo",
+     "subject": "Battery Park City dog walker",
+     "reason": "business/page author (whoType 7)"
+    },
+    {
+     "id": "522753046",
+     "who": "Aileen Mendano",
+     "subject": "House for rent",
+     "reason": "rental listing, likely scam pattern"
+    },
+    {
+     "id": "522750835",
+     "who": "Mitchell Beale",
+     "subject": "Selling full desktop setup",
+     "reason": "sales/scam pattern (\"like to boost\")"
+    },
+    {
+     "id": "522740631",
+     "who": "Tommy Max",
+     "subject": "Washing 10 cars, a blessing",
+     "reason": "religious framing and engagement-farm template"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "522813026",
+     "short": "pGhxjX_HbByd",
+     "url": "https://nextdoor.com/p/pGhxjX_HbByd/",
+     "who": "jessica rose",
+     "hood": "West Village (Christopher-Washington)",
+     "t": 1793638953946,
+     "age": "5 hr ago",
+     "subject": "NO one is offering legit apartments, jobs or tickets to sports or music events, needing a house sitter on ND.",
+     "body": "NO one is offering legit apartments, jobs or tickets to sports or music events, needing a house sitter on ND. They are literally ALL scams intended to steal your personal info and your money. They prey on desperate people. They are nearly always posted by \"people\" ( they are bots) who just joined Next Door. I know it is hard to find a good apartment or a job but go through a LEGITIMATE service or walk around for Help Wanted signs do not use a social media platform literally dominated by scams that requires no authentication. We are also getting a LOT of posts pretending to be neighbors looking for friends or advice. They often the same exact language and again are meant to snare you in. \n\nND COULD set up some guardrails. Not allowing new accounts to make these posts. requiring a small fee ( $15) to prove the ARE real ( I am sure many would work around that but better than nothing) but ND does not care. They only survive by showing \"engagement\" even with bots for scams. Sure they will remove some posts if reported but they do not try to stop them.\n\nI wish ND would to more as it has increasingly become a cesspool of scams, absurd ads ( doesn't everybody in Manhattan live in a BIG two story house with a huge lawn that they claim is YOUR neighborhood) \n\nWe all hate the political stuff ( which one hopes will decrease a LOT after tomorrow) but at least that is real neighbors \"talking\" Vs scams",
+     "reactions": 10,
+     "comments": 1,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Clear scam warning about fake apartment, job and ticket offers aimed at people under money pressure, our top-priority category.",
+     "suggestReaction": "Insightful",
+     "suggestComment": "Thank you for spelling this out so plainly. When rent or work is stressing someone, an offer that looks too easy is exactly what catches them, so this is a good reminder to slow down and check before sharing any personal details."
+    },
+    {
+     "id": "522761492",
+     "short": "TWHxByD83rmd",
+     "url": "https://nextdoor.com/p/TWHxByD83rmd/",
+     "who": "Melanie MAc",
+     "hood": "Alphabet City",
+     "t": 1793627933388,
+     "age": "8 hr ago",
+     "subject": "Jasper is still",
+     "body": "Jasper is still\nMissing after fire last sat night24 in my apt\nHas anyone seen him near 7 st bet b and c aves?\n\nHenis long slim adult neutered male cat grey w a bit of grey tabby and a long tail.\n9176875334 \nThank you❤️\nN",
+     "reactions": 8,
+     "comments": 6,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/db/f8/dbf89bb018ed6bfb2bd4f0ed31e16c97.jpeg",
+     "why": "Lost cat after an apartment fire, a neighbourly request where a kind word and a share-along help; thread is supportive.",
+     "suggestReaction": "Sad",
+     "suggestComment": "So sorry about the fire, and I hope Jasper turns up safe very soon. Neighbors around 7th between B and C, please keep an eye out for a slim grey tabby with a long tail."
+    },
+    {
+     "id": "522852575",
+     "short": "YLDnyndkrkWT",
+     "url": "https://nextdoor.com/p/YLDnyndkrkWT/",
+     "who": "Vicki Devor",
+     "hood": "Carroll Gardens",
+     "t": 1793647542686,
+     "age": "2 hr ago",
+     "subject": "The gift of intel.",
+     "body": "The gift of intel. \n\nSeeking someone that walks/drives by 88 9th street, close to The entrance to Lowe’s, on a regular basis. Yes it involves cats ☺️\n\nMessage me with your interest to help this community cat rescuer. Thank you!",
+     "reactions": 3,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/76/a1/76a1c57ba178c72e96f55713b98a6e58.jpeg",
+     "why": "Community cat rescuer asking neighbours for help near the 9th Street Lowe’s; friendly volunteer request with no comments yet.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Love that you are looking out for the cats around there. Hope a regular passer-by near 9th Street sees this and can lend a hand."
+    },
+    {
+     "id": "522848927",
+     "short": "qYSpY7xD72CQ",
+     "url": "https://nextdoor.com/p/qYSpY7xD72CQ/",
+     "who": "Cecilia Lopez",
+     "hood": "Little Italy",
+     "t": 1793646859507,
+     "age": "2 hr ago",
+     "subject": "Hi everyone!",
+     "body": "Hi everyone! I’m Cecilia. I moved to Little Italy earlier this year & figured I’d finally say hi!\n\nI’m a designer, love vintage shopping, good coffee, and exploring the city. Would love to hear about your favorite neighborhood spots!🍎",
+     "reactions": 16,
+     "comments": 14,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/cf/41/cf4104dfcd69529284e079bad51f9b8c.jpeg",
+     "why": "New-neighbour hello asking for favourite local spots; lively, friendly thread (16 reactions, 14 comments) with no argument.",
+     "suggestReaction": "Like",
+     "suggestComment": "Welcome to the neighborhood, Cecilia! Little Italy is a great place to explore on foot, and I hope the coffee and vintage tips keep coming in."
+    },
+    {
+     "id": "522882092",
+     "short": "6r3d_nqXN_M7",
+     "url": "https://nextdoor.com/p/6r3d_nqXN_M7/",
+     "who": "Carol Kendzierski",
+     "hood": "East Village (E4-1st-E1-Bwry)",
+     "t": 1793654458476,
+     "age": "45 min ago",
+     "subject": "Katzs Deli   The lines on Houston Street are out of control!",
+     "body": "Katzs Deli   The lines on Houston Street are out of control! Hard to walk down the street bt Orchard and Ludlow  Does anyone else agree with me? I  think the restaurant  should put some barriers or something there.ugh!",
+     "reactions": 0,
+     "comments": 3,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Light local chatter about the Katz’s line on Houston Street; mild, relatable sidewalk gripe with a small thread.",
+     "suggestReaction": "Agree",
+     "suggestComment": "Katz’s on a busy afternoon is its own kind of New York weather. A simple rope line along the wall would make that stretch between Orchard and Ludlow a lot easier for everyone walking past."
+    }
+   ]
   }
  }
 };
