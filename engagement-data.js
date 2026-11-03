@@ -5438,6 +5438,199 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "Katz’s on a busy afternoon is its own kind of New York weather. A simple rope line along the wall would make that stretch between Orchard and Ludlow a lot easier for everyone walking past."
     }
    ]
+  },
+  "2026-11-03": {
+   "scannedAt": "2026-11-03T22:08:16.023Z",
+   "feedPosts": 31,
+   "todayPosts": 19,
+   "excluded": [
+    {
+     "id": "523151922",
+     "who": "Ellen Hall",
+     "subject": "No mother or father should ever have to sit in a quiet hospital…",
+     "reason": "medical bills / hospital fundraising appeal — sensitive, money-plus-medical"
+    },
+    {
+     "id": "523151691",
+     "who": "Ellen Hall",
+     "subject": "🎗️ No mother or father should ever have to sit in a quiet hospital…",
+     "reason": "duplicate of the same medical fundraising appeal"
+    },
+    {
+     "id": "523117180",
+     "who": "Mario E Golden",
+     "subject": "Having a cool time after the European Conference of Grand Masonic…",
+     "reason": "freemasonry content, quasi-religious/fraternal and contentious"
+    },
+    {
+     "id": "523115911",
+     "who": "Mario E Golden",
+     "subject": "How many neighbors know about the Freemasonry brotherhood…",
+     "reason": "freemasonry recruitment, same as above"
+    },
+    {
+     "id": "523110444",
+     "who": "Lorenzo K. Cruz",
+     "subject": "hello",
+     "reason": "empty post (\"hello\"), nothing to engage with"
+    },
+    {
+     "id": "523088801",
+     "who": "Glenn E. Morris",
+     "subject": "hello",
+     "reason": "empty post (\"hello\"), nothing to engage with"
+    },
+    {
+     "id": "523086324",
+     "who": "Kirby Kirby",
+     "subject": "Chelsea, NYC.",
+     "reason": "second near-identical photo post by the same author; picked the other one"
+    },
+    {
+     "id": "523071150",
+     "who": "Mara Ston",
+     "subject": "This City Must Crack Down on Abandonment.",
+     "reason": "political advocacy (contact your council member)"
+    },
+    {
+     "id": "523047267",
+     "who": "Mara Ston",
+     "subject": "SHARE this with people who NEED PET FOOD- Tell your Council Member…",
+     "reason": "political advocacy (council-member campaign)"
+    },
+    {
+     "id": "523044894",
+     "who": "Alex A.",
+     "subject": "SALT, PEPPER & CINNAMON- three 5 months old RESCUED KITTENS…",
+     "reason": "rescue-group adoption post with a video attachment (expiring .mp4 won't render in the calendar); Barbara covers rehoming"
+    },
+    {
+     "id": "523041459",
+     "who": "Milo",
+     "subject": "You're a shy NYC pup who finally realizes you're THAT DOG.",
+     "reason": "page/brand-style account (author type 7), video content"
+    },
+    {
+     "id": "523028588",
+     "who": "Rebecca Sullivan",
+     "subject": "Hope you're having a good Election Day!",
+     "reason": "political (Election Day / voting)"
+    },
+    {
+     "id": "522988445",
+     "who": "Francis Gant",
+     "subject": "Spacious three-bedroom, one-bathroom apartment…",
+     "reason": "commercial rental listing"
+    },
+    {
+     "id": "522986116",
+     "who": "William Waltley",
+     "subject": "Hello my name is William waltley…",
+     "reason": "building-conditions dispute plus GoFundMe ask"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "522979465",
+     "short": "m9G3yz8B9dLh",
+     "url": "https://nextdoor.com/p/m9G3yz8B9dLh/",
+     "who": "Julio Torres",
+     "hood": "Gowanus",
+     "t": 1793692387953,
+     "age": "14 hr ago",
+     "subject": "My son's e bike was stolen ..",
+     "body": "My son's e bike was stolen .. on Saint marks.and 5th Ave BROOKLYN NY around 10 .. please call 3475842761. REWARD",
+     "reactions": 5,
+     "comments": 1,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/1f/0a/1f0a54bfc634c314cdf0e255a5d5e916.jpeg",
+     "why": "Theft heads-up for Park Slope/Gowanus riders, the top-priority safety category, with a calm thread so far.",
+     "suggestReaction": "Sad",
+     "suggestComment": "So sorry this happened to your son. Thanks for posting the spot and time, it helps everyone around St. Marks and 5th keep an eye out, and I hope the bike turns up soon."
+    },
+    {
+     "id": "523161084",
+     "short": "B3KsdKj7KWQP",
+     "url": "https://nextdoor.com/p/B3KsdKj7KWQP/",
+     "who": "Sam Asada",
+     "hood": "Bedford Stuyvesant (Mrcy-Lfyt)",
+     "t": 1793742326093,
+     "age": "22 min ago",
+     "subject": "!",
+     "body": "!LOST CAT!\n\nPlease keep an eye out for Mama Cat. She is an elderly indoor kitty with chronic illness who escaped her temporary housing last week. She's very small and skinny, very sweet and friendly and has a very loud meow. Lost from Greene Ave between Marcy and Nostrand.",
+     "reactions": 0,
+     "comments": 1,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/cc/62/cc620698b4bd1af2a38b8a81a60e0d91.heic",
+     "why": "Fresh lost-pet request with almost no engagement yet, so an early reaction helps it reach more Bed-Stuy neighbours.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Hoping Mama Cat is tucked somewhere safe nearby. Anyone around Greene between Marcy and Nostrand, worth a quick look under stoops and in garden corners this evening."
+    },
+    {
+     "id": "523002048",
+     "short": "pDt47R6CMh5w",
+     "url": "https://nextdoor.com/p/pDt47R6CMh5w/",
+     "who": "Jacqueline Farrah",
+     "hood": "East Village (Cooper Square)",
+     "t": 1793709411209,
+     "age": "9 hr ago",
+     "subject": "URGENT: Looking for a Foster or Forever Home for Barbara 🐾",
+     "body": "URGENT: Looking for a Foster or Forever Home for Barbara 🐾\n\nHi neighbors,\n\nI'm reaching out in hopes that someone in our community can help Barbara.  I've contacted several rescue groups, foster networks, and other organizations, but unfortunately have not been able to secure a foster placement due to limited capacity.\n\nOne rescue group has agreed to support Barbara's placement efforts, even though they are unable to take her into foster care themselves. They have offered to share her profile with their network. They have also arranged for a veterinary appointment for Barbara later this week, with the rescue covering the associated costs.\n\nBarbara is an approximately 6-month-old, 25-pound mixed-breed puppy who has been in my care for just over a week. I took her in after learning her previous caretaker was considering abandoning her, and she's proven to be an incredibly sweet dog. She's affectionate, housebroken, loves people, enjoys attention, and has a friendly, social personality. She is GREAT with dogs of all sizes. Everyone who meets her seems to fall in love with her.\n\nI am currently keeping her safe in Manhattan, but unfortunately I can't provide a long-term home. I travel frequently for work and have upcoming travel to the West Coast, including time away for professional commitments. I'm doing everything I can to avoid bringing Barbara to ACC, which is the last thing I want for her.\n\nI'm hoping to find either:\n\nA foster home\nA forever/adoptive home\nA reputable rescue connection\n\nBarbara deserves stability, love, and a chance to continue being the happy puppy she is. If you or someone you know may be interested in fostering or adopting, please send me a message. I'm happy to provide photos, videos, and any additional information.\n\nEven if you're unable to help directly, sharing this post could make all the difference.\n\nThank you so much for helping me find Barbara the home she deserves. ❤️🐶",
+     "reactions": 22,
+     "comments": 14,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/84/61/8461c3c5b86a43f75b83a4ab9e3cf1cf.jpeg",
+     "why": "Rehoming request for a puppy with a lively, supportive thread (22 reactions, 14 comments) and no argument.",
+     "suggestReaction": "Like",
+     "suggestComment": "Thank you for stepping in for Barbara when she needed it. Sharing so more people see her, she sounds like a wonderful pup who will make someone very happy."
+    },
+    {
+     "id": "523086151",
+     "short": "4-43LNCHxJdC",
+     "url": "https://nextdoor.com/p/4-43LNCHxJdC/",
+     "who": "Kirby Kirby",
+     "hood": "Chelsea (8th-10th 21st-14th)",
+     "t": 1793728949073,
+     "age": "4 hr ago",
+     "subject": "Chelsea, NYC.",
+     "body": "Chelsea, NYC.",
+     "reactions": 4,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/70/e1/70e10323ff1f36647fa8e0243ad01f7c.jpeg",
+     "why": "Local neighbourhood photo, easy positive appreciation with a few reactions already.",
+     "suggestReaction": "Like",
+     "suggestComment": "Lovely shot of the neighbourhood, thanks for sharing a bit of Chelsea today."
+    },
+    {
+     "id": "523110171",
+     "short": "K23M7Nj7Y9Jy",
+     "url": "https://nextdoor.com/p/K23M7Nj7Y9Jy/",
+     "who": "Kay Kay",
+     "hood": "Chelsea (23rd-10th-34th)",
+     "t": 1793729771445,
+     "age": "3 hr ago",
+     "subject": "☀️☀️☀️☀️",
+     "body": "☀️☀️☀️☀️",
+     "reactions": 5,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/be/7e/be7e58b9183e990214f611d31e9004aa.jpg",
+     "why": "Light, sunny local photo with some reactions; low-effort friendly chatter.",
+     "suggestReaction": "Like",
+     "suggestComment": "What a bright day for it. Thanks for the little dose of sunshine."
+    }
+   ]
   }
  }
 };
