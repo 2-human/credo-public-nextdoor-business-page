@@ -5631,6 +5631,827 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "What a bright day for it. Thanks for the little dose of sunshine."
     }
    ]
+  },
+  "2026-11-04": {
+   "scannedAt": "2026-11-07T23:17:39.240Z",
+   "feedPosts": 378,
+   "todayPosts": 61,
+   "backfill": true,
+   "note": "Backfilled from the 2026-11-07 run (one feed extraction, __ndBackDays=3, 378 posts back to 4 Nov 00:31 ET). Also skipped: 10 business/page posts (not neighbour USER posts).",
+   "excluded": [
+    {
+     "id": "523432070",
+     "who": "Marion Phillips",
+     "subject": "Is it better to pay down mortgage or invest in stocks?",
+     "reason": "asks for personal financial advice (mortgage vs stocks)"
+    },
+    {
+     "id": "523419375",
+     "who": "Aretha Saxon",
+     "subject": "If you’re looking for ways to save for your future or make extra income.",
+     "reason": "income-opportunity / MLM-style Zoom invite"
+    },
+    {
+     "id": "523457094",
+     "who": "Ny makano",
+     "subject": "Looking for neighbor whose car was towed from Summit Street near Columbia Street on Novemb",
+     "reason": "towing solicitation with a phone number"
+    },
+    {
+     "id": "523469591",
+     "who": "Sharon Goldberg",
+     "subject": "Reposting for beautiful baby girl Barbara❤️❤️❤️:",
+     "reason": "urgent rehoming repost (death-adjacent)"
+    },
+    {
+     "id": "523473411",
+     "who": "Luka Grant",
+     "subject": "NYC drivers: you might be paying for parking when free parking is closer than you think.",
+     "reason": "self-promoted parking tool with debate in comments"
+    },
+    {
+     "id": "523472712",
+     "who": "Carol Yost",
+     "subject": "May I comment, too?",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523451877",
+     "who": "Chris Morley",
+     "subject": "A building can have a manager and still lack a functioning board.",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523441606",
+     "who": "Bradford Buonasera",
+     "subject": "Someone asked me where you put eight people before a show, and I did not have a good answe",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523387513",
+     "who": "SALLY LELONG",
+     "subject": "Save Tompkins Square Park’s Courts and Fitness Area",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "523491509",
+     "short": "bSRgJm9qBsWX",
+     "url": "https://nextdoor.com/p/bSRgJm9qBsWX/",
+     "who": "Lucy C.",
+     "hood": "Kips Bay (3rd-E23-FDR-E26)",
+     "t": 1793854320820,
+     "age": "2 days ago",
+     "subject": "On Marathon Sunday, 11/01/26, subway ridership in NYC reached an unprecedented 3.",
+     "body": "On Marathon Sunday, 11/01/26, subway ridership in NYC reached an unprecedented 3.14 million riders. This figure represents the highest Sunday ridership recorded in the history of the MTA! The buses were also filled with supporters.",
+     "reactions": 21,
+     "comments": 3,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/92/3f/923f5716fa9ac5c71e1346c0ee82f821.jpg",
+     "why": "Upbeat local stat (record Marathon Sunday subway ridership) with plenty of reactions.",
+     "suggestReaction": "Wow",
+     "suggestComment": "What a day for the city. Great to see so many people out cheering the runners on."
+    },
+    {
+     "id": "523408525",
+     "short": "DdyPtg6ftcXm",
+     "url": "https://nextdoor.com/p/DdyPtg6ftcXm/",
+     "who": "Dahiana Buten",
+     "hood": "Boerum Hill (Schermerhorn-Bond)",
+     "t": 1793827094261,
+     "age": "3 days ago",
+     "subject": "nice, beautiful weather today 🍂 🍁",
+     "body": "nice, beautiful weather today 🍂 🍁",
+     "reactions": 31,
+     "comments": 2,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/b7/51/b7514be6055aebb35fc6abbfc235ad99.jpeg",
+     "why": "Seasonal weather photo with 31 reactions — light, pleasant local appreciation.",
+     "suggestReaction": "Like",
+     "suggestComment": "Beautiful fall colours. Days like this make you want to take the long way home."
+    },
+    {
+     "id": "523459368",
+     "short": "z5FQscTFqKN_",
+     "url": "https://nextdoor.com/p/z5FQscTFqKN_/",
+     "who": "Jessie Cooper",
+     "hood": "Murray Hill (E38-Park-E34-3rd)",
+     "t": 1793840908068,
+     "age": "2 days ago",
+     "subject": "Hi everyone!",
+     "body": "Hi everyone!\n\nI’m opening up commissions of pet portaits for the holiday season :) I illustrate anything from fuzzy cats and dogs to lizards! Each photo attached are example works of previous commissions, all 9x12\" hand drawn portraits using graphite on paper. Starting price is $75.00.\n\nIf you're interested, send me 3-4 photos of your pet and some details about their personality. Feel free to reach out to me here, or through my Instagram @jessiecooperlikestodraw\n\nShipping not included in final price, but if you are close enough, I am happy to drop it off!",
+     "reactions": 29,
+     "comments": 8,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/1f/22/1f22d1f579edbd97c3d050236a4520b1.jpeg",
+     "why": "Local illustrator offering holiday pet portraits — a well-liked creative post (29 reactions).",
+     "suggestReaction": "Like",
+     "suggestComment": "These are lovely. What a thoughtful idea for a holiday gift!"
+    },
+    {
+     "id": "523447427",
+     "short": "HwT8-hdSJxxt",
+     "url": "https://nextdoor.com/p/HwT8-hdSJxxt/",
+     "who": "Rachael Grygorcewicz",
+     "hood": "Crown Heights",
+     "t": 1793837595600,
+     "age": "2 days ago",
+     "subject": "Pet Super Nanny just reopened.",
+     "body": "Pet Super Nanny just reopened. It is a beautiful new facility with a great staff. She used to exist on Atlantic but had to close when they sold the building. We need more of these businesses on Pacific Street and she very much cares for my dogs - very fair price too. Highly recommend!",
+     "reactions": 0,
+     "comments": 1,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Neighbour celebrating a local pet-care spot reopening — local appreciation.",
+     "suggestReaction": "Like",
+     "suggestComment": "Always nice to hear a neighbourhood favourite has found a new home. Congratulations to them!"
+    },
+    {
+     "id": "523376302",
+     "short": "35WCytJ-HmF5",
+     "url": "https://nextdoor.com/p/35WCytJ-HmF5/",
+     "who": "Miriam Batista",
+     "hood": "Chelsea (W29-6th-W22-7th)",
+     "t": 1793819472309,
+     "age": "3 days ago",
+     "subject": "hi everyone, I looking for a large studio or 1 bedroom apartment max rent $1800.",
+     "body": "hi everyone, I looking for a large studio or 1 bedroom apartment max rent $1800.00 a month. in Brooklyn, or Manhattan. thank you",
+     "reactions": 2,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Neighbour looking for an affordable apartment — rent and cost-of-living.",
+     "suggestReaction": "Like",
+     "suggestComment": "Wishing you luck with the search. Hope something good turns up soon."
+    }
+   ]
+  },
+  "2026-11-05": {
+   "scannedAt": "2026-11-07T23:17:39.240Z",
+   "feedPosts": 378,
+   "todayPosts": 124,
+   "backfill": true,
+   "note": "Backfilled from the 2026-11-07 run (one feed extraction, __ndBackDays=3, 378 posts back to 4 Nov 00:31 ET). Also skipped: 14 business/page posts + 2 polls (not neighbour USER posts).",
+   "excluded": [
+    {
+     "id": "523524758",
+     "who": "Kate H.",
+     "subject": "Has anyone gotten a random message from a user named “Ruben R” out of the blue who just se",
+     "reason": "scam suspicion that names a specific user"
+    },
+    {
+     "id": "523746649",
+     "who": "Sharon Goldberg",
+     "subject": "Reposting for beautiful girl Tyla💔:",
+     "reason": "urgent euthanasia-list repost (death-adjacent)"
+    },
+    {
+     "id": "523755326",
+     "who": "Sharon Goldberg",
+     "subject": "Reposting for beautiful boy Pawdacity💔:",
+     "reason": "urgent euthanasia-list repost (death-adjacent)"
+    },
+    {
+     "id": "523656743",
+     "who": "GERRIE BLUM",
+     "subject": "Yes ...",
+     "reason": "argumentative development/jobs post"
+    },
+    {
+     "id": "523644701",
+     "who": "Gregory Misa",
+     "subject": "https://luma.com/gul77czl",
+     "reason": "spiritual \"energy transmission\" event"
+    },
+    {
+     "id": "523692614",
+     "who": "Bob Lister",
+     "subject": "Always VET new job or business offers found on social media.",
+     "reason": "duplicate of the same vetting-offers post (picked the other copy)"
+    },
+    {
+     "id": "523749124",
+     "who": "kim plosia",
+     "subject": "Village Independent Democrats Honors Alec Pruchnicki at Annual Gala",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523735934",
+     "who": "Amed Al",
+     "subject": "TJ maxx has the best candle selection",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523723863",
+     "who": "Chris Morley",
+     "subject": "A movie premiere, a neighborhood park and a rental warning connect this New York walk.",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523705157",
+     "who": "Anuradha Basu",
+     "subject": "URGENT - Does anyone know a lawyer who can help me understand a retainership agreement bet",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523704363",
+     "who": "Nancy R.",
+     "subject": "WHO’S LOOKING FOR A VOLUNTEER JOB, with a positive impact..",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523685378",
+     "who": "Georgina Galeaxy",
+     "subject": "Hi all ,",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523672963",
+     "who": "John Abrahante",
+     "subject": "I can help with apartment repairs, as far as microwave repair I haven’t done it before, bu",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523642827",
+     "who": "Michele Bartolotta",
+     "subject": "1 bedroom 1bath",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523594328",
+     "who": "Kiki Lewicki",
+     "subject": "I want to make sure everyone knows about the awful APTDECO is to work with, but with and s",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523592284",
+     "who": "Mayra Urrutia",
+     "subject": "Thinking of starting a beginners bible study.",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523585870",
+     "who": "kim plosia",
+     "subject": "Time For Lower Manhattan Democrats to Shape Up",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523539483",
+     "who": "Giovanni J.",
+     "subject": "A great visualization of the vote broken down by election district.",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523518572",
+     "who": "Tommy Max",
+     "subject": "Our little Logan hurt his arm, but thankfully, we’ve had him checked by the doctor.",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523492865",
+     "who": "Sho Medney",
+     "subject": "Luxury Room in Hell’s Kitchen Doorman High-Rise – Nov 5th / ASAP Move-In",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "523741055",
+     "short": "BZ37z2DsGYzD",
+     "url": "https://nextdoor.com/p/BZ37z2DsGYzD/",
+     "who": "Bob Lister",
+     "hood": "Stuyvesant Town West",
+     "t": 1793929051139,
+     "age": "1 day ago",
+     "subject": "Always VET new job or business offers found on social media.",
+     "body": "Always VET new job or business offers found on social media. What is the business website, how long has it been up. Who are the people. MEET IN PERSON. Don't give personal information, especially with new people with no track record. It is your money, your reputation, and your career that is important. Here are typical ads seen on social media. I have no idea of it is valid or not. I would investigate thoroughly before sending personal information.",
+     "reactions": 4,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/86/81/868151e2d293696d53d8799ed7223088.jpg",
+     "why": "Practical scam-awareness post about vetting job/business offers seen on social media.",
+     "suggestReaction": "Insightful",
+     "suggestComment": "Really sensible advice. If an offer asks for personal details before you have met anyone, that is a good moment to slow down."
+    },
+    {
+     "id": "523543926",
+     "short": "64dWYhtKGXs4",
+     "url": "https://nextdoor.com/p/64dWYhtKGXs4/",
+     "who": "Lucy C.",
+     "hood": "Kips Bay (3rd-E23-FDR-E26)",
+     "t": 1793887470698,
+     "age": "2 days ago",
+     "subject": "Recently, a digital Washington-based financial svc co Remitly, conducted a study to find which city (among 94 metro systems worldwide) had the highest ticket prices.",
+     "body": "Recently, a digital Washington-based financial svc co Remitly, conducted a study to find which city (among 94 metro systems worldwide) had the highest ticket prices. NYC’s subway is expensive in annual terms (but not the priciest single‑ticket metro) -- 2nd in the world for most expensive annual metro tickets, behind London Underground = £2,100 GBP (~$2,817 USD). \n\nA NYer taking 2 subway rides daily could spend approximately $2,190 annually. Assuming riders hit the OMNY weekly $35 cap every week, their annual transportation bill would be about $1,820 (saving them approximately $370 a year).",
+     "reactions": 3,
+     "comments": 6,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/5b/49/5b4919a610738523afb457ff6ac436e3.jpg",
+     "why": "Cost-of-living post on how much NYC subway riders spend a year, and how the OMNY weekly cap saves money.",
+     "suggestReaction": "Insightful",
+     "suggestComment": "Interesting numbers. The weekly cap is easy to forget about, and $370 a year is real money for a lot of people."
+    },
+    {
+     "id": "523577126",
+     "short": "JWMm23BnYyyC",
+     "url": "https://nextdoor.com/p/JWMm23BnYyyC/",
+     "who": "Gina Kropf",
+     "hood": "Alphabet City",
+     "t": 1793893119193,
+     "age": "2 days ago",
+     "subject": "Dentist needed!",
+     "body": "Dentist needed! I’ve lived here 10 years and have yet to find a reputable dentist. We don’t have dental insurance so I need one who takes Care credit and possibly does yearly cleaning packages for a set price. Thank you!",
+     "reactions": 6,
+     "comments": 31,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Money-conscious recommendation request (dentist without insurance) with a lively, friendly thread.",
+     "suggestReaction": "Like",
+     "suggestComment": "Hope you find a good one. It is great to see so many neighbours chiming in with suggestions."
+    },
+    {
+     "id": "523725189",
+     "short": "tw-hnXN36kW5",
+     "url": "https://nextdoor.com/p/tw-hnXN36kW5/",
+     "who": "Tracey S.",
+     "hood": "West Village (Bank-4th)",
+     "t": 1793924134292,
+     "age": "1 day ago",
+     "subject": "Hi folks - I think this is the same dog that I posted on here about a week ago.",
+     "body": "Hi folks - I think this is the same dog that I posted on here about a week ago. NYCACC says this white pittie was found again a few days ago. First time was back in October. The dog’s name is Halo. Does anyone know the owner ? A neighbor tried to help me last time by contacting owner through Pawboost (?).",
+     "reactions": 6,
+     "comments": 2,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/86/3c/863cddd1208e2fc40b888834466be3bd.jpeg",
+     "why": "Found dog (Halo) — neighbour trying to reunite her with an owner; classic lost-and-found.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thank you for looking out for Halo. Hope this reaches someone who knows her family."
+    },
+    {
+     "id": "523493120",
+     "short": "dLGgK3B735mS",
+     "url": "https://nextdoor.com/p/dLGgK3B735mS/",
+     "who": "Fara Ziyo",
+     "hood": "Flatiron (Madison Square Park)",
+     "t": 1793855633931,
+     "age": "2 days ago",
+     "subject": "Hi everyone!",
+     "body": "Hi everyone! I’m looking for a room to rent in a shared apartment. Please let me know if you have any leads or know of anything available. Thank you!",
+     "reactions": 1,
+     "comments": 2,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Neighbour looking for a room in a shared apartment — rent / cost-of-living, simple and friendly.",
+     "suggestReaction": "Like",
+     "suggestComment": "Good luck with the search! Hope a lead turns up soon."
+    }
+   ]
+  },
+  "2026-11-06": {
+   "scannedAt": "2026-11-07T23:17:39.240Z",
+   "feedPosts": 378,
+   "todayPosts": 115,
+   "backfill": true,
+   "note": "Backfilled from the 2026-11-07 run (one feed extraction, __ndBackDays=3, 378 posts back to 4 Nov 00:31 ET). Also skipped: 13 business/page posts (not neighbour USER posts).",
+   "excluded": [
+    {
+     "id": "523913955",
+     "who": "Sharon Goldberg",
+     "subject": "Reposting for beautiful boy Apollo💔:",
+     "reason": "urgent euthanasia-list repost (death-adjacent)"
+    },
+    {
+     "id": "523851883",
+     "who": "Sharon Goldberg",
+     "subject": "Reposting for beautiful boy Chase💔:",
+     "reason": "urgent euthanasia-list repost (death-adjacent)"
+    },
+    {
+     "id": "523864074",
+     "who": "Ellen Sandles",
+     "subject": "We always had food delivery in NYC without all these e-bikes...",
+     "reason": "e-bike debate tied to a deadly fire"
+    },
+    {
+     "id": "523854494",
+     "who": "Jenny Horne",
+     "subject": "The holidays haven't arrived yet.",
+     "reason": "grief/divorce holiday-coaching promotion"
+    },
+    {
+     "id": "523866363",
+     "who": "Susie Walker",
+     "subject": "NANNY/BABYSITTER AVAILABLE IN NYC!",
+     "reason": "personal job ad"
+    },
+    {
+     "id": "523946407",
+     "who": "Vanessa Cruz",
+     "subject": "Neighbors, I'm desperately in need of some smart local input and recommendations..",
+     "reason": "gift-advice thread that reads like a lead-in to a product promo"
+    },
+    {
+     "id": "523995058",
+     "who": "Sharon Goldberg",
+     "subject": "Reposting for beautiful boy Malcolm, ID number 267951 💔:",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523989490",
+     "who": "José A.",
+     "subject": "Anybody else from 1st ave to 89th st up to 125th st goes on any late night walks idk just ",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523979341",
+     "who": "Carla Johnson",
+     "subject": "November 3, 2026.",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523973123",
+     "who": "Giovanni J.",
+     "subject": "SNAP Users to Receive 40% More Money for Fresh Produce from Local Markets and Farm Stands",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523972766",
+     "who": "Brooklyn Ethical",
+     "subject": "150 Years of Disability Activism (Free)",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523963283",
+     "who": "Chris Morley",
+     "subject": "A Brooklyn movie theater, a historic home restoration and a paid mural opportunity: neighb",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523958978",
+     "who": "Amed Al",
+     "subject": "FUN FACT",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523935449",
+     "who": "Nancy R.",
+     "subject": "IF ANYONE NEEDS CLOTHES or would love to donate clothes or items to ST.",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523920760",
+     "who": "Ellen Sandles",
+     "subject": "Ballot Proposal 3: From the board of elections…about 1 million people voted for ballot 3 ",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523876118",
+     "who": "Kimberly Sosa",
+     "subject": "Hi everyone!",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523851356",
+     "who": "Chris Morley",
+     "subject": "What makes a neighborhood feel like home?",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523850999",
+     "who": "Honest L.",
+     "subject": "Request for Bids/volunteers: Professional Roofing Contractor Needed",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523850908",
+     "who": "Honest L.",
+     "subject": "Request for Bids/volunteers: Professional Roofing Contractor Needed",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523794325",
+     "who": "Sireen Badr",
+     "subject": "I'm offering pet care on Rover and I’d love to care for your pet.",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "523786092",
+     "who": "SALLY LELONG",
+     "subject": "Save Tompkins Square Park’s Courts and Fitness Area",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "523859110",
+     "short": "8MQ5w7hJGBqZ",
+     "url": "https://nextdoor.com/p/8MQ5w7hJGBqZ/",
+     "who": "Carolyn Harpster",
+     "hood": "N Side Williamsburg (McCarrenPk)",
+     "t": 1793983227119,
+     "age": "1 day ago",
+     "subject": "Wanted to make everyone aware of a scammer - under the name Antoinette Leone in Norwalk, CT.",
+     "body": "Wanted to make everyone aware of a scammer - under the name Antoinette Leone in Norwalk, CT. Used shady, fake Venmo notifications to pretend to buy a dresser from me. Blocked me once I called them out. Beware and happy selling!",
+     "reactions": 15,
+     "comments": 7,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Scam warning (fake Venmo payment notifications on a marketplace sale) — top-priority safety content with good engagement.",
+     "suggestReaction": "Insightful",
+     "suggestComment": "Thank you for flagging this. Fake payment notifications are so convincing, and a heads-up like this can save the next seller a real headache."
+    },
+    {
+     "id": "523831384",
+     "short": "mT7DQFzG9xk2",
+     "url": "https://nextdoor.com/p/mT7DQFzG9xk2/",
+     "who": "Cashmere Thomas",
+     "hood": "Dumbo",
+     "t": 1793977296108,
+     "age": "1 day ago",
+     "subject": "Heads up for anyone moving with a pet this month — moving day is stressful enough for us, it's way worse for them.",
+     "body": "Heads up for anyone moving with a pet this month — moving day is stressful enough for us, it's way worse for them.\n\nA few things that've saved me (and my neighbors) a lot of grief:\n- Keep them in one closed room with food, water, and something familiar while the big stuff is moving — doors are open all day and a scared cat or dog will bolt.\n- Move their bed, food bowls, and a worn shirt of yours FIRST, so the new place smells like home when they arrive.\n- Cats especially: keep them in a carrier for the car ride, and keep them inside for at least a week at the new place so they don't try to find their way back.\n- Update the tag/microchip address the same week you move — easy to forget, hard to fix later.\n\nAnyone else have a moving-with-pets trick that worked? Curious what helped your dog or cat settle in.",
+     "reactions": 4,
+     "comments": 2,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Practical moving-with-pets tips that invite neighbours to add their own — helpful and friendly.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Great list, especially the tip about moving their bed and bowls first. Small things like that make a big difference for a nervous pet."
+    },
+    {
+     "id": "523983768",
+     "short": "Z8s3JMtZj64b",
+     "url": "https://nextdoor.com/p/Z8s3JMtZj64b/",
+     "who": "Spencer Moy",
+     "hood": "Battery Park City (Albany-1Pl)",
+     "t": 1794016938354,
+     "age": "21 hr ago",
+     "subject": "Does anyone know which city agency to contact to repair the streetlights running parallel to West Street between Rector Place and Battery Place?",
+     "body": "Does anyone know which city agency to contact to repair the streetlights running parallel to West Street between Rector Place and Battery Place? I have contacted 311 (their maps don't show a road) and BPCA. I have had no success with either agency. Since sunset occurs earlier, it is a safety issue.",
+     "reactions": 0,
+     "comments": 4,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Neighbour trying to get broken streetlights fixed as days get shorter — community safety request.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Hope this gets sorted quickly; dark stretches feel a lot less safe now that it gets dark so early. Thanks for keeping after it."
+    },
+    {
+     "id": "523871021",
+     "short": "9DNqt9_HgB_X",
+     "url": "https://nextdoor.com/p/9DNqt9_HgB_X/",
+     "who": "Melanie MAc",
+     "hood": "Alphabet City",
+     "t": 1793985860824,
+     "age": "1 day ago",
+     "subject": "Still no Jasper found.",
+     "body": "Still no Jasper found.\nIf someone has him pls let me know🙏\nIf u see him pls\nText.",
+     "reactions": 4,
+     "comments": 8,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": null,
+     "why": "Ongoing lost-cat search (Jasper, missing since the late-October fire) — supportive neighbourly moment.",
+     "suggestReaction": "Sad",
+     "suggestComment": "Still keeping an eye out for Jasper. Hope he finds his way home soon."
+    },
+    {
+     "id": "523916208",
+     "short": "68Qxp_p2kGfm",
+     "url": "https://nextdoor.com/p/68Qxp_p2kGfm/",
+     "who": "Lina Lerent",
+     "hood": "Tudor City (E40-1st-E43-2nd)",
+     "t": 1793996863511,
+     "age": "1 day ago",
+     "subject": "Available for adoption!",
+     "body": "Available for adoption! Still waiting for his forever home.",
+     "reactions": 46,
+     "comments": 17,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/0c/61/0c61492ece14a5e68ada41217111b960.png",
+     "why": "Adoption post with the most engagement of the day (46 reactions) — warm rehoming content.",
+     "suggestReaction": "Like",
+     "suggestComment": "What a sweet face. Hope he finds his forever home very soon!"
+    }
+   ]
+  },
+  "2026-11-07": {
+   "scannedAt": "2026-11-07T23:17:39.240Z",
+   "feedPosts": 378,
+   "todayPosts": 78,
+   "excluded": [
+    {
+     "id": "524146327",
+     "who": "Tara Boragine",
+     "subject": "My beautiful doggie went into heat a week before her spay appointment and my friend’s dog ",
+     "reason": "pet pregnancy thread heading toward a sensitive decision; not a fit"
+    },
+    {
+     "id": "524060894",
+     "who": "Hendrilita J.",
+     "subject": "Good morning neighbors!",
+     "reason": "smokers-in-the-park dispute, replying to another neighbour"
+    },
+    {
+     "id": "524115333",
+     "who": "Etienne Paquin",
+     "subject": "Fundraiser support for Etienne Paquin's Campaign in memory of Cassandre Hamel Hardy.",
+     "reason": "memorial fundraiser for someone who died"
+    },
+    {
+     "id": "524022813",
+     "who": "Anderson Toney",
+     "subject": "Your drive.",
+     "reason": "recruiting / business promotion"
+    },
+    {
+     "id": "524147676",
+     "who": "Mohamed Deina",
+     "subject": "🚿 Bathroom Transformation by HandyGuy Co.!",
+     "reason": "contractor advertising"
+    },
+    {
+     "id": "524062515",
+     "who": "Shakira Provasoli",
+     "subject": "I’m a PS 333 Manhattan School for Children teacher, and my students could use a hand this ",
+     "reason": "classroom fundraising ask"
+    },
+    {
+     "id": "524155019",
+     "who": "LindaAnn LoSchiavo",
+     "subject": "Why was no one arrested for this double homicide on Hallowe’en night, 1981?",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "524154880",
+     "who": "Ellen Sandles",
+     "subject": "Ballot Proposal #3 allows the DOT to start work prior to notifying elected officials and c",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "524124763",
+     "who": "Mike Garcia",
+     "subject": "I want to wish the LOVE OF MY LIFE my WIFE EVE a HAPPY 60th Year TY JESUS FOR THE GIFT U",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "524088445",
+     "who": "Dwayne Meeks",
+     "subject": "Lately, my business has been facing a difficult season, and the uncertainty has been weigh",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "524057788",
+     "who": "kim plosia",
+     "subject": "Midterm Morning Sickness",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "524037940",
+     "who": "Jasmine Von Rock",
+     "subject": "I love the sense of community this app provides 🤗 It's genuinely heartwarming 💕 I apprec",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    },
+    {
+     "id": "524028461",
+     "who": "Bonnie E.",
+     "subject": "I think human intelligence is vastly overrated.",
+     "reason": "auto-filtered: political, religious, crime/death, legal or otherwise sensitive keywords"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "524031795",
+     "short": "xyMQR2ZjTr7H",
+     "url": "https://nextdoor.com/p/xyMQR2ZjTr7H/",
+     "who": "Ana Gonzalez",
+     "hood": "Stuyvesant Town East",
+     "t": 1794056544350,
+     "age": "10 hr ago",
+     "subject": "Hola vecinos!",
+     "body": "Hola vecinos! Soy Ana y tengo años viviendo por aquí, pero acabo de unirme a la aplicación. Les presento a Lilo, que no me deja descansar... ¡creo que van a tener que darle la bienvenida a las dos 🥰",
+     "reactions": 30,
+     "comments": 20,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/75/57/7557a306adc03b7bbc84a5987cd34a35.jpeg",
+     "why": "A new neighbour introducing herself and her dog, with a warm, busy thread — easy, friendly local appreciation.",
+     "suggestReaction": "Like",
+     "suggestComment": "Welcome to the app, Ana, and welcome Lilo too! Lovely to meet you both."
+    },
+    {
+     "id": "524075177",
+     "short": "XDLdknLMK_kW",
+     "url": "https://nextdoor.com/p/XDLdknLMK_kW/",
+     "who": "Elizabeth Rubin",
+     "hood": "Clinton Hill (Fulton-St James)",
+     "t": 1794064915220,
+     "age": "7 hr ago",
+     "subject": "Hi.",
+     "body": "Hi. Has anyone since this kitty who likes to wander the gardens between Grand and Cambridge and between Gates and Fulton? She hasn’t been home since the rains started! Thank you, Elizabeth",
+     "reactions": 10,
+     "comments": 2,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/8a/2c/8a2c91cd8f2cb24f654114ed8d16d458.jpeg",
+     "why": "Lost cat in Clinton Hill since the rains; a share-worthy neighbourly request.",
+     "suggestReaction": "Sad",
+     "suggestComment": "Hoping she turns up soon, Elizabeth. Cats often hide somewhere dry after heavy rain, so fingers crossed she is just waiting it out nearby."
+    },
+    {
+     "id": "524027336",
+     "short": "pbj4rbcNdq3F",
+     "url": "https://nextdoor.com/p/pbj4rbcNdq3F/",
+     "who": "Steve Zaffarano",
+     "hood": "Murray Hill (E42-Park-E38-2nd)",
+     "t": 1794053627455,
+     "age": "10 hr ago",
+     "subject": "Venus meets the Moon | Nov.",
+     "body": "Venus meets the Moon | Nov. 7, 2026, 6:09 a.m.\n\nhttps://www.astronomy.com/observing/the-sky-today-saturday-november-7-2026/",
+     "reactions": 24,
+     "comments": 1,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/c7/0f/c70f323a6771108fdf025b4bc29790f0.jpeg",
+     "why": "Venus-and-Moon sky photo with lots of reactions — light, upbeat local chatter.",
+     "suggestReaction": "Wow",
+     "suggestComment": "What a sight to catch first thing in the morning. Thanks for sharing it for those of us who slept through it!"
+    },
+    {
+     "id": "524014960",
+     "short": "tjj7LrZGmQQX",
+     "url": "https://nextdoor.com/p/tjj7LrZGmQQX/",
+     "who": "Karen Mac",
+     "hood": "Bedford Stuyvesant (Willoughby-Franklin)",
+     "t": 1794035399998,
+     "age": "16 hr ago",
+     "subject": "Can someone suggest good driving schools in the Brooklyn area?",
+     "body": "Can someone suggest good driving schools in the Brooklyn area? Thanks in advance!",
+     "reactions": 0,
+     "comments": 3,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Simple recommendation request (driving schools in Brooklyn) — neighbourly and low-risk.",
+     "suggestReaction": "Like",
+     "suggestComment": "Good luck with the lessons! Hope a few neighbours point you to someone patient."
+    },
+    {
+     "id": "524021554",
+     "short": "89dNM7FhgmXt",
+     "url": "https://nextdoor.com/p/89dNM7FhgmXt/",
+     "who": "Jasmine Von Rock",
+     "hood": "Kips Bay (32nd-1st-34th-3rd)",
+     "t": 1794045985909,
+     "age": "13 hr ago",
+     "subject": "Anyone from Philadelphia or visit often?",
+     "body": "Anyone from Philadelphia or visit often? I'm going for a long weekend next week (YAAAYYYY 🙌 🥳). Any recommendations for restaurants, historic sites etc.?",
+     "reactions": 2,
+     "comments": 8,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Fun travel-tips thread with some life and no argument.",
+     "suggestReaction": "Like",
+     "suggestComment": "Have a wonderful long weekend! Hope you come back with a great food find or two."
+    }
+   ],
+   "note": "Also skipped: 12 business/page posts (not neighbour USER posts)."
   }
  }
 };
