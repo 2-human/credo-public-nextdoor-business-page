@@ -6452,6 +6452,194 @@ window.CREDO_ND_ENGAGE = {
     }
    ],
    "note": "Also skipped: 12 business/page posts (not neighbour USER posts)."
+  },
+  "2026-11-08": {
+   "scannedAt": "2026-11-08T22:12:40.949Z",
+   "feedPosts": 24,
+   "todayPosts": 18,
+   "excluded": [
+    {
+     "id": null,
+     "who": "demunde ross",
+     "subject": "It gets lonely in a city when you know no one here.",
+     "reason": "warm but a personal loneliness post; kept for a lighter day, five stronger picks"
+    },
+    {
+     "id": null,
+     "who": "Janice G.",
+     "subject": "Sun setting along the East River.",
+     "reason": "nice photo but light chatter; ranked below the picks"
+    },
+    {
+     "id": null,
+     "who": "Hector L.",
+     "subject": "Early Sunday dinner watching my BIG BLUE NEW YORK GAINTS GAME..",
+     "reason": "light chatter; ranked below the picks"
+    },
+    {
+     "id": null,
+     "who": "Jessica Renda",
+     "subject": "📢 COBBLE HILL COMMUNITY FORUM",
+     "reason": "development/land-use forum — civic and potentially contentious"
+    },
+    {
+     "id": null,
+     "who": "Diana Ktsoeva",
+     "subject": "Hi everyone!",
+     "reason": "self-promotional update"
+    },
+    {
+     "id": null,
+     "who": "Meri J.",
+     "subject": "Calling the NYC girls craving a night out...",
+     "reason": "event promotion for a private group"
+    },
+    {
+     "id": null,
+     "who": "Catherine Hughs",
+     "subject": "Hi neighbors, good afternoon!",
+     "reason": "identical birthday text posted by two different accounts — looks like spam/engagement bait"
+    },
+    {
+     "id": null,
+     "who": "Rebekah Hoffman",
+     "subject": "Hi neighbors, good afternoon!",
+     "reason": "identical birthday text posted by two different accounts — looks like spam/engagement bait"
+    },
+    {
+     "id": null,
+     "who": "Linda Montoya",
+     "subject": "(photo only)",
+     "reason": "no text to engage with"
+    },
+    {
+     "id": null,
+     "who": "Darnelle James",
+     "subject": "Who’s trying to collect Stars on TikTok Pro?",
+     "reason": "referral/spam link"
+    },
+    {
+     "id": null,
+     "who": "Allan M.",
+     "subject": "As I wake up this Sunday morning, I give many thanks.",
+     "reason": "addiction recovery — sensitive health topic"
+    },
+    {
+     "id": null,
+     "who": "Allan M.",
+     "subject": "Hi All.",
+     "reason": "addiction recovery — sensitive health topic"
+    },
+    {
+     "id": null,
+     "who": "Cashmere Thomas",
+     "subject": "Heads up for anyone moving a shop or a studio space…",
+     "reason": "personal job story with no thread; weaker than the picks"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "524304564",
+     "short": "8476Ps78GSJc",
+     "who": "Bob Lister",
+     "hood": "Stuyvesant Town West",
+     "t": 1794162111503,
+     "age": "3 hr ago",
+     "subject": "ABC Always be careful when you see posts like this.",
+     "body": "ABC Always be careful when you see posts like this. Many times they want information they can use. Are they looking to help you or themselves. If they are real they should be fully transparent. These are his only post. PLEASE BE CAREFUL with what you reveal",
+     "reactions": 5,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/b0/75/b07548e8ffd5771bd085f38043b46916.jpg",
+     "why": "A scam/information-fishing caution — top-priority safety content — but it points at another neighbour's post, so a reaction without a comment keeps us out of any back-and-forth.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "",
+     "url": "https://nextdoor.com/p/8476Ps78GSJc/"
+    },
+    {
+     "id": "524342469",
+     "short": "dm8m8N-_FCWb",
+     "who": "Lili Og",
+     "hood": "Stuyvesant Town West",
+     "t": 1794173861898,
+     "age": "34 min ago",
+     "subject": "My husband just moved in here from CT.",
+     "body": "My husband just moved in here from CT. He is currently communitng to his work there 4h a day.  Omg it breaks my heart. If anyone knows of anyone hiring for handyman or Carpentry work(he does need a full time job here).\nI greatly appreciate it!!!",
+     "reactions": 0,
+     "comments": 1,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "A neighbour asking for job leads so her husband can stop a 4-hour daily commute — a real cost-of-living request where a kind word helps.",
+     "suggestReaction": "Like",
+     "suggestComment": "Four hours a day is a lot, so I hope this reaches the right person quickly. Good tradespeople are always in demand around here, fingers crossed for him.",
+     "url": "https://nextdoor.com/p/dm8m8N-_FCWb/"
+    },
+    {
+     "id": "524313725",
+     "short": "M4yS2trnM6bX",
+     "who": "Barry Cohen",
+     "hood": "LES (Broome-Ludlow)",
+     "t": 1794164909435,
+     "age": "3 hr ago",
+     "subject": "I’m looking to adopt a cat.",
+     "body": "I’m looking to adopt a cat. Not necessarily a kitten. Just one who is low key, likes to hang out and cuddle. Watching tv or staring out the window at the birds in the yard.",
+     "reactions": 1,
+     "comments": 6,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "A neighbourly adoption request with an active, friendly thread — easy warm engagement.",
+     "suggestReaction": "Like",
+     "suggestComment": "Love that you're open to an older cat, they so often get passed over. Hope you find your window-watching TV buddy soon.",
+     "url": "https://nextdoor.com/p/M4yS2trnM6bX/"
+    },
+    {
+     "id": "524229939",
+     "short": "_TgF5XB-dx8J",
+     "who": "Megan H.",
+     "hood": "Brooklyn Heights",
+     "t": 1794129068943,
+     "age": "13 hr ago",
+     "subject": "Despite my love of gatekeeping, i want to share the amazing plumber I met last week.",
+     "body": "Despite my love of gatekeeping, i want to share the amazing plumber I met last week.  Joe at OC Piping Service, 646-554-2871.  I have been looking for a great plumber for ten years, and i was so impressed. Quick, great work, pricing very fair but not cut rate, which is the sweet spot. Highly recommended.",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "A neighbour sharing a fairly priced local tradesperson — a useful recommendation that ties to everyday household costs.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thanks for not gatekeeping! Fair pricing and good work is exactly what everyone hopes to find, so this one is worth saving.",
+     "url": "https://nextdoor.com/p/_TgF5XB-dx8J/"
+    },
+    {
+     "id": "524287884",
+     "short": "pZxWQnW5wmc4",
+     "who": "Neva Solomon",
+     "hood": "Flatiron (W17-5th-W14-6th)",
+     "t": 1794157286705,
+     "age": "5 hr ago",
+     "subject": "Joe Junior is a neighborhood gem.",
+     "body": "Joe Junior is a neighborhood gem.  For many years worked in the Emergency Room on 2nd Ave & E16th St starting in 1988.  This was pre Starbucks.  For the first year I lived directly across the street from Joe Jr’s.  I would bring a cardboard tray 4-6 cops of coffee to work.  \nWhen the Joe Jr’s counter man saw me in scrubs  approaching the diner, he started carefully preparing a cardboard tray with cups of fresh hot coffee with lids on tight plus extra milk and sugars.  \nThere was never a spill.  Every person who worked at Joe Jr’s was kind and attentive.",
+     "reactions": 22,
+     "comments": 1,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "A warm appreciation of a long-standing local diner with good reactions and no argument.",
+     "suggestReaction": "Like",
+     "suggestComment": "What a lovely memory. A counter man who has your coffee tray ready before you reach the door is the kind of thing that makes a neighbourhood feel like home.",
+     "url": "https://nextdoor.com/p/pZxWQnW5wmc4/"
+    }
+   ],
+   "note": "Single extraction run in business browser 034fc69f…; todayStart 05:00Z correct. Excluded ids not captured (tab closed before export)."
   }
  }
 };
