@@ -6640,6 +6640,236 @@ window.CREDO_ND_ENGAGE = {
     }
    ],
    "note": "Single extraction run in business browser 034fc69f…; todayStart 05:00Z correct. Excluded ids not captured (tab closed before export)."
+  },
+  "2026-11-09": {
+   "scannedAt": "2026-11-09T22:08:00.709Z",
+   "feedPosts": 32,
+   "todayPosts": 25,
+   "excluded": [
+    {
+     "id": "524443370",
+     "who": "Adlin A.",
+     "subject": "🚨 A FIRE FORCED THEM OUT.",
+     "reason": "rescue appeal tied to a building fire and a sick cat; crisis-adjacent, run via a rescue org, and its media is an expiring signed video"
+    },
+    {
+     "id": "524568541",
+     "who": "Manhattan Buzz",
+     "subject": "Union Square Holiday Market opens Thursday",
+     "reason": "publisher/page author, not a neighbour"
+    },
+    {
+     "id": "524556863",
+     "who": "Lorn Cole",
+     "subject": "Lights Ceremony Over Manhattan in Honor of 911",
+     "reason": "9/11 memorial theme; too sensitive for a firm's page"
+    },
+    {
+     "id": "524456843",
+     "who": "Lisa Moss",
+     "subject": "Friendly Reminder (in these confusing times)",
+     "reason": "religious"
+    },
+    {
+     "id": "524427640",
+     "who": "Hyun Seo",
+     "subject": "Anthropic’s IPO After the Blue Wave",
+     "reason": "political/financial commentary"
+    },
+    {
+     "id": "524577772",
+     "who": "José A.",
+     "subject": "Need new ppl in my life",
+     "reason": "touches on current tensions; personal, easy to misread"
+    },
+    {
+     "id": "524532991",
+     "who": "Mo Yvonne",
+     "subject": "Are these your dogs tied up outside of 50 Bridge Street?",
+     "reason": "potential dispute about a named location/owner"
+    },
+    {
+     "id": "524430571",
+     "who": "pia r.",
+     "subject": "Dermatologist in downtown Brooklyn that takes Medicare",
+     "reason": "medical/insurance recommendation; not ours to weigh in on"
+    },
+    {
+     "id": "524524723",
+     "who": "Michele Bartolotta",
+     "subject": "2 bed 2 bath available on Nostrand Ave",
+     "reason": "commercial rental listing"
+    },
+    {
+     "id": "524513710",
+     "who": "Vee P.",
+     "subject": "Flag emojis",
+     "reason": "flag/patriotic post with no content; could read political"
+    },
+    {
+     "id": "524570784",
+     "who": "Michelle Cui",
+     "subject": "NYU student looking for part-time job",
+     "reason": "job seeking; ranked below the picks"
+    },
+    {
+     "id": "524539702",
+     "who": "helga jundt",
+     "subject": "Looking for work in Greenpoint/Williamsburg",
+     "reason": "job seeking; ranked below the picks"
+    },
+    {
+     "id": "524577213",
+     "who": "Jasmine Johnson",
+     "subject": "Hello everyone!",
+     "reason": "generic greeting; ranked below the picks"
+    },
+    {
+     "id": "524471554",
+     "who": "John Leicmon",
+     "subject": "Last day to see the Magical Paintings",
+     "reason": "self-promotion of a gallery show, and 'last day' would be stale by apply time"
+    },
+    {
+     "id": "524551951",
+     "who": "Daniel Collins",
+     "subject": "Wallpaper",
+     "reason": "light chatter; ranked below the picks"
+    },
+    {
+     "id": "524554919",
+     "who": "Tracey T.",
+     "subject": "Xavier Mission is a Wonderful organization",
+     "reason": "church-run charity; religious-adjacent"
+    },
+    {
+     "id": "524471728",
+     "who": "Joann Smith",
+     "subject": "Godzilla in 4DX",
+     "reason": "light chatter; ranked below the picks"
+    },
+    {
+     "id": "524444678",
+     "who": "Chris Morley",
+     "subject": "Today’s Stories",
+     "reason": "recurring history digest; ranked below the picks"
+    },
+    {
+     "id": "524439926",
+     "who": "Lisa Moss",
+     "subject": "Gotta Love Sweet Babies",
+     "reason": "low-content repost; ranked below the picks"
+    },
+    {
+     "id": "524437253",
+     "who": "Amed Al",
+     "subject": "Happy Monday everyone",
+     "reason": "low-content greeting; ranked below the picks"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "524440269",
+     "short": "-p_tFsTjntGs",
+     "url": "https://nextdoor.com/p/-p_tFsTjntGs/",
+     "who": "William B.",
+     "hood": "Brooklyn Heights",
+     "t": 1794231181025,
+     "age": "8 hr ago",
+     "subject": "BHeights neighbors: For those of you who ignored NYPD No Parking signs last night and this morning, go to your car now to avoid getting towed.",
+     "body": "BHeights neighbors: For those of you who ignored NYPD No Parking signs last night and this morning, go to your car now to avoid getting towed. A large DSNY and NYPD operation is installing curbside trash containers and they are serious about meeting quota…👏 (expect my tow pound avoidance commission fee invoice in the mail this week🤔)",
+     "reactions": 8,
+     "comments": 2,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "A practical money-saving heads-up (avoiding a tow and pound fees) with a light, friendly tone.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thanks for the heads-up, a tow and pound fee is the last way anyone wants to start a Monday. Happy to pay the commission in good neighbourly gratitude."
+    },
+    {
+     "id": "524511606",
+     "short": "57jXF-x9HyM2",
+     "url": "https://nextdoor.com/p/57jXF-x9HyM2/",
+     "who": "Iris Ni",
+     "hood": "Koreatown",
+     "t": 1794246005394,
+     "age": "4 hr ago",
+     "subject": "Urgent:home needed",
+     "body": "Urgent:home needed \nI have 2 gerbils and a hamster that need to be rehomed immediately!",
+     "reactions": 1,
+     "comments": 0,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Neighbourly rehoming request with almost no engagement yet, so a reaction and comment help it get seen.",
+     "suggestReaction": "Like",
+     "suggestComment": "Bumping this so more neighbours see it. Hope these little ones find a cozy new home soon."
+    },
+    {
+     "id": "524427203",
+     "short": "X-3fdcNp9TwP",
+     "url": "https://nextdoor.com/p/X-3fdcNp9TwP/",
+     "who": "Steve Zaffarano",
+     "hood": "Murray Hill (E42-Park-E38-2nd)",
+     "t": 1794224879898,
+     "age": "10 hr ago",
+     "subject": "6:37 a.",
+     "body": "6:37 a.m.",
+     "reactions": 71,
+     "comments": 2,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/bb/1c/bb1c6bb30a25a7c936d5dbbda50d26ec.jpeg",
+     "why": "Popular early-morning city photo; easy, warm local appreciation.",
+     "suggestReaction": "Wow",
+     "suggestComment": "Worth getting up early for. Thanks for sharing the view."
+    },
+    {
+     "id": "524475673",
+     "short": "Nb-CZRw6QkGp",
+     "url": "https://nextdoor.com/p/Nb-CZRw6QkGp/",
+     "who": "Johanna S.",
+     "hood": "Cobble Hill",
+     "t": 1794238033836,
+     "age": "6 hr ago",
+     "subject": "Do men still wear aftershave or cologne?",
+     "body": "Do men still wear aftershave or cologne? Can anyone recommend a favorite? I would like to buy my son, 21 years old, some because I noticed that he has been using a bottle of EDT from the cabinet and I don’t know what to get him.\nThanks for your suggestions.",
+     "reactions": 5,
+     "comments": 44,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "Lively, friendly recommendations thread (44 comments) with no argument; light and relatable.",
+     "suggestReaction": "Haha",
+     "suggestComment": "Love that you noticed the borrowed bottle. Sounds like he has already picked his answer, so this is a very thoughtful gift."
+    },
+    {
+     "id": "524471295",
+     "short": "3XXRRy_LHNZS",
+     "url": "https://nextdoor.com/p/3XXRRy_LHNZS/",
+     "who": "Ella Nolan Chomiak",
+     "hood": "West Village (Bank-4th)",
+     "t": 1794237016099,
+     "age": "6 hr ago",
+     "subject": "Hi!",
+     "body": "Hi! I’m in my 20s and relatively new to NYC, and I’d love to meet some other writers/creatives around my age who are actively working on their own projects.\n\nI’m currently building a small publication and mostly write personal essays/nonfiction around education, psychology, childhood, human behavior, and the things I notice in everyday life. I’d especially love to meet other people working on essays, Substacks/newsletters, long-form nonfiction, journalism, or other idea-driven writing.\n\nI’m not really looking for a formal writing class or critique workshop. I’m imagining something more like a small group that meets in person at a coffee shop every week or two. Idea is to write together for a while, talk through ideas or things we’re working on, occasionally share work if we want to, and hopefully become actual creative friends/community in the process.\n\nWeekday mornings/early afternoons would be especially great for me, but I’m open to figuring out what works for everyone.\n\nIf this sounds like something you'd be interested in, comment or message me and tell me a little about what you’re working on! :)",
+     "reactions": 5,
+     "comments": 5,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Community-building request from a newcomer looking for a local writers' group; positive and easy to encourage.",
+     "suggestReaction": "Like",
+     "suggestComment": "What a lovely idea. A weekly coffee-shop writing group is exactly the kind of thing that makes a big city feel like a neighbourhood. Hope you find your people."
+    }
+   ],
+   "note": "Regular run (no backfill needed). feed-extract stopped at 32 posts (25 from today); todayStart 05:00Z correct."
   }
  }
 };
