@@ -198,35 +198,35 @@ window.CREDO_ND_POSTS = [
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-25', time:'09:00', status:'published', src:'v2', type:'edu', cluster:'Real court papers or a scam', organicId:'nd-1025', img:'assets/organic/p-door-papers-1x1.jpg', imgNote:'Organic v2 · Adult at the front door holding court papers',
   url:'https://nextdoor.com/p/kRfBX39CqzKN/', insights:'https://nextdoor.com/post_insights/kRfBX39CqzKN/', postedAt:'2026-10-26T22:36:41.438Z',
-  metrics:{views:294, reactions:0, comments:0, asOf:'2026-11-09'},
+  metrics:{views:296, reactions:0, comments:0, asOf:'2026-11-09'},
   text:'Real court papers name a court, have a case number, and are delivered by a process server, a sheriff or certified mail. You can call the court clerk to check that the case exists.\n\nA phone call saying "you will be served today unless you pay now" is a pressure tactic, not how courts work.\n\nHas anyone gotten one of those calls?',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-26', time:'17:00', status:'published', src:'v2', type:'edu', cluster:'Ask for the itemized bill', organicId:'nd-1026', img:'assets/organic/p-medical-bill-1x1.jpg', imgNote:'Organic v2 · Bill, glasses and coffee on a table',
   url:'https://nextdoor.com/p/Kdx4CDcqYhxH/', insights:'https://nextdoor.com/post_insights/Kdx4CDcqYhxH/', postedAt:'2026-10-27T02:29:46.749Z',
-  metrics:{views:173, reactions:0, comments:0, asOf:'2026-11-09'},
+  metrics:{views:180, reactions:0, comments:0, asOf:'2026-11-09'},
   text:'Tip for anyone dealing with a medical bill: ask the provider for an itemized bill with the billing codes, not just the total. Duplicate charges and services you never received are more common than people think.\n\nYou can also ask your insurer for the explanation of benefits and compare the two.\n\nHas anyone found a mistake on a medical bill before?',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-28', time:'09:00', status:'published', src:'v2', type:'edu', cluster:'Medical debt and credit', organicId:'nd-1028', img:'assets/organic/p-medical-bill-1x1.jpg', imgNote:'Organic v2 · Bill, glasses and coffee on a table',
   url:'https://nextdoor.com/p/qm4X3nJWwXRZ/', insights:'https://nextdoor.com/post_insights/qm4X3nJWwXRZ/', postedAt:'2026-10-28T14:18:45.228Z',
-  metrics:{views:569, reactions:0, comments:0, asOf:'2026-11-09'},
+  metrics:{views:573, reactions:0, comments:0, asOf:'2026-11-09'},
   text:'Good to know: the three big credit bureaus have changed how they handle medical debt. Medical collections under $500 are not reported, paid medical collections come off your report, and new medical collections wait a year before they show up.\n\nSo paying a medical collection on the first call is rarely urgent. Checking it is.\n\nHad you heard about these changes?',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-30', time:'21:00', status:'published', src:'v2', type:'edu', cluster:'Free credit reports', organicId:'nd-1030', img:'assets/organic/p-statements-1x1.jpg', imgNote:'Organic v2 · Reviewing card statements beside a laptop',
   url:'https://nextdoor.com/p/65khQ-JR_XB7/', insights:'https://nextdoor.com/post_insights/65khQ-JR_XB7/', postedAt:'2026-10-31T02:15:31.982Z',
-  metrics:{views:118, reactions:0, comments:0, asOf:'2026-11-09'},
+  metrics:{views:120, reactions:0, comments:0, asOf:'2026-11-09'},
   text:'You can see your credit reports from all three bureaus for free every week at AnnualCreditReport.com, the official site.\n\nIf a collection account on it is wrong, you can dispute it with the bureau, and they have to investigate, usually within 30 days.\n\nWhen did you last look at yours?',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-11-01', time:'17:00', status:'published', src:'v2', type:'edu', cluster:'Neighborhood question', organicId:'nd-1101', img:'assets/organic/p-neighbors-1x1.jpg', imgNote:'Organic v2 · Two neighbors talking over a fence',
   url:'https://nextdoor.com/p/tpxDKQwpwbLZ/', insights:'https://nextdoor.com/post_insights/tpxDKQwpwbLZ/', postedAt:'2026-11-01T22:17:07.271Z',
-  metrics:{views:70, reactions:0, comments:0, asOf:'2026-11-09'},
+  metrics:{views:72, reactions:0, comments:0, asOf:'2026-11-09'},
   text:'A question for neighbors: what is one thing about debt or bills you wish someone had explained to you earlier?\n\nWe answer common questions here from time to time, plainly and without a sales pitch. Your answers help us pick the next topics.',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
@@ -287,7 +287,7 @@ window.CREDO_ND_POSTS = [
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-27', time:'21:00', status:'published', src:'v2', type:'ad', cluster:'Medical bill errors', organicId:'nd-1027', img:'assets/organic/b-red-pen-1x1-a-medical-bill-in-collections.jpg', imgNote:'Organic v2 · Hand with a red pen · check the bill',
   url:'https://nextdoor.com/p/jKh5jrz7pMtS/', insights:'https://nextdoor.com/post_insights/jKh5jrz7pMtS/', postedAt:'2026-10-28T06:15:44.477Z',
-  metrics:{views:49, reactions:0, comments:0, asOf:'2026-11-09'},
+  metrics:{views:51, reactions:0, comments:0, asOf:'2026-11-09'},
   lp:'https://start.credolegal.com/medical-debt-bills-errors',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-medical-bill-errors-1027', dest:'https://start.credolegal.com/medical-debt-bills-errors?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-27-medical-bill-errors&utm_term=medical', id:'link_8on3_034eRDqtHjKV4N6AwELfPM', term:'medical', clicks:1, asOf:'2026-11-09'}},
   text:'A medical bill sent to collections is worth a second look. Coding errors, duplicate charges and amounts insurance should have paid are common, and the collector has to verify the amount if you dispute it. Our attorneys can review it.\n\nFree review: credolegal.s.gy/nd-medical-bill-errors-1027',
@@ -296,7 +296,7 @@ window.CREDO_ND_POSTS = [
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-29', time:'17:00', status:'published', src:'v2', type:'ad', cluster:'Card balance inflated', organicId:'nd-1029', img:'assets/organic/b-card-1x1-does-that-balance-look-right.jpg', imgNote:'Organic v2 · Hand holding up a blank credit card · sued over a card',
   url:'https://nextdoor.com/p/S7HMWRJmF4mS/', insights:'https://nextdoor.com/post_insights/S7HMWRJmF4mS/', postedAt:'2026-10-29T22:42:52.466Z',
-  metrics:{views:28, reactions:0, comments:0, asOf:'2026-11-09'},
+  metrics:{views:30, reactions:0, comments:0, asOf:'2026-11-09'},
   lp:'https://start.credolegal.com/credit-card-debt-lawsuit-records',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-card-balance-inflated-1029', dest:'https://start.credolegal.com/credit-card-debt-lawsuit-records?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-29-card-balance-inflated&utm_term=credit-card', id:'link_8on3_034eRDrTk7CLl4oWnUx9OU', term:'credit-card', clicks:0, asOf:'2026-11-02'}},
   text:'Credit card balances in collections often include fees and interest the collector cannot back up with records. You can ask them to prove every dollar. You may owe less than they claim. Our attorneys request the records for you.\n\nFree review: credolegal.s.gy/nd-card-balance-inflated-1029',
@@ -305,7 +305,7 @@ window.CREDO_ND_POSTS = [
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-31', time:'09:00', status:'published', src:'v2', type:'ad', cluster:'Medical collector calling', organicId:'nd-1031', img:'assets/organic/b-phone-down-1x1-a-medical-collector-keeps-calling.jpg', imgNote:'Organic v2 · Hand pressing a phone face-down · silence the calls',
   url:'https://nextdoor.com/p/2FyKLNcynwDs/', insights:'https://nextdoor.com/post_insights/2FyKLNcynwDs/', postedAt:'2026-10-31T14:16:41.922Z',
-  metrics:{views:24, reactions:0, comments:0, asOf:'2026-11-09'},
+  metrics:{views:26, reactions:0, comments:0, asOf:'2026-11-09'},
   lp:'https://start.credolegal.com/medical-debt-harassment',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-medical-collector-calling-1031', dest:'https://start.credolegal.com/medical-debt-harassment?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-31-medical-collector-calling&utm_term=medical', id:'link_8on3_034eRDs4yoHVHQpJ2cxbmf', term:'medical', clicks:0, asOf:'2026-11-02'}},
   text:'Getting calls about an old hospital or doctor bill? The same federal rules apply: no calls at odd hours, none at work once they know, and they must stop if you tell them in writing. Our attorneys handle the collector for you.\n\nFree review: credolegal.s.gy/nd-medical-collector-calling-1031',
@@ -314,7 +314,7 @@ window.CREDO_ND_POSTS = [
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-11-05', time:'21:00', status:'published', src:'v2', type:'ad', cluster:'Payday loan trouble', organicId:'nd-1105', img:'assets/organic/b-handshake-1x1-stuck-in-a-payday-loan.jpg', imgNote:'Organic v2 · Open hand offered · you do not have to face this alone',
   url:'https://nextdoor.com/p/Ld85P5DXW3pC/', insights:'https://nextdoor.com/post_insights/Ld85P5DXW3pC/', postedAt:'2026-11-06T14:16:06.075Z',
-  metrics:{views:30, reactions:0, comments:0, asOf:'2026-11-09'},
+  metrics:{views:32, reactions:0, comments:0, asOf:'2026-11-09'},
   lp:'https://start.credolegal.com/payday-loan-fight-back',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-payday-loan-trouble-1105', dest:'https://start.credolegal.com/payday-loan-fight-back?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-11-05-payday-loan-trouble&utm_term=payday-loan', id:'link_8on3_034eRDtK5Uef0IdSS6WBQ1', term:'payday-loan', clicks:0, asOf:'2026-11-02'}},
   text:'Some payday and online lenders charge rates your state does not allow, or lend without a license where you live. Those loans may not be collectible. Our attorneys check whether yours follows the law.\n\nFree review: credolegal.s.gy/nd-payday-loan-trouble-1105',
