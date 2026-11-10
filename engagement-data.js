@@ -6870,6 +6870,151 @@ window.CREDO_ND_ENGAGE = {
     }
    ],
    "note": "Regular run (no backfill needed). feed-extract stopped at 32 posts (25 from today); todayStart 05:00Z correct."
+  },
+  "2026-11-10": {
+   "scannedAt": "2026-11-10T22:22:39.702Z",
+   "feedPosts": 13,
+   "todayPosts": 11,
+   "excluded": [
+    {
+     "id": "524856596",
+     "who": "Yvette Sierra",
+     "subject": "My sweeties.",
+     "reason": "Pet photo 17 min old with no thread yet; weaker than the cat post already picked"
+    },
+    {
+     "id": "524855035",
+     "who": "Iris Ni",
+     "subject": "Hi is anyone up to get a hamster.",
+     "reason": "Very fresh rehoming ask with no engagement and little to respond to; kept as a fallback, not picked"
+    },
+    {
+     "id": "524807019",
+     "who": "Thomas Comacho",
+     "subject": "Part-Time Virtual Assistant Wanted – Remote & Flexible",
+     "reason": "Job/recruiting solicitation (business-style post, possible scam)"
+    },
+    {
+     "id": "524757445",
+     "who": "Emma T.",
+     "subject": "Can we please keep politics off this app?",
+     "reason": "Political debate thread (53 reactions, 40 comments)"
+    },
+    {
+     "id": "524696149",
+     "who": "Mildred T. Cruz",
+     "subject": "Good Evening.....",
+     "reason": "No content to engage with"
+    },
+    {
+     "id": "524695555",
+     "who": "Patricia T. Broyles",
+     "subject": "hi",
+     "reason": "No content to engage with"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "524799315",
+     "short": "btbkqczxGx3B",
+     "url": "https://nextdoor.com/p/btbkqczxGx3B/",
+     "who": "Alexis Crupi",
+     "hood": "Columbia Waterfront",
+     "t": 1794334603990,
+     "age": "4 hr ago",
+     "subject": "Sorry this is not a clear picture.",
+     "body": "Sorry this is not a clear picture.  Packages taken from President St and Columbia/Van Brunt\n\nWhite male, not a teen, thin so he looked 30-40ish,  took off on his bike.  Large red bag from Food Bazaar.\nSorry this is not a clear picture.  Packages taken from President St and Columbia/Van Brunt\n\nWhite male, not a teen, thin so he looked 30-40ish,  took off on his bike.  Large red bag from Food Bazaar.",
+     "reactions": 5,
+     "comments": 6,
+     "topics": [
+      "Safety"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/ba/f1/baf12882048012b6f95202a90c8fb0e0.jpeg",
+     "why": "Package-theft heads-up from Columbia Waterfront: a practical safety warning with an active, calm thread.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thanks for posting this, even a blurry photo and a description help. Good reminder for all of us to grab deliveries quickly this time of year."
+    },
+    {
+     "id": "524757340",
+     "short": "2Tf_NcKGSkQD",
+     "url": "https://nextdoor.com/p/2Tf_NcKGSkQD/",
+     "who": "Melissa Mcintosh",
+     "hood": "Bedford Stuyvesant (Bd-Lfyt)",
+     "t": 1794329600756,
+     "age": "5 hr ago",
+     "subject": "Is this someone's cat??",
+     "body": "Is this someone's cat?? This angel has showed up to my balcony and comes every day.  No collar. No ear thingy. We're becoming more comfy with each other he lets me pet him sometimes. He showed up about 2 weeks ago! I love him and would take him in as it's gonna get cold but want to make sure it's not someone's lost cat!",
+     "reactions": 49,
+     "comments": 13,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/12/84/1284acab41f5354be7540722fd2ba3ae.jpeg",
+     "why": "Lost & found cat in Bed-Stuy: a kind neighbourly ask with lots of warm engagement.",
+     "suggestReaction": "Like",
+     "suggestComment": "What a sweetheart, and so kind of you to check before taking him in. Hope his family turns up, and if not, sounds like he already picked his new home."
+    },
+    {
+     "id": "524733977",
+     "short": "jtYSDy27NMRQ",
+     "url": "https://nextdoor.com/p/jtYSDy27NMRQ/",
+     "who": "Susan Frushtick",
+     "hood": "Flatiron (Madison Square Park)",
+     "t": 1794324411582,
+     "age": "6 hr ago",
+     "subject": "I’m looking for a golden Retreiver to rescue since I just lost mine.",
+     "body": "I’m looking for a golden Retreiver to rescue since I just lost mine. I love the breed.",
+     "reactions": 2,
+     "comments": 5,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Neighbour looking to rescue a golden retriever after losing theirs: a rehoming request with a gentle thread.",
+     "suggestReaction": "Sad",
+     "suggestComment": "So sorry about your golden. Wishing you luck finding the next one, a rescue golden is lucky to land with someone who loves the breed this much."
+    },
+    {
+     "id": "524679456",
+     "short": "WLPfTcRPfYxn",
+     "url": "https://nextdoor.com/p/WLPfTcRPfYxn/",
+     "who": "Tommy Max",
+     "hood": "West Village (Chris-Bleecker)",
+     "t": 1794308726218,
+     "age": "11 hr ago",
+     "subject": "With Veterans Day coming up tomorrow, I just wanted to take a moment to appreciate all the veterans in our community and the families who support them.",
+     "body": "With Veterans Day coming up tomorrow, I just wanted to take a moment to appreciate all the veterans in our community and the families who support them. New York always has something going on, and it's great to see the community come together for meaningful occasions like this. Is anyone planning to watch the parade in Manhattan tomorrow or attend any local events? I'd love to hear!",
+     "reactions": 13,
+     "comments": 2,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Veterans Day appreciation and parade chat: local appreciation/events, timely for tomorrow.",
+     "suggestReaction": "Like",
+     "suggestComment": "Lovely post. Thank you to all the veterans and their families in the neighbourhood, and enjoy the parade if you make it up Fifth Avenue tomorrow."
+    },
+    {
+     "id": "524734044",
+     "short": "LbwftFRYWB7t",
+     "url": "https://nextdoor.com/p/LbwftFRYWB7t/",
+     "who": "Lucy C.",
+     "hood": "Kips Bay (3rd-E23-FDR-E26)",
+     "t": 1794324436013,
+     "age": "6 hr ago",
+     "subject": "I'm not new to ND, but here's a photo of my comfortable cat.",
+     "body": "I'm not new to ND, but here's a photo of my comfortable cat. 😉",
+     "reactions": 89,
+     "comments": 21,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/36/d4/36d440a1d671e33785f56e875a0c6a6b.jpg",
+     "why": "Light, popular pet photo in Kips Bay: easy friendly engagement on a busy, good-natured thread.",
+     "suggestReaction": "Haha",
+     "suggestComment": "That is the face of a cat who knows exactly who runs the house. Thanks for the smile!"
+    }
+   ]
   }
  }
 };
