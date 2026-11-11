@@ -7015,6 +7015,181 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "That is the face of a cat who knows exactly who runs the house. Thanks for the smile!"
     }
    ]
+  },
+  "2026-11-11": {
+   "scannedAt": "2026-11-11T22:28:41.711Z",
+   "feedPosts": 29,
+   "todayPosts": 16,
+   "excluded": [
+    {
+     "id": "525111594",
+     "who": "Clark Green",
+     "subject": "Prop 3 has passed!!!",
+     "reason": "political (ballot proposal)"
+    },
+    {
+     "id": "525069393",
+     "who": "Clark Green",
+     "subject": "Now that all the ballot proposals passed (yay!",
+     "reason": "political (ballot proposals)"
+    },
+    {
+     "id": "525109422",
+     "who": "Pete Bus",
+     "subject": "Unsanitary Practices!",
+     "reason": "poll, not a USER post"
+    },
+    {
+     "id": "525098784",
+     "who": "Manhattan Buzz",
+     "subject": "The High Line runs free docent tours all winter…",
+     "reason": "page/business author"
+    },
+    {
+     "id": "525099040",
+     "who": "Meissa Hampton",
+     "subject": "looking for a dog walker in east Williamsburg.",
+     "reason": "hiring ad; Liv Molho covers the same theme"
+    },
+    {
+     "id": "525091959",
+     "who": "Raylee Rigs",
+     "subject": "My husband says my home improvement list…",
+     "reason": "disguised contractor promo with phone number"
+    },
+    {
+     "id": "525086820",
+     "who": "Quinn Kumfert",
+     "subject": "Hi everyone!",
+     "reason": "self-promotion (dog-walking services)"
+    },
+    {
+     "id": "525052167",
+     "who": "Beverly DiCovello",
+     "subject": "A Salute to all our veterans…",
+     "reason": "names a district leader and includes prayers (political/religious edge); Dino Gangemi covers Veterans Day"
+    },
+    {
+     "id": "525004785",
+     "who": "Lora T.",
+     "subject": "Honoring my dad and all other combat photographers on Veteran’s Day.",
+     "reason": "duplicate Veterans Day theme; body full of external links"
+    },
+    {
+     "id": "524957346",
+     "who": "Eric Gann",
+     "subject": "Is anyone in the neighborhood interested in part-time or cash-paid work?",
+     "reason": "vague cash-work offer matching the job-scam pattern"
+    },
+    {
+     "id": "524947826",
+     "who": "Pat Jean",
+     "subject": "Rakeem Jefrees..",
+     "reason": "political attack naming a person"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "525056586",
+     "short": "8m64g8KffqqZ",
+     "who": "Nahny Tod",
+     "hood": "Carroll Gardens",
+     "t": 1794422304432,
+     "age": "3 hr ago",
+     "subject": "I think it’s important that we as a community are aware of scams and fake profiles.",
+     "body": "I think it’s important that we as a community are aware of scams and fake profiles. I see these two profile post frequently about remote work targeting folks who are in dire need of actual work. Whatever they are selling you is not real please act with caution with jobs that seem to easy and too good to be true. If they offer to ship anything to your home, fill out an online background check etc, just know they are scamming you. I can’t help but get frustrated every time I see these scams. If you’re unsure if a job is real or not feel free to reach out and I can check for you! I’m a seasoned tech professional and would love to help",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/7c/ef/7cef993796b7aab8a8b89e55b53d732b.jpeg",
+     "why": "Job-scam warning aimed at people who are short on money: the top-priority kind of post, and a fresh thread with no argument.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Thank you for taking the time to spell out the warning signs. Anyone who is really counting on that next paycheck is exactly who these fake job offers go after, so this kind of heads-up matters.",
+     "url": "https://nextdoor.com/p/8m64g8KffqqZ/"
+    },
+    {
+     "id": "525085521",
+     "short": "Z2xSZzXJPSyp",
+     "who": "Valerie Mihalek",
+     "hood": "Stuyvesant Town West",
+     "t": 1794429130118,
+     "age": "1 hr ago",
+     "subject": "Hi neighbors!",
+     "body": "Hi neighbors! I’m reaching out on behalf of my partner, who is looking for his next opportunity. He has spent the past seven years working in the music industry, including at Wasserman, and is open to opportunities across industries.\n\nHe has experience in operations, customer service, and executive and personal assistant work, and is a graduate of Trinity College in Connecticut. If you own a business and could use an extra set of hands, or know of a team that’s hiring, I’d love to connect!\n\nThe job market is tough, and a personal connection can go a long way. Please DM me with any leads, introductions, or opportunities. Thank you so much!",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Neighbourly job-search request touching cost-of-living worries; warm, no controversy, and an early boost helps it get seen.",
+     "suggestReaction": "Like",
+     "suggestComment": "Wishing him luck. You are right that a personal introduction often opens doors a job board never will, and I hope a neighbor here has the right lead.",
+     "url": "https://nextdoor.com/p/Z2xSZzXJPSyp/"
+    },
+    {
+     "id": "524964902",
+     "short": "t8r4cGz4HTyB",
+     "who": "Daniel Tébar",
+     "hood": "Gramercy Park (E22-1st-E23-3rd)",
+     "t": 1794403308623,
+     "age": "9 hr ago",
+     "subject": "Hello, dear New Yorkers.",
+     "body": "Hello, dear New Yorkers. I'm a bit lonely and anxious about the impending winter. Rupert and I are wondering if anyone knows of any Dachshund clubs, or something similar, to help us beat cabin fever.",
+     "reactions": 62,
+     "comments": 13,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/83/c6/83c6d8f3d33fe52736c24d00a4185387.jpg",
+     "why": "Lively, friendly neighbourly request (62 reactions, 13 comments) with no argument.",
+     "suggestReaction": "Like",
+     "suggestComment": "Rupert looks like wonderful company for the winter. I hope you two find a dachshund meetup nearby, and it is lovely to see so many neighbors chiming in with ideas.",
+     "url": "https://nextdoor.com/p/t8r4cGz4HTyB/"
+    },
+    {
+     "id": "525045602",
+     "short": "z5xRXjCrmFsJ",
+     "who": "Dino Gangemi",
+     "hood": "Cobble Hill",
+     "t": 1794419696195,
+     "age": "4 hr ago",
+     "subject": "Today We Pay Tribute To Those Who Have Served In The US Armed Forces.",
+     "body": "Today We Pay Tribute To Those Who Have Served In The US Armed Forces.\nToday, we honor all Veterans living & deceased.\n\nI’m just leaving 5th Ave after attending the parade in the City this morning.\n\nI also look forward to The Wreath Laying Ceremony at The Tomb Of The Unknown Soldier, at Arlington National Cemetery.\n\nTo all the Veterans & to the Families who stand by them….. Thank You\n\nWe honor your service, your sacrifice, today & everyday.",
+     "reactions": 14,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/d8/44/d84419d9a60b8aac1751f2ffcbf9ff19.jpeg",
+     "why": "Veterans Day appreciation from the Fifth Avenue parade: local, positive and timely.",
+     "suggestReaction": "Like",
+     "suggestComment": "Thank you for sharing the parade. A good day to say thank you to the veterans and the families who stand by them.",
+     "url": "https://nextdoor.com/p/z5xRXjCrmFsJ/"
+    },
+    {
+     "id": "525058426",
+     "short": "d4KLqn9bSM2L",
+     "who": "Liv Molho",
+     "hood": "Clinton Hill (Willoughby-Wash)",
+     "t": 1794422761132,
+     "age": "3 hr ago",
+     "subject": "In Clinton Hill for the long haul!",
+     "body": "In Clinton Hill for the long haul! Still looking for recommendations and dog walkers :)",
+     "reactions": 0,
+     "comments": 2,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "New long-term neighbour asking for recommendations; light and welcoming.",
+     "suggestReaction": "Like",
+     "suggestComment": "Welcome to Clinton Hill for good! I hope neighbors point you to a great dog walker and a few favourite local spots.",
+     "url": "https://nextdoor.com/p/d4KLqn9bSM2L/"
+    }
+   ]
   }
  }
 };
