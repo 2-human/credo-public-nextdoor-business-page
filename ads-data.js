@@ -111,12 +111,12 @@ window.CREDO_ND_ADS = {
       {
        "variant": "Default",
        "text": "Getting collection calls about a debt? You can make them prove it is yours in writing before you pay a cent. Many collectors, especially debt buyers, cannot produce the paperwork. Our attorneys can send the request and review what comes back. Free case review.",
-       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack [CONFIRM], licensed in NY & NJ. [firm mailing address · phone · email — CONFIRM]. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
+       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack Gross, licensed in NY & NJ. 1 Liberty Plaza, Suite 401, NY, NY- 10006 · 2124614026 · support@credolegal.com. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
       },
       {
        "variant": "Reassurance",
        "text": "You do not have to handle a collector alone. You can require them to validate the debt in writing first, and you may owe far less than they claim. A free review shows exactly where you stand.",
-       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack [CONFIRM], licensed in NY & NJ. [firm mailing address · phone · email — CONFIRM]. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
+       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack Gross, licensed in NY & NJ. 1 Liberty Plaza, Suite 401, NY, NY- 10006 · 2124614026 · support@credolegal.com. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
       }
      ],
      "creatives": [
@@ -157,12 +157,12 @@ window.CREDO_ND_ADS = {
       {
        "variant": "Default",
        "text": "Three things collectors hope you do not know: you can make them validate the debt, debt buyers often cannot prove they own it, and balances are frequently inflated. Know your rights before you respond. Free case review.",
-       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack [CONFIRM], licensed in NY & NJ. [firm mailing address · phone · email — CONFIRM]. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
+       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack Gross, licensed in NY & NJ. 1 Liberty Plaza, Suite 401, NY, NY- 10006 · 2124614026 · support@credolegal.com. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
       },
       {
        "variant": "Reassurance",
        "text": "Know the rules before you answer a collector. Federal law limits what they can do, and you can demand written proof of the debt first. Our attorneys can walk you through it. Free case review.",
-       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack [CONFIRM], licensed in NY & NJ. [firm mailing address · phone · email — CONFIRM]. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
+       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack Gross, licensed in NY & NJ. 1 Liberty Plaza, Suite 401, NY, NY- 10006 · 2124614026 · support@credolegal.com. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
       }
      ],
      "creatives": [
@@ -203,12 +203,12 @@ window.CREDO_ND_ADS = {
       {
        "variant": "Default",
        "text": "More than one collector chasing the same debt? Each has to validate it in writing if you ask, and the paperwork often does not hold up. Our attorneys can sort out who, if anyone, can actually collect. Free review.",
-       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack [CONFIRM], licensed in NY & NJ. [firm mailing address · phone · email — CONFIRM]. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
+       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack Gross, licensed in NY & NJ. 1 Liberty Plaza, Suite 401, NY, NY- 10006 · 2124614026 · support@credolegal.com. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
       },
       {
        "variant": "Reassurance",
        "text": "Several collectors at once is overwhelming, but you have options. You can make each one prove the debt is valid before paying anything. A free review can bring order to it.",
-       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack [CONFIRM], licensed in NY & NJ. [firm mailing address · phone · email — CONFIRM]. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
+       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack Gross, licensed in NY & NJ. 1 Liberty Plaza, Suite 401, NY, NY- 10006 · 2124614026 · support@credolegal.com. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
       }
      ],
      "creatives": [
@@ -256,12 +256,12 @@ window.CREDO_ND_ADS = {
       {
        "variant": "Default",
        "text": "A collector says you owe a medical bill. Can they prove it? Medical billing is full of errors, and you can demand they validate the amount before you pay. Our attorneys can review it. Free case review.",
-       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack [CONFIRM], licensed in NY & NJ. [firm mailing address · phone · email — CONFIRM]. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
+       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack Gross, licensed in NY & NJ. 1 Liberty Plaza, Suite 401, NY, NY- 10006 · 2124614026 · support@credolegal.com. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
       },
       {
        "variant": "Reassurance",
        "text": "A surprise medical bill is worth a second look before you pay. Coding errors and duplicate charges are common, and a collector has to validate the amount if you ask. Free review.",
-       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack [CONFIRM], licensed in NY & NJ. [firm mailing address · phone · email — CONFIRM]. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
+       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack Gross, licensed in NY & NJ. 1 Liberty Plaza, Suite 401, NY, NY- 10006 · 2124614026 · support@credolegal.com. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
       }
      ],
      "creatives": [
@@ -302,12 +302,12 @@ window.CREDO_ND_ADS = {
       {
        "variant": "Default",
        "text": "Behind on a medical bill and hearing from collectors? You can make them validate the amount in writing first, and billing errors are common. Our attorneys can review what you owe. Free case review.",
-       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack [CONFIRM], licensed in NY & NJ. [firm mailing address · phone · email — CONFIRM]. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
+       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack Gross, licensed in NY & NJ. 1 Liberty Plaza, Suite 401, NY, NY- 10006 · 2124614026 · support@credolegal.com. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
       },
       {
        "variant": "Reassurance",
        "text": "Medical debt does not have to run your life. You can require a collector to prove the amount before you pay a cent. A free review shows your options, at no cost.",
-       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack [CONFIRM], licensed in NY & NJ. [firm mailing address · phone · email — CONFIRM]. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
+       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack Gross, licensed in NY & NJ. 1 Liberty Plaza, Suite 401, NY, NY- 10006 · 2124614026 · support@credolegal.com. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
       }
      ],
      "creatives": [
@@ -355,12 +355,12 @@ window.CREDO_ND_ADS = {
       {
        "variant": "Default",
        "text": "Pressured over an old credit card balance? Debt buyers often cannot produce the contract to prove they own it, and balances get inflated with fees. You can make them validate it, and may settle for less. Free review.",
-       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack [CONFIRM], licensed in NY & NJ. [firm mailing address · phone · email — CONFIRM]. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
+       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack Gross, licensed in NY & NJ. 1 Liberty Plaza, Suite 401, NY, NY- 10006 · 2124614026 · support@credolegal.com. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
       },
       {
        "variant": "Reassurance",
        "text": "An old card balance is not always what they claim. You can require proof they own the debt, and in many cases settle for less. A free review shows where you really stand.",
-       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack [CONFIRM], licensed in NY & NJ. [firm mailing address · phone · email — CONFIRM]. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
+       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack Gross, licensed in NY & NJ. 1 Liberty Plaza, Suite 401, NY, NY- 10006 · 2124614026 · support@credolegal.com. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
       }
      ],
      "creatives": [
@@ -401,12 +401,12 @@ window.CREDO_ND_ADS = {
       {
        "variant": "Default",
        "text": "Collectors calling about a credit card debt? You can make them validate it in writing before you pay, and many cannot back up the amount they claim. Our attorneys can help. Free case review.",
-       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack [CONFIRM], licensed in NY & NJ. [firm mailing address · phone · email — CONFIRM]. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
+       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack Gross, licensed in NY & NJ. 1 Liberty Plaza, Suite 401, NY, NY- 10006 · 2124614026 · support@credolegal.com. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
       },
       {
        "variant": "Reassurance",
        "text": "You do not have to face credit card collectors alone. Make them prove the debt is valid first, and you may owe far less than they say. Free review, no cost to you.",
-       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack [CONFIRM], licensed in NY & NJ. [firm mailing address · phone · email — CONFIRM]. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
+       "footer": "Attorney Advertising. Prior outcomes don't guarantee similar results. Crēdo Legal — responsible attorney Jack Gross, licensed in NY & NJ. 1 Liberty Plaza, Suite 401, NY, NY- 10006 · 2124614026 · support@credolegal.com. Includes AI-generated content. The choice of a lawyer is an important decision and should not be based solely upon advertisements."
       }
      ],
      "creatives": [

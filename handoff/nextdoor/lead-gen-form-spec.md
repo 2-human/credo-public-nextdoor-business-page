@@ -64,7 +64,7 @@ BODY:  Crēdo Legal is a law firm. Representation is by attorneys licensed in yo
        tell you upfront if we cannot represent you.
 
        Attorney Advertising. Prior outcomes don't guarantee similar results. Includes
-       AI-generated content. [Responsible attorney Jack [CONFIRM]; firm contact — CONFIRM.]
+       AI-generated content. Responsible attorney Jack Gross, licensed in NY & NJ. 1 Liberty Plaza, Suite 401, NY, NY- 10006 · 2124614026 · support@credolegal.com.
 ```
 
 Carries the NY "Attorney Advertising" + AI disclosure and the NJ attorney-name/contact requirement.
