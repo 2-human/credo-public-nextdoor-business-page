@@ -7190,6 +7190,193 @@ window.CREDO_ND_ENGAGE = {
      "url": "https://nextdoor.com/p/d4KLqn9bSM2L/"
     }
    ]
+  },
+  "2026-11-12": {
+   "scannedAt": "2026-11-12T22:08:06.236Z",
+   "feedPosts": 30,
+   "todayPosts": 18,
+   "excluded": [
+    {
+     "id": "525374874",
+     "who": "Manhattan Buzz",
+     "subject": "The Whitney is free every Friday night",
+     "reason": "business/page author"
+    },
+    {
+     "id": "525293140",
+     "who": "Alexis Robins Income Tax",
+     "subject": "Heavy heart after building collapse",
+     "reason": "business author; deaths"
+    },
+    {
+     "id": "525271700",
+     "who": "Buttermilk & Sundries",
+     "subject": "Woobles NYC pop-up",
+     "reason": "business/page author"
+    },
+    {
+     "id": "525339507",
+     "who": "Elies Jon",
+     "subject": "Need somewhere for me and my dog to stay",
+     "reason": "personal housing crisis; sensitive for a debt-firm account"
+    },
+    {
+     "id": "525215233",
+     "who": "Lisa Gordon",
+     "subject": "Desperately needed help (displaced, rats)",
+     "reason": "hardship appeal, unclear ask; sensitive"
+    },
+    {
+     "id": "525370354",
+     "who": "Howard Dawson",
+     "subject": "Looking for a female massage therapist",
+     "reason": "personal-service request; not a fit"
+    },
+    {
+     "id": "525291432",
+     "who": "Denise Madison",
+     "subject": "Cleaners needed at JFK",
+     "reason": "job ad / solicitation"
+    },
+    {
+     "id": "525280839",
+     "who": "Clark Green",
+     "subject": "Lack of bike lanes in LES",
+     "reason": "policy/political debate"
+    },
+    {
+     "id": "525210065",
+     "who": "Hyun Seo",
+     "subject": "Who pays for the AI power grid?",
+     "reason": "policy/political essay"
+    },
+    {
+     "id": "525266251",
+     "who": "John Feng",
+     "subject": "Thanksgiving giveaway (Williamsburg)",
+     "reason": "event flyer, no conversation; weaker than picks"
+    },
+    {
+     "id": "525261536",
+     "who": "Rick Ortiz",
+     "subject": "My Harley",
+     "reason": "already very busy (270 reactions); low value"
+    },
+    {
+     "id": "525334591",
+     "who": "Karina Libertad Gutierrez",
+     "subject": "Hi everyone! New neighbour",
+     "reason": "reserve; light intro, weaker than picks"
+    },
+    {
+     "id": "525196353",
+     "who": "Adel Thomas",
+     "subject": "New to Tribeca",
+     "reason": "reserve; one-line intro"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "525246258",
+     "short": "cfDY3nP5-gRY",
+     "url": "https://nextdoor.com/p/cfDY3nP5-gRY/",
+     "who": "Hsiao Y.",
+     "hood": "DWTN Brooklyn (Tillary-Adams)",
+     "t": 1794494463727,
+     "age": "7 hr ago",
+     "subject": "Just wanted to let everyone that while I was exiting out of the subway on the R train in Jay Street-Metrotech Station, my phone was taken out of my hands while I was texting.",
+     "body": "Just wanted to let everyone that while I was exiting out of the subway on the R train in Jay Street-Metrotech Station, my phone was taken out of my hands while I was texting. I chased him but lost him as he exited out of the subway. This was Sunday night around 7:30 PM. I made a police report and apparently this has happened before so they're going to investigate this. Please be careful while on the subway especially if you're by yourself.",
+     "reactions": 9,
+     "comments": 2,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Safety heads-up about phone snatching at Jay St-MetroTech, the top-priority category, with a calm thread.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "So sorry this happened, and thank you for posting the details instead of just moving on. Good reminder for all of us to keep phones tucked away near the station exits."
+    },
+    {
+     "id": "525338029",
+     "short": "pbN-NZpQSRdq",
+     "url": "https://nextdoor.com/p/pbN-NZpQSRdq/",
+     "who": "Courtney J.",
+     "hood": "Battery Park City (River Terr)",
+     "t": 1794509752040,
+     "age": "3 hr ago",
+     "subject": "Lost Ring in Soho 11/11 -- I lost a very important ring yesterday (11/11) when walking from Barry's Tribeca into Soho (streets walked on include Canal, West Broadway, Grand, Greene, Broome, Broadway up to Zara).",
+     "body": "Lost Ring in Soho 11/11 -- I lost a very important ring yesterday (11/11) when walking from Barry's Tribeca into Soho (streets walked on include Canal, West Broadway, Grand, Greene, Broome, Broadway up to Zara).\n\n I've retraced my steps extensively, contacted nearby businesses, and filed a police report, but haven't had any luck finding it. \n\n The ring has enormous sentimental value, and I'm devastated to have lost it. If anyone came across a ring or turned it in, I would be extremely grateful if you could please reach out.  Thank you very much.",
+     "reactions": 0,
+     "comments": 0,
+     "topics": [
+      "Lost & Found"
+     ],
+     "photo": null,
+     "why": "Lost-and-found request with no reactions yet; an early reaction helps it reach more neighbours.",
+     "suggestReaction": "Sad",
+     "suggestComment": "So sorry, Courtney, a ring with that kind of meaning is hard to lose. Fingers crossed someone along Canal or Broadway spotted it and turns it in."
+    },
+    {
+     "id": "525370573",
+     "short": "mPjD8dKBB9QK",
+     "url": "https://nextdoor.com/p/mPjD8dKBB9QK/",
+     "who": "NICOLA ARCARI",
+     "hood": "Hell's Kitchen",
+     "t": 1794518018082,
+     "age": "54 min ago",
+     "subject": "Located In hells Kitchen currently in foster with me.",
+     "body": "Located In hells Kitchen currently in foster with me. If anyone has any questions please email me Nicola@mercurybarnyc.com\n\n🐾 MYSTIC IS THE WHOLE PACKAGE! ❤️\n\nAt 39 lbs (maybe 40–41 now after three weeks of being spoiled!), Mystic is estimated to be 8 years young and just about as perfect as they come.\n\nShe’s lived a cat, three dogs of all sizes, and children. She’s wonderful with everyone she meets. She can be a little shy at first, but give her a moment and she’ll win you over.\n\nMystic is the perfect blend of couch potato and walking buddy. 🥰\n\nAnd here’s the best part: she’s AMAZING when left alone! No barking, no whining, no destruction. She simply finds her cozy spot and sleeps. She’s house trained (wee pads).\n\nShe’s an ideal first-time dog and would fit beautifully into just about any home. Equally happy in a city apartment or an upstate country retreat.\n\nWhether you’re looking to add another four-legged family member or adopting a dog for the very first time, MYSTIC IS YOUR GIRL! …",
+     "reactions": 12,
+     "comments": 4,
+     "topics": [
+      "General"
+     ],
+     "photo": null,
+     "why": "Foster dog looking for a home; warm rehoming post with friendly early engagement.",
+     "suggestReaction": "Like",
+     "suggestComment": "Mystic sounds like a dream, and thank you for fostering her. Hoping the right family in the neighbourhood sees this soon."
+    },
+    {
+     "id": "525339727",
+     "short": "G_yMybmFqW9K",
+     "url": "https://nextdoor.com/p/G_yMybmFqW9K/",
+     "who": "Dino Gangemi",
+     "hood": "Cobble Hill",
+     "t": 1794510242237,
+     "age": "3 hr ago",
+     "subject": "Can someone please let me know what type of plant I have here?",
+     "body": "Can someone please let me know what type of plant I have here?\nMy Wife picked up the two of them in early spring.\nI would also like to know if I take them\nout of there pots, then plant them in my yard with a trellis supporting it, will it survive the winter. Or do I bring them indoors by a sunlit window?\nThe flowers it blooms are beautiful.\n\nI wanted the human element feedback, rather than have to resort to apps such as Plant ID…. Someone who has had hand on experiences with this plant. \nIm sure we got some exceptionally good gardeners among our neighbors.",
+     "reactions": 2,
+     "comments": 13,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/a7/35/a7352d7de61ff266abad35131e8fa2b8.jpeg",
+     "why": "Neighbourly plant question with a lively, friendly thread (13 comments) and no argument.",
+     "suggestReaction": "Like",
+     "suggestComment": "Love that you asked the neighbours instead of an app. Those blooms are lovely, and it looks like the gardeners here have you covered."
+    },
+    {
+     "id": "525219352",
+     "short": "9hyR9DfqHP4Z",
+     "url": "https://nextdoor.com/p/9hyR9DfqHP4Z/",
+     "who": "Ken Gray",
+     "hood": "Kips Bay (E30-Park-E26-3rd)",
+     "t": 1794488354643,
+     "age": "9 hr ago",
+     "subject": "Magnificent Todd Stuart sculpture, Summit of Manhattan, 222 East 44 Street.",
+     "body": "Magnificent Todd Stuart sculpture, Summit of Manhattan, 222 East 44 Street. A must see. (Click on photo to see the whole image)",
+     "reactions": 17,
+     "comments": 1,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/30/83/3083776ea48e890c3cda1310e574fe1e.jpeg",
+     "why": "Local appreciation post with a photo of public art; positive and easy to engage with.",
+     "suggestReaction": "Wow",
+     "suggestComment": "What a find, thanks for sharing it. Adding 222 East 44th to the list for the next walk through Midtown."
+    }
+   ]
   }
  }
 };
