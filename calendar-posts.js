@@ -219,14 +219,14 @@ window.CREDO_ND_POSTS = [
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-30', time:'21:00', status:'published', src:'v2', type:'edu', cluster:'Free credit reports', organicId:'nd-1030', img:'assets/organic/p-statements-1x1.jpg', imgNote:'Organic v2 · Reviewing card statements beside a laptop',
   url:'https://nextdoor.com/p/65khQ-JR_XB7/', insights:'https://nextdoor.com/post_insights/65khQ-JR_XB7/', postedAt:'2026-10-31T02:15:31.982Z',
-  metrics:{views:127, reactions:0, comments:0, asOf:'2026-11-11'},
+  metrics:{views:128, reactions:0, comments:0, asOf:'2026-11-11'},
   text:'You can see your credit reports from all three bureaus for free every week at AnnualCreditReport.com, the official site.\n\nIf a collection account on it is wrong, you can dispute it with the bureau, and they have to investigate, usually within 30 days.\n\nWhen did you last look at yours?',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-11-01', time:'17:00', status:'published', src:'v2', type:'edu', cluster:'Neighborhood question', organicId:'nd-1101', img:'assets/organic/p-neighbors-1x1.jpg', imgNote:'Organic v2 · Two neighbors talking over a fence',
   url:'https://nextdoor.com/p/tpxDKQwpwbLZ/', insights:'https://nextdoor.com/post_insights/tpxDKQwpwbLZ/', postedAt:'2026-11-01T22:17:07.271Z',
-  metrics:{views:80, reactions:0, comments:0, asOf:'2026-11-11'},
+  metrics:{views:81, reactions:0, comments:0, asOf:'2026-11-11'},
   text:'A question for neighbors: what is one thing about debt or bills you wish someone had explained to you earlier?\n\nWe answer common questions here from time to time, plainly and without a sales pitch. Your answers help us pick the next topics.',
   disc:[], why:'Education: explains a right or a process, no offer and no landing page → not advertising, no disclaimer.'},
 
@@ -296,7 +296,7 @@ window.CREDO_ND_POSTS = [
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-29', time:'17:00', status:'published', src:'v2', type:'ad', cluster:'Card balance inflated', organicId:'nd-1029', img:'assets/organic/b-card-1x1-does-that-balance-look-right.jpg', imgNote:'Organic v2 · Hand holding up a blank credit card · sued over a card',
   url:'https://nextdoor.com/p/S7HMWRJmF4mS/', insights:'https://nextdoor.com/post_insights/S7HMWRJmF4mS/', postedAt:'2026-10-29T22:42:52.466Z',
-  metrics:{views:36, reactions:0, comments:0, asOf:'2026-11-11'},
+  metrics:{views:37, reactions:0, comments:0, asOf:'2026-11-11'},
   lp:'https://start.credolegal.com/credit-card-debt-lawsuit-records',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-card-balance-inflated-1029', dest:'https://start.credolegal.com/credit-card-debt-lawsuit-records?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-29-card-balance-inflated&utm_term=credit-card', id:'link_8on3_034eRDrTk7CLl4oWnUx9OU', term:'credit-card', clicks:0, asOf:'2026-11-02'}},
   text:'Credit card balances in collections often include fees and interest the collector cannot back up with records. You can ask them to prove every dollar. You may owe less than they claim. Our attorneys request the records for you.\n\nFree review: credolegal.s.gy/nd-card-balance-inflated-1029',
@@ -305,7 +305,7 @@ window.CREDO_ND_POSTS = [
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-10-31', time:'09:00', status:'published', src:'v2', type:'ad', cluster:'Medical collector calling', organicId:'nd-1031', img:'assets/organic/b-phone-down-1x1-a-medical-collector-keeps-calling.jpg', imgNote:'Organic v2 · Hand pressing a phone face-down · silence the calls',
   url:'https://nextdoor.com/p/2FyKLNcynwDs/', insights:'https://nextdoor.com/post_insights/2FyKLNcynwDs/', postedAt:'2026-10-31T14:16:41.922Z',
-  metrics:{views:32, reactions:0, comments:0, asOf:'2026-11-11'},
+  metrics:{views:34, reactions:0, comments:0, asOf:'2026-11-11'},
   lp:'https://start.credolegal.com/medical-debt-harassment',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-medical-collector-calling-1031', dest:'https://start.credolegal.com/medical-debt-harassment?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-10-31-medical-collector-calling&utm_term=medical', id:'link_8on3_034eRDs4yoHVHQpJ2cxbmf', term:'medical', clicks:0, asOf:'2026-11-02'}},
   text:'Getting calls about an old hospital or doctor bill? The same federal rules apply: no calls at odd hours, none at work once they know, and they must stop if you tell them in writing. Our attorneys handle the collector for you.\n\nFree review: credolegal.s.gy/nd-medical-collector-calling-1031',
@@ -314,7 +314,7 @@ window.CREDO_ND_POSTS = [
  /* organic v2 · approved 2026-10-12 by Operator (via Claude) */
  {date:'2026-11-05', time:'21:00', status:'published', src:'v2', type:'ad', cluster:'Payday loan trouble', organicId:'nd-1105', img:'assets/organic/b-handshake-1x1-stuck-in-a-payday-loan.jpg', imgNote:'Organic v2 · Open hand offered · you do not have to face this alone',
   url:'https://nextdoor.com/p/Ld85P5DXW3pC/', insights:'https://nextdoor.com/post_insights/Ld85P5DXW3pC/', postedAt:'2026-11-06T14:16:06.075Z',
-  metrics:{views:38, reactions:0, comments:0, asOf:'2026-11-11'},
+  metrics:{views:39, reactions:0, comments:0, asOf:'2026-11-11'},
   lp:'https://start.credolegal.com/payday-loan-fight-back',
   short:{nextdoor:{url:'https://credolegal.s.gy/nd-payday-loan-trouble-1105', dest:'https://start.credolegal.com/payday-loan-fight-back?utm_source=nextdoor&utm_medium=social&utm_campaign=credo_organic_v2&utm_content=2026-11-05-payday-loan-trouble&utm_term=payday-loan', id:'link_8on3_034eRDtK5Uef0IdSS6WBQ1', term:'payday-loan', clicks:0, asOf:'2026-11-02'}},
   text:'Some payday and online lenders charge rates your state does not allow, or lend without a license where you live. Those loans may not be collectible. Our attorneys check whether yours follows the law.\n\nFree review: credolegal.s.gy/nd-payday-loan-trouble-1105',
