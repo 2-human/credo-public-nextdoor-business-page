@@ -24,7 +24,7 @@ window.CREDO_ND_POSTS = [
  /* ---------------- published ---------------- */
  {date:'2026-08-31', status:'published', src:'hub', type:'edu', cluster:'Scam alert', img:'assets/post-scam.jpg', imgNote:'Hub image (16:9)',
   url:'https://nextdoor.com/p/cgn7LR8D69_n/', insights:'https://nextdoor.com/post_insights/cgn7LR8D69_n/',
-  metrics:{views:373, reactions:0, comments:0, asOf:'2026-11-12'},
+  metrics:{views:373, reactions:0, comments:0, asOf:'2026-11-13'},
   text:'Getting calls about a debt, and something feels off? A few signs it may be a scam rather than a real collector:\n- they push you to pay right now with gift cards, crypto, or a wire\n- they will not give you a company name and mailing address\n- they threaten arrest\n\nA legitimate collector has to send written notice, and if you ask, prove the debt is actually yours.\n\nWhen something feels wrong, do not pay on the spot. Ask for it in writing, then check it.\n\nHas anyone had any strange collection calls?',
   disc:[], why:'Scam warning with no pitch, offer or link → not advertising, no disclaimer (published as-is).'},
 
