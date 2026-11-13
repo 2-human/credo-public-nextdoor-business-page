@@ -7377,6 +7377,181 @@ window.CREDO_ND_ENGAGE = {
      "suggestComment": "What a find, thanks for sharing it. Adding 222 East 44th to the list for the next walk through Midtown."
     }
    ]
+  },
+  "2026-11-13": {
+   "scannedAt": "2026-11-13T22:08:48.671Z",
+   "feedPosts": 26,
+   "todayPosts": 16,
+   "excluded": [
+    {
+     "id": "525615337",
+     "who": "jav ocamp",
+     "subject": "Who wants to help me do laundry and fold clothes",
+     "reason": "vague/odd request with nothing for a business to add"
+    },
+    {
+     "id": "525610424",
+     "who": "Clark Green",
+     "subject": "The situation with the bike lanes on Court street is simply ridiculous…",
+     "reason": "civic/policy complaint about bike lanes and the city: likely debate"
+    },
+    {
+     "id": "525609050",
+     "who": "Nashwan Ahary",
+     "subject": "It’s my birthday today who tryna turn up",
+     "reason": "party invite from a stranger; not a fit for a business page"
+    },
+    {
+     "id": "525605116",
+     "who": "Ava W.",
+     "subject": "ABUSED DOG TAKEN INTO POLICE CUSTODY … SCHEDULED TO BE EUTHANIZED TOMORROW NOV 14!!!",
+     "reason": "animal abuse / police custody / euthanasia: distressing, crime-adjacent"
+    },
+    {
+     "id": "525558992",
+     "who": "andrew hecht",
+     "subject": "Manhattan Tech Testing - $200 💰💸💵",
+     "reason": "paid-study recruitment promo; commercial and possibly spammy"
+    },
+    {
+     "id": "525550280",
+     "who": "Andre Morris",
+     "subject": "Hi !",
+     "reason": "fine light intro photo, but five stronger picks today"
+    },
+    {
+     "id": "525522206",
+     "who": "Ava W.",
+     "subject": "NEED A FOSTER: LOWER EAST SIDE URGENT: DOG WHO WAS SEVERELY ABUSED BY OWNER…",
+     "reason": "animal abuse / police case: distressing, crime-adjacent"
+    },
+    {
+     "id": "525514606",
+     "who": "Caroline K.",
+     "subject": "It’s cold now and some neighbors don’t have warm clothing.",
+     "reason": "duplicate of the picked Brooklyn warm-clothing drive (same Plymouth Church collection)"
+    },
+    {
+     "id": "525492053",
+     "who": "Phillips Tuchel",
+     "subject": "The kind of space that feels just as good with flowers on the table…",
+     "reason": "looks like an interior/business promo, little to engage with"
+    },
+    {
+     "id": "525460043",
+     "who": "Lisa Moss",
+     "subject": "♥️ No Doubt | 100% Agreed ♥️",
+     "reason": "no substantive content"
+    },
+    {
+     "id": "525454512",
+     "who": "Alice Jacobi",
+     "subject": "Please take him in he needs a home…",
+     "reason": "rehoming appeal without details; Mystic adoption post chosen instead"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "525481071",
+     "short": "nYxGwDCKcwQX",
+     "url": "https://nextdoor.com/p/nYxGwDCKcwQX/",
+     "who": "Tracey Kitzman",
+     "hood": "DWTN Brooklyn (Tillary-Adams)",
+     "t": 1794574244985,
+     "age": "9 hr ago",
+     "subject": "BROOKLYN NEIGHBORS — WE NEED YOUR WARM WINTER CLOTHING!",
+     "body": "BROOKLYN NEIGHBORS — WE NEED YOUR WARM WINTER CLOTHING! 🧥\n\nOur first warm clothing distribution helped more than 500 Brooklyn neighbors, including many children. The response exceeded all expectations.\n\nNow we're starting from scratch for our December 5 distribution.\n\nWe're collecting warm winter coats, jackets, sweaters, hats, and gloves for men, women, and children. Puffy coats are especially needed. Please, no dress coats, suits, or summer clothing.\n\nDonations can be dropped off at Plymouth Church, 75 Hicks Street, Brooklyn.\nFor questions or to organize a clothing collection: tkitzman@gmail.com",
+     "reactions": 3,
+     "comments": 0,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/51/d4/51d4948091a2624edcd045e5c3f92251.jpeg",
+     "why": "Winter-coat drive for neighbours who can't afford warm clothing: cost-of-living help with a clear, practical ask and no argument in the thread.",
+     "suggestReaction": "Helpful",
+     "suggestComment": "Reaching more than 500 neighbors the first time round is wonderful. Thank you for organizing this again before the real cold sets in."
+    },
+    {
+     "id": "525491131",
+     "short": "6Jk-xpDP-C2L",
+     "url": "https://nextdoor.com/p/6Jk-xpDP-C2L/",
+     "who": "Carolyn Mattern",
+     "hood": "Greenpoint (Nassau-Sutton)",
+     "t": 1794578104583,
+     "age": "8 hr ago",
+     "subject": "Anyone want two (2) guinea pigs unfortunately my granddaughter is allergic and we have to find a new home.",
+     "body": "Anyone want two (2) guinea pigs unfortunately my granddaughter is allergic and we have to find a new home. Please message me if you're interested.",
+     "reactions": 8,
+     "comments": 11,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/cd/83/cd8308507eb7936cd3a01eef5fbdb7c4.jpeg",
+     "why": "Neighbourly rehoming request with a lively, friendly thread (11 comments).",
+     "suggestReaction": "Like",
+     "suggestComment": "That's a tough call to make, and it's kind of you to look for the right home for them. Hope a guinea-pig-loving neighbor scoops them up together."
+    },
+    {
+     "id": "525541506",
+     "short": "P5LBnfhGFyYh",
+     "url": "https://nextdoor.com/p/P5LBnfhGFyYh/",
+     "who": "NICOLA ARCARI",
+     "hood": "Hell's Kitchen",
+     "t": 1794587262698,
+     "age": "5 hr ago",
+     "subject": "🐾 MEET MYSTIC!",
+     "body": "🐾 MEET MYSTIC! 🐾 THIS SUNDAY AT AN ADOPTION EVENT AT PETCO UNION SQUARE \n\nLooking for the perfect easygoing companion? Mystic might just be your girl! ❤️\n\n✅ 8 years young\n✅ 39 pounds\n✅ Dog friendly 🐕\n✅ Cat friendly 🐈\n✅ Kid friendly 👧🏻\n✅ Loves people 🥰\n✅ Great on walks 🦮\n✅ House-trained (uses wee-wee pads) \n✅ Can comfortably be left home alone\n\nAnd there’s so much more to love about Mystic!\n\n🌩️ Thunder and lightning? No problem! Mystic isn’t phased by storms.\n\n🏙️ Street noise? She’s nonreactive and makes a wonderful apartment dog.\n\n🚗 Great in the car, wonderful for baths and nail trims, and a sweetheart at the vet.\n\nWhether you’re looking for a city companion or a buddy for countryside adventures, Mystic is happy just being by your side.\n\nShe’s an easygoing, well-mannered girl who could be a wonderful match for a first-time dog owner.\n\nSadly, Mystic found herself dumped at Manhattan ACC, a high-intake shelter in NYC, after her family gave her up. She deserves so much better than that. She deserves a home, a family, and someone who will love her for the rest of her life. ❤️\n\nPlease help us find Mystic her happily ever after!\n\nHave questions or interested in meeting her? Send me an email and I’ll connect you directly with her rescue, Every Last One.\n\nLink to adopt: Wagtopia: Adopt Dogs, Cats, Register Pet Microchip, Geo Tags",
+     "reactions": 34,
+     "comments": 3,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://d16kzk4negkp9h.cloudfront.net/d1/76/a6/d176a6be068983a18f2e38b8f102399f/transcoded-compressed-3F2F8A95-9B44-4CA9-A548-F75502F883BE.mp4",
+     "why": "Local adoption event this Sunday at Petco Union Square: upbeat, well-loved post (34 reactions) about a shelter dog.",
+     "suggestReaction": "Like",
+     "suggestComment": "Mystic sounds like the perfect easygoing city dog. Fingers crossed she meets her family at Union Square on Sunday."
+    },
+    {
+     "id": "525594010",
+     "short": "snNjm5fJBBwW",
+     "url": "https://nextdoor.com/p/snNjm5fJBBwW/",
+     "who": "Beatty Arabella",
+     "hood": "Greenwich Village (Wash Sq Pk)",
+     "t": 1794599736976,
+     "age": "2 hr ago",
+     "subject": "Hi everyone!",
+     "body": "Hi everyone! 👋 I’m Betty, and I’d love some recommendations for the best gym around",
+     "reactions": 1,
+     "comments": 0,
+     "topics": [
+      "Recommendations"
+     ],
+     "photo": null,
+     "why": "A new neighbour introducing herself and asking for local recommendations; no replies yet, so a warm welcome helps.",
+     "suggestReaction": "Like",
+     "suggestComment": "Welcome to the neighborhood, Betty! Hope you get some good suggestions here, there's no shortage of friendly people around Washington Square."
+    },
+    {
+     "id": "525601150",
+     "short": "mZz4mF3WR8j4",
+     "url": "https://nextdoor.com/p/mZz4mF3WR8j4/",
+     "who": "Lora T.",
+     "hood": "SoHo (Greene-Broome-Canal)",
+     "t": 1794601525922,
+     "age": "1 hr ago",
+     "subject": "Has anyone else’s Thanksgiving cactus started blooming?",
+     "body": "Has anyone else’s Thanksgiving cactus started blooming?   This one seems to have been quitte eager to start flowering!!!",
+     "reactions": 2,
+     "comments": 2,
+     "topics": [
+      "General"
+     ],
+     "photo": "https://us1-photo.nextdoor.com/post_photos/a7/d9/a7d9a4a0b5bd4c87973c391495dee1ec.jpeg",
+     "why": "Light seasonal plant chatter with a photo: easy, friendly engagement.",
+     "suggestReaction": "Wow",
+     "suggestComment": "Right on cue for the season! Those blooms look lovely, it clearly likes where you've put it."
+    }
+   ]
   }
  }
 };
