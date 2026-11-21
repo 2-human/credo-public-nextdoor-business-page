@@ -1,0 +1,184 @@
+{
+  "campaign_family": "Credo Legal — Debt Validation (Nextdoor) v1",
+  "prepared": "2026-08-21",
+  "recommended_status": "PAUSED",
+  "scope_gate": {
+    "launch_states": ["New York", "New Jersey"],
+    "allowed_topics": "debt validation / invalidation + settlement only",
+    "excluded_topics": ["litigation", "lawsuit", "garnishment", "judgment", "payday"],
+    "notes": "Clean-file experiment. Nextdoor PROHIBITS payday-loan ads and RESTRICTS 'debt services'; position strictly as LEGAL REPRESENTATION (attorneys who make collectors validate the debt), never as debt settlement/relief or a 'reduce what you owe by X%' product. Get WRITTEN sign-off from Nextdoor ad review on (a) attorney-advertising eligibility and (b) legal-services (not debt-services) classification BEFORE any spend."
+  },
+  "campaigns": [
+    {
+      "name": "Credo Legal — Validation Leads (Nextdoor)",
+      "objective": "LEAD_GENERATION",
+      "primary": true,
+      "utm_campaign": "credo_nd_leadgen_v1",
+      "destination": "nextdoor_native_lead_form",
+      "attribution": "Native form has NO destination URL, so it is NOT UTM-tagged. Attribute by (a) ad name carrying the same cluster / ad-direction tokens, (b) a hidden form field stamping campaign + cluster, and (c) Nextdoor Pixel + CAPI. See lead-gen-form-spec.md.",
+      "notes": "Recommended primary for a sensitive, real-name feed: private, pre-filled from verified neighbor data, no click-off."
+    },
+    {
+      "name": "Credo Legal — Validation Traffic (Nextdoor)",
+      "objective": "WEBSITE_CLICKS",
+      "primary": false,
+      "utm_campaign": "credo_nd_traffic_v1",
+      "destination": "cluster_landing_page",
+      "attribution": "Destination URL carries the UTM set below; Nextdoor also appends its own click id `ndclid` — preserve it. No Google-style tracking-template / final-url-suffix field; params are baked directly into each destination URL. No shorteners.",
+      "notes": "Secondary path for the fuller LP experience. Same ad groups / ads / creatives as the lead-gen campaign."
+    }
+  ],
+  "utm_scheme": {
+    "utm_source": "nextdoor",
+    "utm_medium": "paid_social",
+    "utm_campaign": "credo_nd_{objective}_v1  (leadgen | traffic | awareness | conversions)",
+    "utm_term": "{cluster}  (validation | medical | credit-card)",
+    "utm_content": "{ad}-{direction}  (e.g. fdcpa-rights-photo; ad-level value omits -{direction})",
+    "conventions": "all lowercase; hyphens inside a token; underscores only between the structural parts of utm_campaign; one utm_medium value forever.",
+    "click_id": "ndclid (Nextdoor-appended on the destination URL — never strip or reorder)"
+  },
+  "targeting_defaults": {
+    "geo": "United States, scoped to New York and New Jersey only (per launch scope). Broad-geo first, then narrow — many members leave age/gender blank and get silently excluded by over-restriction.",
+    "demographic": "Skews homeowner, 35+, household income $75K+, suburban. Layer homeownership / income / age lightly; do NOT target under-18; do NOT assert or imply protected attributes (Nextdoor restricted-financial rule).",
+    "audiences": "Upload existing clients to EXCLUDE; build lookalikes from best customers; retarget Google/Meta LP visitors via the Nextdoor Pixel.",
+    "excluded": ["existing clients", "under-18"]
+  },
+  "budget_bidding": {
+    "monthly_test_line": "~$5,000/mo, disciplined test (Nextdoor is a secondary/unproven channel for this vertical).",
+    "cpc": "Real-world local $2.50-$3.50 (directional). Use odd-cent bids (e.g. $3.01).",
+    "cpm": "Suggested start ~$10.01; adjust +/- $0.25 every ~10 days.",
+    "bid_to_daily_ratio": "Keep 5-10x bid-to-daily-budget so delivery is not starved (e.g. $10 bid -> $75-100/day). Start higher to learn, then taper."
+  },
+  "tracking": {
+    "pixel": "Nextdoor Universal Pixel on every LP (via tag manager) + Conversion API (CAPI) server-side. Events: lead, purchase, custom.",
+    "call_tracking": "Pixel MISSES phone-call leads — wire a dedicated per-cluster DNI call number so calls are attributed.",
+    "crm": "Zapier (or Hightouch) auto-routes captured leads into the CRM/stub.",
+    "retention": "Nextdoor keeps 30 days of report data — export before the window closes.",
+    "preserve": "ndclid on all click-to-website destinations."
+  },
+  "compliance": {
+    "new_jersey": "Include responsible attorney's name (Jack [CONFIRM full name]) and firm contact (mailing address, phone, email). No pre-filing requirement.",
+    "new_york": "Additionally: (a) 'Attorney Advertising' label, (b) attorney (Jack) PRE-APPROVAL of every ad before it goes live, (c) AI-generated-content disclosure. All copy is AI-drafted -> humanize + Jack's review before launch.",
+    "universal_footer": "Crēdo Legal. The choice of a lawyer is an important decision and should not be based solely upon advertisements.",
+    "results_disclaimer": "Prior outcomes don't guarantee similar results.",
+    "creative_exclusions": "Bold red-gesture creative stays OUT of Nextdoor (reads aggressive/salesy; the community downvotes it). No 9:16 (Nextdoor uses 1:1 and 1.91:1). Logos hurt CTR here (-14%) — keep brand present but understated while still visible per policy.",
+    "confirm": ["Jack full name", "firm mailing address", "firm phone", "firm email", "exact NY AI-disclosure wording", "privacy-policy URL for the lead form", "testimonial/recommendation rules"]
+  },
+  "placeholders_operator_must_fill": [
+    "<NEXTDOOR_ADS_ACCOUNT_ID>",
+    "<BUSINESS_PAGE_ID (verified)>",
+    "<NEXTDOOR_PIXEL_ID>",
+    "<DAILY_BUDGET_PER_AD_GROUP>",
+    "<SCHEDULE_START>",
+    "<DNI_CALL_NUMBER_PER_CLUSTER>",
+    "<PRIVACY_POLICY_URL>"
+  ],
+  "cta": {
+    "recommended_label": "Get a Free Review",
+    "max_chars": 45,
+    "selectable_buttons": "exact set is [verify in-tool] — expect Learn More / Sign Up / Contact Us / Call Now"
+  },
+  "headlines_campaign_wide": [
+    "Get a Free Review of Your Case",
+    "Know Your Options, Free",
+    "See If They Can Even Prove It, Free",
+    "You Don't Have to Face Them Alone",
+    "Make Them Prove You Owe It",
+    "A Free Case Review, No Cost to You"
+  ],
+  "ad_groups": [
+    {
+      "cluster": "validation",
+      "utm_term": "validation",
+      "landing_page": "https://start.credolegal.com/debt-harassment-stop-calls",
+      "dni_call_number": "<DNI_CALL_NUMBER_PER_CLUSTER>",
+      "ads": [
+        {
+          "key": "creditor-harassment",
+          "reuse_creative": "Creditor_Harassment",
+          "topic": "Collection calls — make them validate",
+          "default_headline_index": 0,
+          "cta": "Get a Free Review",
+          "final_url": "https://start.credolegal.com/debt-harassment-stop-calls",
+          "final_url_utm": "https://start.credolegal.com/debt-harassment-stop-calls?utm_source=nextdoor&utm_medium=paid_social&utm_campaign=credo_nd_traffic_v1&utm_term=validation&utm_content=creditor-harassment"
+        },
+        {
+          "key": "fdcpa-rights",
+          "reuse_creative": "FDCPA_Harassment",
+          "topic": "Know your rights — 3 things collectors hope you don't know",
+          "default_headline_index": 2,
+          "cta": "Get a Free Review",
+          "final_url": "https://start.credolegal.com/debt-harassment-stop-calls",
+          "final_url_utm": "https://start.credolegal.com/debt-harassment-stop-calls?utm_source=nextdoor&utm_medium=paid_social&utm_campaign=credo_nd_traffic_v1&utm_term=validation&utm_content=fdcpa-rights"
+        },
+        {
+          "key": "multiple-collectors",
+          "reuse_creative": "Multiple_Collectors",
+          "topic": "Several collectors, one debt — who can actually collect?",
+          "default_headline_index": 3,
+          "cta": "Get a Free Review",
+          "final_url": "https://start.credolegal.com/debt-harassment-stop-calls",
+          "final_url_utm": "https://start.credolegal.com/debt-harassment-stop-calls?utm_source=nextdoor&utm_medium=paid_social&utm_campaign=credo_nd_traffic_v1&utm_term=validation&utm_content=multiple-collectors"
+        }
+      ]
+    },
+    {
+      "cluster": "medical",
+      "utm_term": "medical",
+      "landing_page": "https://start.credolegal.com/medical-debt-bills-errors",
+      "dni_call_number": "<DNI_CALL_NUMBER_PER_CLUSTER>",
+      "ads": [
+        {
+          "key": "medical-validation",
+          "reuse_creative": "Medical_Rights",
+          "topic": "A collector says you owe it — can they prove it?",
+          "default_headline_index": 2,
+          "cta": "Get a Free Review",
+          "final_url": "https://start.credolegal.com/medical-debt-bills-errors",
+          "final_url_utm": "https://start.credolegal.com/medical-debt-bills-errors?utm_source=nextdoor&utm_medium=paid_social&utm_campaign=credo_nd_traffic_v1&utm_term=medical&utm_content=medical-validation"
+        },
+        {
+          "key": "medical-billing",
+          "reuse_creative": "Medical_Harassment",
+          "topic": "Surprise medical bill — errors are common",
+          "default_headline_index": 4,
+          "cta": "Get a Free Review",
+          "final_url": "https://start.credolegal.com/medical-debt-bills-errors",
+          "final_url_utm": "https://start.credolegal.com/medical-debt-bills-errors?utm_source=nextdoor&utm_medium=paid_social&utm_campaign=credo_nd_traffic_v1&utm_term=medical&utm_content=medical-billing"
+        }
+      ]
+    },
+    {
+      "cluster": "credit-card",
+      "utm_term": "credit-card",
+      "landing_page": "https://start.credolegal.com/credit-card-debt-negotiation",
+      "dni_call_number": "<DNI_CALL_NUMBER_PER_CLUSTER>",
+      "ads": [
+        {
+          "key": "creditcard-validation",
+          "reuse_creative": "CC_Negotiation",
+          "topic": "Old card balance — do they even own it?",
+          "default_headline_index": 4,
+          "cta": "Get a Free Review",
+          "final_url": "https://start.credolegal.com/credit-card-debt-negotiation",
+          "final_url_utm": "https://start.credolegal.com/credit-card-debt-negotiation?utm_source=nextdoor&utm_medium=paid_social&utm_campaign=credo_nd_traffic_v1&utm_term=credit-card&utm_content=creditcard-validation"
+        },
+        {
+          "key": "creditcard-collections",
+          "reuse_creative": "CC_Harassment",
+          "topic": "Card collectors calling — make them validate",
+          "default_headline_index": 0,
+          "cta": "Get a Free Review",
+          "final_url": "https://start.credolegal.com/credit-card-debt-negotiation",
+          "final_url_utm": "https://start.credolegal.com/credit-card-debt-negotiation?utm_source=nextdoor&utm_medium=paid_social&utm_campaign=credo_nd_traffic_v1&utm_term=credit-card&utm_content=creditcard-collections"
+        }
+      ]
+    }
+  ],
+  "creative_reuse": {
+    "source_mirror": "https://2-human.github.io/credo-public-meta-ads-preview/",
+    "directions": ["illustration", "photo", "stilllife"],
+    "ratios": ["1x1 (1200x1200)", "1.91x1 (1200x628)"],
+    "note": "Reuse the standard Illustration/Photo/Still-life sets already published on the meta-ads-preview mirror. Exact per-creative URLs + the per-creative utm_content values are in asset-manifest.csv. Bold + 9:16 excluded."
+  }
+}

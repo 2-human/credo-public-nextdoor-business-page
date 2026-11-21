@@ -1,0 +1,195 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Crēdo Legal — Nextdoor Ads</title>
+<style>
+ :root{--green:#0a7d3a;--green2:#0a5d2b;--ink:#12141d;--sec:#5b6360;--line:#dfe3e3;--bg:#f4f6f5;--card:#fff;--soft:#eef6ef;--amber:#c9862b;--red:#8e1b22;
+   --body:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;--disp:Georgia,"Times New Roman",serif;}
+ *{box-sizing:border-box}
+ body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 var(--body)}
+ .page{max-width:1240px;margin:0 auto;padding:26px 18px 70px}
+ header.hd h1{font:700 24px/1.2 var(--disp);margin:0}
+ header.hd p{color:var(--sec);font-size:13.5px;margin:7px 0 0;line-height:1.55;max-width:800px}
+ .pills{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+ .tag{display:inline-block;font:600 11px var(--body);background:var(--soft);color:var(--green2);border:1px solid #c7e2cd;border-radius:20px;padding:3px 11px}
+ .tag.amber{background:#fff7ea;color:#8a6316;border-color:#f0e2c9}
+ .tag.grey{background:#f1f2f6;color:#3b4256;border-color:#d9dce6}
+ h2.sec{font:700 12px var(--body);text-transform:uppercase;letter-spacing:.09em;color:var(--green2);margin:34px 2px 12px;padding-bottom:7px;border-bottom:2px solid #e6e9e8}
+ h2.sec span{color:var(--sec);font-weight:400;text-transform:none;letter-spacing:0;font-size:11.5px;margin-left:8px}
+ .note{font-size:12px;color:var(--sec);line-height:1.55;margin:0 2px 14px}
+ .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:15px 16px;margin-bottom:14px}
+ .card .lbl{font:700 11px var(--body);text-transform:uppercase;letter-spacing:.05em;color:var(--green2);margin-bottom:8px}
+ .flag{background:#fdf9f1;border:1px solid #f0e2c9;border-left:3px solid var(--amber);border-radius:8px;padding:11px 13px;font-size:12.5px;color:#6b5426;line-height:1.55;margin:0 0 16px}
+ /* metrics */
+ .kpis{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px}
+ @media(max-width:900px){.kpis{grid-template-columns:repeat(3,minmax(0,1fr))}}
+ .kpi{background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+ .kpi b{display:block;font-size:22px;line-height:1.1}
+ .kpi span{font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--sec)}
+ .kpi.na b{color:#b7bdb9;font-weight:500}
+ /* campaigns */
+ .camps{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+ @media(max-width:760px){.camps{grid-template-columns:1fr}}
+ .camp{background:#fff;border:1px solid var(--line);border-radius:12px;padding:13px 15px}
+ .camp h3{font:700 14px/1.3 var(--body);margin:0 0 4px}
+ .camp .m{font-size:12px;color:var(--sec);line-height:1.5}
+ .camp code{font-size:11.5px;background:#f1f2f6;border-radius:4px;padding:1px 5px}
+ /* ad cards */
+ .cluster{margin:22px 0 8px;display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+ .cluster h3{font:700 16px/1.2 var(--disp);margin:0}
+ .cluster .lp{font-size:12px;color:var(--sec)}
+ .cluster .lp a{color:var(--green2)}
+ .ads{display:grid;grid-template-columns:repeat(auto-fill,minmax(360px,1fr));gap:12px}
+ .ad{background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
+ .ad .top{padding:12px 14px 8px;border-bottom:1px solid #eef0ef}
+ .ad .topic{font-size:11px;color:var(--sec);text-transform:uppercase;letter-spacing:.05em}
+ .ad h4{font:700 15px/1.3 var(--body);margin:3px 0 2px}
+ .ad .cta{display:inline-block;font:600 11px var(--body);background:var(--green);color:#fff;border-radius:6px;padding:3px 8px;margin-top:4px}
+ .ad .cre{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;padding:10px 14px}
+ .ad .cre figure{margin:0;font-size:10px;color:var(--sec);text-align:center}
+ .ad .cre img{width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:8px;border:1px solid var(--line);background:#eef0ef;display:block;margin-bottom:3px}
+ .ad .cre a{color:var(--green2);text-decoration:none}
+ .ad .body{padding:0 14px 12px;display:flex;flex-direction:column;gap:8px}
+ .ad .var{font-size:12.5px;line-height:1.5;background:#fafbfa;border:1px solid var(--line);border-radius:8px;padding:8px 10px}
+ .ad .var b{display:block;font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--sec);margin-bottom:3px}
+ .ad .var small{display:block;color:#8a918d;font-size:10.5px;line-height:1.4;margin-top:6px}
+ .ad .url{font-size:11px;color:var(--sec);word-break:break-all}
+ .ad .url a{color:var(--green2)}
+ .ad .stats{margin-top:auto;border-top:1px solid #eef0ef;padding:8px 14px;display:flex;gap:12px;font-size:11px;color:var(--sec)}
+ .ad .stats b{color:#b7bdb9;font-weight:500}
+ details{background:#fff;border:1px solid var(--line);border-radius:12px;padding:0 16px;margin-bottom:10px}
+ details summary{cursor:pointer;font:700 13px var(--body);padding:12px 0;color:var(--ink)}
+ details .in{padding:0 0 14px;font-size:13px;line-height:1.55}
+ details dl{display:grid;grid-template-columns:150px 1fr;gap:6px 12px;margin:0}
+ details dt{font-weight:700;color:var(--sec);font-size:11.5px;text-transform:uppercase;letter-spacing:.04em;padding-top:2px}
+ details dd{margin:0}
+ ul.tick{margin:6px 0 0;padding-left:2px;list-style:none;font-size:13px}
+ ul.tick li{padding:5px 0 5px 22px;position:relative;line-height:1.5}
+ ul.tick li:before{content:"✓";position:absolute;left:0;color:var(--green);font-weight:700}
+ a{color:var(--green2)}
+ footer{margin-top:34px;padding-top:14px;border-top:1px solid var(--line);font-size:11.5px;color:#8a918d;line-height:1.6}
+ html[data-review-mode="on"] body{padding-right:340px}
+</style></head><body>
+<script src="hub-nav.js" data-page="ads"></script>
+<div class="page">
+
+<header class="hd">
+  <h1 data-comment-target data-comment-id="nd-ads-title">Crēdo Legal — Nextdoor Ads</h1>
+  <p data-comment-target data-comment-id="nd-ads-intro" id="intro">…</p>
+  <div class="pills" id="pills"></div>
+</header>
+
+<h2 class="sec">1 · Performance <span id="perf-sub">not live yet</span></h2>
+<div class="card" data-comment-target data-comment-id="nd-ads-performance">
+  <div class="kpis" id="kpis"></div>
+  <p class="note" style="margin:10px 0 0" id="perf-note"></p>
+</div>
+
+<h2 class="sec">2 · Campaign structure <span>2 campaigns · 3 ad groups · 7 ads · 3 creative directions each</span></h2>
+<div class="camps" id="camps"></div>
+
+<h2 class="sec">3 · Ads <span>as produced for the campaign — headline, body variants, creatives, destination</span></h2>
+<p class="note">Each ad ships with two body variants (Default / Reassurance) and three creative directions (illustration · photo · still life) in 1:1 and 1.91:1. Creatives are the approved Meta v3 pilot sets, reused as-is; the Bold red-gesture set is deliberately excluded from Nextdoor. Click a thumbnail to open the full file.</p>
+<div id="clusters"></div>
+
+<h2 class="sec">4 · Compliance gate <span>read before any spend</span></h2>
+<div class="flag" id="gate" data-comment-target data-comment-id="nd-ads-gate"></div>
+
+<h2 class="sec">5 · Setup reference <span>targeting · budget · tracking · UTM</span></h2>
+<div id="ref"></div>
+
+<h2 class="sec">6 · Upload package <span>Nextdoor Ads Manager handoff</span></h2>
+<div class="card" data-comment-target data-comment-id="nd-ads-package">
+  <p style="font-size:14px;margin:0 0 10px"><b>⬇ Download the full package (zip, ~34 MB):</b> <a href="handoff/nextdoor/credo-nextdoor-ads-v1.zip" download>credo-nextdoor-ads-v1.zip</a> — docs + copy + all 42 creative files, organized <i>campaign → ad group → ad</i> (<code>creatives/&lt;cluster&gt;/&lt;ad&gt;/&lt;ad&gt;_&lt;direction&gt;_&lt;ratio&gt;</code>).</p>
+  <p style="font-size:12.5px;color:#8a918d;margin:0 0 6px">Or browse the individual files:</p>
+  <ul class="tick" style="font-size:13px">
+    <li><a href="handoff/nextdoor/README.md">handoff/nextdoor/README.md</a> — build guide, compliance gate, upload steps</li>
+    <li><a href="handoff/nextdoor/campaign-manifest.json">campaign-manifest.json</a> — machine-readable structure, UTM scheme, targeting, budget</li>
+    <li><a href="handoff/nextdoor/copy/ads.csv">copy/ads.csv</a> · <a href="handoff/nextdoor/copy/headlines.csv">headlines.csv</a> · <a href="handoff/nextdoor/copy/bodies.csv">bodies.csv</a></li>
+    <li><a href="handoff/nextdoor/asset-manifest.csv">asset-manifest.csv</a> — reused creatives (1:1 + 1.91:1) + per-creative utm_content</li>
+    <li><a href="handoff/nextdoor/lead-gen-form-spec.md">lead-gen-form-spec.md</a> — native Lead Gen form (primary path)</li>
+  </ul>
+</div>
+
+<footer data-comment-target data-comment-id="nd-ads-footer">
+  Crēdo Legal · Nextdoor Ads · the paid counterpart to the Business Page (NY · NJ, validation / settlement scope). This page is generated from the handoff package (<code>scripts/nextdoor/build-ads-data.js</code>); once the campaign is on, the weekly metrics task fills the performance figures from the Nextdoor Ads API. Hover any element and use the Comments button to leave feedback.
+</footer>
+</div>
+
+<script>document.write('<script src="ads-data.js?v='+Date.now()+'"><\/script>');</script>
+<script>
+(function(){
+var D = window.CREDO_ND_ADS;
+var esc = function(s){ return String(s==null?'':s).replace(/[&<>"]/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); };
+var A = function(id){ return ' data-comment-target data-comment-id="'+id+'"'; };
+var nAds = D.clusters.reduce(function(n,c){ return n + c.ads.length; }, 0);
+
+document.getElementById('intro').textContent = D.family + ' — the paid counterpart to the Business Page. ' + nAds + ' ads across ' + D.clusters.length + ' ad groups (clusters), reusing the approved Meta creative sets, prepared ' + D.prepared + '. Once the campaign is on, this page links to the Nextdoor Ads API and shows live performance per campaign and per ad.';
+document.getElementById('pills').innerHTML =
+  '<span class="tag amber">Status · ' + esc(D.status) + ' · not launched</span>' +
+  '<span class="tag">' + esc(D.scope.launch_states.join(' & ')) + '</span>' +
+  '<span class="tag grey">' + esc(D.scope.allowed_topics) + '</span>' +
+  '<span class="tag grey">Prepared ' + esc(D.prepared) + '</span>';
+
+/* performance */
+var M = D.metrics || {};
+var live = !!M.asOf;
+var KP = [['Impressions','impressions'],['Clicks','clicks'],['CTR','ctr'],['Spend','spend'],['Leads','leads'],['Cost / lead','cpl']];
+var tot = {};
+if (live) Object.keys(M.campaigns||{}).forEach(function(k){ var c=M.campaigns[k]; ['impressions','clicks','spend','leads'].forEach(function(f){ tot[f]=(tot[f]||0)+(c[f]||0); }); });
+if (live) { tot.ctr = tot.impressions ? (100*tot.clicks/tot.impressions).toFixed(2)+'%' : '—'; tot.cpl = tot.leads ? '$'+(tot.spend/tot.leads).toFixed(2) : '—'; tot.spend = '$'+(tot.spend||0).toFixed(2); }
+document.getElementById('kpis').innerHTML = KP.map(function(k){ return '<div class="kpi'+(live?'':' na')+'"><b>'+(live ? esc(tot[k[1]]) : '—')+'</b><span>'+k[0]+'</span></div>'; }).join('');
+document.getElementById('perf-sub').textContent = live ? 'as of '+M.asOf+' · refreshed Mondays 9 AM ET' : 'not live yet · fills from the Nextdoor Ads API once the campaign is on';
+document.getElementById('perf-note').textContent = live ? 'Totals across both campaigns. Per-ad figures appear on each ad card below.' : 'Campaign is prepared but PAUSED — no spend yet. When it launches, the weekly metrics task (Mondays 9 AM ET) pulls impressions, clicks, spend and leads from the Nextdoor Ads API into this page, per campaign and per ad. Nextdoor keeps 30 days of report data, so weekly snapshots are the retention copy.';
+
+/* campaigns */
+document.getElementById('camps').innerHTML = D.campaigns.map(function(c){
+  var m = live && M.campaigns && M.campaigns[c.utm_campaign];
+  return '<div class="camp"'+A('nd-ads-camp-'+c.utm_campaign)+'><h3>'+esc(c.name)+(c.primary?' <span class="tag" style="margin-left:6px">primary</span>':'')+'</h3>'+
+    '<div class="m">Objective <code>'+esc(c.objective)+'</code> · destination <code>'+esc(c.destination)+'</code> · <code>utm_campaign='+esc(c.utm_campaign)+'</code></div>'+
+    '<div class="m" style="margin-top:6px">'+esc(c.notes)+'</div>'+
+    (m ? '<div class="m" style="margin-top:8px"><b>'+m.impressions+'</b> impressions · <b>'+m.clicks+'</b> clicks · <b>$'+m.spend+'</b> · <b>'+m.leads+'</b> leads</div>' : '')+
+  '</div>';
+}).join('');
+
+/* clusters + ads */
+document.getElementById('clusters').innerHTML = D.clusters.map(function(c){
+  return '<div class="cluster"'+A('nd-ads-cluster-'+c.key)+'><h3>'+esc(c.label)+'</h3><span class="lp">ad group <code>'+esc(c.key)+'</code> · '+c.ads.length+' ads · landing page <a href="'+esc(c.landingPage)+'" target="_blank" rel="noopener">'+esc(c.landingPage.replace('https://',''))+'</a></span></div>'+
+  '<div class="ads">'+c.ads.map(function(a){
+    var am = live && M.ads && M.ads[a.key];
+    return '<article class="ad"'+A('nd-ad-'+a.key)+'>'+
+      '<div class="top"'+A('nd-ad-'+a.key+'-headline')+'><div class="topic">'+esc(a.topic)+'</div><h4>'+esc(a.headline)+'</h4><span class="cta">'+esc(a.cta)+'</span></div>'+
+      '<div class="cre"'+A('nd-ad-'+a.key+'-creatives')+'>'+a.creatives.map(function(cr){
+        var sq = cr.files['1x1'], wide = cr.files['1.91x1'];
+        return '<figure><a href="'+esc(sq)+'" target="_blank" rel="noopener"><img src="'+esc(sq)+'" alt="'+esc(a.key+' '+cr.direction)+'" loading="lazy"></a>'+esc(cr.direction==='stilllife'?'still life':cr.direction)+(wide?' · <a href="'+esc(wide)+'" target="_blank" rel="noopener">1.91:1</a>':'')+'</figure>';
+      }).join('')+'</div>'+
+      '<div class="body">'+a.bodies.map(function(b){
+        return '<div class="var"'+A('nd-ad-'+a.key+'-body-'+b.variant.toLowerCase())+'><b>'+esc(b.variant)+'</b>'+esc(b.text)+(b.footer?'<small>'+esc(b.footer)+'</small>':'')+'</div>';
+      }).join('')+
+      '<div class="url"'+A('nd-ad-'+a.key+'-url')+'>Traffic destination: <a href="'+esc(a.finalUrlUtm)+'" target="_blank" rel="noopener">'+esc(a.finalUrl.replace('https://',''))+'</a> <span style="color:#8a918d">+ UTM (utm_term='+esc(c.key)+', utm_content='+esc(a.key)+')</span></div>'+
+      '</div>'+
+      '<div class="stats">'+(am ? '<span><b style="color:var(--ink)">'+am.impressions+'</b> impr.</span><span><b style="color:var(--ink)">'+am.clicks+'</b> clicks</span><span><b style="color:var(--ink)">'+am.ctr+'</b> CTR</span><span><b style="color:var(--ink)">'+am.leads+'</b> leads</span>' : '<span><b>—</b> impressions</span><span><b>—</b> clicks</span><span><b>—</b> CTR</span><span><b>—</b> leads</span><span style="margin-left:auto">pending Ads API</span>')+'</div>'+
+    '</article>';
+  }).join('')+'</div>';
+}).join('');
+
+/* compliance gate */
+var C = D.compliance, S = D.scope;
+document.getElementById('gate').innerHTML =
+  '<b>Scope:</b> '+esc(S.allowed_topics)+' — excluded: '+esc(S.excluded_topics.join(', '))+'. '+esc(S.notes)+
+  '<br><br><b>New York:</b> '+esc(C.new_york)+' <b>New Jersey:</b> '+esc(C.new_jersey)+
+  '<br><br><b>Every ad carries:</b> “'+esc(C.universal_footer)+'” and “'+esc(C.results_disclaimer)+'”. '+esc(C.creative_exclusions);
+
+/* setup reference */
+function dl(obj){ return '<dl>'+Object.keys(obj).map(function(k){ var v=obj[k]; return '<dt>'+esc(k.replace(/_/g,' '))+'</dt><dd>'+esc(Array.isArray(v)?v.join(', '):v)+'</dd>'; }).join('')+'</dl>'; }
+document.getElementById('ref').innerHTML =
+  '<details'+A('nd-ads-targeting')+'><summary>Targeting defaults</summary><div class="in">'+dl(D.targeting)+'</div></details>'+
+  '<details'+A('nd-ads-budget')+'><summary>Budget &amp; bidding</summary><div class="in">'+dl(D.budget)+'</div></details>'+
+  '<details'+A('nd-ads-tracking')+'><summary>Tracking &amp; attribution</summary><div class="in">'+dl(D.tracking)+'</div></details>'+
+  '<details'+A('nd-ads-utm')+'><summary>UTM scheme</summary><div class="in">'+dl(D.utm)+'</div></details>'+
+  '<details'+A('nd-ads-headlines')+'><summary>Headline pool ('+D.headlines.length+')</summary><div class="in"><ul class="tick">'+D.headlines.map(function(h){ return '<li>'+esc(h)+'</li>'; }).join('')+'</ul></div></details>';
+})();
+</script>
+<script src="review.config.js"></script>
+<script src="review-bootstrap.js"></script>
+</body></html>

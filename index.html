@@ -1,0 +1,272 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Crēdo Legal — Nextdoor Business Page</title>
+<style>
+ :root{--green:#0a7d3a;--green2:#0a5d2b;--ink:#12141d;--sec:#5b6360;--line:#dfe3e3;--bg:#f4f6f5;--card:#fff;--soft:#eef6ef;--amber:#c9862b;--red:#8e1b22;
+   --body:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;--disp:Georgia,"Times New Roman",serif;}
+ *{box-sizing:border-box}
+ body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 var(--body)}
+ .page{max-width:880px;margin:0 auto;padding:26px 18px 60px}
+ header.hd h1{font:700 24px/1.2 var(--disp);margin:0}
+ header.hd p{color:var(--sec);font-size:13.5px;margin:7px 0 0;line-height:1.55}
+ .pills{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+ .tag{display:inline-block;font:600 11px var(--body);background:var(--soft);color:var(--green2);border:1px solid #c7e2cd;border-radius:20px;padding:3px 11px;text-decoration:none}
+ .tag.amber{background:#fff7ea;color:#8a6316;border-color:#f0e2c9}
+ .tag.grey{background:#f1f2f6;color:#3b4256;border-color:#d9dce6}
+ a.tag:hover{background:#e3f1e7}
+ h2.sec{font:700 12px var(--body);text-transform:uppercase;letter-spacing:.09em;color:var(--green2);margin:34px 2px 12px;padding-bottom:7px;border-bottom:2px solid #e6e9e8}
+ h2.sec span{color:var(--sec);font-weight:400;text-transform:none;letter-spacing:0;font-size:11.5px;margin-left:8px}
+ .note{font-size:12px;color:var(--sec);line-height:1.55;margin:0 2px 14px}
+ .flag{background:#fdf9f1;border:1px solid #f0e2c9;border-left:3px solid var(--amber);border-radius:8px;padding:11px 13px;font-size:12.5px;color:#6b5426;line-height:1.55;margin:0 0 16px}
+ .flag b{color:#8a6316}
+ /* metrics */
+ .kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px}
+ @media(max-width:640px){.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}}
+ .kpi{background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+ .kpi b{display:block;font-size:22px;line-height:1.1}
+ .kpi span{font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--sec)}
+ .kpi .d{font-size:11px;color:var(--green2);margin-top:2px}
+ .kpi .d.down{color:var(--red)}
+ .kpi .d.flat{color:#8a918d}
+ table.hist{width:100%;border-collapse:collapse;font-size:12px;margin-top:10px}
+ table.hist th,table.hist td{padding:6px 8px;border-top:1px solid #eef0ef;text-align:right;font-variant-numeric:tabular-nums}
+ table.hist th{font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--sec);border-top:0}
+ table.hist th:first-child,table.hist td:first-child{text-align:left}
+ table.links{width:100%;border-collapse:collapse;font-size:12px;table-layout:fixed}
+ table.links th,table.links td{padding:8px;border-top:1px solid #eef0ef;text-align:left;vertical-align:top}
+ table.links th{font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--sec);border-top:0}
+ table.links th.num,table.links td.num{text-align:right;font-variant-numeric:tabular-nums;width:74px}
+ table.links td.post{font-weight:600}
+ table.links td.post small{display:block;font-weight:400;color:var(--sec);font-size:10.5px;margin-top:2px}
+ table.links a.sl{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--green2);text-decoration:none;word-break:break-all}
+ table.links a.sl:hover{text-decoration:underline}
+ table.links .dest{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:10.5px;line-height:1.45;word-break:break-all;color:var(--ink)}
+ table.links .dest i{color:var(--sec);font-style:normal}
+ table.links td.num b{font-size:14px}
+ table.links .pend{color:var(--sec)}
+ .lwrap{overflow-x:auto}
+ /* profile mockup */
+ .bp{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;box-shadow:0 1px 3px rgba(20,30,20,.06)}
+ .bp-cover{aspect-ratio:16/6;background:#dfe6e2 center/cover no-repeat;position:relative}
+ .bp-cover img{width:100%;height:100%;object-fit:cover;display:block}
+ .bp-id{padding:2px 18px 0}
+ .bp-av{width:84px;height:84px;border-radius:16px;background:#fff;border:3px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.12);display:grid;place-items:center;overflow:hidden;margin-top:-46px;position:relative;z-index:2}
+ .bp-av img{width:78%;height:auto}
+ .bp-idtx{margin-top:10px}
+ .bp-idtx h3{font:700 21px var(--disp);margin:0}
+ .bp-idtx .cat{color:var(--sec);font-size:13px;margin-top:2px}
+ .bp-idtx .cat b{color:var(--green2)}
+ .bp-stats{display:flex;gap:18px;padding:12px 18px 4px;font-size:12.5px;color:var(--sec)}
+ .bp-stats b{color:var(--ink)}
+ .bp-acts{display:flex;gap:9px;flex-wrap:wrap;padding:12px 18px 16px;border-bottom:1px solid #eef0ef}
+ .bp-acts button{font:600 13px var(--body);border-radius:22px;padding:8px 16px;cursor:default;border:1px solid var(--green)}
+ .bp-acts .primary{background:var(--green);color:#fff}
+ .bp-acts .ghost{background:#fff;color:var(--green2)}
+ .bp-info{padding:14px 18px}
+ .bp-row{display:flex;gap:10px;padding:7px 0;font-size:13.5px;border-top:1px solid #f2f4f3}
+ .bp-row:first-child{border-top:0}
+ .bp-row .k{width:96px;flex:0 0 auto;color:var(--sec)}
+ .bp-row .v{color:var(--ink)}
+ .bp-bio{padding:6px 18px 18px;font-size:13.5px;line-height:1.6;color:#2b322f}
+ /* cards + templates */
+ .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:15px 16px;margin-bottom:14px}
+ .card .lbl{font:700 11px var(--body);text-transform:uppercase;letter-spacing:.05em;color:var(--green2);margin-bottom:8px}
+ .tmpl{white-space:pre-wrap;background:#f7faf8;border:1px solid #e2ebe6;border-radius:8px;padding:12px 13px;font:13.5px/1.55 var(--body);color:#25302b;margin-top:4px}
+ .tmpl .fill{color:var(--green2);font-weight:600}
+ .mini{font-size:11.5px;color:var(--sec);margin-top:8px;line-height:1.5}
+ ul.open{margin:0;padding-left:2px;list-style:none;font-size:13px}
+ ul.open li{padding:7px 0 7px 24px;position:relative;line-height:1.5;border-top:1px solid #f2f4f3}
+ ul.open li:first-child{border-top:0}
+ ul.open li:before{content:"?";position:absolute;left:2px;top:7px;width:16px;height:16px;border-radius:50%;background:#fff7ea;border:1px solid #f0e2c9;color:#8a6316;font:700 10px/16px var(--body);text-align:center}
+ ul.open li b{color:var(--ink)}
+ ul.open li.done{color:var(--sec)}
+ ul.open li.done:before{content:"\2713";background:var(--soft);border-color:#c7e2cd;color:var(--green2)}
+ ul.open li.done b{color:var(--green2)}
+ .ok{font-size:12.5px;color:var(--sec);line-height:1.6;margin:0 0 12px}
+ .ok b{color:var(--green2)}
+ .two{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+ @media(max-width:700px){.two{grid-template-columns:1fr}}
+ a{color:var(--green2)}
+ footer{margin-top:34px;padding-top:14px;border-top:1px solid var(--line);font-size:11.5px;color:#8a918d;line-height:1.6}
+ html[data-review-mode="on"] body{padding-right:340px}
+</style></head><body>
+<script src="hub-nav.js" data-page="business"></script>
+<div class="page">
+
+<header class="hd">
+  <h1 data-comment-target data-comment-id="bp-title">Crēdo Legal — Nextdoor Business Page</h1>
+  <p data-comment-target data-comment-id="bp-intro">The <b>organic</b> Business Page that anchors the paid Nextdoor campaigns — the always-on trust layer under the ads. Live since 31 Aug 2026. Posts are planned on the Feed Calendar, neighbour engagement on the Engagement Calendar, and the paid campaign under Ads.</p>
+  <div class="pills">
+    <span class="tag">Live · New York, NY</span>
+    <a class="tag" href="https://nextdoor.com/page/credo-legal-services-professional-corporation-new-york-ny/" target="_blank" rel="noopener">Open the live page ↗</a>
+    <a class="tag grey" href="https://nextdoor.com/page-admin/dashboard/" target="_blank" rel="noopener">Page dashboard ↗</a>
+  </div>
+</header>
+
+<h2 class="sec">1 · At a glance <span id="kpi-sub">…</span></h2>
+<div class="card" data-comment-target data-comment-id="bp-metrics">
+  <div class="kpis" id="kpis"></div>
+  <div id="hist"></div>
+  <div class="mini" id="kpi-note"></div>
+</div>
+
+<h2 class="sec">2 · Tracked links <span id="lnk-sub">…</span></h2>
+<div class="card" data-comment-target data-comment-id="bp-links">
+  <div class="lwrap" id="links"></div>
+  <div class="mini" id="lnk-note"></div>
+</div>
+
+<h2 class="sec">3 · The live page <span>what neighbours see · values taken from the live page on 17 Sep 2026</span></h2>
+<div class="bp" data-comment-target data-comment-id="bp-profile">
+  <div class="bp-cover" data-comment-target data-comment-id="bp-cover"><img src="assets/cover.jpg" alt="cover"></div>
+  <div class="bp-id">
+    <div class="bp-av"><img src="assets/credo-mark.png" alt="Crēdo"></div>
+    <div class="bp-idtx"><h3>Credo Legal Services Professional Corporation</h3><div class="cat"><b>Lawyer</b> · New York, NY</div></div>
+  </div>
+  <div class="bp-stats" data-comment-target data-comment-id="bp-stats"><span><b id="s-recs">0</b> Recommendations</span><span><b id="s-faves">0</b> Faves</span><span><b id="s-views">—</b> page views</span></div>
+  <div class="bp-acts" data-comment-target data-comment-id="bp-actions">
+    <button class="primary">Recommend</button><button class="ghost">Fave</button><button class="ghost">Message</button><button class="ghost">Call</button>
+  </div>
+  <div class="bp-info">
+    <div class="bp-row" data-comment-target data-comment-id="bp-field-phone"><span class="k">Phone</span><span class="v">(646) 350-2650 — the Nextdoor-only number</span></div>
+    <div class="bp-row" data-comment-target data-comment-id="bp-field-web"><span class="k">Website</span><span class="v">https://credolegal.com/</span></div>
+    <div class="bp-row" data-comment-target data-comment-id="bp-field-email"><span class="k">Email</span><span class="v">sona@credolegal.com</span></div>
+    <div class="bp-row" data-comment-target data-comment-id="bp-field-addr"><span class="k">Address</span><span class="v">1 Liberty Street, Suite 4010, New York, NY</span></div>
+    <div class="bp-row" data-comment-target data-comment-id="bp-field-hours"><span class="k">Hours</span><span class="v">Live: “Open until 5:00 PM” · <b>to set: 9 AM – 9 PM</b></span></div>
+  </div>
+  <div class="bp-bio" data-comment-target data-comment-id="bp-bio">
+    Credo Legal is a consumer debt-defense law firm serving neighbors across New York and New Jersey. If you have been sued over a debt, had your wages garnished, or you are getting nonstop collector calls, our attorneys can step in for a flat monthly fee, not a big upfront retainer. A free case review costs nothing except a bit of our and your time. A time that could be well spent.
+  </div>
+</div>
+<p class="note">“Recommend” and “Fave” are the primary on-platform actions; “Message” opens the business inbox; “Call” dials the Nextdoor number. Recommendations lift reach the most, so the request template in §4 is the highest-leverage work.</p>
+
+<h2 class="sec">4 · Profile — decisions &amp; open items <span>decided 21 Sep; everything else on the live page is accepted as correct</span></h2>
+<div class="card" data-comment-target data-comment-id="bp-open">
+  <p class="ok"><b>Accepted from the live page:</b> business name (Credo Legal Services Professional Corporation), category (Lawyer), phone (646) 350-2650, email, bio, logo and cover photo.</p>
+  <p class="ok" style="margin-bottom:14px"><b>Decided 21 Sep:</b> service area <b>New York only</b> · address <b>1 Liberty Street, Suite 4010</b> · hours <b>9 AM – 9 PM</b> · website left as is for now.</p>
+  <ul class="open">
+    <li class="done" data-comment-target data-comment-id="bp-open-area"><b>Service area — decided.</b> Build <b>New York only</b> for now (Sona, 21 Sep). No New Jersey page and no NJ service-area setting.</li>
+    <li class="done" data-comment-target data-comment-id="bp-open-address"><b>Address — decided.</b> <b>1 Liberty Street, Suite 4010</b> (Sona, 21 Sep), matching the live page. Applied to the NY disclaimer rule and the posting helper, and corrected on the five posts already live.</li>
+    <li class="done" data-comment-target data-comment-id="bp-open-hours"><b>Hours — decided.</b> <b>9 AM – 9 PM</b> (Sona, 21 Sep). Still to do on Nextdoor: set the weekly schedule in the page editor — the live page currently shows “Open until 5:00 PM”.</li>
+    <li data-comment-target data-comment-id="bp-open-website"><b>Website — left as is.</b> The page carries credolegal.com while posts and ads deep-link to start.credolegal.com. “Fine for now. We will make the adjustments manually later” (Milos, 17 Sep) — kept here as the reminder.</li>
+    <li data-comment-target data-comment-id="bp-open-bio"><b>Bio still promises New Jersey.</b> The live bio reads “serving neighbors across New York and New Jersey”. With NY-only decided, rewrite it to New York and re-check the ads package, which is still scoped NY + NJ.</li>
+    <li data-comment-target data-comment-id="bp-open-phone"><b>Confirm the Nextdoor number reaches sales.</b> Check that (646) 350-2650 forwards to the sales team and is answered during the 9 AM – 9 PM window (Sona, 21 Sep).</li>
+  </ul>
+</div>
+
+<h2 class="sec">5 · Response playbook <span>templates the page uses day to day</span></h2>
+<div class="card" data-comment-target data-comment-id="bp-rec-template">
+  <div class="lbl">Recommendation request — send after a positive resolution</div>
+  <div class="tmpl">Hi <span class="fill">[first name]</span> — it was a privilege helping with your case. If you felt supported, would you consider leaving Credo a recommendation on Nextdoor? It genuinely helps other neighbors who are facing the same stress find real help.
+
+Here's the link: <span class="fill">https://nextdoor.com/page/credo-legal-services-professional-corporation-new-york-ny/</span>
+
+No pressure at all — and thank you.</div>
+  <div class="mini"><b>Target:</b> a first wave of 10–15 recommendations, then a steady trickle. <b>Guardrails:</b> voluntary only, never incentivized; route any testimonial language past counsel; where testimonials appear, the NY disclaimer rule applies.</div>
+</div>
+<div class="two">
+  <div class="card" data-comment-target data-comment-id="bp-review-5star">
+    <div class="lbl">Review reply — positive</div>
+    <div class="tmpl">Thank you so much, <span class="fill">[name]</span> — it means a lot to the whole Credo team. We're glad we could help, and we're here for any neighbor who needs us.</div>
+  </div>
+  <div class="card" data-comment-target data-comment-id="bp-review-critical">
+    <div class="lbl">Review reply — critical</div>
+    <div class="tmpl">Thank you for the feedback, <span class="fill">[name]</span> — we take it seriously and would like to make this right. Please message us directly so we can look into it. — The Credo Legal team</div>
+    <div class="mini">Never discuss case specifics publicly; move details to the private inbox. Reply within ~2 business days.</div>
+  </div>
+</div>
+<div class="card" data-comment-target data-comment-id="bp-message-reply">
+  <div class="lbl">Inbox auto-reply — first response to a message</div>
+  <div class="tmpl">Thanks for reaching out to Credo Legal. A team member will reply shortly.
+
+If it's urgent — you've been served, your wages are being garnished, or you have a court date soon — call us at (646) 350-2650. A free case review costs nothing.</div>
+  <div class="mini">Set an intake SLA and hand qualified threads into the CRM — the same pipeline as the paid Lead Gen form.</div>
+</div>
+
+<h2 class="sec">6 · Compliance <span>applies to every post, comment and ad</span></h2>
+<div class="flag" data-comment-target data-comment-id="bp-compliance">
+  <b>New York attorney advertising.</b> Anything whose primary purpose is getting hired (offers, free-review links, landing-page links) carries the “Attorney Advertising” snippet with the firm name, address and the Nextdoor number, plus “Image is a dramatization.” and “Prior results do not guarantee a similar outcome.” when they apply — the rule in <code>brand/ny-attorney-advertising-disclaimer.md</code>. Educational and community posts, and neighbourly comments with no pitch, carry nothing. Every advertising post is pre-approved by the responsible attorney before it goes live and kept for a year. <b>Scope:</b> debt validation / invalidation and settlement only.
+</div>
+
+<footer data-comment-target data-comment-id="bp-footer">
+  Crēdo Legal · Nextdoor Business Page · organic counterpart to the paid Nextdoor campaigns (NY · NJ). Metrics refresh every Monday 9 AM ET. Hover any component and use the Comments button to leave feedback.
+</footer>
+</div>
+
+<script>document.write('<script src="page-metrics.js?v='+Date.now()+'"><\/script>');</script>
+<script>document.write('<script src="calendar-posts.js?v='+Date.now()+'"><\/script>');</script>
+<script>
+(function(){
+var P = window.CREDO_ND_PAGE, S = P.snapshots, cur = S[S.length-1], prev = S.length>1 ? S[S.length-2] : null;
+var MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+function fmt(d){ var p=d.split('-'); return +p[2]+' '+MON[+p[1]-1]+' '+p[0]; }
+function delta(k){ if(!prev || prev[k]==null) return ''; var d=cur[k]-prev[k]; var cls=d>0?'':(d<0?' down':' flat'); return '<div class="d'+cls+'">'+(d>0?'+':'')+d+' since '+fmt(prev.asOf)+'</div>'; }
+var KP=[['Page views','pageViews'],['Faves','faves'],['Recommendations','recs'],['Mentions','mentions'],['Messages','messages'],['Posts published','postsPublished'],['Post views (total)','postViews'],['Engagements made','engagements'],['Link clicks','ndClicks']];
+document.getElementById('kpis').innerHTML = KP.map(function(k){ return '<div class="kpi"><b>'+(cur[k[1]]==null?'—':cur[k[1]])+'</b><span>'+k[0]+'</span>'+delta(k[1])+'</div>'; }).join('');
+document.getElementById('kpi-sub').textContent = 'as of '+fmt(cur.asOf)+' · refreshed every Monday 9 AM ET';
+document.getElementById('kpi-note').textContent = (cur.note||'') + ' Sources: page dashboard (all-time), business inbox, and each post\'s insights page.';
+document.getElementById('s-recs').textContent = cur.recs; document.getElementById('s-faves').textContent = cur.faves; document.getElementById('s-views').textContent = cur.pageViews;
+if (S.length>1) {
+  document.getElementById('hist').innerHTML = '<table class="hist"><tr><th>Week</th>'+KP.map(function(k){return '<th>'+k[0]+'</th>';}).join('')+'</tr>'+
+    S.slice().reverse().map(function(s){ return '<tr><td>'+fmt(s.asOf)+'</td>'+KP.map(function(k){return '<td>'+(s[k[1]]==null?'—':s[k[1]])+'</td>';}).join('')+'</tr>'; }).join('')+'</table>';
+}
+})();
+</script>
+<script>
+/* Tracked links — one row per post carrying a short link, any channel.
+ * Reads window.CREDO_ND_POSTS (calendar-posts.js); `short` is keyed by channel, so
+ * adding LinkedIn or email later needs no change here beyond the CHANNELS list. */
+(function(){
+var POSTS = window.CREDO_ND_POSTS || [], CHANNELS = ['nextdoor'];
+var MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+function fmt(d){ var p=String(d).split('-'); return +p[2]+' '+MON[+p[1]-1]; }
+function esc(t){ return String(t).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];}); }
+/* split the destination so the UTM query reads as secondary to the page itself */
+function dest(u){
+  var i = u.indexOf('?');
+  if (i < 0) return '<span class="dest">'+esc(u.replace(/^https:\/\//,''))+'</span>';
+  return '<span class="dest">'+esc(u.slice(0,i).replace(/^https:\/\//,''))+'<i>'+esc(u.slice(i))+'</i></span>';
+}
+var rows = [];
+POSTS.forEach(function(p){
+  CHANNELS.forEach(function(ch){
+    var s = p.short && p.short[ch];
+    if (s) rows.push({p:p, ch:ch, s:s});
+  });
+});
+rows.sort(function(a,b){ return a.p.date < b.p.date ? 1 : -1; });
+
+var host = document.getElementById('links');
+if (!rows.length) { host.innerHTML = '<div class="mini">No tracked links yet.</div>'; return; }
+
+var measured = rows.filter(function(r){ return r.s.asOf; });
+var clicks = measured.reduce(function(t,r){ return t + (r.s.clicks||0); }, 0);
+
+host.innerHTML = '<table class="links">'+
+  '<tr><th style="width:23%">Post</th><th style="width:21%">Short link</th><th>Redirects to</th>'+
+  '<th class="num">Clicks</th><th class="num">Conv.</th></tr>'+
+  rows.map(function(r){
+    var s = r.s;
+    return '<tr>'+
+      '<td class="post">'+esc(r.p.cluster)+'<small>'+fmt(r.p.date)+' · '+r.p.status+'</small></td>'+
+      '<td><a class="sl" href="'+s.url+'" target="_blank" rel="noopener">'+esc(s.url.replace(/^https:\/\//,''))+'</a></td>'+
+      '<td>'+dest(s.dest || r.p.lp || '')+'</td>'+
+      '<td class="num">'+(s.asOf ? '<b>'+(s.clicks||0)+'</b>' : '<span class="pend">—</span>')+'</td>'+
+      '<td class="num">'+(s.conv==null ? '<span class="pend">—</span>' : '<b>'+s.conv+'</b>')+'</td>'+
+    '</tr>';
+  }).join('')+'</table>';
+
+document.getElementById('lnk-sub').textContent = rows.length+' links · '+
+  (measured.length ? clicks+' clicks as of '+fmt(measured[0].s.asOf) : 'no clicks measured yet');
+document.getElementById('lnk-note').innerHTML =
+  'Every post that links to a landing page gets its own short link, so clicks are attributable per post rather than inferred from Nextdoor view counts. '+
+  'Clicks come from short.io and refresh every Monday with the rest of the metrics. '+
+  '<b>Conversions are not wired up yet</b> — the column is waiting on which GA4 event should count as a conversion; '+
+  'once chosen it is matched back to each post by its <code>utm_content</code> tag. '+
+  'Posts with no link (educational and community posts) are deliberately absent.';
+})();
+</script>
+<script src="review.config.js"></script>
+<script src="review-bootstrap.js"></script>
+</body></html>
